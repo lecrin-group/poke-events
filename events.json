@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-09-26T17:30:00+09:00",
+ "updated": "2026-09-26T23:40:00+09:00",
  "events": [
   {
    "id": "jindai-nazotoki-2026",
@@ -27,6 +27,30 @@
    "src": "東京都公園協会"
   },
   {
+   "id": "okubo-20260911-curry",
+   "title": "東京カレー万博2026",
+   "pref": "13",
+   "area": "新宿区",
+   "venue": "新宿大久保公園",
+   "cat": "フェス・祭り",
+   "start": "2026-09-11",
+   "end": "2026-10-07",
+   "url": "https://tokyofesta.com/23ku/32446/",
+   "src": "東京フェスタ"
+  },
+  {
+   "id": "englishgarden-20260912-halloween",
+   "title": "横浜イングリッシュガーデン ハロウィン",
+   "pref": "14",
+   "area": "横浜市西区",
+   "venue": "横浜イングリッシュガーデン",
+   "cat": "公園・庭園",
+   "start": "2026-09-12",
+   "end": "2026-10-31",
+   "url": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw11337",
+   "src": "横浜市観光情報"
+  },
+  {
    "id": "akarenga-20260918-oktoberfest",
    "title": "横浜オクトーバーフェスト2026",
    "pref": "14",
@@ -37,6 +61,30 @@
    "end": "2026-10-04",
    "url": "https://www.yokohama-akarenga.jp/oktoberfest/",
    "src": "横浜赤レンガ倉庫公式"
+  },
+  {
+   "id": "lalatoyosu-20260918-oktoberfest",
+   "title": "オクトーバーフェスト2026 in アーバンドック ららぽーと豊洲",
+   "pref": "13",
+   "area": "江東区",
+   "venue": "アーバンドック ららぽーと豊洲",
+   "cat": "商業施設",
+   "start": "2026-09-18",
+   "end": "2026-10-12",
+   "url": "https://tokyofesta.com/23ku/33118/",
+   "src": "東京フェスタ"
+  },
+  {
+   "id": "motomachi-20260919-charming",
+   "title": "横浜元町チャーミングセール（秋）",
+   "pref": "14",
+   "area": "横浜市中区",
+   "venue": "元町ショッピングストリート",
+   "cat": "商業施設",
+   "start": "2026-09-19",
+   "end": "2026-09-27",
+   "url": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw11582",
+   "src": "横浜市観光情報"
   },
   {
    "id": "bigsight-20260924-tourismexpo",
@@ -69,10 +117,34 @@
    "area": "渋谷区",
    "venue": "代々木公園 イベント広場",
    "cat": "フェス・祭り",
-   "start": "2026-09-26",
+   "start": "2026-09-25",
    "end": "2026-09-27",
    "url": "https://tokyofesta.com/23ku/32003/",
    "src": "東京フェスタ"
+  },
+  {
+   "id": "fic-20260926-andsake",
+   "title": "&SAKE FUKUOKA 2026",
+   "pref": "40",
+   "area": "福岡市博多区",
+   "venue": "福岡国際センター",
+   "cat": "フェス・祭り",
+   "start": "2026-09-26",
+   "end": "2026-09-27",
+   "url": "https://yokanavi.com/events/274522",
+   "src": "よかなび（福岡市公式観光情報）"
+  },
+  {
+   "id": "tenjin-20260926-musiccity",
+   "title": "MUSIC CITY TENJIN 2026",
+   "pref": "40",
+   "area": "福岡市中央区",
+   "venue": "天神エリア",
+   "cat": "ライブ",
+   "start": "2026-09-26",
+   "end": "2026-09-27",
+   "url": "https://yokanavi.com/events/180191",
+   "src": "よかなび（福岡市公式観光情報）"
   },
   {
    "id": "fuchu-nijina-202609",
@@ -87,6 +159,30 @@
    "src": "東京都公園協会"
   },
   {
+   "id": "hisaya-20260927-niconico",
+   "title": "第18回名古屋ニコニコランド2026",
+   "pref": "23",
+   "area": "名古屋市中区",
+   "venue": "久屋大通公園 エディオン久屋広場",
+   "cat": "フェス・祭り",
+   "start": "2026-09-27",
+   "end": "2026-09-27",
+   "url": "https://www.hisayaodoripark.com/2026/nagoya-niconico-land-2026/",
+   "src": "久屋大通・栄イベント情報"
+  },
+  {
+   "id": "fic-20261001-artfairasia",
+   "title": "ART FAIR ASIA FUKUOKA 2026",
+   "pref": "40",
+   "area": "福岡市博多区",
+   "venue": "福岡国際センター",
+   "cat": "展示会",
+   "start": "2026-10-01",
+   "end": "2026-10-04",
+   "url": "https://yokanavi.com/events/274532",
+   "src": "よかなび（福岡市公式観光情報）"
+  },
+  {
    "id": "yoyogi-20261001-hokkaido",
    "title": "第36回 北海道フェアin代々木",
    "pref": "13",
@@ -96,6 +192,198 @@
    "start": "2026-10-01",
    "end": "2026-10-04",
    "url": "https://tokyofesta.com/23ku/33416/",
+   "src": "東京フェスタ"
+  },
+  {
+   "id": "expo70-20261002-sakana",
+   "title": "SAKANA&JAPAN FESTIVAL2026 in 万博記念公園",
+   "pref": "27",
+   "area": "吹田市",
+   "venue": "万博記念公園",
+   "cat": "フェス・祭り",
+   "start": "2026-10-02",
+   "end": "2026-10-04",
+   "url": "https://www.expo70-park.jp/event/77576/",
+   "src": "万博記念公園公式"
+  },
+  {
+   "id": "nayabashi-20261002-craftbeer",
+   "title": "なやばし夜イチ クラフトビールフェスティバル",
+   "pref": "23",
+   "area": "名古屋市中村区",
+   "venue": "納屋橋エリア",
+   "cat": "フェス・祭り",
+   "start": "2026-10-02",
+   "end": "2026-10-03",
+   "url": "https://www.tabemaro.jp/column/october/",
+   "src": "たべまろ"
+  },
+  {
+   "id": "expo70-20261003-cosmos",
+   "title": "コスモス・コキアフェスタ 2026",
+   "pref": "27",
+   "area": "吹田市",
+   "venue": "万博記念公園",
+   "cat": "公園・庭園",
+   "start": "2026-10-03",
+   "end": "2026-10-30",
+   "url": "https://www.expo70-park.jp/event/77306/",
+   "src": "万博記念公園公式"
+  },
+  {
+   "id": "hisaya-20261003-akizake",
+   "title": "秋酒祭 愛知〜AUTUMN SAKE FEST 2026〜",
+   "pref": "23",
+   "area": "名古屋市中区",
+   "venue": "久屋大通公園 エディオン久屋広場",
+   "cat": "フェス・祭り",
+   "start": "2026-10-03",
+   "end": "2026-10-04",
+   "url": "https://zip-fm.co.jp/akizake26/",
+   "src": "公式サイト"
+  },
+  {
+   "id": "keyaki-20261003-yuruverse",
+   "title": "ゆるバース2026（ゆるキャラ決選投票イベント）",
+   "pref": "11",
+   "area": "さいたま市中央区",
+   "venue": "さいたま新都心 けやき広場",
+   "cat": "フェス・祭り",
+   "start": "2026-10-03",
+   "end": "2026-10-04",
+   "url": "https://www.saitama-shintoshin.com/yuruverse-2026-saitama/",
+   "src": "さいたま新都心イベント情報"
+  },
+  {
+   "id": "meijo-20261003-hanamarche",
+   "title": "あいち花マルシェ2026",
+   "pref": "23",
+   "area": "名古屋市北区",
+   "venue": "名城公園 北園フラワープラザ",
+   "cat": "公園・庭園",
+   "start": "2026-10-03",
+   "end": "2026-10-04",
+   "url": "https://aichi-hanamarche.com/",
+   "src": "公式サイト"
+  },
+  {
+   "id": "miyashita-20261003-peru",
+   "title": "ペルーフェスタ渋谷 2026",
+   "pref": "13",
+   "area": "渋谷区",
+   "venue": "宮下公園",
+   "cat": "フェス・祭り",
+   "start": "2026-10-03",
+   "end": "2026-10-04",
+   "url": "https://tokyofesta.com/23ku/32331/",
+   "src": "東京フェスタ"
+  },
+  {
+   "id": "nittaiji-20261003-thaifes",
+   "title": "日・タイ文化フェス2026",
+   "pref": "23",
+   "area": "名古屋市千種区",
+   "venue": "覚王山日泰寺",
+   "cat": "フェス・祭り",
+   "start": "2026-10-03",
+   "end": "2026-10-04",
+   "url": "https://www.nittaiji.or.jp/festival/",
+   "src": "公式サイト"
+  },
+  {
+   "id": "tokoname-20261003-yakimatsuri",
+   "title": "第60回 常滑焼まつり",
+   "pref": "23",
+   "area": "常滑市",
+   "venue": "ボートレースとこなめほか",
+   "cat": "フェス・祭り",
+   "start": "2026-10-03",
+   "end": "2026-10-04",
+   "url": "https://tokonameyakimatsuri.jp/",
+   "src": "公式サイト"
+  },
+  {
+   "id": "tsushima-20261003-akimatsuri",
+   "title": "尾張津島秋まつり",
+   "pref": "23",
+   "area": "津島市",
+   "venue": "津島神社ほか市内全域",
+   "cat": "フェス・祭り",
+   "start": "2026-10-03",
+   "end": "2026-10-04",
+   "url": "https://tsushima-kankou.com/akimatsuri/",
+   "src": "津島市観光協会"
+  },
+  {
+   "id": "ueno-20261003-salsa",
+   "title": "サルサストリート2026",
+   "pref": "13",
+   "area": "台東区",
+   "venue": "上野公園",
+   "cat": "フェス・祭り",
+   "start": "2026-10-03",
+   "end": "2026-10-04",
+   "url": "https://tokyofesta.com/23ku/27703/",
+   "src": "東京フェスタ"
+  },
+  {
+   "id": "hisaya-20261004-animal",
+   "title": "動物フェスティバル2026なごや",
+   "pref": "23",
+   "area": "名古屋市中区",
+   "venue": "久屋大通公園 エンゼル広場",
+   "cat": "フェス・祭り",
+   "start": "2026-10-04",
+   "end": "2026-10-04",
+   "url": "https://www.city.nagoya.jp/kurashi/pet/1015199/1052045.html",
+   "src": "名古屋市"
+  },
+  {
+   "id": "keyaki-20261007-gyoza",
+   "title": "クラフト餃子フェス SAITAMA 2026",
+   "pref": "11",
+   "area": "さいたま市中央区",
+   "venue": "さいたま新都心 けやき広場",
+   "cat": "フェス・祭り",
+   "start": "2026-10-07",
+   "end": "2026-10-12",
+   "url": "https://www.saitama-shintoshin.com/craft-gyoza-fes-saitama-2026/",
+   "src": "さいたま新都心イベント情報"
+  },
+  {
+   "id": "expo70-20261009-lohas",
+   "title": "ロハスフェスタ万博 2026秋",
+   "pref": "27",
+   "area": "吹田市",
+   "venue": "万博記念公園",
+   "cat": "フェス・祭り",
+   "start": "2026-10-09",
+   "end": "2026-10-12",
+   "url": "https://www.expo70-park.jp/event/77076/",
+   "src": "万博記念公園公式"
+  },
+  {
+   "id": "okubo-20261009-ra1gp",
+   "title": "ラー1グランプリ2026",
+   "pref": "13",
+   "area": "新宿区",
+   "venue": "新宿大久保公園",
+   "cat": "フェス・祭り",
+   "start": "2026-10-09",
+   "end": "2026-11-15",
+   "url": "https://tokyofesta.com/23ku/31244/",
+   "src": "東京フェスタ"
+  },
+  {
+   "id": "ueno-20261009-bonodori",
+   "title": "下町盆踊りフェス2026〜屋台グルメ市〜",
+   "pref": "13",
+   "area": "台東区",
+   "venue": "上野公園",
+   "cat": "フェス・祭り",
+   "start": "2026-10-09",
+   "end": "2026-10-12",
+   "url": "https://tokyofesta.com/23ku/32976/",
    "src": "東京フェスタ"
   },
   {
@@ -109,6 +397,18 @@
    "end": "2026-10-12",
    "url": "https://kyushu-yoyogipark.com/",
    "src": "公式サイト"
+  },
+  {
+   "id": "osaka-20261010-comedy",
+   "title": "OSAKA COMEDY FESTIVAL 2026",
+   "pref": "27",
+   "area": "大阪市",
+   "venue": "大阪市内各所",
+   "cat": "ライブ",
+   "start": "2026-10-10",
+   "end": "2026-10-12",
+   "url": "https://osaka-ca-fes.jp/project/event/ocf2026/",
+   "src": "大阪市"
   }
  ]
 }
