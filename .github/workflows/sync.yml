@@ -1,0 +1,19 @@
+name: sync-events
+# 毎日 17:15（日本時間）に、Googleドライブの公開フォルダから最新のイベント一覧を取り込む
+on:
+  schedule:
+    - cron: "15 8 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 .github/sync.py
+      - run: |
+          git config user.name "poke-events-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add events.json
+          git diff --cached --quiet || (git commit -m "daily sync $(date -u +%F)" && git push)
