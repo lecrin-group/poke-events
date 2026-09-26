@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "updated": "2026-09-26T17:30:00+09:00",
+ "events": [
+  {
+   "id": "bigsight-20260924-tourismexpo",
+   "title": "ツーリズムEXPOジャパン2026",
+   "pref": "13",
+   "area": "江東区",
+   "venue": "東京ビッグサイト 東1〜3・7・8ホール",
+   "cat": "展示会",
+   "start": "2026-09-24",
+   "end": "2026-09-27",
+   "url": "https://www.t-expo.jp/",
+   "src": "東京ビッグサイト公式"
+  },
+  {
+   "id": "bigsight-20260925-goodlife",
+   "title": "GOOD LIFE フェア 2026",
+   "pref": "13",
+   "area": "江東区",
+   "venue": "東京ビッグサイト 西2〜4ホール",
+   "cat": "展示会",
+   "start": "2026-09-25",
+   "end": "2026-09-27",
+   "url": "https://goodlife-fair.jp/",
+   "src": "東京ビッグサイト公式"
+  },
+  {
+   "id": "yoyogi-20260926-namaste",
+   "title": "ナマステ・インディア 2026",
+   "pref": "13",
+   "area": "渋谷区",
+   "venue": "代々木公園 イベント広場",
+   "cat": "フェス・祭り",
+   "start": "2026-09-26",
+   "end": "2026-09-27",
+   "url": "https://tokyofesta.com/23ku/32003/",
+   "src": "東京フェスタ"
+  },
+  {
+   "id": "yoyogi-20261001-hokkaido",
+   "title": "第36回 北海道フェアin代々木",
+   "pref": "13",
+   "area": "渋谷区",
+   "venue": "代々木公園",
+   "cat": "フェス・祭り",
+   "start": "2026-10-01",
+   "end": "2026-10-04",
+   "url": "https://tokyofesta.com/23ku/33416/",
+   "src": "東京フェスタ"
+  },
+  {
+   "id": "yoyogi-20261009-kyushu",
+   "title": "九州観光・物産フェアin代々木2026",
+   "pref": "13",
+   "area": "渋谷区",
+   "venue": "代々木公園 イベント広場",
+   "cat": "フェス・祭り",
+   "start": "2026-10-09",
+   "end": "2026-10-12",
+   "url": "https://kyushu-yoyogipark.com/",
+   "src": "公式サイト"
+  },
+  {
+   "id": "teien-wagasa-2026",
+   "title": "【都立9庭園】和傘で庭園めぐり",
+   "pref": "13",
+   "area": "都内各所",
+   "venue": "都立9庭園",
+   "cat": "公園・庭園",
+   "start": "2026-07-11",
+   "end": "2026-09-27",
+   "url": "https://www.tokyo-park.or.jp/event_search/index.html",
+   "src": "東京都公園協会"
+  },
+  {
+   "id": "jindai-nazotoki-2026",
+   "title": "神代植物公園「深大寺恋物語謎解き」",
+   "pref": "13",
+   "area": "調布市",
+   "venue": "神代植物公園",
+   "cat": "公園・庭園",
+   "start": "2025-10-01",
+   "end": "2026-09-30",
+   "url": "https://www.tokyo-park.or.jp/event_search/index.html",
+   "src": "東京都公園協会"
+  },
+  {
+   "id": "fuchu-nijina-202609",
+   "title": "府中の森公園「にじーなの日」",
+   "pref": "13",
+   "area": "府中市",
+   "venue": "府中の森公園",
+   "cat": "公園・庭園",
+   "start": "2026-09-27",
+   "end": "2026-09-27",
+   "url": "https://www.tokyo-park.or.jp/event_search/index.html",
+   "src": "東京都公園協会"
+  },
+  {
+   "id": "akarenga-20260918-oktoberfest",
+   "title": "横浜オクトーバーフェスト2026",
+   "pref": "14",
+   "area": "横浜市中区",
+   "venue": "横浜赤レンガ倉庫 イベント広場",
+   "cat": "フェス・祭り",
+   "start": "2026-09-18",
+   "end": "2026-10-04",
+   "url": "https://www.yokohama-akarenga.jp/oktoberfest/",
+   "src": "横浜赤レンガ倉庫公式"
+  }
+ ]
+}
