@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-09-28T16:50:00+09:00",
+ "updated": "2026-09-29T16:55:00+09:00",
  "events": [
   {
    "id": "jindai-nazotoki-2026",
@@ -279,6 +279,18 @@
    "src": "ジャパンオープンテニス公式"
   },
   {
+   "id": "otemachi-20260930-wakatenoyoake",
+   "title": "若手の夜明け2026",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "大手町仲通りほか",
+   "cat": "フェス・祭り",
+   "start": "2026-09-30",
+   "end": "2026-10-04",
+   "url": "https://tokyofesta.com/23ku/33930/",
+   "src": "東京フェスタ"
+  },
+  {
    "id": "fic-20261001-artfairasia",
    "title": "ART FAIR ASIA FUKUOKA 2026",
    "pref": "40",
@@ -301,6 +313,30 @@
    "end": "2027-09-30",
    "url": "https://www.tokyo-park.or.jp/event_search/jindai_tokyo_parks_play_20260930.html",
    "src": "東京都公園協会"
+  },
+  {
+   "id": "seaparadise-20261001-akipara",
+   "title": "横浜・八景島シーパラダイス 秋パラ！",
+   "pref": "14",
+   "area": "横浜市金沢区",
+   "venue": "横浜・八景島シーパラダイス",
+   "cat": "商業施設",
+   "start": "2026-10-01",
+   "end": "2026-11-13",
+   "url": "https://www.asobo-yokohama.com/event/2768/",
+   "src": "遊ぼう横浜"
+  },
+  {
+   "id": "yokohamasta-20261001-ekimatsuri",
+   "title": "第14回 横浜えきまつり",
+   "pref": "14",
+   "area": "横浜市西区",
+   "venue": "横浜駅 東口・西口エリア",
+   "cat": "商業施設",
+   "start": "2026-10-01",
+   "end": "2026-10-14",
+   "url": "https://www.yokohama-ekimatsuri.jp/",
+   "src": "遊ぼう横浜"
   },
   {
    "id": "yoyogi-20261001-hokkaido",
@@ -351,6 +387,18 @@
    "src": "たべまろ"
   },
   {
+   "id": "sakuratown-20261002-beerfes",
+   "title": "埼玉・武蔵野ビールフェス in サクラタウン 2026秋",
+   "pref": "11",
+   "area": "所沢市",
+   "venue": "ところざわサクラタウン",
+   "cat": "フェス・祭り",
+   "start": "2026-10-02",
+   "end": "2026-10-04",
+   "url": "https://tokyofesta.com/saitama/33962/",
+   "src": "東京フェスタ"
+  },
+  {
    "id": "tokaebisu-20261002-daikokusai",
    "title": "だいこく祭",
    "pref": "40",
@@ -361,6 +409,18 @@
    "end": "2026-10-04",
    "url": "https://yokanavi.com/events/274376",
    "src": "よかなび"
+  },
+  {
+   "id": "yachimata-20261002-gyozakaraage",
+   "title": "餃子からあげ祭【第3陣】",
+   "pref": "12",
+   "area": "八街市",
+   "venue": "八街市けやきの森公園",
+   "cat": "フェス・祭り",
+   "start": "2026-10-02",
+   "end": "2026-10-04",
+   "url": "https://tokyofesta.com/chiba2/33494/",
+   "src": "東京フェスタ"
   },
   {
    "id": "zenkoku-20261002-motogp-japan",
@@ -519,6 +579,18 @@
    "src": "公式サイト"
   },
   {
+   "id": "shinkoiwa-20261003-waiwai",
+   "title": "新小岩わいわいフェス",
+   "pref": "13",
+   "area": "葛飾区",
+   "venue": "東新小岩運動場",
+   "cat": "フェス・祭り",
+   "start": "2026-10-03",
+   "end": "2026-10-03",
+   "url": "https://tokyofesta.com/23ku/33971/",
+   "src": "東京フェスタ"
+  },
+  {
    "id": "tenjinpark-20261003-akimatsuri",
    "title": "太陽カーニバル×カメリアミュージックステージ「食とカワイイの秋まつり in 天神中央公園貴賓館前広場」",
    "pref": "40",
@@ -589,6 +661,18 @@
    "end": "2026-10-04",
    "url": "https://www.city.chiba.jp/mihama/chiikizukuri/kuminfestival/2026_mihamakuminnfes.html",
    "src": "千葉市"
+  },
+  {
+   "id": "oi-20261004-somanomaoi",
+   "title": "相馬野馬追甲冑競馬",
+   "pref": "13",
+   "area": "品川区",
+   "venue": "大井競馬場",
+   "cat": "スポーツ",
+   "start": "2026-10-04",
+   "end": "2026-10-04",
+   "url": "https://tokyofesta.com/23ku/33825/",
+   "src": "東京フェスタ"
   },
   {
    "id": "keyaki-20261007-gyoza",
@@ -685,6 +769,18 @@
    "end": "2026-10-09",
    "url": "https://yokanavi.com/events/274539",
    "src": "よかなび"
+  },
+  {
+   "id": "okachimachi-20261009-sakematsuri",
+   "title": "酒まつりジャパン2026秋",
+   "pref": "13",
+   "area": "台東区",
+   "venue": "おかちまちパンダ広場",
+   "cat": "フェス・祭り",
+   "start": "2026-10-09",
+   "end": "2026-10-12",
+   "url": "https://tokyofesta.com/23ku/33832/",
+   "src": "東京フェスタ"
   },
   {
    "id": "okubo-20261009-ra1gp",
@@ -805,6 +901,18 @@
    "end": "2026-10-10",
    "url": "https://www.city.kamagaya.chiba.jp/smph/kanko-bunka-sports/kanko/shiminmatsuri.html",
    "src": "鎌ケ谷市"
+  },
+  {
+   "id": "kinshi-20261010-sumidamarche",
+   "title": "すみだ休日マルシェ",
+   "pref": "13",
+   "area": "墨田区",
+   "venue": "錦糸公園",
+   "cat": "公園・庭園",
+   "start": "2026-10-10",
+   "end": "2026-10-11",
+   "url": "https://tokyofesta.com/23ku/33439/",
+   "src": "東京フェスタ"
   },
   {
    "id": "kishiwada-20261010-danjiri",
