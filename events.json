@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-09-29T16:55:00+09:00",
+ "updated": "2026-09-30T17:00:00+09:00",
  "events": [
   {
    "id": "jindai-nazotoki-2026",
@@ -327,6 +327,18 @@
    "src": "遊ぼう横浜"
   },
   {
+   "id": "takashimaya-20261001-wagashidamashii",
+   "title": "和菓子魂",
+   "pref": "13",
+   "area": "新宿",
+   "venue": "新宿高島屋",
+   "cat": "商業施設",
+   "start": "2026-10-01",
+   "end": "2026-10-06",
+   "url": "https://tokyofesta.com/23ku/33949/",
+   "src": "東京フェスタ"
+  },
+  {
    "id": "yokohamasta-20261001-ekimatsuri",
    "title": "第14回 横浜えきまつり",
    "pref": "14",
@@ -507,6 +519,18 @@
    "src": "さいたま新都心イベント情報"
   },
   {
+   "id": "kinshi-20261003-sumidamatsuri",
+   "title": "第51回すみだまつり・第56回こどもまつり",
+   "pref": "13",
+   "area": "墨田区",
+   "venue": "錦糸公園ほか",
+   "cat": "フェス・祭り",
+   "start": "2026-10-03",
+   "end": "2026-10-04",
+   "url": "https://tokyofesta.com/23ku/34000/",
+   "src": "東京フェスタ"
+  },
+  {
    "id": "matsudo-20261003-matsudomatsuri",
    "title": "松戸まつり2026",
    "pref": "12",
@@ -603,6 +627,18 @@
    "src": "オフィスカメリア"
   },
   {
+   "id": "tokia-20261003-chocolatesalon",
+   "title": "東京チョコレートサロン",
+   "pref": "13",
+   "area": "丸の内",
+   "venue": "丸の内東京ビルTOKIA",
+   "cat": "商業施設",
+   "start": "2026-10-03",
+   "end": "2026-10-04",
+   "url": "https://tokyofesta.com/23ku/33981/",
+   "src": "東京フェスタ"
+  },
+  {
    "id": "tokoname-20261003-yakimatsuri",
    "title": "第60回 常滑焼まつり",
    "pref": "23",
@@ -639,6 +675,18 @@
    "src": "東京フェスタ"
   },
   {
+   "id": "chibaportpark-20261004-mongol",
+   "title": "モンゴル秋祭り2026",
+   "pref": "12",
+   "area": "千葉市",
+   "venue": "千葉ポートパーク",
+   "cat": "フェス・祭り",
+   "start": "2026-10-04",
+   "end": "2026-10-04",
+   "url": "https://tokyofesta.com/chiba2/34101/",
+   "src": "東京フェスタ"
+  },
+  {
    "id": "hisaya-20261004-animal",
    "title": "動物フェスティバル2026なごや",
    "pref": "23",
@@ -663,6 +711,18 @@
    "src": "千葉市"
   },
   {
+   "id": "komazawa-20261004-parkfesta",
+   "title": "公園フェスタ",
+   "pref": "13",
+   "area": "世田谷区",
+   "venue": "駒沢オリンピック公園",
+   "cat": "公園・庭園",
+   "start": "2026-10-04",
+   "end": "2026-10-04",
+   "url": "https://tokyofesta.com/23ku/34097/",
+   "src": "東京フェスタ"
+  },
+  {
    "id": "oi-20261004-somanomaoi",
    "title": "相馬野馬追甲冑競馬",
    "pref": "13",
@@ -672,6 +732,18 @@
    "start": "2026-10-04",
    "end": "2026-10-04",
    "url": "https://tokyofesta.com/23ku/33825/",
+   "src": "東京フェスタ"
+  },
+  {
+   "id": "kappabashi-20261006-dougumatsuri",
+   "title": "第41回かっぱ橋道具まつり",
+   "pref": "13",
+   "area": "台東区",
+   "venue": "浅草かっぱ橋道具街",
+   "cat": "フェス・祭り",
+   "start": "2026-10-06",
+   "end": "2026-10-12",
+   "url": "https://tokyofesta.com/23ku/34109/",
    "src": "東京フェスタ"
   },
   {
@@ -697,6 +769,18 @@
    "end": "2026-10-12",
    "url": "https://faff.jp/",
    "src": "福岡アジアフィルムフェスティバル公式"
+  },
+  {
+   "id": "sunshine-20261008-hokkaido",
+   "title": "北海道まるごとフェアinサンシャインシティ2026",
+   "pref": "13",
+   "area": "池袋",
+   "venue": "池袋サンシャインシティ ワールドインポートマートビル",
+   "cat": "商業施設",
+   "start": "2026-10-08",
+   "end": "2026-10-12",
+   "url": "https://tokyofesta.com/23ku/34119/",
+   "src": "東京フェスタ"
   },
   {
    "id": "akarenga-20261009-baywalk",
@@ -841,6 +925,18 @@
    "end": "2026-10-12",
    "url": "https://kyushu-yoyogipark.com/",
    "src": "公式サイト"
+  },
+  {
+   "id": "expo70-20261010-donguri",
+   "title": "万博の森 どんぐりフェス",
+   "pref": "27",
+   "area": "吹田市",
+   "venue": "万博記念公園",
+   "cat": "公園・庭園",
+   "start": "2026-10-10",
+   "end": "2026-12-06",
+   "url": "https://www.expo70-park.jp/event/77654/",
+   "src": "万博記念公園"
   },
   {
    "id": "greensprings-20261010-yokai",
@@ -1023,6 +1119,18 @@
    "src": "駅探"
   },
   {
+   "id": "sakuratown-20261010-beerfes",
+   "title": "埼玉・武蔵野ビールフェス in サクラタウン 2026秋（10月10日～12日）",
+   "pref": "11",
+   "area": "所沢市",
+   "venue": "ところざわサクラタウン",
+   "cat": "フェス・祭り",
+   "start": "2026-10-10",
+   "end": "2026-10-12",
+   "url": "https://tokyofesta.com/saitama/33969/",
+   "src": "東京フェスタ"
+  },
+  {
    "id": "tokyoparks-20261010-momiji",
    "title": "【都立9庭園】紅葉めぐりスタンプラリー2026",
    "pref": "13",
@@ -1045,6 +1153,18 @@
    "end": "2026-10-20",
    "url": "https://aomorikokuspo2026.pref.aomori.lg.jp/kokuspo/kaiki/",
    "src": "あおもり国スポ・障スポ公式"
+  },
+  {
+   "id": "asakusa-20261011-awaodori",
+   "title": "第５回 浅草阿波おどり",
+   "pref": "13",
+   "area": "浅草",
+   "venue": "浅草六区ブロードウェイ",
+   "cat": "フェス・祭り",
+   "start": "2026-10-11",
+   "end": "2026-10-11",
+   "url": "https://tokyofesta.com/23ku/34143/",
+   "src": "東京フェスタ"
   },
   {
    "id": "atc-20261011-exporeborn",
@@ -1092,6 +1212,18 @@
    "start": "2026-10-11",
    "end": "2026-10-12",
    "url": "https://tokyofesta.com/23ku/31892/",
+   "src": "東京フェスタ"
+  },
+  {
+   "id": "kashiwa-20261011-sanma",
+   "title": "第一回 柏さんま祭り",
+   "pref": "12",
+   "area": "柏市",
+   "venue": "柏駅前歩行者天国・ハウディモール",
+   "cat": "フェス・祭り",
+   "start": "2026-10-11",
+   "end": "2026-10-11",
+   "url": "https://tokyofesta.com/chiba2/34137/",
    "src": "東京フェスタ"
   },
   {
