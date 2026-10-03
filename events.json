@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-10-02T16:53:00+09:00",
+ "updated": "2026-10-03T16:51:00+09:00",
  "events": [
   {
    "id": "expo70-20260314-beforeafter",
@@ -963,6 +963,18 @@
    "src": "東京フェスタ"
   },
   {
+   "id": "munakata-20261005-jizakanachazuke",
+   "title": "むなかた地魚茶漬け祭り",
+   "pref": "40",
+   "area": "宗像市",
+   "venue": "宗像市内",
+   "cat": "フェス・祭り",
+   "start": "2026-10-05",
+   "end": "2026-11-15",
+   "url": "https://www.crossroadfukuoka.jp/event/15582",
+   "src": "クロスロードふくおか"
+  },
+  {
    "id": "kappabashi-20261006-dougumatsuri",
    "title": "第41回かっぱ橋道具まつり",
    "pref": "13",
@@ -1033,6 +1045,18 @@
    "end": "2026-10-12",
    "url": "https://faff.jp/",
    "src": "福岡アジアフィルムフェスティバル公式"
+  },
+  {
+   "id": "hakata-20261008-kimurahakataori",
+   "title": "木村博多織手織り専門工房展",
+   "pref": "40",
+   "area": "福岡市博多区",
+   "venue": "はかた伝統工芸館",
+   "cat": "展示会",
+   "start": "2026-10-08",
+   "end": "2026-10-13",
+   "url": "https://yokanavi.com/events/274550",
+   "src": "よかなび"
   },
   {
    "id": "shimokitazawa-20261008-curry-festival",
@@ -1167,6 +1191,18 @@
    "src": "tabemaro"
   },
   {
+   "id": "mojiko-20261009-oktoberfest",
+   "title": "九州オクトーバーフェストin門司港",
+   "pref": "40",
+   "area": "北九州市",
+   "venue": "門司港",
+   "cat": "フェス・祭り",
+   "start": "2026-10-09",
+   "end": "2026-10-12",
+   "url": "https://www.crossroadfukuoka.jp/event/14558",
+   "src": "クロスロードふくおか"
+  },
+  {
    "id": "okachimachi-20261009-sakematsuri",
    "title": "酒まつりジャパン2026秋",
    "pref": "13",
@@ -1275,6 +1311,18 @@
    "src": "東京フェスタ"
   },
   {
+   "id": "higashiyama-20261010-akimatsuri",
+   "title": "東山動植物園秋まつり",
+   "pref": "23",
+   "area": "名古屋市千種区",
+   "venue": "名古屋市東山動植物園",
+   "cat": "公園・庭園",
+   "start": "2026-10-10",
+   "end": "2026-11-23",
+   "url": "https://www.nagoya-info.jp/event/detail/66/",
+   "src": "名古屋コンシェルジュ"
+  },
+  {
    "id": "hisaya-20261010-worldfes",
    "title": "ワールドフェスティバル in 愛知 2026",
    "pref": "23",
@@ -1285,6 +1333,18 @@
    "end": "2026-10-12",
    "url": "https://world-fes.com/",
    "src": "ワールドフェスティバルin愛知公式"
+  },
+  {
+   "id": "iinuma-20261010-taikomatsuri",
+   "title": "第2回 千葉県太鼓まつり",
+   "pref": "12",
+   "area": "銚子市",
+   "venue": "飯沼観音境内",
+   "cat": "フェス・祭り",
+   "start": "2026-10-10",
+   "end": "2026-10-11",
+   "url": "https://maruchiba.jp/event/detail_16023.html",
+   "src": "ちば観光ナビ"
   },
   {
    "id": "ikebukuro-20261010-yosakoi",
@@ -1395,6 +1455,18 @@
    "src": "グルメプレス"
   },
   {
+   "id": "kurume-20261010-chikugosake",
+   "title": "筑後SAKEフェスタ",
+   "pref": "40",
+   "area": "久留米市",
+   "venue": "久留米市内",
+   "cat": "フェス・祭り",
+   "start": "2026-10-10",
+   "end": "2026-10-11",
+   "url": "https://www.crossroadfukuoka.jp/event/11928",
+   "src": "クロスロードふくおか"
+  },
+  {
    "id": "kyufurukawa-20261010-rose",
    "title": "旧古河庭園「秋のバラフェスティバル」",
    "pref": "13",
@@ -1429,6 +1501,18 @@
    "end": "2026-10-12",
    "url": "https://www.tabemaro.jp/column/october/",
    "src": "tabemaro"
+  },
+  {
+   "id": "nagahama-20261010-shiminkansha",
+   "title": "長浜鮮魚市場「市民感謝デー」",
+   "pref": "40",
+   "area": "福岡市中央区",
+   "venue": "長浜鮮魚市場",
+   "cat": "商業施設",
+   "start": "2026-10-10",
+   "end": "2026-10-10",
+   "url": "https://yokanavi.com/events/274303",
+   "src": "よかなび"
   },
   {
    "id": "nagoyajo-20261010-socialcastlemarket",
@@ -1467,6 +1551,18 @@
    "src": "大阪市"
   },
   {
+   "id": "nobunkaen-20261010-akinomonogatari",
+   "title": "秋の物語",
+   "pref": "23",
+   "area": "名古屋市港区",
+   "venue": "農業文化園・戸田川緑地",
+   "cat": "公園・庭園",
+   "start": "2026-10-10",
+   "end": "2026-10-12",
+   "url": "https://www.nagoya-info.jp/event/detail/90/",
+   "src": "名古屋コンシェルジュ"
+  },
+  {
    "id": "odaiba-20261010-tetsudo-festival",
    "title": "第33回鉄道フェスティバル",
    "pref": "13",
@@ -1477,6 +1573,18 @@
    "end": "2026-10-11",
    "url": "https://www.mlit.go.jp/report/press/tetsudo01_hh_000261.html",
    "src": "国土交通省"
+  },
+  {
+   "id": "okawa-20261010-mokkoumatsuri",
+   "title": "大川木工まつり",
+   "pref": "40",
+   "area": "大川市",
+   "venue": "大川市内",
+   "cat": "フェス・祭り",
+   "start": "2026-10-10",
+   "end": "2026-10-12",
+   "url": "https://www.crossroadfukuoka.jp/event/11939",
+   "src": "クロスロードふくおか"
   },
   {
    "id": "osaka-20261010-comedy",
@@ -1513,6 +1621,18 @@
    "end": "2026-10-11",
    "url": "https://locapop.jp/event/nagoya-sakae-osu-daidogei-2026/",
    "src": "LOCAPOP"
+  },
+  {
+   "id": "renkeiji-20261010-kawagoeremix",
+   "title": "KAWAGOE REMIX",
+   "pref": "11",
+   "area": "川越市",
+   "venue": "蓮馨寺",
+   "cat": "フェス・祭り",
+   "start": "2026-10-10",
+   "end": "2026-10-11",
+   "url": "https://events.koedo.info/",
+   "src": "カワゴエ・マス・メディア"
   },
   {
    "id": "rinku-20261010-seacinema",
@@ -1767,6 +1887,18 @@
    "src": "東京フェスタ"
   },
   {
+   "id": "soya-20261011-joumonmatsuri",
+   "title": "第29回曽谷縄文まつり",
+   "pref": "12",
+   "area": "市川市",
+   "venue": "曽谷貝塚",
+   "cat": "フェス・祭り",
+   "start": "2026-10-11",
+   "end": "2026-10-11",
+   "url": "https://maruchiba.jp/event/detail_13232.html",
+   "src": "ちば観光ナビ"
+  },
+  {
    "id": "tahara-20261011-taharamatsuri",
    "title": "田原まつり",
    "pref": "23",
@@ -1885,6 +2017,210 @@
    "end": "2026-10-18",
    "url": "https://www.itofes.com/",
    "src": "糸島クラフトフェス公式"
+  },
+  {
+   "id": "asakusa-20261017-kiryuyagibushi",
+   "title": "桐生八木節まつりin浅草",
+   "pref": "13",
+   "area": "台東区",
+   "venue": "浅草六区ブロードウェイ",
+   "cat": "フェス・祭り",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "url": "https://tokyofesta.com/23ku/33298/",
+   "src": "東京フェスタ"
+  },
+  {
+   "id": "chibamonorail-20261017-matsuri",
+   "title": "ちばモノレール祭り2026",
+   "pref": "12",
+   "area": "千葉市",
+   "venue": "千葉都市モノレール車両基地",
+   "cat": "フェス・祭り",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "url": "https://maruchiba.jp/event/detail_11188.html",
+   "src": "ちば観光ナビ"
+  },
+  {
+   "id": "hibiya-20261017-gardeningshow",
+   "title": "第24回日比谷公園ガーデニングショー2026",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "日比谷公園",
+   "cat": "公園・庭園",
+   "start": "2026-10-17",
+   "end": "2026-10-25",
+   "url": "https://tokyofesta.com/23ku/29979/",
+   "src": "東京フェスタ"
+  },
+  {
+   "id": "hisaya-20261017-nagoyamatsuri",
+   "title": "第72回名古屋まつり",
+   "pref": "23",
+   "area": "名古屋市中区",
+   "venue": "久屋大通公園・名古屋城ほか",
+   "cat": "フェス・祭り",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "url": "https://www.hisayaodoripark.com/2026/nagoya-festival-2026/",
+   "src": "久屋大通・栄イベント情報"
+  },
+  {
+   "id": "hungary-20261017-festival",
+   "title": "第7回ハンガリーフェスティバル 2026",
+   "pref": "13",
+   "area": "江東区",
+   "venue": "シンボルプロムナード公園",
+   "cat": "フェス・祭り",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "url": "https://tokyofesta.com/23ku/32536/",
+   "src": "東京フェスタ"
+  },
+  {
+   "id": "kawagoe-20261017-kawagoematsuri",
+   "title": "川越まつり",
+   "pref": "11",
+   "area": "川越市",
+   "venue": "川越市中心街",
+   "cat": "フェス・祭り",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "url": "https://events.koedo.info/",
+   "src": "カワゴエ・マス・メディア"
+  },
+  {
+   "id": "kinshi-20261017-onecoinoktoberfest",
+   "title": "すみだワンコインオクトーバーフェスト/ジビエフェスティバル",
+   "pref": "13",
+   "area": "墨田区",
+   "venue": "錦糸公園",
+   "cat": "フェス・祭り",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "url": "https://www.enjoytokyo.jp/feature/matsuri_autumn/cal_oct_d006/",
+   "src": "レッツエンジョイ東京"
+  },
+  {
+   "id": "kinshi-20261017-streetjazz",
+   "title": "すみだストリートジャズフェスティバル 2026",
+   "pref": "13",
+   "area": "墨田区",
+   "venue": "錦糸公園ほか",
+   "cat": "ライブ",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "url": "https://tokyofesta.com/23ku/31982/",
+   "src": "東京フェスタ"
+  },
+  {
+   "id": "korokan-20261017-hikarinokorokan",
+   "title": "Fukuoka Lights Festival2026 ひかりの鴻臚館まつり",
+   "pref": "40",
+   "area": "福岡市中央区",
+   "venue": "舞鶴公園鴻臚館広場",
+   "cat": "フェス・祭り",
+   "start": "2026-10-17",
+   "end": "2026-10-25",
+   "url": "https://yokanavi.com/events/274546",
+   "src": "よかなび"
+  },
+  {
+   "id": "mmterrace-20261017-kinoko",
+   "title": "ヨコハマきのこ大祭2026",
+   "pref": "14",
+   "area": "横浜市西区",
+   "venue": "みなとみらいMMテラス",
+   "cat": "フェス・祭り",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "url": "https://tokyofesta.com/kanagawa/29983/",
+   "src": "東京フェスタ"
+  },
+  {
+   "id": "nagoyatv-20261017-dodematsuri",
+   "title": "ドデ祭2026",
+   "pref": "23",
+   "area": "名古屋市東区",
+   "venue": "メ〜テレ本社屋・東別院境内",
+   "cat": "フェス・祭り",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "url": "https://www.nagoyatv.com/dodematsuri/",
+   "src": "名古屋めし.com"
+  },
+  {
+   "id": "naritasan-20261017-gengen",
+   "title": "成田弦まつり",
+   "pref": "12",
+   "area": "成田市",
+   "venue": "成田山新勝寺境内・成田山表参道",
+   "cat": "フェス・祭り",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "url": "https://maruchiba.jp/event/detail_11179.html",
+   "src": "ちば観光ナビ"
+  },
+  {
+   "id": "sakai-20261017-sakaimatsuri",
+   "title": "2026年度 第53回堺まつり",
+   "pref": "27",
+   "area": "堺市堺区",
+   "venue": "大小路筋ほか堺市中心部",
+   "cat": "フェス・祭り",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "url": "https://www.sakai-tcb.or.jp/event/detail/883",
+   "src": "堺観光ガイド"
+  },
+  {
+   "id": "shiroi-20261017-furusatomatsuri",
+   "title": "第45回 白井市ふるさとまつり",
+   "pref": "12",
+   "area": "白井市",
+   "venue": "白井総合公園",
+   "cat": "フェス・祭り",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "url": "https://maruchiba.jp/event/detail_11195.html",
+   "src": "ちば観光ナビ"
+  },
+  {
+   "id": "yodogawa-20261017-naniwahanabi",
+   "title": "令和８年 第38回 なにわ淀川花火大会",
+   "pref": "27",
+   "area": "大阪市淀川区",
+   "venue": "淀川河川敷",
+   "cat": "フェス・祭り",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "url": "https://www.yodohanabi.com/3118.html",
+   "src": "なにわ淀川花火大会公式"
+  },
+  {
+   "id": "yoyogi-20261017-caribe",
+   "title": "カリブ・ラテンアメリカストリート代々木2026",
+   "pref": "13",
+   "area": "渋谷区",
+   "venue": "代々木公園",
+   "cat": "フェス・祭り",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "url": "https://tokyofesta.com/23ku/27710/",
+   "src": "東京フェスタ"
+  },
+  {
+   "id": "yoyogi-20261017-indonesia",
+   "title": "日本インドネシア市民友好文化フェスティバル 2026",
+   "pref": "13",
+   "area": "渋谷区",
+   "venue": "代々木公園",
+   "cat": "フェス・祭り",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "url": "https://tokyofesta.com/23ku/33835/",
+   "src": "東京フェスタ"
   }
  ]
 }
