@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-10-06T17:09:00+09:00",
+ "updated": "2026-10-07T16:52:00+09:00",
  "events": [
   {
    "id": "expo70-20260314-beforeafter",
@@ -109,18 +109,6 @@
    "end": "2026-12-20",
    "url": "https://www.fukuoka-art-museum.jp/exhibition/yamauchi_terue/",
    "src": "福岡市美術館"
-  },
-  {
-   "id": "okubo-20260911-curry",
-   "title": "東京カレー万博2026",
-   "pref": "13",
-   "area": "新宿区",
-   "venue": "新宿大久保公園",
-   "cat": "フェス・祭り",
-   "start": "2026-09-11",
-   "end": "2026-10-07",
-   "url": "https://tokyofesta.com/23ku/32446/",
-   "src": "東京フェスタ"
   },
   {
    "id": "englishgarden-20260912-halloween",
@@ -519,18 +507,6 @@
    "src": "さいたま新都心イベント情報"
   },
   {
-   "id": "osanbashi-20261007-omiokuri",
-   "title": "横浜港大さん橋10月7日客船お見送りイベント（ゲスト：EXILE MAKIDAIさん）",
-   "pref": "14",
-   "area": "横浜市中区",
-   "venue": "横浜港大さん橋国際客船ターミナル 大さん橋屋上",
-   "cat": "フェス・祭り",
-   "start": "2026-10-07",
-   "end": "2026-10-07",
-   "url": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw12168",
-   "src": "横浜市観光情報"
-  },
-  {
    "id": "ajibi-20261008-faff",
    "title": "福岡アジアフィルムフェスティバル2026",
    "pref": "40",
@@ -829,6 +805,78 @@
    "end": "2026-10-12",
    "url": "https://kyushu-yoyogipark.com/",
    "src": "公式サイト"
+  },
+  {
+   "id": "zepp-divercity-20261009-159533",
+   "title": "Dannie May  TOUR 2026「YOKAI」",
+   "pref": "13",
+   "area": "江東区",
+   "venue": "Zepp DiverCity(TOKYO)",
+   "cat": "ライブ",
+   "start": "2026-10-09",
+   "end": "2026-10-09",
+   "url": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=159533",
+   "src": "Zepp DiverCity(TOKYO) 公式スケジュール"
+  },
+  {
+   "id": "zepp-fukuoka-20261009-156655",
+   "title": "杉⼭清貴 SOLO DEBUT 40TH ANNIVERSARY TOUR",
+   "pref": "40",
+   "area": "福岡市中央区",
+   "venue": "Zepp Fukuoka",
+   "cat": "ライブ",
+   "start": "2026-10-09",
+   "end": "2026-10-09",
+   "url": "https://www.zepp.co.jp/hall/fukuoka/schedule/single/?rid=156655",
+   "src": "Zepp Fukuoka 公式スケジュール"
+  },
+  {
+   "id": "zepp-haneda-20261009-159792",
+   "title": "hide with Spread Beaver Zepp Tour 2026“REPSYCLE THE REPSYCLED”",
+   "pref": "13",
+   "area": "大田区",
+   "venue": "Zepp Haneda(TOKYO)",
+   "cat": "ライブ",
+   "start": "2026-10-09",
+   "end": "2026-10-09",
+   "url": "https://www.zepp.co.jp/hall/haneda/schedule/single/?rid=159792",
+   "src": "Zepp Haneda(TOKYO) 公式スケジュール"
+  },
+  {
+   "id": "zepp-nagoya-20261009-158283",
+   "title": "筋肉少女帯 ツアー2026｢奇談師｣｢サーカス団パノラマ島へ帰る｣完全再現ライブ+α",
+   "pref": "23",
+   "area": "名古屋市中村区",
+   "venue": "Zepp Nagoya",
+   "cat": "ライブ",
+   "start": "2026-10-09",
+   "end": "2026-10-09",
+   "url": "https://www.zepp.co.jp/hall/nagoya/schedule/single/?rid=158283",
+   "src": "Zepp Nagoya 公式スケジュール"
+  },
+  {
+   "id": "zepp-osakabayside-20261009-159100",
+   "title": "04 Limited Sazabys ONE MAN TOUR 2026",
+   "pref": "27",
+   "area": "大阪市此花区",
+   "venue": "Zepp Osaka Bayside",
+   "cat": "ライブ",
+   "start": "2026-10-09",
+   "end": "2026-10-09",
+   "url": "https://www.zepp.co.jp/hall/osakabayside/schedule/single/?rid=159100",
+   "src": "Zepp Osaka Bayside 公式スケジュール"
+  },
+  {
+   "id": "zepp-yokohama-20261009-156991",
+   "title": "日食なつこ 未発表曲ツアー「エリア未来2 “ブラックホール”」",
+   "pref": "14",
+   "area": "横浜市西区",
+   "venue": "KT Zepp Yokohama",
+   "cat": "ライブ",
+   "start": "2026-10-09",
+   "end": "2026-10-09",
+   "url": "https://www.zepp.co.jp/hall/yokohama/schedule/single/?rid=156991",
+   "src": "KT Zepp Yokohama 公式スケジュール"
   },
   {
    "id": "aitech-20261010-aikodaisai",
@@ -1551,6 +1599,18 @@
    "src": "TOKYO ISLAND公式"
   },
   {
+   "id": "urawa-20261010-shirasagisai",
+   "title": "しらさぎ祭",
+   "pref": "11",
+   "area": "さいたま市緑区",
+   "venue": "浦和大学",
+   "cat": "フェス・祭り",
+   "start": "2026-10-10",
+   "end": "2026-10-11",
+   "url": "https://www.urawa.ac.jp/campuslife/39_shiarasagi.html",
+   "src": "浦和大学"
+  },
+  {
    "id": "verny-20261010-yokosuka-curry",
    "title": "秋のよこすかカレーFes．2026",
    "pref": "14",
@@ -1633,6 +1693,54 @@
    "end": "2026-10-11",
    "url": "https://kyotoonpaku.net/",
    "src": "京都音楽博覧会公式"
+  },
+  {
+   "id": "zepp-divercity-20261010-158267",
+   "title": "G-FREAK FACTORY Path to 30th TOUR \"TOMOSHIBI\" -燈-",
+   "pref": "13",
+   "area": "江東区",
+   "venue": "Zepp DiverCity(TOKYO)",
+   "cat": "ライブ",
+   "start": "2026-10-10",
+   "end": "2026-10-10",
+   "url": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=158267",
+   "src": "Zepp DiverCity(TOKYO) 公式スケジュール"
+  },
+  {
+   "id": "zepp-fukuoka-20261010-156598",
+   "title": "杉⼭清貴 SOLO DEBUT 40TH ANNIVERSARY TOUR",
+   "pref": "40",
+   "area": "福岡市中央区",
+   "venue": "Zepp Fukuoka",
+   "cat": "ライブ",
+   "start": "2026-10-10",
+   "end": "2026-10-10",
+   "url": "https://www.zepp.co.jp/hall/fukuoka/schedule/single/?rid=156598",
+   "src": "Zepp Fukuoka 公式スケジュール"
+  },
+  {
+   "id": "zepp-haneda-20261010-159625",
+   "title": "ブルアカ 5th Anniversary DJふぇす！つあー☆",
+   "pref": "13",
+   "area": "大田区",
+   "venue": "Zepp Haneda(TOKYO)",
+   "cat": "ライブ",
+   "start": "2026-10-10",
+   "end": "2026-10-10",
+   "url": "https://www.zepp.co.jp/hall/haneda/schedule/single/?rid=159625",
+   "src": "Zepp Haneda(TOKYO) 公式スケジュール"
+  },
+  {
+   "id": "zepp-osakabayside-20261010-156320",
+   "title": "キズ Zepp TOUR 『天照焔巡』",
+   "pref": "27",
+   "area": "大阪市此花区",
+   "venue": "Zepp Osaka Bayside",
+   "cat": "ライブ",
+   "start": "2026-10-10",
+   "end": "2026-10-10",
+   "url": "https://www.zepp.co.jp/hall/osakabayside/schedule/single/?rid=156320",
+   "src": "Zepp Osaka Bayside 公式スケジュール"
   },
   {
    "id": "zeppyokohama-20261010-bonbon",
@@ -1911,6 +2019,42 @@
    "src": "さいたま観光国際協会"
   },
   {
+   "id": "zepp-divercity-20261011-160995",
+   "title": "Takanori Nishikawa LIVE TOUR 2026 REWIND of VOYAGE trAnsIt",
+   "pref": "13",
+   "area": "江東区",
+   "venue": "Zepp DiverCity(TOKYO)",
+   "cat": "ライブ",
+   "start": "2026-10-11",
+   "end": "2026-10-11",
+   "url": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=160995",
+   "src": "Zepp DiverCity(TOKYO) 公式スケジュール"
+  },
+  {
+   "id": "zepp-fukuoka-20261011-156599",
+   "title": "ヒルクライム ZEPP TOUR「2026」",
+   "pref": "40",
+   "area": "福岡市中央区",
+   "venue": "Zepp Fukuoka",
+   "cat": "ライブ",
+   "start": "2026-10-11",
+   "end": "2026-10-11",
+   "url": "https://www.zepp.co.jp/hall/fukuoka/schedule/single/?rid=156599",
+   "src": "Zepp Fukuoka 公式スケジュール"
+  },
+  {
+   "id": "zepp-haneda-20261011-158297",
+   "title": "街を嚥む、今宵の⽉ - HARVEST SPECIAL LIVE NIGHT WITH toe -",
+   "pref": "13",
+   "area": "大田区",
+   "venue": "Zepp Haneda(TOKYO)",
+   "cat": "ライブ",
+   "start": "2026-10-11",
+   "end": "2026-10-11",
+   "url": "https://www.zepp.co.jp/hall/haneda/schedule/single/?rid=158297",
+   "src": "Zepp Haneda(TOKYO) 公式スケジュール"
+  },
+  {
    "id": "canalcity-20261012-onolisa",
    "title": "小野リサ My Songs ～私の好きな歌～",
    "pref": "40",
@@ -1959,6 +2103,18 @@
    "src": "新大久保商店街振興組合"
   },
   {
+   "id": "sonic-city-20261012-a2112",
+   "title": "沖仁 フラメンコギターコンサート with U-zhaan&石塚隆充",
+   "pref": "11",
+   "area": "さいたま市大宮区",
+   "venue": "大宮ソニックシティ",
+   "cat": "ライブ",
+   "start": "2026-10-12",
+   "end": "2026-10-12",
+   "url": "https://www.sonic-city.or.jp/media/a2112",
+   "src": "大宮ソニックシティ"
+  },
+  {
    "id": "sumiyoshi-20261012-reitaisai",
    "title": "住吉神社 例大祭（相撲会大祭）",
    "pref": "40",
@@ -1969,6 +2125,78 @@
    "end": "2026-10-14",
    "url": "https://www.nihondaiichisumiyoshigu.jp/rituals/",
    "src": "住吉神社 / MATCHA"
+  },
+  {
+   "id": "zepp-divercity-20261012-159508",
+   "title": "The Performance Zero",
+   "pref": "13",
+   "area": "江東区",
+   "venue": "Zepp DiverCity(TOKYO)",
+   "cat": "ライブ",
+   "start": "2026-10-12",
+   "end": "2026-10-12",
+   "url": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=159508",
+   "src": "Zepp DiverCity(TOKYO) 公式スケジュール"
+  },
+  {
+   "id": "zepp-fukuoka-20261012-156809",
+   "title": "甲斐よしひろ　ホームカミングツアー2026",
+   "pref": "40",
+   "area": "福岡市中央区",
+   "venue": "Zepp Fukuoka",
+   "cat": "ライブ",
+   "start": "2026-10-12",
+   "end": "2026-10-12",
+   "url": "https://www.zepp.co.jp/hall/fukuoka/schedule/single/?rid=156809",
+   "src": "Zepp Fukuoka 公式スケジュール"
+  },
+  {
+   "id": "zepp-haneda-20261012-158124",
+   "title": "UMIMOYASU 2026-2027 MOVE",
+   "pref": "13",
+   "area": "大田区",
+   "venue": "Zepp Haneda(TOKYO)",
+   "cat": "ライブ",
+   "start": "2026-10-12",
+   "end": "2026-10-12",
+   "url": "https://www.zepp.co.jp/hall/haneda/schedule/single/?rid=158124",
+   "src": "Zepp Haneda(TOKYO) 公式スケジュール"
+  },
+  {
+   "id": "zepp-nagoya-20261012-156575",
+   "title": "LINDBERG LIVE TOUR 2026 「Zepp STEP JUMP」",
+   "pref": "23",
+   "area": "名古屋市中村区",
+   "venue": "Zepp Nagoya",
+   "cat": "ライブ",
+   "start": "2026-10-12",
+   "end": "2026-10-12",
+   "url": "https://www.zepp.co.jp/hall/nagoya/schedule/single/?rid=156575",
+   "src": "Zepp Nagoya 公式スケジュール"
+  },
+  {
+   "id": "zepp-osakabayside-20261012-156589",
+   "title": "ヒルクライム ZEPP TOUR「2026」",
+   "pref": "27",
+   "area": "大阪市此花区",
+   "venue": "Zepp Osaka Bayside",
+   "cat": "ライブ",
+   "start": "2026-10-12",
+   "end": "2026-10-12",
+   "url": "https://www.zepp.co.jp/hall/osakabayside/schedule/single/?rid=156589",
+   "src": "Zepp Osaka Bayside 公式スケジュール"
+  },
+  {
+   "id": "zepp-yokohama-20261012-168034",
+   "title": "VS横アリ　其の一",
+   "pref": "14",
+   "area": "横浜市西区",
+   "venue": "KT Zepp Yokohama",
+   "cat": "ライブ",
+   "start": "2026-10-12",
+   "end": "2026-10-12",
+   "url": "https://www.zepp.co.jp/hall/yokohama/schedule/single/?rid=168034",
+   "src": "KT Zepp Yokohama 公式スケジュール"
   },
   {
    "id": "yokohama-takashimaya-20261014-hokkaido",
@@ -2077,6 +2305,66 @@
    "end": "2026-10-18",
    "url": "https://yokosuka-kanko.com/events/events-21889/",
    "src": "横須賀市観光協会"
+  },
+  {
+   "id": "zepp-divercity-20261016-159051",
+   "title": "筋肉少女帯ツアー2026｢奇談師｣　｢キラキラと輝くもの｣制作30周年記念完全再現ライブ+Ω",
+   "pref": "13",
+   "area": "江東区",
+   "venue": "Zepp DiverCity(TOKYO)",
+   "cat": "ライブ",
+   "start": "2026-10-16",
+   "end": "2026-10-16",
+   "url": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=159051",
+   "src": "Zepp DiverCity(TOKYO) 公式スケジュール"
+  },
+  {
+   "id": "zepp-fukuoka-20261016-158061",
+   "title": "PLAYBACK tour 2026",
+   "pref": "40",
+   "area": "福岡市中央区",
+   "venue": "Zepp Fukuoka",
+   "cat": "ライブ",
+   "start": "2026-10-16",
+   "end": "2026-10-16",
+   "url": "https://www.zepp.co.jp/hall/fukuoka/schedule/single/?rid=158061",
+   "src": "Zepp Fukuoka 公式スケジュール"
+  },
+  {
+   "id": "zepp-haneda-20261016-159538",
+   "title": "7ORDER THE LIVE 2026",
+   "pref": "13",
+   "area": "大田区",
+   "venue": "Zepp Haneda(TOKYO)",
+   "cat": "ライブ",
+   "start": "2026-10-16",
+   "end": "2026-10-16",
+   "url": "https://www.zepp.co.jp/hall/haneda/schedule/single/?rid=159538",
+   "src": "Zepp Haneda(TOKYO) 公式スケジュール"
+  },
+  {
+   "id": "zepp-nagoya-20261016-165822",
+   "title": "iON!",
+   "pref": "23",
+   "area": "名古屋市中村区",
+   "venue": "Zepp Nagoya",
+   "cat": "ライブ",
+   "start": "2026-10-16",
+   "end": "2026-10-16",
+   "url": "https://www.zepp.co.jp/hall/nagoya/schedule/single/?rid=165822",
+   "src": "Zepp Nagoya 公式スケジュール"
+  },
+  {
+   "id": "zepp-osakabayside-20261016-156665",
+   "title": "My Hair is Bad presents「ノーブルホームランツアー」",
+   "pref": "27",
+   "area": "大阪市此花区",
+   "venue": "Zepp Osaka Bayside",
+   "cat": "ライブ",
+   "start": "2026-10-16",
+   "end": "2026-10-16",
+   "url": "https://www.zepp.co.jp/hall/osakabayside/schedule/single/?rid=156665",
+   "src": "Zepp Osaka Bayside 公式スケジュール"
   },
   {
    "id": "zeppyokohama-20261016-imaitsubasa",
@@ -2221,6 +2509,18 @@
    "end": "2026-10-18",
    "url": "https://www.u-keiai.ac.jp/fes/",
    "src": "敬愛大学"
+  },
+  {
+   "id": "kgwu-20261017-kakugasai",
+   "title": "第37回 鶴雅祭",
+   "pref": "12",
+   "area": "我孫子市",
+   "venue": "川村学園女子大学 我孫子キャンパス",
+   "cat": "フェス・祭り",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "url": "https://www.kgwu.ac.jp/campuslife/gakuensai/",
+   "src": "川村学園女子大学"
   },
   {
    "id": "kinshi-20261017-streetjazz",
@@ -2511,6 +2811,66 @@
    "src": "東京フェスタ"
   },
   {
+   "id": "zepp-divercity-20261017-159485",
+   "title": "kurayamisaka tte, doko? #8「Zepp DiverCity単独公演編」",
+   "pref": "13",
+   "area": "江東区",
+   "venue": "Zepp DiverCity(TOKYO)",
+   "cat": "ライブ",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "url": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=159485",
+   "src": "Zepp DiverCity(TOKYO) 公式スケジュール"
+  },
+  {
+   "id": "zepp-fukuoka-20261017-156566",
+   "title": "TMG LIVE 2026 “SAYONARA”",
+   "pref": "40",
+   "area": "福岡市中央区",
+   "venue": "Zepp Fukuoka",
+   "cat": "ライブ",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "url": "https://www.zepp.co.jp/hall/fukuoka/schedule/single/?rid=156566",
+   "src": "Zepp Fukuoka 公式スケジュール"
+  },
+  {
+   "id": "zepp-nagoya-20261017-160301",
+   "title": "RETRORIRON Zepp Tour 2026",
+   "pref": "23",
+   "area": "名古屋市中村区",
+   "venue": "Zepp Nagoya",
+   "cat": "ライブ",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "url": "https://www.zepp.co.jp/hall/nagoya/schedule/single/?rid=160301",
+   "src": "Zepp Nagoya 公式スケジュール"
+  },
+  {
+   "id": "zepp-osakabayside-20261017-156666",
+   "title": "My Hair is Bad presents「ノーブルホームランツアー」",
+   "pref": "27",
+   "area": "大阪市此花区",
+   "venue": "Zepp Osaka Bayside",
+   "cat": "ライブ",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "url": "https://www.zepp.co.jp/hall/osakabayside/schedule/single/?rid=156666",
+   "src": "Zepp Osaka Bayside 公式スケジュール"
+  },
+  {
+   "id": "zepp-yokohama-20261017-159725",
+   "title": "TSUBASA IMAI 2026　Happy 45th Anniversary! ーSpecial Talk Showー",
+   "pref": "14",
+   "area": "横浜市西区",
+   "venue": "KT Zepp Yokohama",
+   "cat": "ライブ",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "url": "https://www.zepp.co.jp/hall/yokohama/schedule/single/?rid=159725",
+   "src": "KT Zepp Yokohama 公式スケジュール"
+  },
+  {
    "id": "aichi-shirotori-nagoyamatsuri-2026",
    "title": "白鳥庭園の名古屋まつり",
    "pref": "23",
@@ -2581,6 +2941,54 @@
    "end": "2026-10-18",
    "url": "https://chocotabi-saitama.jp/event/156525/",
    "src": "ちょこたび埼玉（埼玉県物産観光協会）"
+  },
+  {
+   "id": "sonic-city-20261018-a2111",
+   "title": "社会風刺コント集団 ザ・ニュースペーパー LIVE 2026",
+   "pref": "11",
+   "area": "さいたま市大宮区",
+   "venue": "大宮ソニックシティ",
+   "cat": "ライブ",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "url": "https://www.sonic-city.or.jp/media/a2111",
+   "src": "大宮ソニックシティ"
+  },
+  {
+   "id": "zepp-divercity-20261018-158645",
+   "title": "HERO COMPLEX “情熱たましい 2026”",
+   "pref": "13",
+   "area": "江東区",
+   "venue": "Zepp DiverCity(TOKYO)",
+   "cat": "ライブ",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "url": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=158645",
+   "src": "Zepp DiverCity(TOKYO) 公式スケジュール"
+  },
+  {
+   "id": "zepp-nagoya-20261018-160056",
+   "title": "PLAYBACK tour 2026",
+   "pref": "23",
+   "area": "名古屋市中村区",
+   "venue": "Zepp Nagoya",
+   "cat": "ライブ",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "url": "https://www.zepp.co.jp/hall/nagoya/schedule/single/?rid=160056",
+   "src": "Zepp Nagoya 公式スケジュール"
+  },
+  {
+   "id": "zepp-osakabayside-20261018-158991",
+   "title": "女王蜂 全国ツアー2026「星」",
+   "pref": "27",
+   "area": "大阪市此花区",
+   "venue": "Zepp Osaka Bayside",
+   "cat": "ライブ",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "url": "https://www.zepp.co.jp/hall/osakabayside/schedule/single/?rid=158991",
+   "src": "Zepp Osaka Bayside 公式スケジュール"
   },
   {
    "id": "zeppyokohama-20261018-neguse",
