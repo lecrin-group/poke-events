@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-10-07T16:52:00+09:00",
+ "updated": "2026-10-08T17:00:00+09:00",
  "events": [
   {
    "id": "expo70-20260314-beforeafter",
@@ -13,6 +13,18 @@
    "end": "2027-02-28",
    "url": "https://www.expo70-park.jp/event/74555/",
    "src": "万博記念公園"
+  },
+  {
+   "id": "seimeinohoshi-20260718-satoyama",
+   "title": "神奈川県立生命の星・地球博物館 特別展「しらべて分かった！里山にくらす動物たち」",
+   "pref": "14",
+   "area": "小田原市",
+   "venue": "神奈川県立生命の星・地球博物館",
+   "cat": "展示会",
+   "start": "2026-07-18",
+   "end": "2026-11-08",
+   "url": "https://www.kanagawa-kankou.or.jp/event/7772",
+   "src": "神奈川県観光協会"
   },
   {
    "id": "yokohamamuseum-20260801-marie",
@@ -99,6 +111,18 @@
    "src": "はまぎん こども宇宙科学館"
   },
   {
+   "id": "nagoya-museum-20260905-lithuania",
+   "title": "特別展「リトアニア－バルトの森に響く歌－」",
+   "pref": "23",
+   "area": "名古屋市瑞穂区",
+   "venue": "名古屋市博物館",
+   "cat": "展示会",
+   "start": "2026-09-05",
+   "end": "2026-11-01",
+   "url": "https://www.nagoya-info.jp/event/detail/1354/",
+   "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）"
+  },
+  {
    "id": "fam-20260908-yamauchi",
    "title": "企画展×福岡現代作家ファイル2026 山内光枝展 潮ノ記",
    "pref": "40",
@@ -121,6 +145,18 @@
    "end": "2026-10-31",
    "url": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw11337",
    "src": "横浜市観光情報"
+  },
+  {
+   "id": "gardenfuto-20260912-portfes",
+   "title": "港NAGOYA PORT FES【みなとスポーツ広場】",
+   "pref": "23",
+   "area": "名古屋市港区",
+   "venue": "名古屋港ガーデンふ頭エリア（JETTY周辺）",
+   "cat": "フェス・祭り",
+   "start": "2026-09-12",
+   "end": "2026-10-25",
+   "url": "https://www.nagoya-info.jp/event/detail/1388/",
+   "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）"
   },
   {
    "id": "newotani-makuhari-20260912-supersweets",
@@ -147,6 +183,18 @@
    "src": "JR西日本"
   },
   {
+   "id": "sogo-museum-20260912-suzuki",
+   "title": "そごう美術館「カラフルパレット 鈴木信太郎」展",
+   "pref": "14",
+   "area": "横浜市西区",
+   "venue": "そごう美術館",
+   "cat": "展示会",
+   "start": "2026-09-12",
+   "end": "2026-10-12",
+   "url": "https://www.kanagawa-kankou.or.jp/event/6676",
+   "src": "神奈川県観光協会"
+  },
+  {
    "id": "yotaura-20260912-cosmos",
    "title": "第22回与田浦コスモスまつり",
    "pref": "12",
@@ -157,6 +205,18 @@
    "end": "2026-10-31",
    "url": "https://www.city.katori.lg.jp/sightseeing/gyoji/aki/cosmos.html",
    "src": "香取市"
+  },
+  {
+   "id": "miraitower-20260914-illumi",
+   "title": "中部電力 MIRAI TOWER「NAKED 天空の STAR ILLUMINATION」",
+   "pref": "23",
+   "area": "名古屋市中区",
+   "venue": "中部電力 MIRAI TOWER スカイデッキ",
+   "cat": "商業施設",
+   "start": "2026-09-14",
+   "end": "2026-11-15",
+   "url": "https://www.nagoya-info.jp/event/detail/1259/",
+   "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）"
   },
   {
    "id": "osanbashi-20260915-photogallery",
@@ -243,6 +303,18 @@
    "src": "名古屋コンシェルジュ"
   },
   {
+   "id": "faam-20260919-asia",
+   "title": "特別展「アジア美術の歩き方 南アジア特別編 対立の先へ―光の水脈をめぐる旅」",
+   "pref": "40",
+   "area": "福岡市博多区",
+   "venue": "福岡アジア美術館",
+   "cat": "展示会",
+   "start": "2026-09-19",
+   "end": "2027-01-11",
+   "url": "https://yokanavi.com/events/274542",
+   "src": "よかなび（福岡市）"
+  },
+  {
    "id": "fukuoka-fanweek-ito-ryusuke-2026",
    "title": "【FaN Week 2026】〈企画展〉伊藤隆介 / 福博風景考：時を駆ける少女は飛翔の夢を見るか？",
    "pref": "40",
@@ -253,6 +325,54 @@
    "end": "2026-10-12",
    "url": "https://yokanavi.com/events/274531",
    "src": "よかなび"
+  },
+  {
+   "id": "fukuoka-science-20260919-gekko",
+   "title": "特別展「石川賢治月光写真展 月光浴 月夜の晩に」",
+   "pref": "40",
+   "area": "福岡市中央区",
+   "venue": "福岡市科学館",
+   "cat": "展示会",
+   "start": "2026-09-19",
+   "end": "2026-10-25",
+   "url": "https://yokanavi.com/events/274526",
+   "src": "よかなび（福岡市）"
+  },
+  {
+   "id": "hiratsuka-museum-20260919-kudo",
+   "title": "平塚市美術館「生誕110年 工藤甲人展 北の大地といのちの詩」",
+   "pref": "14",
+   "area": "平塚市",
+   "venue": "平塚市美術館",
+   "cat": "展示会",
+   "start": "2026-09-19",
+   "end": "2026-11-23",
+   "url": "https://www.kanagawa-kankou.or.jp/event/7300",
+   "src": "神奈川県観光協会"
+  },
+  {
+   "id": "nagoya-art-20260919-gogh",
+   "title": "ゴッホの跳ね橋と印象派の画家たち ヴァルラフ＝リヒャルツ美術館所蔵",
+   "pref": "23",
+   "area": "名古屋市中区",
+   "venue": "名古屋市美術館",
+   "cat": "展示会",
+   "start": "2026-09-19",
+   "end": "2026-11-29",
+   "url": "https://www.nagoya-info.jp/event/detail/1419/",
+   "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）"
+  },
+  {
+   "id": "ofuna-20260923-pumpkin",
+   "title": "日比谷花壇大船フラワーセンター「かぼちゃのカーニバル2026」",
+   "pref": "14",
+   "area": "鎌倉市",
+   "venue": "日比谷花壇大船フラワーセンター",
+   "cat": "公園・庭園",
+   "start": "2026-09-23",
+   "end": "2026-11-01",
+   "url": "https://www.kanagawa-kankou.or.jp/event/7862",
+   "src": "神奈川県観光協会"
   },
   {
    "id": "kannai-20260924-nomimeshi-draft",
@@ -291,6 +411,30 @@
    "src": "万博記念公園"
   },
   {
+   "id": "kana-garden-20260926-halloween",
+   "title": "花菜ガーデン「畑のハロウィーンパーティー」",
+   "pref": "14",
+   "area": "平塚市",
+   "venue": "花菜ガーデン",
+   "cat": "公園・庭園",
+   "start": "2026-09-26",
+   "end": "2026-11-01",
+   "url": "https://www.kanagawa-kankou.or.jp/event/7262",
+   "src": "神奈川県観光協会"
+  },
+  {
+   "id": "yomiuriland-20260926-halloween",
+   "title": "よみうりランド「よみラン ハロウィン！～Jump in Party 2026～」",
+   "pref": "13",
+   "area": "稲城市",
+   "venue": "よみうりランド",
+   "cat": "商業施設",
+   "start": "2026-09-26",
+   "end": "2026-11-01",
+   "url": "https://www.kanagawa-kankou.or.jp/event/7858",
+   "src": "神奈川県観光協会"
+  },
+  {
    "id": "aichi-ncsm-planetarium-oct-2026",
    "title": "プラネタリウム 10月テーマ「アンドロメダ物語」",
    "pref": "23",
@@ -313,6 +457,18 @@
    "end": "2026-10-31",
    "url": "https://www.park-funabashi.or.jp/and/aevents/event_cosmosmaturi.html",
    "src": "ふなばしアンデルセン公園"
+  },
+  {
+   "id": "chinatown-20261001-ankake",
+   "title": "横浜中華街「ツレ中華2026 あんかけ祭」",
+   "pref": "14",
+   "area": "横浜市中区",
+   "venue": "横浜中華街",
+   "cat": "フェス・祭り",
+   "start": "2026-10-01",
+   "end": "2026-10-31",
+   "url": "https://www.kanagawa-kankou.or.jp/event/7857",
+   "src": "神奈川県観光協会"
   },
   {
    "id": "jindai-20261001-nazotoki",
@@ -363,6 +519,18 @@
    "src": "遊ぼう横浜"
   },
   {
+   "id": "legoland-20261002-halloween",
+   "title": "レゴランド・ジャパン「ハロウィンパーティー」",
+   "pref": "23",
+   "area": "名古屋市港区",
+   "venue": "レゴランド・ジャパン",
+   "cat": "商業施設",
+   "start": "2026-10-02",
+   "end": "2026-11-03",
+   "url": "https://www.nagoya-info.jp/event/detail/1252/",
+   "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）"
+  },
+  {
    "id": "enosui-20261003-geijutsunoaki",
    "title": "芸術の秋、絵画をのぞく",
    "pref": "14",
@@ -411,6 +579,18 @@
    "src": "マザー牧場"
   },
   {
+   "id": "sogoyokohama-20261003-imohaku",
+   "title": "そごう横浜店「第8回 芋博」",
+   "pref": "14",
+   "area": "横浜市西区",
+   "venue": "そごう横浜店",
+   "cat": "商業施設",
+   "start": "2026-10-03",
+   "end": "2026-10-12",
+   "url": "https://www.asobo-yokohama.com/event/2831/",
+   "src": "遊ぼう横浜（横浜市）"
+  },
+  {
    "id": "teien-20261003-marimekko",
    "title": "マリメッコ展 模様のちから",
    "pref": "13",
@@ -421,6 +601,30 @@
    "end": "2026-12-20",
    "url": "https://marimekko-ex2026-2028.jp/",
    "src": "Tokyo Art Beat"
+  },
+  {
+   "id": "telepia-20261003-sakamotodays",
+   "title": "SAKAMOTO DAYS展",
+   "pref": "23",
+   "area": "名古屋市東区",
+   "venue": "テレピアホール",
+   "cat": "展示会",
+   "start": "2026-10-03",
+   "end": "2026-11-23",
+   "url": "https://www.nagoya-info.jp/event/detail/1417/",
+   "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）"
+  },
+  {
+   "id": "zushi-20261003-artfes",
+   "title": "逗子アートフェスティバル2026「はじまりの未来、はじまりの場。」",
+   "pref": "14",
+   "area": "逗子市",
+   "venue": "逗子市内各所",
+   "cat": "フェス・祭り",
+   "start": "2026-10-03",
+   "end": "2026-10-25",
+   "url": "https://www.kanagawa-kankou.or.jp/event/6340",
+   "src": "神奈川県観光協会"
   },
   {
    "id": "munakata-20261005-jizakanachazuke",
@@ -531,6 +735,18 @@
    "src": "よかなび"
   },
   {
+   "id": "hands-yokohama-20261008-lovebullet",
+   "title": "ラブ・バレット POP UP STORE in ハンズ",
+   "pref": "14",
+   "area": "横浜市西区",
+   "venue": "ハンズ横浜店",
+   "cat": "商業施設",
+   "start": "2026-10-08",
+   "end": "2026-10-21",
+   "url": "https://www.asobo-yokohama.com/event/2277/",
+   "src": "遊ぼう横浜（横浜市）"
+  },
+  {
    "id": "shimokitazawa-20261008-curry-festival",
    "title": "下北沢カレーフェスティバル2026",
    "pref": "13",
@@ -637,6 +853,18 @@
    "end": "2026-10-17",
    "url": "https://yokanavi.com/events/274543",
    "src": "よかなび"
+  },
+  {
+   "id": "kaiganodori-20261009-tamakusu",
+   "title": "日本のビール発祥の地ヨコハマ たまくすビアテラス",
+   "pref": "14",
+   "area": "横浜市中区",
+   "venue": "横浜開港資料館周辺（海岸通り）",
+   "cat": "フェス・祭り",
+   "start": "2026-10-09",
+   "end": "2026-10-10",
+   "url": "https://www.asobo-yokohama.com/event/2769/",
+   "src": "遊ぼう横浜（横浜市）"
   },
   {
    "id": "kanetsukapark-20261009-oktoberfest",
@@ -793,6 +1021,30 @@
    "end": "2026-10-12",
    "url": "https://urawa-beer-stadium.com/",
    "src": "浦和ビアスタジアム公式"
+  },
+  {
+   "id": "womb-20261009-modest",
+   "title": "MODEST",
+   "pref": "13",
+   "area": "渋谷区",
+   "venue": "WOMB",
+   "cat": "ライブ",
+   "start": "2026-10-09",
+   "end": "2026-10-09",
+   "url": "https://www.womb.co.jp/ja/events/100926",
+   "src": "WOMB公式"
+  },
+  {
+   "id": "yokosuka-20261009-sunsetlive",
+   "title": "Sun Set Live（10/9）",
+   "pref": "14",
+   "area": "横須賀市",
+   "venue": "いちご よこすかポートマーケット 屋内デッキ",
+   "cat": "ライブ",
+   "start": "2026-10-09",
+   "end": "2026-10-09",
+   "url": "https://yokosuka-kanko.com/events/events-22024/",
+   "src": "横須賀市観光協会"
   },
   {
    "id": "yoyogi-20261009-kyushu",
@@ -961,6 +1213,18 @@
    "end": "2026-10-10",
    "url": "https://yokanavi.com/events/274391",
    "src": "よかなび"
+  },
+  {
+   "id": "gora-20261010-rosegarden",
+   "title": "箱根強羅公園「秋のローズガーデン音楽会」（土日祝）",
+   "pref": "14",
+   "area": "箱根町",
+   "venue": "箱根強羅公園",
+   "cat": "公園・庭園",
+   "start": "2026-10-10",
+   "end": "2026-11-03",
+   "url": "https://www.kanagawa-kankou.or.jp/event/6919",
+   "src": "神奈川県観光協会"
   },
   {
    "id": "greensprings-20261010-yokai",
@@ -1239,6 +1503,18 @@
    "src": "よかなび"
   },
   {
+   "id": "nagoya-ku-20261010-meikeisai",
+   "title": "第24回 名経祭",
+   "pref": "23",
+   "area": "犬山市",
+   "venue": "名古屋経済大学 犬山キャンパス",
+   "cat": "フェス・祭り",
+   "start": "2026-10-10",
+   "end": "2026-10-11",
+   "url": "https://meikeisai.jp/",
+   "src": "名経祭実行委員会（名古屋経済大学）"
+  },
+  {
    "id": "nagoyajo-20261010-socialcastlemarket",
    "title": "SOCIAL CASTLE MARKET 2026",
    "pref": "23",
@@ -1285,6 +1561,18 @@
    "end": "2026-10-11",
    "url": "https://www.city.osaka.lg.jp/keizaisenryaku/page/0000683748.html",
    "src": "大阪市"
+  },
+  {
+   "id": "newomanyokohama-20261010-marche",
+   "title": "ニュウマン横浜「ギルティ&ギルトフリーマルシェ」",
+   "pref": "14",
+   "area": "横浜市西区",
+   "venue": "ニュウマン横浜",
+   "cat": "商業施設",
+   "start": "2026-10-10",
+   "end": "2026-10-12",
+   "url": "https://www.asobo-yokohama.com/event/2782/",
+   "src": "遊ぼう横浜（横浜市）"
   },
   {
    "id": "nobunkaen-20261010-akinomonogatari",
@@ -1369,6 +1657,18 @@
    "end": "2026-10-12",
    "url": "https://2026.yogafest.jp/",
    "src": "ヨガフェスタ横浜公式"
+  },
+  {
+   "id": "raumen-20261010-sugomenya",
+   "title": "札幌すみれ 村中伸宜監修「凄麺屋」3日間限定オープン",
+   "pref": "14",
+   "area": "横浜市港北区",
+   "venue": "新横浜ラーメン博物館",
+   "cat": "商業施設",
+   "start": "2026-10-10",
+   "end": "2026-10-12",
+   "url": "https://www.asobo-yokohama.com/event/2828/",
+   "src": "遊ぼう横浜（横浜市）"
   },
   {
    "id": "rekimin-20261010-bunjinga",
@@ -1551,6 +1851,18 @@
    "src": "東邦音楽大学"
   },
   {
+   "id": "tokyodome-20261010-cs1st",
+   "title": "2026 JERA クライマックスシリーズ セ ファーストステージ",
+   "pref": "13",
+   "area": "文京区",
+   "venue": "東京ドーム",
+   "cat": "スポーツ",
+   "start": "2026-10-10",
+   "end": "2026-10-12",
+   "url": "https://www.tokyo-dome.co.jp/dome/baseball/giants/",
+   "src": "東京ドーム公式"
+  },
+  {
    "id": "tokyoparks-20261010-momiji",
    "title": "【都立9庭園】紅葉めぐりスタンプラリー2026",
    "pref": "13",
@@ -1611,6 +1923,18 @@
    "src": "浦和大学"
   },
   {
+   "id": "uwamachi-20261010-uwamatsuri",
+   "title": "うわまつり 2026",
+   "pref": "14",
+   "area": "横須賀市",
+   "venue": "うわまち商店街・うわまち広場ほか",
+   "cat": "フェス・祭り",
+   "start": "2026-10-10",
+   "end": "2026-10-10",
+   "url": "https://yokosuka-kanko.com/events/events-21609/",
+   "src": "横須賀市観光協会"
+  },
+  {
    "id": "verny-20261010-yokosuka-curry",
    "title": "秋のよこすかカレーFes．2026",
    "pref": "14",
@@ -1621,6 +1945,30 @@
    "end": "2026-10-10",
    "url": "https://yokosuka-kanko.com/events/events-21523/",
    "src": "横須賀市観光協会"
+  },
+  {
+   "id": "womb-20261010-timehole",
+   "title": "TIME HOLE -REALROCKDESIGN 30TH ANNIVERSARY-",
+   "pref": "13",
+   "area": "渋谷区",
+   "venue": "WOMB",
+   "cat": "ライブ",
+   "start": "2026-10-10",
+   "end": "2026-10-10",
+   "url": "https://www.womb.co.jp/ja/events/101026",
+   "src": "WOMB公式"
+  },
+  {
+   "id": "yamashita-20261010-worldfesta",
+   "title": "ワールドフェスタ・ヨコハマ",
+   "pref": "14",
+   "area": "横浜市中区",
+   "venue": "山下公園 おまつり広場",
+   "cat": "フェス・祭り",
+   "start": "2026-10-10",
+   "end": "2026-10-11",
+   "url": "https://www.asobo-yokohama.com/event/2866/",
+   "src": "遊ぼう横浜（横浜市）"
   },
   {
    "id": "yokohama-20261010-jazzpromenade",
@@ -1656,6 +2004,18 @@
    "start": "2026-10-10",
    "end": "2026-10-10",
    "url": "https://yokosuka-kanko.com/events/events-22032/",
+   "src": "横須賀市観光協会"
+  },
+  {
+   "id": "yokosuka-20261010-oryosan",
+   "title": "おりょうさんまつり",
+   "pref": "14",
+   "area": "横須賀市",
+   "venue": "信楽寺・大津コミュニティセンター",
+   "cat": "フェス・祭り",
+   "start": "2026-10-10",
+   "end": "2026-10-11",
+   "url": "https://yokosuka-kanko.com/events/events-21406/",
    "src": "横須賀市観光協会"
   },
   {
@@ -1755,6 +2115,18 @@
    "src": "Zepp"
   },
   {
+   "id": "zounohana-20261010-recordcon",
+   "title": "YOKOHAMA RECORD CONVENTION2026",
+   "pref": "14",
+   "area": "横浜市中区",
+   "venue": "象の鼻パーク",
+   "cat": "フェス・祭り",
+   "start": "2026-10-10",
+   "end": "2026-10-11",
+   "url": "https://www.asobo-yokohama.com/event/2821/",
+   "src": "遊ぼう横浜（横浜市）"
+  },
+  {
    "id": "asakusa-20261011-awaodori",
    "title": "第５回 浅草阿波おどり",
    "pref": "13",
@@ -1825,6 +2197,18 @@
    "end": "2026-10-11",
    "url": "https://c-inshokutenkumiai.com/k1gp2026/",
    "src": "茅ヶ崎飲食店組合"
+  },
+  {
+   "id": "hamayaku-20261011-hamayakusai",
+   "title": "第21回 浜薬祭",
+   "pref": "14",
+   "area": "横浜市戸塚区",
+   "venue": "横浜薬科大学 キャンパス",
+   "cat": "フェス・祭り",
+   "start": "2026-10-11",
+   "end": "2026-10-11",
+   "url": "https://www.hamayaku.ac.jp/news/2026/09/82026",
+   "src": "横浜薬科大学"
   },
   {
    "id": "ikebukurohoncho-20261011-akindo",
@@ -2019,6 +2403,18 @@
    "src": "さいたま観光国際協会"
   },
   {
+   "id": "womb-20261011-solstice",
+   "title": "SOLSTICE MUSIC PRESENTS : SPACE TRIBE TRIBUTE",
+   "pref": "13",
+   "area": "渋谷区",
+   "venue": "WOMB",
+   "cat": "ライブ",
+   "start": "2026-10-11",
+   "end": "2026-10-11",
+   "url": "https://www.womb.co.jp/ja/events/101126",
+   "src": "WOMB公式"
+  },
+  {
    "id": "zepp-divercity-20261011-160995",
    "title": "Takanori Nishikawa LIVE TOUR 2026 REWIND of VOYAGE trAnsIt",
    "pref": "13",
@@ -2077,6 +2473,18 @@
    "end": "2026-10-12",
    "url": "https://www.expo70-park.jp/event/77572/",
    "src": "万博記念公園"
+  },
+  {
+   "id": "kodomonokuni-20261012-karadalab",
+   "title": "あそび まなび からだラボ 2026 AUTUMN at こどもの国",
+   "pref": "14",
+   "area": "横浜市青葉区",
+   "venue": "こどもの国",
+   "cat": "商業施設",
+   "start": "2026-10-12",
+   "end": "2026-10-12",
+   "url": "https://www.asobo-yokohama.com/event/2825/",
+   "src": "遊ぼう横浜（横浜市）"
   },
   {
    "id": "nakagawa-20261012-takenosato",
@@ -2307,6 +2715,18 @@
    "src": "横須賀市観光協会"
   },
   {
+   "id": "womb-20261016-deepdivedrive",
+   "title": "DEEP DIVE DRIVE",
+   "pref": "13",
+   "area": "渋谷区",
+   "venue": "WOMB",
+   "cat": "ライブ",
+   "start": "2026-10-16",
+   "end": "2026-10-16",
+   "url": "https://www.womb.co.jp/ja/events/101626",
+   "src": "WOMB公式"
+  },
+  {
    "id": "zepp-divercity-20261016-159051",
    "title": "筋肉少女帯ツアー2026｢奇談師｣　｢キラキラと輝くもの｣制作30周年記念完全再現ライブ+Ω",
    "pref": "13",
@@ -2439,6 +2859,18 @@
    "src": "ちば観光ナビ"
   },
   {
+   "id": "hamarikyu-20261017-frontrally",
+   "title": "新橋・竹芝フロントラリー～東京の玄関口のいまむかし～",
+   "pref": "13",
+   "area": "中央区",
+   "venue": "浜離宮恩賜庭園・旧芝離宮恩賜庭園",
+   "cat": "公園・庭園",
+   "start": "2026-10-17",
+   "end": "2026-11-03",
+   "url": "https://www.tokyo-park.or.jp/event_search/shimbashi-takeshiba-frontrally.html",
+   "src": "東京都公園協会"
+  },
+  {
    "id": "hibiya-20261017-gardeningshow",
    "title": "第24回日比谷公園ガーデニングショー2026",
    "pref": "13",
@@ -2487,6 +2919,18 @@
    "src": "東京フェスタ"
   },
   {
+   "id": "junshin-20261017-seibosai",
+   "title": "第29回 聖母祭",
+   "pref": "13",
+   "area": "八王子市",
+   "venue": "東京純心大学 八王子キャンパス",
+   "cat": "フェス・祭り",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "url": "https://www.t-junshin.ac.jp/univ/information/29th_mariasai.html",
+   "src": "東京純心大学"
+  },
+  {
    "id": "kawagoe-20261017-kawagoematsuri",
    "title": "川越まつり",
    "pref": "11",
@@ -2533,6 +2977,18 @@
    "end": "2026-10-18",
    "url": "https://tokyofesta.com/23ku/31982/",
    "src": "東京フェスタ"
+  },
+  {
+   "id": "kitakurihama-20261017-akimatsuri",
+   "title": "北久里浜秋まつり＆ハロウィン",
+   "pref": "14",
+   "area": "横須賀市",
+   "venue": "根岸交通公園・根岸第3公園",
+   "cat": "フェス・祭り",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "url": "https://yokosuka-kanko.com/events/events-21411/",
+   "src": "横須賀市観光協会"
   },
   {
    "id": "korokan-20261017-hikarinokorokan",
@@ -2593,6 +3049,18 @@
    "end": "2026-10-18",
    "url": "https://tokyofesta.com/kanagawa/29983/",
    "src": "東京フェスタ"
+  },
+  {
+   "id": "nagoya-20261017-yattokame",
+   "title": "やっとかめ文化祭DOORS",
+   "pref": "23",
+   "area": "名古屋市",
+   "venue": "名古屋市内一円",
+   "cat": "フェス・祭り",
+   "start": "2026-10-17",
+   "end": "2026-11-15",
+   "url": "https://www.nagoya-info.jp/event/detail/81/",
+   "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）"
   },
   {
    "id": "nagoyatv-20261017-dodematsuri",
@@ -2727,6 +3195,18 @@
    "src": "松蔭大学"
   },
   {
+   "id": "tokyodome-20261017-parkday",
+   "title": "TOKYO DOME PARK DAY",
+   "pref": "13",
+   "area": "文京区",
+   "venue": "東京ドーム",
+   "cat": "商業施設",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "url": "https://www.tokyo-dome.co.jp/dome/baseball/parkday/",
+   "src": "東京ドーム公式"
+  },
+  {
    "id": "ush-20261017-seishinsai",
    "title": "第62回 聖心祭",
    "pref": "13",
@@ -2749,6 +3229,18 @@
    "end": "2026-10-18",
    "url": "https://yokosuka-kanko.com/events/events-21878/",
    "src": "横須賀市観光協会"
+  },
+  {
+   "id": "womb-20261017-session25th",
+   "title": "SESSION 25TH ANNIVERSARY",
+   "pref": "13",
+   "area": "渋谷区",
+   "venue": "WOMB",
+   "cat": "ライブ",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "url": "https://www.womb.co.jp/ja/events/101726",
+   "src": "WOMB公式"
   },
   {
    "id": "yachiyo-20261017-dontomatsuri",
@@ -2775,6 +3267,18 @@
    "src": "山田池公園"
   },
   {
+   "id": "yamato-20261017-kottoichi",
+   "title": "神奈川やまと古民具骨董市（10月）",
+   "pref": "14",
+   "area": "大和市",
+   "venue": "大和駅東側プロムナード",
+   "cat": "フェス・祭り",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "url": "https://www.kanagawa-kankou.or.jp/event/1579",
+   "src": "神奈川県観光協会"
+  },
+  {
    "id": "yodogawa-20261017-naniwahanabi",
    "title": "令和８年 第38回 なにわ淀川花火大会",
    "pref": "27",
@@ -2785,6 +3289,18 @@
    "end": "2026-10-17",
    "url": "https://www.yodohanabi.com/3118.html",
    "src": "なにわ淀川花火大会公式"
+  },
+  {
+   "id": "yokosuka-20261017-dogmarket",
+   "title": "DOG FRIENDLY MARKET ＆CATS",
+   "pref": "14",
+   "area": "横須賀市",
+   "venue": "ハウジングプラザ横須賀",
+   "cat": "商業施設",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "url": "https://yokosuka-kanko.com/events/events-21862/",
+   "src": "横須賀市観光協会"
   },
   {
    "id": "yoyogi-20261017-caribe",
@@ -2895,6 +3411,18 @@
    "src": "よかなび"
   },
   {
+   "id": "iwasaki-20261018-akizora",
+   "title": "旧岩崎邸庭園「秋空の下で楽しむ旧岩崎邸庭園」",
+   "pref": "13",
+   "area": "台東区",
+   "venue": "旧岩崎邸庭園",
+   "cat": "公園・庭園",
+   "start": "2026-10-18",
+   "end": "2026-11-29",
+   "url": "https://www.tokyo-park.or.jp/event_search/10_11_11_24.html",
+   "src": "東京都公園協会"
+  },
+  {
    "id": "makuhari-20261018-samuraisonic",
    "title": "SAMURAI SONIC vol.8",
    "pref": "12",
@@ -2905,6 +3433,18 @@
    "end": "2026-10-18",
    "url": "https://www.m-messe.co.jp/event/detail/8891",
    "src": "幕張メッセ"
+  },
+  {
+   "id": "nagoyajo-20261018-begold",
+   "title": "名古屋城夜間ライトアップ Be GOLD",
+   "pref": "23",
+   "area": "名古屋市中区",
+   "venue": "名古屋城",
+   "cat": "フェス・祭り",
+   "start": "2026-10-18",
+   "end": "2026-10-24",
+   "url": "https://www.nagoya-info.jp/event/detail/1412/",
+   "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）"
   },
   {
    "id": "osaka-expo-garage-sale-2026-10",
@@ -3003,6 +3543,18 @@
    "src": "Zepp"
   },
   {
+   "id": "kinsan-20261019-night",
+   "title": "第28回 きんさんdeないと！",
+   "pref": "23",
+   "area": "名古屋市中区",
+   "venue": "錦三丁目の参加ビル各テナント",
+   "cat": "フェス・祭り",
+   "start": "2026-10-19",
+   "end": "2026-10-19",
+   "url": "https://www.nagoya-info.jp/event/detail/1327/",
+   "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）"
+  },
+  {
    "id": "zeppyokohama-20261019-debutante",
    "title": "AVAM presents『Débutante vol.10 Halloween SP』",
    "pref": "14",
@@ -3025,6 +3577,18 @@
    "end": "2026-10-20",
    "url": "https://www.zepp.co.jp/hall/yokohama/schedule/single/?rid=162488",
    "src": "Zepp"
+  },
+  {
+   "id": "matsuzakaya-20261021-fashion",
+   "title": "愛知ファクトリー×次世代ファッションデザイナーズWEEK",
+   "pref": "23",
+   "area": "名古屋市中区",
+   "venue": "松坂屋名古屋店 本館4階",
+   "cat": "商業施設",
+   "start": "2026-10-21",
+   "end": "2026-10-27",
+   "url": "https://www.nagoya-info.jp/event/detail/1416/",
+   "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）"
   }
  ]
 }
