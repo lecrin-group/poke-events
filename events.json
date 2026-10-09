@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-10-08T17:00:00+09:00",
+ "updated": "2026-10-09T17:00:00+09:00",
  "events": [
   {
    "id": "expo70-20260314-beforeafter",
@@ -27,6 +27,18 @@
    "src": "神奈川県観光協会"
   },
   {
+   "id": "ohori-sekai-20260801",
+   "title": "体験型ナイトアート「世解-SEKAI-」",
+   "pref": "40",
+   "area": "福岡市中央区",
+   "venue": "大濠公園 日本庭園",
+   "cat": "公園・庭園",
+   "start": "2026-08-01",
+   "end": "2026-12-31",
+   "url": "https://yokanavi.com/events/274534",
+   "src": "よかなび（福岡市）"
+  },
+  {
    "id": "yokohamamuseum-20260801-marie",
    "title": "マリー・アントワネット・スタイル",
    "pref": "14",
@@ -37,6 +49,30 @@
    "end": "2026-11-23",
    "url": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw12991",
    "src": "横浜市観光情報公式サイト"
+  },
+  {
+   "id": "kahala-yokohama-autumn-at-20260901",
+   "title": "ザ・カハラ・ホテル＆リゾート 横浜「オータムフェスティバルアフタヌーンティー」",
+   "pref": "14",
+   "area": "横浜市西区",
+   "venue": "ザ・カハラ・ホテル＆リゾート 横浜",
+   "cat": "商業施設",
+   "start": "2026-09-01",
+   "end": "2026-10-31",
+   "url": "https://www.kanagawa-kankou.or.jp/event/7815",
+   "src": "神奈川県観光協会"
+  },
+  {
+   "id": "newgrand-halloween-at-20260901",
+   "title": "ホテルニューグランド「ハロウィンアフタヌーンティー」",
+   "pref": "14",
+   "area": "横浜市中区",
+   "venue": "ホテルニューグランド",
+   "cat": "商業施設",
+   "start": "2026-09-01",
+   "end": "2026-10-31",
+   "url": "https://www.kanagawa-kankou.or.jp/event/7246",
+   "src": "神奈川県観光協会"
   },
   {
    "id": "newotani-makuhari-20260901-lounge-sweets",
@@ -219,6 +255,18 @@
    "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）"
   },
   {
+   "id": "oiso-prince-grape-at-20260914",
+   "title": "大磯プリンスホテル「ぶどう尽くしのアフタヌーンティー」",
+   "pref": "14",
+   "area": "大磯町",
+   "venue": "大磯プリンスホテル",
+   "cat": "商業施設",
+   "start": "2026-09-14",
+   "end": "2026-11-23",
+   "url": "https://www.kanagawa-kankou.or.jp/event/7017",
+   "src": "神奈川県観光協会"
+  },
+  {
    "id": "osanbashi-20260915-photogallery",
    "title": "横浜港大さん橋「クルーズ客船フォトギャラリー」",
    "pref": "14",
@@ -241,6 +289,18 @@
    "end": "2026-10-25",
    "url": "https://www.shirotori-garden.jp/calendar/syuurosai/index.html",
    "src": "白鳥庭園公式"
+  },
+  {
+   "id": "westin-yokohama-halloween-at-20260917",
+   "title": "ウェスティンホテル横浜「ハロウィンアフタヌーンティー」",
+   "pref": "14",
+   "area": "横浜市西区",
+   "venue": "ウェスティンホテル横浜",
+   "cat": "商業施設",
+   "start": "2026-09-17",
+   "end": "2026-10-31",
+   "url": "https://www.kanagawa-kankou.or.jp/event/7029",
+   "src": "神奈川県観光協会"
   },
   {
    "id": "lalatoyosu-20260918-oktoberfest",
@@ -675,18 +735,6 @@
    "src": "artagenda"
   },
   {
-   "id": "bigsight-20261007-hcr2026",
-   "title": "H.C.R.2026 第53回国際福祉機器展&フォーラム",
-   "pref": "13",
-   "area": "江東区",
-   "venue": "東京ビッグサイト 東1-3・7・8ホール",
-   "cat": "展示会",
-   "start": "2026-10-07",
-   "end": "2026-10-09",
-   "url": "https://www.hcr.or.jp",
-   "src": "H.C.R.（全国社会福祉協議会ほか）"
-  },
-  {
    "id": "daimaru-tokyo-20261007-sake-cheese",
    "title": "第108回 世界の酒とチーズフェスティバル",
    "pref": "13",
@@ -879,18 +927,6 @@
    "src": "オクトーバーフェスト公式"
   },
   {
-   "id": "kego-20261009-yokaban",
-   "title": "YOKABAN",
-   "pref": "40",
-   "area": "福岡市中央区",
-   "venue": "警固神社",
-   "cat": "ライブ",
-   "start": "2026-10-09",
-   "end": "2026-10-09",
-   "url": "https://yokanavi.com/events/274539",
-   "src": "よかなび"
-  },
-  {
    "id": "keyakinomori-20261009-gyoza-karaage4",
    "title": "餃子からあげ祭【第4陣】",
    "pref": "12",
@@ -1023,30 +1059,6 @@
    "src": "浦和ビアスタジアム公式"
   },
   {
-   "id": "womb-20261009-modest",
-   "title": "MODEST",
-   "pref": "13",
-   "area": "渋谷区",
-   "venue": "WOMB",
-   "cat": "ライブ",
-   "start": "2026-10-09",
-   "end": "2026-10-09",
-   "url": "https://www.womb.co.jp/ja/events/100926",
-   "src": "WOMB公式"
-  },
-  {
-   "id": "yokosuka-20261009-sunsetlive",
-   "title": "Sun Set Live（10/9）",
-   "pref": "14",
-   "area": "横須賀市",
-   "venue": "いちご よこすかポートマーケット 屋内デッキ",
-   "cat": "ライブ",
-   "start": "2026-10-09",
-   "end": "2026-10-09",
-   "url": "https://yokosuka-kanko.com/events/events-22024/",
-   "src": "横須賀市観光協会"
-  },
-  {
    "id": "yoyogi-20261009-kyushu",
    "title": "九州観光・物産フェアin代々木2026",
    "pref": "13",
@@ -1057,78 +1069,6 @@
    "end": "2026-10-12",
    "url": "https://kyushu-yoyogipark.com/",
    "src": "公式サイト"
-  },
-  {
-   "id": "zepp-divercity-20261009-159533",
-   "title": "Dannie May  TOUR 2026「YOKAI」",
-   "pref": "13",
-   "area": "江東区",
-   "venue": "Zepp DiverCity(TOKYO)",
-   "cat": "ライブ",
-   "start": "2026-10-09",
-   "end": "2026-10-09",
-   "url": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=159533",
-   "src": "Zepp DiverCity(TOKYO) 公式スケジュール"
-  },
-  {
-   "id": "zepp-fukuoka-20261009-156655",
-   "title": "杉⼭清貴 SOLO DEBUT 40TH ANNIVERSARY TOUR",
-   "pref": "40",
-   "area": "福岡市中央区",
-   "venue": "Zepp Fukuoka",
-   "cat": "ライブ",
-   "start": "2026-10-09",
-   "end": "2026-10-09",
-   "url": "https://www.zepp.co.jp/hall/fukuoka/schedule/single/?rid=156655",
-   "src": "Zepp Fukuoka 公式スケジュール"
-  },
-  {
-   "id": "zepp-haneda-20261009-159792",
-   "title": "hide with Spread Beaver Zepp Tour 2026“REPSYCLE THE REPSYCLED”",
-   "pref": "13",
-   "area": "大田区",
-   "venue": "Zepp Haneda(TOKYO)",
-   "cat": "ライブ",
-   "start": "2026-10-09",
-   "end": "2026-10-09",
-   "url": "https://www.zepp.co.jp/hall/haneda/schedule/single/?rid=159792",
-   "src": "Zepp Haneda(TOKYO) 公式スケジュール"
-  },
-  {
-   "id": "zepp-nagoya-20261009-158283",
-   "title": "筋肉少女帯 ツアー2026｢奇談師｣｢サーカス団パノラマ島へ帰る｣完全再現ライブ+α",
-   "pref": "23",
-   "area": "名古屋市中村区",
-   "venue": "Zepp Nagoya",
-   "cat": "ライブ",
-   "start": "2026-10-09",
-   "end": "2026-10-09",
-   "url": "https://www.zepp.co.jp/hall/nagoya/schedule/single/?rid=158283",
-   "src": "Zepp Nagoya 公式スケジュール"
-  },
-  {
-   "id": "zepp-osakabayside-20261009-159100",
-   "title": "04 Limited Sazabys ONE MAN TOUR 2026",
-   "pref": "27",
-   "area": "大阪市此花区",
-   "venue": "Zepp Osaka Bayside",
-   "cat": "ライブ",
-   "start": "2026-10-09",
-   "end": "2026-10-09",
-   "url": "https://www.zepp.co.jp/hall/osakabayside/schedule/single/?rid=159100",
-   "src": "Zepp Osaka Bayside 公式スケジュール"
-  },
-  {
-   "id": "zepp-yokohama-20261009-156991",
-   "title": "日食なつこ 未発表曲ツアー「エリア未来2 “ブラックホール”」",
-   "pref": "14",
-   "area": "横浜市西区",
-   "venue": "KT Zepp Yokohama",
-   "cat": "ライブ",
-   "start": "2026-10-09",
-   "end": "2026-10-09",
-   "url": "https://www.zepp.co.jp/hall/yokohama/schedule/single/?rid=156991",
-   "src": "KT Zepp Yokohama 公式スケジュール"
   },
   {
    "id": "aitech-20261010-aikodaisai",
@@ -1153,6 +1093,18 @@
    "end": "2026-10-11",
    "url": "https://www.atsugi-kankou.jp/soshiki/ac-kankou/ayu-festival9.html",
    "src": "厚木市観光協会"
+  },
+  {
+   "id": "azamino-contemporary17-20261010",
+   "title": "あざみ野コンテンポラリー vol.17 ニュータウン、インターフェアレンス",
+   "pref": "14",
+   "area": "横浜市青葉区",
+   "venue": "横浜市民ギャラリーあざみ野",
+   "cat": "展示会",
+   "start": "2026-10-10",
+   "end": "2026-11-03",
+   "url": "https://www.asobo-yokohama.com/event/2509/",
+   "src": "遊ぼう横浜（横浜市観光協会）"
   },
   {
    "id": "chibakyodo-20261010-chibamachi-anthology",
@@ -1837,6 +1789,18 @@
    "end": "2026-10-11",
    "url": "https://www.tdc.ac.jp/information/post-4386/",
    "src": "東京歯科大学"
+  },
+  {
+   "id": "tenshiba-junior-sports-20261010",
+   "title": "ジュニアスポーツフェスティバル in てんしば",
+   "pref": "27",
+   "area": "大阪市天王寺区",
+   "venue": "天王寺公園エントランスエリア「てんしば」",
+   "cat": "スポーツ",
+   "start": "2026-10-10",
+   "end": "2026-10-11",
+   "url": "https://www.tennoji-park.jp/event/detail/cb4a524b-9900-4d00-ac13-1364387ce30c",
+   "src": "てんしば（天王寺公園）公式"
   },
   {
    "id": "tohomusic-20261010-musicfes",
@@ -2859,6 +2823,18 @@
    "src": "ちば観光ナビ"
   },
   {
+   "id": "endoji-hon-sanpo-20261017",
+   "title": "名古屋駅円頓寺 本のさんぽみち",
+   "pref": "23",
+   "area": "名古屋市西区",
+   "venue": "円頓寺商店街",
+   "cat": "フェス・祭り",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "url": "https://www.nagoya-info.jp/event/detail/709/",
+   "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）"
+  },
+  {
    "id": "hamarikyu-20261017-frontrally",
    "title": "新橋・竹芝フロントラリー～東京の玄関口のいまむかし～",
    "pref": "13",
@@ -2905,6 +2881,18 @@
    "end": "2026-10-18",
    "url": "https://www.hosei-tamafes.com/about.html",
    "src": "第79回自主法政祭実行委員会多摩地区"
+  },
+  {
+   "id": "hosensai-20261017",
+   "title": "宝仙祭",
+   "pref": "13",
+   "area": "中野区",
+   "venue": "こども教育宝仙大学",
+   "cat": "フェス・祭り",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "url": "https://www.hosen.ac.jp/public/kodom_fest_2026/",
+   "src": "こども教育宝仙大学"
   },
   {
    "id": "hungary-20261017-festival",
@@ -3495,6 +3483,30 @@
    "src": "大宮ソニックシティ"
   },
   {
+   "id": "tenshiba-ekisaiting-20261018",
+   "title": "駅祭ティング2026 in 天王寺公園",
+   "pref": "27",
+   "area": "大阪市天王寺区",
+   "venue": "天王寺公園エントランスエリア「てんしば」",
+   "cat": "フェス・祭り",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "url": "https://www.tennoji-park.jp/event/detail/a08a8680-51a3-4f41-bfd5-400af07934a2",
+   "src": "てんしば（天王寺公園）公式"
+  },
+  {
+   "id": "womb-20261018-asktask",
+   "title": "ASK TASK",
+   "pref": "13",
+   "area": "渋谷区",
+   "venue": "WOMB",
+   "cat": "ライブ",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "url": "https://www.womb.co.jp/ja/events/101826",
+   "src": "WOMB 公式"
+  },
+  {
    "id": "zepp-divercity-20261018-158645",
    "title": "HERO COMPLEX “情熱たましい 2026”",
    "pref": "13",
@@ -3589,6 +3601,54 @@
    "end": "2026-10-27",
    "url": "https://www.nagoya-info.jp/event/detail/1416/",
    "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）"
+  },
+  {
+   "id": "zepp-divercity-20261023-akg",
+   "title": "ASIAN KUNG-FU GENERATION Tour 2026 \"Midage Fanclub\"",
+   "pref": "13",
+   "area": "江東区",
+   "venue": "Zepp DiverCity(TOKYO)",
+   "cat": "ライブ",
+   "start": "2026-10-23",
+   "end": "2026-10-23",
+   "url": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=157826",
+   "src": "Zepp DiverCity(TOKYO) 公式"
+  },
+  {
+   "id": "zepp-fukuoka-20261023-mhib",
+   "title": "My Hair is Bad presents「ノーブルホームランツアー」",
+   "pref": "40",
+   "area": "福岡市中央区",
+   "venue": "Zepp Fukuoka",
+   "cat": "ライブ",
+   "start": "2026-10-23",
+   "end": "2026-10-23",
+   "url": "https://www.zepp.co.jp/hall/fukuoka/schedule/single/?rid=156661",
+   "src": "Zepp Fukuoka 公式"
+  },
+  {
+   "id": "zepp-nagoya-20261023-ziyoou",
+   "title": "女王蜂 全国ツアー2026「星」",
+   "pref": "23",
+   "area": "名古屋市中村区",
+   "venue": "Zepp Nagoya",
+   "cat": "ライブ",
+   "start": "2026-10-23",
+   "end": "2026-10-23",
+   "url": "https://www.zepp.co.jp/hall/nagoya/schedule/single/?rid=158388",
+   "src": "Zepp Nagoya 公式"
+  },
+  {
+   "id": "zepp-yokohama-20261023-lindberg",
+   "title": "LINDBERG LIVE TOUR 2026「Zepp STEP JUMP」",
+   "pref": "14",
+   "area": "横浜市西区",
+   "venue": "KT Zepp Yokohama",
+   "cat": "ライブ",
+   "start": "2026-10-23",
+   "end": "2026-10-23",
+   "url": "https://www.zepp.co.jp/hall/yokohama/schedule/single/?rid=161402",
+   "src": "KT Zepp Yokohama 公式"
   }
  ]
 }
