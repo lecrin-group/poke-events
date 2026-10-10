@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-10-09T17:00:00+09:00",
+ "updated": "2026-10-10T17:00:00+09:00",
  "events": [
   {
    "id": "expo70-20260314-beforeafter",
@@ -13,6 +13,18 @@
    "end": "2027-02-28",
    "url": "https://www.expo70-park.jp/event/74555/",
    "src": "万博記念公園"
+  },
+  {
+   "id": "kadcul-20260425-galaxy999",
+   "title": "企画展 銀河鉄道999 THE GALAXY EXPERIENCE あの旅は、まだ続いている。",
+   "pref": "11",
+   "area": "所沢市",
+   "venue": "角川武蔵野ミュージアム",
+   "cat": "展示会",
+   "start": "2026-04-25",
+   "end": "2026-11-23",
+   "url": "https://kadcul.com/event/260",
+   "src": "角川武蔵野ミュージアム公式"
   },
   {
    "id": "seimeinohoshi-20260718-satoyama",
@@ -303,6 +315,18 @@
    "src": "神奈川県観光協会"
   },
   {
+   "id": "kadcul-20260918-essaymanga",
+   "title": "企画展 わたしをすくう エッセイマンガの処方箋展",
+   "pref": "11",
+   "area": "所沢市",
+   "venue": "角川武蔵野ミュージアム",
+   "cat": "展示会",
+   "start": "2026-09-18",
+   "end": "2027-01-11",
+   "url": "https://kadcul.com/event/276",
+   "src": "角川武蔵野ミュージアム公式"
+  },
+  {
    "id": "lalatoyosu-20260918-oktoberfest",
    "title": "オクトーバーフェスト2026 in アーバンドック ららぽーと豊洲",
    "pref": "13",
@@ -409,6 +433,18 @@
    "end": "2026-11-23",
    "url": "https://www.kanagawa-kankou.or.jp/event/7300",
    "src": "神奈川県観光協会"
+  },
+  {
+   "id": "kadcul-20260919-matsumoto",
+   "title": "『銀河鉄道999』50周年プロジェクト 松本零士展 創作の旅路",
+   "pref": "11",
+   "area": "所沢市",
+   "venue": "角川武蔵野ミュージアム",
+   "cat": "展示会",
+   "start": "2026-09-19",
+   "end": "2026-10-26",
+   "url": "https://kadcul.com/event/274",
+   "src": "角川武蔵野ミュージアム公式"
   },
   {
    "id": "nagoya-art-20260919-gogh",
@@ -3627,6 +3663,18 @@
    "src": "Zepp Fukuoka 公式"
   },
   {
+   "id": "zepp-haneda-160954",
+   "title": "3House One Man Tour “PLAY”",
+   "pref": "13",
+   "area": "大田区",
+   "venue": "Zepp Haneda(TOKYO)",
+   "cat": "ライブ",
+   "start": "2026-10-23",
+   "end": "2026-10-23",
+   "url": "https://www.zepp.co.jp/hall/haneda/schedule/single/?rid=160954",
+   "src": "Zepp公式"
+  },
+  {
    "id": "zepp-nagoya-20261023-ziyoou",
    "title": "女王蜂 全国ツアー2026「星」",
    "pref": "23",
@@ -3639,6 +3687,18 @@
    "src": "Zepp Nagoya 公式"
   },
   {
+   "id": "zepp-osakabayside-158064",
+   "title": "HEROINES HALLOWEEN",
+   "pref": "27",
+   "area": "大阪市此花区",
+   "venue": "Zepp Osaka Bayside",
+   "cat": "ライブ",
+   "start": "2026-10-23",
+   "end": "2026-10-23",
+   "url": "https://www.zepp.co.jp/hall/osakabayside/schedule/single/?rid=158064",
+   "src": "Zepp公式"
+  },
+  {
    "id": "zepp-yokohama-20261023-lindberg",
    "title": "LINDBERG LIVE TOUR 2026「Zepp STEP JUMP」",
    "pref": "14",
@@ -3649,6 +3709,90 @@
    "end": "2026-10-23",
    "url": "https://www.zepp.co.jp/hall/yokohama/schedule/single/?rid=161402",
    "src": "KT Zepp Yokohama 公式"
+  },
+  {
+   "id": "hoshi-20261024-hoshiyakusai",
+   "title": "第54回 星薬祭 BEYOND",
+   "pref": "13",
+   "area": "品川区",
+   "venue": "星薬科大学 荏原キャンパス",
+   "cat": "フェス・祭り",
+   "start": "2026-10-24",
+   "end": "2026-10-25",
+   "url": "https://hoshiyakufes.wixsite.com/mysite",
+   "src": "星薬祭実行委員会公式"
+  },
+  {
+   "id": "jikei-20261024-faveur",
+   "title": "第10回 慈恵祭（ファブール祭）",
+   "pref": "13",
+   "area": "調布市",
+   "venue": "東京慈恵会医科大学 国領キャンパス",
+   "cat": "フェス・祭り",
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "url": "https://www.jikei.ac.jp/university/nursing/campuslife/faveur-festival/",
+   "src": "東京慈恵会医科大学公式"
+  },
+  {
+   "id": "tamauniv-20261024-tamasai",
+   "title": "多摩祭ハロウィンパーティ2026",
+   "pref": "13",
+   "area": "多摩市",
+   "venue": "多摩大学 多摩キャンパス",
+   "cat": "フェス・祭り",
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "url": "https://tamasai2026.tamauniv.jp/",
+   "src": "多摩大学 多摩祭公式"
+  },
+  {
+   "id": "zepp-fukuoka-156662",
+   "title": "My Hair is Bad presents「ノーブルホームランツアー」",
+   "pref": "40",
+   "area": "福岡市中央区",
+   "venue": "Zepp Fukuoka",
+   "cat": "ライブ",
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "url": "https://www.zepp.co.jp/hall/fukuoka/schedule/single/?rid=156662",
+   "src": "Zepp公式"
+  },
+  {
+   "id": "zepp-haneda-158625",
+   "title": "plenty re:birthツアー2026 \"いま終わりの先へ\"",
+   "pref": "13",
+   "area": "大田区",
+   "venue": "Zepp Haneda(TOKYO)",
+   "cat": "ライブ",
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "url": "https://www.zepp.co.jp/hall/haneda/schedule/single/?rid=158625",
+   "src": "Zepp公式"
+  },
+  {
+   "id": "zepp-osakabayside-158547",
+   "title": "THE YELLOW MONKEY TOUR 2026 THE COUNTDOWN〜60分1本勝負〜",
+   "pref": "27",
+   "area": "大阪市此花区",
+   "venue": "Zepp Osaka Bayside",
+   "cat": "ライブ",
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "url": "https://www.zepp.co.jp/hall/osakabayside/schedule/single/?rid=158547",
+   "src": "Zepp公式"
+  },
+  {
+   "id": "zepp-yokohama-155662",
+   "title": "「あぶない刑事」40周年記念　ABUDEKA　SPECIAL FILM CONCERT　FINAL　これでホントにさらば・・かな・・",
+   "pref": "14",
+   "area": "横浜市西区",
+   "venue": "KT Zepp Yokohama",
+   "cat": "ライブ",
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "url": "https://www.zepp.co.jp/hall/yokohama/schedule/single/?rid=155662",
+   "src": "Zepp公式"
   }
  ]
 }
