@@ -1,7 +1,19 @@
 {
  "schema": 1,
- "updated": "2026-10-12T17:00:00+09:00",
+ "updated": "2026-10-13T17:00:00+09:00",
  "events": [
+  {
+   "id": "mazak-20260228-shozou",
+   "title": "ヤマザキマザック美術館 所蔵品展―春から秋へ―",
+   "pref": "23",
+   "area": "名古屋市東区",
+   "venue": "ヤマザキマザック美術館",
+   "cat": "展示会",
+   "start": "2026-02-28",
+   "end": "2026-10-18",
+   "url": "https://aichinow.pref.aichi.jp/events/detail/3614/",
+   "src": "Aichi Now（愛知県公式観光サイト）"
+  },
   {
    "id": "expo70-20260314-beforeafter",
    "title": "EXPO'70パビリオン企画展 1970年大阪万博ビフォー・アフター展",
@@ -13,6 +25,18 @@
    "end": "2027-02-28",
    "url": "https://www.expo70-park.jp/event/74555/",
    "src": "万博記念公園"
+  },
+  {
+   "id": "scmaglev-20260325-hoshusha",
+   "title": "リニア・鉄道館 第15回企画展 東海道新幹線の保守用車・事業用車 ～安全を支える影の主役たち～",
+   "pref": "23",
+   "area": "名古屋市港区",
+   "venue": "リニア・鉄道館",
+   "cat": "展示会",
+   "start": "2026-03-25",
+   "end": "2027-01-25",
+   "url": "https://aichinow.pref.aichi.jp/events/detail/3654/",
+   "src": "Aichi Now（愛知県公式観光サイト）"
   },
   {
    "id": "kadcul-20260425-galaxy999",
@@ -27,6 +51,18 @@
    "src": "角川武蔵野ミュージアム公式"
   },
   {
+   "id": "hoshigaoka-20260701-taketomori",
+   "title": "みんなで創る夏のイルミネーション「竹灯り」2026",
+   "pref": "23",
+   "area": "名古屋市千種区",
+   "venue": "星が丘テラス EAST大階段",
+   "cat": "商業施設",
+   "start": "2026-07-01",
+   "end": "2026-11-08",
+   "url": "https://aichinow.pref.aichi.jp/events/detail/4112/",
+   "src": "Aichi Now（愛知県公式観光サイト）"
+  },
+  {
    "id": "seimeinohoshi-20260718-satoyama",
    "title": "神奈川県立生命の星・地球博物館 特別展「しらべて分かった！里山にくらす動物たち」",
    "pref": "14",
@@ -37,6 +73,18 @@
    "end": "2026-11-08",
    "url": "https://www.kanagawa-kankou.or.jp/event/7772",
    "src": "神奈川県観光協会"
+  },
+  {
+   "id": "kawara-20260725-tone",
+   "title": "高浜市やきものの里かわら美術館 企画展「刀根里衣 絵本原画展」",
+   "pref": "23",
+   "area": "高浜市",
+   "venue": "高浜市やきものの里かわら美術館・図書館",
+   "cat": "展示会",
+   "start": "2026-07-25",
+   "end": "2026-10-18",
+   "url": "https://aichinow.pref.aichi.jp/events/detail/3505/",
+   "src": "Aichi Now（愛知県公式観光サイト）"
   },
   {
    "id": "ohori-sekai-20260801",
@@ -843,6 +891,18 @@
    "src": "東京都公園協会"
   },
   {
+   "id": "motherfarm-20261001-akifes",
+   "title": "マザー牧場 秋フェス",
+   "pref": "12",
+   "area": "富津市",
+   "venue": "マザー牧場",
+   "cat": "商業施設",
+   "start": "2026-10-01",
+   "end": "2026-10-31",
+   "url": "https://www.motherfarm.co.jp/information/news/detail.php?CN=432299",
+   "src": "マザー牧場"
+  },
+  {
    "id": "nagoyajo-shachi-20261001",
    "title": "西の丸御蔵城宝館 開館5周年記念特別展「黄金をまとう鯱」",
    "pref": "23",
@@ -987,6 +1047,18 @@
    "src": "Aichi Now（愛知県公式観光サイト）"
   },
   {
+   "id": "motherfarm-20261003-agrodome30",
+   "title": "アグロドーム30周年特別イベント",
+   "pref": "12",
+   "area": "富津市",
+   "venue": "マザー牧場",
+   "cat": "商業施設",
+   "start": "2026-10-03",
+   "end": "2027-01-11",
+   "url": "https://www.motherfarm.co.jp/information/news/detail.php?CN=434766",
+   "src": "マザー牧場"
+  },
+  {
    "id": "motherfarm-20261003-halloween",
    "title": "マザー牧場ハロウィーン",
    "pref": "12",
@@ -1095,18 +1167,6 @@
    "src": "artagenda"
   },
   {
-   "id": "hakata-20261008-kimurahakataori",
-   "title": "木村博多織手織り専門工房展",
-   "pref": "40",
-   "area": "福岡市博多区",
-   "venue": "はかた伝統工芸館",
-   "cat": "展示会",
-   "start": "2026-10-08",
-   "end": "2026-10-13",
-   "url": "https://yokanavi.com/events/274550",
-   "src": "よかなび"
-  },
-  {
    "id": "hands-yokohama-20261008-lovebullet",
    "title": "ラブ・バレット POP UP STORE in ハンズ",
    "pref": "14",
@@ -1131,30 +1191,6 @@
    "src": "下北沢カレーフェスティバル公式"
   },
   {
-   "id": "tobu-ikebukuro-20261008-shikoku",
-   "title": "四国4県 味めぐり",
-   "pref": "13",
-   "area": "豊島区",
-   "venue": "東武百貨店 池袋店 8階 催事場",
-   "cat": "商業施設",
-   "start": "2026-10-08",
-   "end": "2026-10-13",
-   "url": "https://www.tobu-dept.jp/ikebukuro/event/detail/9186/",
-   "src": "東武百貨店"
-  },
-  {
-   "id": "tobu-ikebukuro-20261008-showaheisei-retro",
-   "title": "第10回 昭和平成レトロな世界展",
-   "pref": "13",
-   "area": "豊島区",
-   "venue": "東武百貨店 池袋店 8階 催事場",
-   "cat": "商業施設",
-   "start": "2026-10-08",
-   "end": "2026-10-13",
-   "url": "https://www.tobu-dept.jp/ikebukuro/event/detail/9185/",
-   "src": "東武百貨店"
-  },
-  {
    "id": "tokugawa-20261008-tokimekuhako",
    "title": "【特別展】ときめく箱",
    "pref": "23",
@@ -1177,18 +1213,6 @@
    "end": "2026-12-13",
    "url": "https://aichinow.pref.aichi.jp/events/detail/3330/",
    "src": "Aichi Now（愛知県公式観光サイト）"
-  },
-  {
-   "id": "akarenga-20261009-oimo",
-   "title": "横浜おいも万博2026",
-   "pref": "14",
-   "area": "横浜市中区",
-   "venue": "横浜赤レンガ倉庫 イベント広場",
-   "cat": "フェス・祭り",
-   "start": "2026-10-09",
-   "end": "2026-10-13",
-   "url": "https://www.yokohama-akarenga.jp/event/oimo-event/",
-   "src": "横浜赤レンガ倉庫公式"
   },
   {
    "id": "hakatagawa-20261009-kawadoko",
@@ -1551,6 +1575,18 @@
    "src": "Tokyo Art Beat"
   },
   {
+   "id": "tif-20261015-judyongg",
+   "title": "ジュディ・オング歌手生活60周年記念コンサート「Diva60 The legend of Judy Ongg」",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "東京国際フォーラム",
+   "cat": "ライブ",
+   "start": "2026-10-15",
+   "end": "2026-10-15",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261015_0413",
+   "src": "東京国際フォーラム"
+  },
+  {
    "id": "umihachiman-20261015-houjoue",
    "title": "【宇美八幡宮】放生会",
    "pref": "40",
@@ -1573,6 +1609,18 @@
    "end": "2026-10-15",
    "url": "https://www.zepp.co.jp/hall/yokohama/schedule/single/?rid=160300",
    "src": "Zepp"
+  },
+  {
+   "id": "aichi-20261016-handa-openfactory",
+   "title": "はんだオープンファクトリー2026",
+   "pref": "23",
+   "area": "半田市",
+   "venue": "半田市内参加事業所・半田赤レンガ建物",
+   "cat": "商業施設",
+   "start": "2026-10-16",
+   "end": "2026-10-17",
+   "url": "https://aichinow.pref.aichi.jp/events/detail/3856/",
+   "src": "Aichi Now（愛知県公式観光サイト）"
   },
   {
    "id": "makuhari-20261016-kagumesse",
@@ -1827,6 +1875,18 @@
    "src": "東京フェスタ"
   },
   {
+   "id": "atsuta-20261017-niinamesai",
+   "title": "熱田神宮「新嘗祭 並 神嘗奉祝祭」",
+   "pref": "23",
+   "area": "名古屋市熱田区",
+   "venue": "熱田神宮",
+   "cat": "フェス・祭り",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "url": "https://aichinow.pref.aichi.jp/events/detail/2394/",
+   "src": "Aichi Now（愛知県公式観光サイト）"
+  },
+  {
    "id": "chibamonorail-20261017-matsuri",
    "title": "ちばモノレール祭り2026",
    "pref": "12",
@@ -1849,6 +1909,18 @@
    "end": "2026-10-18",
    "url": "https://www.nagoya-info.jp/event/detail/709/",
    "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）"
+  },
+  {
+   "id": "furukawa-20261017-paris",
+   "title": "古川美術館財団設立40周年記念展「異邦人たちのパリ－ユトリロ/キスリング/レオナール・フジタ」展",
+   "pref": "23",
+   "area": "名古屋市千種区",
+   "venue": "古川美術館",
+   "cat": "展示会",
+   "start": "2026-10-17",
+   "end": "2027-01-31",
+   "url": "https://aichinow.pref.aichi.jp/events/detail/3620/",
+   "src": "Aichi Now（愛知県公式観光サイト）"
   },
   {
    "id": "hakata-toumyou-20261017",
@@ -2799,6 +2871,18 @@
    "src": "東京ナイトマーケット 公式"
   },
   {
+   "id": "tif-20261021-yamauchikeisuke",
+   "title": "山内惠介 五大都市コンサート2026",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "東京国際フォーラム",
+   "cat": "ライブ",
+   "start": "2026-10-21",
+   "end": "2026-10-21",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261021Fr-H202610084",
+   "src": "東京国際フォーラム"
+  },
+  {
    "id": "canal-americandream-20261022",
    "title": "PARCO PRODUCE 2026「アメリカン・ドリーム」",
    "pref": "40",
@@ -3049,6 +3133,18 @@
    "end": "2026-10-25",
    "url": "https://www.nagoya-info.jp/event/detail/521/",
    "src": "名古屋コンシェルジュ（名古屋観光情報）"
+  },
+  {
+   "id": "saigaku-20261024-saigakusai",
+   "title": "第24回埼学祭・第39回明暁祭",
+   "pref": "11",
+   "area": "川口市",
+   "venue": "埼玉学園大学・川口短期大学 校舎",
+   "cat": "フェス・祭り",
+   "start": "2026-10-24",
+   "end": "2026-10-25",
+   "url": "https://www.saigaku.ac.jp/campus-life/festival/news-2026100701/",
+   "src": "埼玉学園大学"
   },
   {
    "id": "saijunshin-20261024-junshinsai44",
