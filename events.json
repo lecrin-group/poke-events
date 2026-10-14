@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-10-13T17:00:00+09:00",
+ "updated": "2026-10-14T17:05:00+09:00",
  "events": [
   {
    "id": "mazak-20260228-shozou",
@@ -61,6 +61,18 @@
    "end": "2026-11-08",
    "url": "https://aichinow.pref.aichi.jp/events/detail/4112/",
    "src": "Aichi Now（愛知県公式観光サイト）"
+  },
+  {
+   "id": "railwaymuseum-20260711-koukoku",
+   "title": "鉄道博物館 収蔵資料展 いろいろ、とりどり。鉄道広告 ～あの日、あの場所、あの広告～",
+   "pref": "11",
+   "area": "さいたま市大宮区",
+   "venue": "鉄道博物館",
+   "cat": "商業施設",
+   "start": "2026-07-11",
+   "end": "2026-11-09",
+   "url": "https://www.railway-museum.jp/event/exhibition.html",
+   "src": "鉄道博物館"
   },
   {
    "id": "seimeinohoshi-20260718-satoyama",
@@ -1623,6 +1635,18 @@
    "src": "Aichi Now（愛知県公式観光サイト）"
   },
   {
+   "id": "baytokyu-20261016-kuri-at",
+   "title": "横浜ベイホテル東急「アフタヌーンティー ～栗～」",
+   "pref": "14",
+   "area": "横浜市西区",
+   "venue": "横浜ベイホテル東急",
+   "cat": "商業施設",
+   "start": "2026-10-16",
+   "end": "2026-11-30",
+   "url": "https://www.kanagawa-kankou.or.jp/event/7847",
+   "src": "神奈川県観光協会"
+  },
+  {
    "id": "makuhari-20261016-kagumesse",
    "title": "家具メッセバザールin幕張メッセ",
    "pref": "12",
@@ -2811,6 +2835,18 @@
    "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）"
   },
   {
+   "id": "nagoya-20261019-fushimijazz",
+   "title": "FUSHIMI Jazz Night",
+   "pref": "23",
+   "area": "名古屋市中区",
+   "venue": "名古屋インターシティ 1階公開空地ほか",
+   "cat": "ライブ",
+   "start": "2026-10-19",
+   "end": "2026-10-23",
+   "url": "https://www.nagoya-info.jp/event/detail/1437/",
+   "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）"
+  },
+  {
    "id": "tf-20261019-d215fc",
    "title": "浄樂寺 十夜法要・運慶仏特別拝観",
    "pref": "14",
@@ -2919,6 +2955,18 @@
    "src": "万博記念公園公式"
   },
   {
+   "id": "mazak-20261023-washi",
+   "title": "和紙を知る ILLUSION 柴崎幸次のあかり",
+   "pref": "23",
+   "area": "名古屋市東区",
+   "venue": "ヤマザキマザック美術館",
+   "cat": "展示会",
+   "start": "2026-10-23",
+   "end": "2027-02-28",
+   "url": "https://www.nagoya-info.jp/event/detail/1398/",
+   "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）"
+  },
+  {
    "id": "tif-20261023-audio-show",
    "title": "2026東京インターナショナルオーディオショウ",
    "pref": "13",
@@ -2965,6 +3013,18 @@
    "end": "2026-10-23",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261023_0318",
    "src": "東京国際フォーラム 公式"
+  },
+  {
+   "id": "yokoyama-20261023-noritake",
+   "title": "横山美術館所蔵品「優美なるオールドノリタケ×ノリタケ」",
+   "pref": "23",
+   "area": "名古屋市東区",
+   "venue": "横山美術館",
+   "cat": "展示会",
+   "start": "2026-10-23",
+   "end": "2027-03-22",
+   "url": "https://www.nagoya-info.jp/event/detail/1432/",
+   "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）"
   },
   {
    "id": "zepp-divercity-20261023-akg",
@@ -3351,6 +3411,18 @@
    "src": "万博記念公園公式"
   },
   {
+   "id": "lionhiroba-20261025-japanesetea",
+   "title": "Japanese Tea Experience～日本茶体験～",
+   "pref": "40",
+   "area": "福岡市中央区",
+   "venue": "ライオン広場",
+   "cat": "フェス・祭り",
+   "start": "2026-10-25",
+   "end": "2026-10-25",
+   "url": "https://yokanavi.com/events/274549",
+   "src": "よかなび（福岡市観光情報）"
+  },
+  {
    "id": "tf-20261025-2ae9c7",
    "title": "冬桜まつり2026",
    "pref": "11",
@@ -3457,6 +3529,18 @@
    "end": "2026-10-25",
    "url": "https://www.zepp.co.jp/hall/osakabayside/schedule/single/?rid=165980",
    "src": "Zepp公式"
+  },
+  {
+   "id": "tif-20261028-kumiaimatsuri",
+   "title": "組合まつり in TOKYO ～技あり、食あり、Nipponの逸品～",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "東京国際フォーラム",
+   "cat": "フェス・祭り",
+   "start": "2026-10-28",
+   "end": "2026-10-29",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261028Fr-H202610037",
+   "src": "東京国際フォーラム"
   }
  ]
 }
