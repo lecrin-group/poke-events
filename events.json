@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-10-15T17:05:00+09:00",
+ "updated": "2026-10-16T17:05:00+09:00",
  "events": [
   {
    "id": "mazak-20260228-shozou",
@@ -1695,18 +1695,6 @@
    "src": "パナソニック汐留美術館"
   },
   {
-   "id": "tif-20261015-judyongg",
-   "title": "ジュディ・オング歌手生活60周年記念コンサート「Diva60 The legend of Judy Ongg」",
-   "pref": "13",
-   "area": "千代田区",
-   "venue": "東京国際フォーラム",
-   "cat": "ライブ",
-   "start": "2026-10-15",
-   "end": "2026-10-15",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261015_0413",
-   "src": "東京国際フォーラム"
-  },
-  {
    "id": "umihachiman-20261015-houjoue",
    "title": "【宇美八幡宮】放生会",
    "pref": "40",
@@ -1717,18 +1705,6 @@
    "end": "2026-10-16",
    "url": "https://www.crossroadfukuoka.jp/event/13550",
    "src": "クロスロードふくおか"
-  },
-  {
-   "id": "zeppyokohama-20261015-retrorirron",
-   "title": "レトロリロン Zepp Tour 2026「アブノーマルライフハック」",
-   "pref": "14",
-   "area": "横浜市西区",
-   "venue": "KT Zepp Yokohama",
-   "cat": "ライブ",
-   "start": "2026-10-15",
-   "end": "2026-10-15",
-   "url": "https://www.zepp.co.jp/hall/yokohama/schedule/single/?rid=160300",
-   "src": "Zepp"
   },
   {
    "id": "aichi-20261016-handa-openfactory",
@@ -1765,6 +1741,18 @@
    "end": "2026-10-18",
    "url": "https://www.expo70-park.jp/event/77076/",
    "src": "万博記念公園公式"
+  },
+  {
+   "id": "hammerhead-20261016-7th-days",
+   "title": "横浜ハンマーヘッド開業7周年「ハンマーヘッドなDays」",
+   "pref": "14",
+   "area": "横浜市中区",
+   "venue": "横浜ハンマーヘッド",
+   "cat": "商業施設",
+   "start": "2026-10-16",
+   "end": "2026-11-15",
+   "url": "https://www.hammerhead.co.jp/eventinfo/detail/?cd=000393",
+   "src": "横浜ハンマーヘッド公式"
   },
   {
    "id": "makuhari-20261016-kagumesse",
@@ -3733,6 +3721,54 @@
    "end": "2026-10-29",
    "url": "https://www.mtvjapan.com/event/vmaj/2026/",
    "src": "MTV JAPAN（東京ドーム公式スケジュール掲載）"
+  },
+  {
+   "id": "zepp-divercity-161169",
+   "title": "INORAN TOUR Determine 2026 GRAND FINAL \"Naked Again\"",
+   "pref": "13",
+   "area": "江東区",
+   "venue": "Zepp DiverCity(TOKYO)",
+   "cat": "ライブ",
+   "start": "2026-10-30",
+   "end": "2026-10-30",
+   "url": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=161169",
+   "src": "Zepp公式スケジュール"
+  },
+  {
+   "id": "zepp-haneda-159049",
+   "title": "女王蜂 全国ツアー2026「星」",
+   "pref": "13",
+   "area": "大田区",
+   "venue": "Zepp Haneda(TOKYO)",
+   "cat": "ライブ",
+   "start": "2026-10-30",
+   "end": "2026-10-30",
+   "url": "https://www.zepp.co.jp/hall/haneda/schedule/single/?rid=159049",
+   "src": "Zepp公式スケジュール"
+  },
+  {
+   "id": "zepp-nagoya-158543",
+   "title": "THE YELLOW MONKEY TOUR 2026 THE COUNTDOWN～60分1本勝負～",
+   "pref": "23",
+   "area": "名古屋市",
+   "venue": "Zepp Nagoya",
+   "cat": "ライブ",
+   "start": "2026-10-30",
+   "end": "2026-10-30",
+   "url": "https://www.zepp.co.jp/hall/nagoya/schedule/single/?rid=158543",
+   "src": "Zepp公式スケジュール"
+  },
+  {
+   "id": "zepp-yokohama-160164",
+   "title": "ACIDMAN ONEMAN LIVE \"This is ACIDMAN 2026\"",
+   "pref": "14",
+   "area": "横浜市",
+   "venue": "KT Zepp Yokohama",
+   "cat": "ライブ",
+   "start": "2026-10-30",
+   "end": "2026-10-30",
+   "url": "https://www.zepp.co.jp/hall/yokohama/schedule/single/?rid=160164",
+   "src": "Zepp公式スケジュール"
   }
  ]
 }
