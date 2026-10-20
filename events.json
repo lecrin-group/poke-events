@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-10-19T17:05:00+09:00",
+ "updated": "2026-10-20T17:00:00+09:00",
  "events": [
   {
    "id": "expo70-20260314-beforeafter",
@@ -2007,6 +2007,18 @@
    "src": "よかなび（福岡市観光情報）"
   },
   {
+   "id": "seaparadise-20261022-gusokumushi",
+   "title": "ゾクゾクッ！グソグソパニック",
+   "pref": "14",
+   "area": "横浜市金沢区",
+   "venue": "横浜・八景島シーパラダイス アクアミュージアム",
+   "cat": "商業施設",
+   "start": "2026-10-22",
+   "end": "2026-10-31",
+   "url": "https://www.seaparadise.co.jp/event/giantisopod2026/index.html",
+   "src": "横浜・八景島シーパラダイス"
+  },
+  {
    "id": "expo70-vintagemarket-20261023",
    "title": "Vintage Market －万博 蚤の市－2026秋",
    "pref": "27",
@@ -2907,6 +2919,18 @@
    "src": "武蔵大学 白雉祭実行委員会"
   },
   {
+   "id": "rissho-20261031-kikkasai",
+   "title": "第61回 橘花祭",
+   "pref": "13",
+   "area": "品川区",
+   "venue": "立正大学 品川キャンパス",
+   "cat": "フェス・祭り",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "url": "https://kikkasai.rissho.jp/",
+   "src": "立正大学 橘花祭実行委員会"
+  },
+  {
    "id": "roppongi-artnight-20261031",
    "title": "六本木アートナイト2026",
    "pref": "13",
@@ -2917,6 +2941,18 @@
    "end": "2026-11-01",
    "url": "https://www.tokyo-midtown.com/jp/event/8083/",
    "src": "東京ミッドタウン 公式サイト"
+  },
+  {
+   "id": "shibaura-20261031-shibaurasai",
+   "title": "第54回 芝浦祭",
+   "pref": "13",
+   "area": "江東区",
+   "venue": "芝浦工業大学 豊洲キャンパス",
+   "cat": "フェス・祭り",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "url": "https://shibaurasai.jp/",
+   "src": "芝浦祭実行委員会"
   },
   {
    "id": "shoryosai-20261031",
@@ -3121,6 +3157,42 @@
    "end": "2026-11-03",
    "url": "https://www.shirokanesai.com/",
    "src": "明治学院大学 白金祭実行委員会"
+  },
+  {
+   "id": "tamabi-20261101-geijutsusai",
+   "title": "多摩美術大学芸術祭 2026",
+   "pref": "13",
+   "area": "八王子市",
+   "venue": "多摩美術大学 八王子キャンパス",
+   "cat": "フェス・祭り",
+   "start": "2026-11-01",
+   "end": "2026-11-03",
+   "url": "https://tamabi-artfes.com/",
+   "src": "多摩美術大学芸術祭 実行委員会"
+  },
+  {
+   "id": "teikyo-20261101-teiousai",
+   "title": "第15回 帝桜祭",
+   "pref": "13",
+   "area": "板橋区",
+   "venue": "帝京大学 板橋キャンパス",
+   "cat": "フェス・祭り",
+   "start": "2026-11-01",
+   "end": "2026-11-01",
+   "url": "https://www.teikyo-u.ac.jp/studentlife/festival",
+   "src": "帝京大学"
+  },
+  {
+   "id": "tmu-20261101-miyakomatsuri",
+   "title": "第22回 みやこ祭",
+   "pref": "13",
+   "area": "八王子市",
+   "venue": "東京都立大学 南大沢キャンパス",
+   "cat": "フェス・祭り",
+   "start": "2026-11-01",
+   "end": "2026-11-03",
+   "url": "https://miyakomatsuri.com/",
+   "src": "東京都立大学大学祭実行委員会"
   },
   {
    "id": "fumonsai-20261102",
