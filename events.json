@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-10-20T17:00:00+09:00",
+ "updated": "2026-10-21T17:00:00+09:00",
  "events": [
   {
    "id": "expo70-20260314-beforeafter",
@@ -1011,6 +1011,18 @@
    "src": "サンシャインシティ 公式"
   },
   {
+   "id": "bonsai-20261002-shiki10",
+   "title": "季節の展示 盆栽展〈四季〉 10月・爽秋の風",
+   "pref": "11",
+   "area": "さいたま市北区",
+   "venue": "さいたま市大宮盆栽美術館",
+   "cat": "展示会",
+   "start": "2026-10-02",
+   "end": "2026-10-28",
+   "url": "https://www.bonsai-art-museum.jp/ja/exhibition/exhibition-11599/",
+   "src": "さいたま市大宮盆栽美術館"
+  },
+  {
    "id": "legoland-20261002-halloween",
    "title": "レゴランド・ジャパン「ハロウィンパーティー」",
    "pref": "23",
@@ -1599,18 +1611,6 @@
    "src": "シンシナティ美術館展 公式"
   },
   {
-   "id": "zenkoku-20261010-aomori-kokuspo",
-   "title": "青の煌めきあおもり国スポ（第80回国民スポーツ大会）",
-   "pref": "00",
-   "area": "全国",
-   "venue": "青森県内各会場（開会式：マエダアリーナ）",
-   "cat": "スポーツ",
-   "start": "2026-10-10",
-   "end": "2026-10-20",
-   "url": "https://aomorikokuspo2026.pref.aomori.lg.jp/kokuspo/kaiki/",
-   "src": "あおもり国スポ・障スポ公式"
-  },
-  {
    "id": "nagoyaaqua-20261014-akamongara",
    "title": "ミニ企画展「WANTED アカモンガラの謎を解け！」",
    "pref": "23",
@@ -1887,18 +1887,6 @@
    "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）"
   },
   {
-   "id": "keyaki-20261020-jsdf-band",
-   "title": "陸上自衛隊中央音楽隊・火曜コンサート",
-   "pref": "11",
-   "area": "さいたま市中央区",
-   "venue": "さいたま新都心 けやきひろば",
-   "cat": "ライブ",
-   "start": "2026-10-20",
-   "end": "2026-10-20",
-   "url": "https://www.saitama-arena.co.jp/schedule/2026/10/",
-   "src": "GMOアリーナさいたま 公式イベントスケジュール"
-  },
-  {
    "id": "laforet-em-20261020",
    "title": "e.m. ARE YOU EXCITED? POP UP SHOP",
    "pref": "13",
@@ -1933,18 +1921,6 @@
    "end": "2026-10-21",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261020_0915",
    "src": "東京国際フォーラム 公式イベント情報"
-  },
-  {
-   "id": "zeppyokohama-20261020-ralph",
-   "title": "ralph ONE MAN LIVE 2026 \"Coast 2 Coast\" at ZEPP横浜",
-   "pref": "14",
-   "area": "横浜市西区",
-   "venue": "KT Zepp Yokohama",
-   "cat": "ライブ",
-   "start": "2026-10-20",
-   "end": "2026-10-20",
-   "url": "https://www.zepp.co.jp/hall/yokohama/schedule/single/?rid=162488",
-   "src": "Zepp"
   },
   {
    "id": "matsuzakaya-20261021-fashion",
@@ -2329,6 +2305,18 @@
    "end": "2026-10-25",
    "url": "https://www.sai-junshin.ac.jp/2026/0831/282466/",
    "src": "埼玉純真短期大学 公式"
+  },
+  {
+   "id": "seinan-jo-20261024-shionsai68",
+   "title": "第68回 しおん祭",
+   "pref": "40",
+   "area": "北九州市小倉北区",
+   "venue": "西南女学院大学",
+   "cat": "フェス・祭り",
+   "start": "2026-10-24",
+   "end": "2026-10-25",
+   "url": "https://www.seinan-jo.ac.jp/school_life/fes",
+   "src": "西南女学院大学"
   },
   {
    "id": "seisa-hakone-20261024-festival",
@@ -2727,6 +2715,18 @@
    "src": "MTV JAPAN（東京ドーム公式スケジュール掲載）"
   },
   {
+   "id": "bonsai-20261030-shiki11",
+   "title": "季節の展示 盆栽展〈四季〉 11月・深まる色",
+   "pref": "11",
+   "area": "さいたま市北区",
+   "venue": "さいたま市大宮盆栽美術館",
+   "cat": "展示会",
+   "start": "2026-10-30",
+   "end": "2026-11-25",
+   "url": "https://www.bonsai-art-museum.jp/ja/exhibition/exhibition-11599/",
+   "src": "さいたま市大宮盆栽美術館"
+  },
+  {
    "id": "chibadaisai-20261030",
    "title": "第64回千葉大祭",
    "pref": "12",
@@ -2905,6 +2905,30 @@
    "end": "2026-11-03",
    "url": "https://www.saitama-arena.co.jp/schedule/2026/10/",
    "src": "GMOアリーナさいたま 公式イベントスケジュール"
+  },
+  {
+   "id": "koedo-20261031-senbasengen",
+   "title": "仙波浅間神社 社殿特別公開",
+   "pref": "11",
+   "area": "川越市",
+   "venue": "仙波浅間神社",
+   "cat": "フェス・祭り",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "url": "https://koedo.or.jp/event/%e4%bb%99%e6%b3%a2%e6%b5%85%e9%96%93%e7%a5%9e%e7%a4%be%e3%80%80%e7%a4%be%e6%ae%bf%e7%89%b9%e5%88%a5%e5%85%ac%e9%96%8b-3/",
+   "src": "小江戸川越観光協会"
+  },
+  {
+   "id": "mejiro-20261031-toeisai",
+   "title": "桐榮祭2026",
+   "pref": "11",
+   "area": "さいたま市岩槻区",
+   "venue": "目白大学 さいたま岩槻キャンパス",
+   "cat": "フェス・祭り",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "url": "https://mejiro-toei-festival.com/",
+   "src": "目白大学 桐榮祭実行委員会"
   },
   {
    "id": "musashi-20261031-shirakijisai",
@@ -3193,6 +3217,18 @@
    "end": "2026-11-03",
    "url": "https://miyakomatsuri.com/",
    "src": "東京都立大学大学祭実行委員会"
+  },
+  {
+   "id": "edogawa-u-20261102-komakisai",
+   "title": "2026年度 駒木祭",
+   "pref": "12",
+   "area": "流山市",
+   "venue": "江戸川大学",
+   "cat": "フェス・祭り",
+   "start": "2026-11-02",
+   "end": "2026-11-03",
+   "url": "https://www.edogawa-u.ac.jp/event/cl_event/komakisai.html",
+   "src": "江戸川大学"
   },
   {
    "id": "fumonsai-20261102",
