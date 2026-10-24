@@ -1851,18 +1851,6 @@
    "src": "万博記念公園"
   },
   {
-   "id": "nagoya-20261019-fushimijazz",
-   "title": "FUSHIMI Jazz Night",
-   "pref": "23",
-   "area": "名古屋市中区",
-   "venue": "名古屋インターシティ 1階公開空地ほか",
-   "cat": "ライブ",
-   "start": "2026-10-19",
-   "end": "2026-10-23",
-   "url": "https://www.nagoya-info.jp/event/detail/1437/",
-   "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）"
-  },
-  {
    "id": "laforet-em-20261020",
    "title": "e.m. ARE YOU EXCITED? POP UP SHOP",
    "pref": "13",
@@ -2007,30 +1995,6 @@
    "src": "東京国際フォーラム 公式"
   },
   {
-   "id": "tif-20261023-yamazaki-ikusaburo",
-   "title": "山崎育三郎 LIVE TOUR 2026『19BOX 〜STARMAN〜』",
-   "pref": "13",
-   "area": "千代田区",
-   "venue": "東京国際フォーラム",
-   "cat": "ライブ",
-   "start": "2026-10-23",
-   "end": "2026-10-23",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261023_0318",
-   "src": "東京国際フォーラム 公式"
-  },
-  {
-   "id": "womb-20261023-inter",
-   "title": "INTER 4TH ANNIVERSARY EDITION",
-   "pref": "13",
-   "area": "渋谷区",
-   "venue": "WOMB",
-   "cat": "ライブ",
-   "start": "2026-10-23",
-   "end": "2026-10-23",
-   "url": "https://www.womb.co.jp/ja/events/102326",
-   "src": "WOMB"
-  },
-  {
    "id": "yokoyama-20261023-noritake",
    "title": "横山美術館所蔵品「優美なるオールドノリタケ×ノリタケ」",
    "pref": "23",
@@ -2041,90 +2005,6 @@
    "end": "2027-03-22",
    "url": "https://www.nagoya-info.jp/event/detail/1432/",
    "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）"
-  },
-  {
-   "id": "zepp-divercity-20261023-akg",
-   "title": "ASIAN KUNG-FU GENERATION Tour 2026 \"Midage Fanclub\"",
-   "pref": "13",
-   "area": "江東区",
-   "venue": "Zepp DiverCity(TOKYO)",
-   "cat": "ライブ",
-   "start": "2026-10-23",
-   "end": "2026-10-23",
-   "url": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=157826",
-   "src": "Zepp DiverCity(TOKYO) 公式"
-  },
-  {
-   "id": "zepp-fukuoka-20261023-mhib",
-   "title": "My Hair is Bad presents「ノーブルホームランツアー」",
-   "pref": "40",
-   "area": "福岡市中央区",
-   "venue": "Zepp Fukuoka",
-   "cat": "ライブ",
-   "start": "2026-10-23",
-   "end": "2026-10-23",
-   "url": "https://www.zepp.co.jp/hall/fukuoka/schedule/single/?rid=156661",
-   "src": "Zepp Fukuoka 公式"
-  },
-  {
-   "id": "zepp-haneda-160954",
-   "title": "3House One Man Tour “PLAY”",
-   "pref": "13",
-   "area": "大田区",
-   "venue": "Zepp Haneda(TOKYO)",
-   "cat": "ライブ",
-   "start": "2026-10-23",
-   "end": "2026-10-23",
-   "url": "https://www.zepp.co.jp/hall/haneda/schedule/single/?rid=160954",
-   "src": "Zepp公式"
-  },
-  {
-   "id": "zepp-nagoya-20261023-ziyoou",
-   "title": "女王蜂 全国ツアー2026「星」",
-   "pref": "23",
-   "area": "名古屋市中村区",
-   "venue": "Zepp Nagoya",
-   "cat": "ライブ",
-   "start": "2026-10-23",
-   "end": "2026-10-23",
-   "url": "https://www.zepp.co.jp/hall/nagoya/schedule/single/?rid=158388",
-   "src": "Zepp Nagoya 公式"
-  },
-  {
-   "id": "zepp-osakabayside-158064",
-   "title": "HEROINES HALLOWEEN",
-   "pref": "27",
-   "area": "大阪市此花区",
-   "venue": "Zepp Osaka Bayside",
-   "cat": "ライブ",
-   "start": "2026-10-23",
-   "end": "2026-10-23",
-   "url": "https://www.zepp.co.jp/hall/osakabayside/schedule/single/?rid=158064",
-   "src": "Zepp公式"
-  },
-  {
-   "id": "zepp-yokohama-20261023-lindberg",
-   "title": "LINDBERG LIVE TOUR 2026「Zepp STEP JUMP」",
-   "pref": "14",
-   "area": "横浜市西区",
-   "venue": "KT Zepp Yokohama",
-   "cat": "ライブ",
-   "start": "2026-10-23",
-   "end": "2026-10-23",
-   "url": "https://www.zepp.co.jp/hall/yokohama/schedule/single/?rid=161402",
-   "src": "KT Zepp Yokohama 公式"
-  },
-  {
-   "id": "zerotokyo-20261023-lostcontroll",
-   "title": "Lost Controll",
-   "pref": "13",
-   "area": "新宿区",
-   "venue": "ZEROTOKYO",
-   "cat": "ライブ",
-   "start": "2026-10-23",
-   "end": "2026-10-23",
-   "url": "https://zerotokyo.jp/event/lost-controll-1023/",
-   "src": "ZEROTOKYO"
   },
   {
    "id": "bunkyo-shotosai-20261024",
@@ -3349,18 +3229,6 @@
    "end": "2026-11-03",
    "url": "https://www.kokushikan-fumonsai.jp/",
    "src": "楓門祭実行委員会 公式サイト"
-  },
-  {
-   "id": "tokyowan-hanabi-20261024",
-   "title": "東京湾大華火祭（17:30〜19:00）",
-   "pref": "13",
-   "area": "中央区",
-   "venue": "晴海埠頭沖（観覧は晴海・豊洲・お台場・竹芝ほか、全席チケット制）",
-   "cat": "フェス・祭り",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "url": "https://tokyo-hanabi-festival.com",
-   "src": "東京湾大華火祭 公式"
   }
  ]
 }
