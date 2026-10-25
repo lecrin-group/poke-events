@@ -135,18 +135,6 @@
    "src": "横浜市観光情報公式サイト"
   },
   {
-   "id": "aichinow-4143-skypromenade-light",
-   "title": "ミッドランドスクエア スカイプロムナード 天空のLIGHT FESTIVAL",
-   "pref": "23",
-   "area": "名古屋市中村区",
-   "venue": "ミッドランドスクエア スカイプロムナード",
-   "cat": "商業施設",
-   "start": "2026-08-13",
-   "end": "2026-10-24",
-   "url": "https://aichinow.pref.aichi.jp/events/detail/4143/",
-   "src": "Aichi Now（愛知県公式観光サイト）"
-  },
-  {
    "id": "gorapark-20260901-autumn-at",
    "title": "箱根強羅公園「オータムアフタヌーンティーと秋限定スイーツ」",
    "pref": "14",
@@ -471,18 +459,6 @@
    "src": "ホテルニューオータニ幕張"
   },
   {
-   "id": "osakastationcity-20260912-autumnfest",
-   "title": "Autumn Fest 2026",
-   "pref": "27",
-   "area": "大阪市北区",
-   "venue": "大阪ステーションシティ 5階「時空の広場」ほか",
-   "cat": "商業施設",
-   "start": "2026-09-12",
-   "end": "2026-10-24",
-   "url": "https://www.westjr.co.jp/press/article/2026/08/25/items/260825_00_press_autumnfest2026.pdf",
-   "src": "JR西日本"
-  },
-  {
    "id": "yotaura-20260912-cosmos",
    "title": "第22回与田浦コスモスまつり",
    "pref": "12",
@@ -576,18 +552,6 @@
    "start": "2026-09-17",
    "end": "2026-10-31",
    "url": "https://aichinow.pref.aichi.jp/events/detail/3852/",
-   "src": "Aichi Now（愛知県公式観光サイト）"
-  },
-  {
-   "id": "aichinow-4156-art-lights",
-   "title": "AICHI NAGOYA ART＆LIGHTS",
-   "pref": "23",
-   "area": "名古屋市中区",
-   "venue": "愛知県庁本庁舎・名古屋市役所本庁舎",
-   "cat": "展示会",
-   "start": "2026-09-17",
-   "end": "2026-10-24",
-   "url": "https://aichinow.pref.aichi.jp/events/detail/4156/",
    "src": "Aichi Now（愛知県公式観光サイト）"
   },
   {
@@ -1827,18 +1791,6 @@
    "src": "東京都公園協会"
   },
   {
-   "id": "nagoyajo-20261018-begold",
-   "title": "名古屋城夜間ライトアップ Be GOLD",
-   "pref": "23",
-   "area": "名古屋市中区",
-   "venue": "名古屋城",
-   "cat": "フェス・祭り",
-   "start": "2026-10-18",
-   "end": "2026-10-24",
-   "url": "https://www.nagoya-info.jp/event/detail/1412/",
-   "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）"
-  },
-  {
    "id": "osaka-expo-sanyaso-2026",
    "title": "秋の山野草展",
    "pref": "27",
@@ -1908,18 +1860,6 @@
    "start": "2026-10-22",
    "end": "2026-10-25",
    "url": "https://yokanavi.com/events/274553",
-   "src": "よかなび（福岡市観光情報）"
-  },
-  {
-   "id": "kushida-okunchi-20261022",
-   "title": "博多おくんち（櫛田神社 秋季大祭）",
-   "pref": "40",
-   "area": "福岡市博多区",
-   "venue": "櫛田神社",
-   "cat": "フェス・祭り",
-   "start": "2026-10-22",
-   "end": "2026-10-24",
-   "url": "https://yokanavi.com/events/239012",
    "src": "よかなび（福岡市観光情報）"
   },
   {
@@ -2019,18 +1959,6 @@
    "src": "文教大学 聳塔祭実行委員会"
   },
   {
-   "id": "expo70-osakamusic-20261024",
-   "title": "OSAKA MUSIC ＆ CULTURE WEEKEND",
-   "pref": "27",
-   "area": "吹田市",
-   "venue": "万博記念公園",
-   "cat": "フェス・祭り",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "url": "https://www.expo70-park.jp/event/77585/",
-   "src": "万博記念公園公式"
-  },
-  {
    "id": "expo70-rosefesta-20261024",
    "title": "秋のローズフェスタ",
    "pref": "27",
@@ -2041,18 +1969,6 @@
    "end": "2026-11-23",
    "url": "https://www.expo70-park.jp/event/77499/",
    "src": "万博記念公園公式"
-  },
-  {
-   "id": "fukuokashimin-kawabata-20261024",
-   "title": "川畠成道ヴァイオリン・リサイタル",
-   "pref": "40",
-   "area": "福岡市中央区",
-   "venue": "福岡市民ホール",
-   "cat": "ライブ",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "url": "https://yokanavi.com/events/274537",
-   "src": "よかなび（福岡市観光情報）"
   },
   {
    "id": "fwu-kasumisai-20261024",
@@ -2089,18 +2005,6 @@
    "end": "2026-10-25",
    "url": "https://hoshiyakufes.wixsite.com/mysite",
    "src": "星薬祭実行委員会公式"
-  },
-  {
-   "id": "jikei-20261024-faveur",
-   "title": "第10回 慈恵祭（ファブール祭）",
-   "pref": "13",
-   "area": "調布市",
-   "venue": "東京慈恵会医科大学 国領キャンパス",
-   "cat": "フェス・祭り",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "url": "https://www.jikei.ac.jp/university/nursing/campuslife/faveur-festival/",
-   "src": "東京慈恵会医科大学公式"
   },
   {
    "id": "keyaki-20261024-jazzday",
@@ -2199,18 +2103,6 @@
    "src": "清透祭実行委員会 公式"
   },
   {
-   "id": "tamauniv-20261024-tamasai",
-   "title": "多摩祭ハロウィンパーティ2026",
-   "pref": "13",
-   "area": "多摩市",
-   "venue": "多摩大学 多摩キャンパス",
-   "cat": "フェス・祭り",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "url": "https://tamasai2026.tamauniv.jp/",
-   "src": "多摩大学 多摩祭公式"
-  },
-  {
    "id": "tf-20261024-243727",
    "title": "アースガーデン “秋”",
    "pref": "13",
@@ -2293,90 +2185,6 @@
    "end": "2026-10-25",
    "url": "https://www.tokyomirai.ac.jp/miraifes/2026/",
    "src": "東京未来大学 MIRAI FES.2026実行委員会"
-  },
-  {
-   "id": "womb-20261024-cartulis",
-   "title": "CARTULIS",
-   "pref": "13",
-   "area": "渋谷区",
-   "venue": "WOMB",
-   "cat": "ライブ",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "url": "https://www.womb.co.jp/ja/events/102426",
-   "src": "WOMB"
-  },
-  {
-   "id": "zepp-divercity-20261024-akg",
-   "title": "ASIAN KUNG-FU GENERATION Tour 2026 \"Midage Fanclub\"",
-   "pref": "13",
-   "area": "江東区",
-   "venue": "Zepp DiverCity(TOKYO)",
-   "cat": "ライブ",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "url": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=157827",
-   "src": "Zepp公式"
-  },
-  {
-   "id": "zepp-fukuoka-156662",
-   "title": "My Hair is Bad presents「ノーブルホームランツアー」",
-   "pref": "40",
-   "area": "福岡市中央区",
-   "venue": "Zepp Fukuoka",
-   "cat": "ライブ",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "url": "https://www.zepp.co.jp/hall/fukuoka/schedule/single/?rid=156662",
-   "src": "Zepp公式"
-  },
-  {
-   "id": "zepp-haneda-158625",
-   "title": "plenty re:birthツアー2026 \"いま終わりの先へ\"",
-   "pref": "13",
-   "area": "大田区",
-   "venue": "Zepp Haneda(TOKYO)",
-   "cat": "ライブ",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "url": "https://www.zepp.co.jp/hall/haneda/schedule/single/?rid=158625",
-   "src": "Zepp公式"
-  },
-  {
-   "id": "zepp-osakabayside-158547",
-   "title": "THE YELLOW MONKEY TOUR 2026 THE COUNTDOWN〜60分1本勝負〜",
-   "pref": "27",
-   "area": "大阪市此花区",
-   "venue": "Zepp Osaka Bayside",
-   "cat": "ライブ",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "url": "https://www.zepp.co.jp/hall/osakabayside/schedule/single/?rid=158547",
-   "src": "Zepp公式"
-  },
-  {
-   "id": "zepp-yokohama-155662",
-   "title": "「あぶない刑事」40周年記念　ABUDEKA　SPECIAL FILM CONCERT　FINAL　これでホントにさらば・・かな・・",
-   "pref": "14",
-   "area": "横浜市西区",
-   "venue": "KT Zepp Yokohama",
-   "cat": "ライブ",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "url": "https://www.zepp.co.jp/hall/yokohama/schedule/single/?rid=155662",
-   "src": "Zepp公式"
-  },
-  {
-   "id": "zerotokyo-20261024-midnightstellar",
-   "title": "MIDNIGHT STELLAR supported by GOLD DISC",
-   "pref": "13",
-   "area": "新宿区",
-   "venue": "ZEROTOKYO",
-   "cat": "ライブ",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "url": "https://zerotokyo.jp/event/midnight-stellar-1024/",
-   "src": "ZEROTOKYO"
   },
   {
    "id": "expo70-funkymarket-20261025",
