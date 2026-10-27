@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-10-26T17:00:00+09:00",
+ "updated": "2026-10-27T17:00:00+09:00",
  "events": [
   {
    "id": "expo70-20260314-beforeafter",
@@ -1695,6 +1695,18 @@
    "src": "東京国際フォーラム 公式イベント情報"
   },
   {
+   "id": "fukuoka-20261029-hakataningyo-yokai",
+   "title": "第拾弐界博多人形妖怪展",
+   "pref": "40",
+   "area": "福岡市博多区",
+   "venue": "はかた伝統工芸館",
+   "cat": "展示会",
+   "start": "2026-10-29",
+   "end": "2026-11-03",
+   "url": "https://yokanavi.com/events/274559",
+   "src": "よかなび（福岡市）"
+  },
+  {
    "id": "tif-20261029-oretachinotabi",
    "title": "俺たちの旅スペシャルコンサート～まだまだ旅は終わらない～",
    "pref": "13",
@@ -1755,6 +1767,18 @@
    "src": "千葉大祭実行委員会 公式サイト"
   },
   {
+   "id": "fukuokajo-20261030-teamlab",
+   "title": "チームラボ 福岡城跡 光ノ祭 2026-2027",
+   "pref": "40",
+   "area": "福岡市中央区",
+   "venue": "福岡城跡（舞鶴公園）",
+   "cat": "公園・庭園",
+   "start": "2026-10-30",
+   "end": "2027-01-11",
+   "url": "https://yokanavi.com/events/274536",
+   "src": "よかなび（福岡市）"
+  },
+  {
    "id": "meiji-20261030-meidaisai",
    "title": "第142回明大祭",
    "pref": "13",
@@ -1777,6 +1801,18 @@
    "end": "2026-10-31",
    "url": "https://meijo-tempakufes.com/",
    "src": "名城大学大学祭実行委員会"
+  },
+  {
+   "id": "nakasu-20261030-nakasumatsuri",
+   "title": "第51回 中洲まつり",
+   "pref": "40",
+   "area": "福岡市博多区",
+   "venue": "中洲大通り周辺",
+   "cat": "フェス・祭り",
+   "start": "2026-10-30",
+   "end": "2026-10-31",
+   "url": "https://yokanavi.com/events/274556",
+   "src": "よかなび（福岡市）"
   },
   {
    "id": "nodai-20261030-shukakusai",
@@ -1911,6 +1947,18 @@
    "src": "ZEROTOKYO"
   },
   {
+   "id": "aibunsai-20261031-abu",
+   "title": "第26回 愛文祭",
+   "pref": "23",
+   "area": "小牧市",
+   "venue": "愛知文教大学",
+   "cat": "フェス・祭り",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "url": "https://www.abu.ac.jp/2026/10/21/%E3%80%90%E5%A4%A7%E5%AD%A6%E7%A5%AD%E3%80%9110-31%EF%BC%88%E5%9C%9F%EF%BC%89%E9%96%8B%E5%82%AC%E3%80%80%E7%AC%AC26%E5%9B%9E%E3%80%8C%E6%84%9B%E6%96%87%E7%A5%AD%E3%80%80%E3%81%82%E3%82%8A%E3%81%8C/",
+   "src": "愛知文教大学"
+  },
+  {
    "id": "aioisai-20261031",
    "title": "第57回 相生祭",
    "pref": "14",
@@ -1933,6 +1981,18 @@
    "end": "2026-11-01",
    "url": "https://www.sg.dendai.ac.jp/s1j-asahisai/index.html",
    "src": "東京電機大学 旭祭実行委員会"
+  },
+  {
+   "id": "fujinagoya-20261031-fukunouragawa",
+   "title": "企画展「服のウラガワ、お店します」",
+   "pref": "23",
+   "area": "名古屋市中区",
+   "venue": "FUJiなごや科学館 理工館 地下2階 FUJiイベントホール",
+   "cat": "展示会",
+   "start": "2026-10-31",
+   "end": "2026-11-15",
+   "url": "https://www.nagoya-info.jp/event/detail/1440/",
+   "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）"
   },
   {
    "id": "fukuoka-wjc-kazahayasai-20261031",
@@ -1959,6 +2019,18 @@
    "src": "愛知学泉大学"
   },
   {
+   "id": "hakata-20261031-sennenkouya",
+   "title": "博多旧市街ライトアップウォーク 千年煌夜 2026",
+   "pref": "40",
+   "area": "福岡市博多区",
+   "venue": "博多旧市街エリア",
+   "cat": "フェス・祭り",
+   "start": "2026-10-31",
+   "end": "2026-11-03",
+   "url": "https://yokanavi.com/events/274390",
+   "src": "よかなび（福岡市）"
+  },
+  {
    "id": "hirakatasai-20261031",
    "title": "第77回 平潟祭",
    "pref": "14",
@@ -1969,6 +2041,66 @@
    "end": "2026-11-01",
    "url": "https://www.hirakatasai.net/",
    "src": "平潟祭 公式サイト（関東学院大学）"
+  },
+  {
+   "id": "hisaya-20261031-taichung-yoichi",
+   "title": "台湾・台中夜市2026",
+   "pref": "23",
+   "area": "名古屋市中区",
+   "venue": "久屋大通公園 エディオン久屋広場",
+   "cat": "フェス・祭り",
+   "start": "2026-10-31",
+   "end": "2026-11-03",
+   "url": "https://www.nagoya-info.jp/event/detail/664/",
+   "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）"
+  },
+  {
+   "id": "honokunisai-20261031-aichi-u",
+   "title": "第3回 穂国祭",
+   "pref": "23",
+   "area": "豊橋市",
+   "venue": "愛知大学 豊橋キャンパス",
+   "cat": "フェス・祭り",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "url": "https://taweb.aichi-u.ac.jp/honokuni/index.html",
+   "src": "愛知大学 穂国祭"
+  },
+  {
+   "id": "hoshigaoka-20261031-coffeemarket",
+   "title": "ホシガオカ COFFEE MARKET Oct.-Nov.",
+   "pref": "23",
+   "area": "名古屋市千種区",
+   "venue": "星が丘テラス 屋外エリア",
+   "cat": "商業施設",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "url": "https://www.nagoya-info.jp/event/detail/1427/",
+   "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）"
+  },
+  {
+   "id": "jotenji-20261031-yoichi",
+   "title": "承天寺夜市",
+   "pref": "40",
+   "area": "福岡市博多区",
+   "venue": "承天寺",
+   "cat": "フェス・祭り",
+   "start": "2026-10-31",
+   "end": "2026-11-03",
+   "url": "https://yokanavi.com/events/274561",
+   "src": "よかなび（福岡市）"
+  },
+  {
+   "id": "kakuozan-20261031-akimatsuri",
+   "title": "覚王山秋祭2026",
+   "pref": "23",
+   "area": "名古屋市千種区",
+   "venue": "日泰寺参道",
+   "cat": "フェス・祭り",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "url": "https://www.nagoya-info.jp/event/detail/64/",
+   "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）"
   },
   {
    "id": "kamatasai-20261031",
@@ -2007,6 +2139,30 @@
    "src": "小江戸川越観光協会"
   },
   {
+   "id": "kushida-20261031-okushidafes",
+   "title": "お櫛田フェス",
+   "pref": "40",
+   "area": "福岡市博多区",
+   "venue": "櫛田神社 賑わい広場",
+   "cat": "フェス・祭り",
+   "start": "2026-10-31",
+   "end": "2026-11-03",
+   "url": "https://yokanavi.com/events/274560",
+   "src": "よかなび（福岡市）"
+  },
+  {
+   "id": "marinemesse-20261031-hachurui",
+   "title": "九州爬虫類フェス 2026 Autumn",
+   "pref": "40",
+   "area": "福岡市博多区",
+   "venue": "マリンメッセ福岡B館",
+   "cat": "展示会",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "url": "https://yokanavi.com/events/268229",
+   "src": "よかなび（福岡市）"
+  },
+  {
    "id": "mejiro-20261031-toeisai",
    "title": "桐榮祭2026",
    "pref": "11",
@@ -2029,6 +2185,30 @@
    "end": "2026-11-01",
    "url": "https://shirakijisai.com/",
    "src": "武蔵大学 白雉祭実行委員会"
+  },
+  {
+   "id": "nagoya-20261031-bunkanomichi",
+   "title": "歩こう！文化のみち2026",
+   "pref": "23",
+   "area": "名古屋市東区",
+   "venue": "名古屋城から徳川園に至る「文化のみち」一帯",
+   "cat": "フェス・祭り",
+   "start": "2026-10-31",
+   "end": "2026-11-23",
+   "url": "https://www.nagoya-info.jp/event/detail/1442/",
+   "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）"
+  },
+  {
+   "id": "parco-nagoya-20261031-agito",
+   "title": "「仮面ライダーアギト」25周年記念 真アギト展",
+   "pref": "23",
+   "area": "名古屋市中区",
+   "venue": "名古屋PARCO 西館8F PARCO HALL",
+   "cat": "展示会",
+   "start": "2026-10-31",
+   "end": "2026-11-30",
+   "url": "https://www.nagoya-info.jp/event/detail/1403/",
+   "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）"
   },
   {
    "id": "rissho-20261031-kikkasai",
@@ -2125,6 +2305,18 @@
    "end": "2026-10-31",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261031_0730",
    "src": "東京国際フォーラム 公式イベント情報"
+  },
+  {
+   "id": "torikai-20261031-torifes",
+   "title": "トリフェス2026 ～鳥飼八幡宮のグルメな秋まつり～",
+   "pref": "40",
+   "area": "福岡市中央区",
+   "venue": "鳥飼八幡宮",
+   "cat": "フェス・祭り",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "url": "https://yokanavi.com/events/255753",
+   "src": "よかなび（福岡市）"
   },
   {
    "id": "toyo-20261031-akabanedaisai",
@@ -2271,6 +2463,18 @@
    "src": "法政大学小金井祭実行委員会"
   },
   {
+   "id": "islandcity-20261101-fukumarche",
+   "title": "福マルシェ＠アイランドシティ",
+   "pref": "40",
+   "area": "福岡市東区",
+   "venue": "照葉積水ハウスアリーナ東側会場",
+   "cat": "フェス・祭り",
+   "start": "2026-11-01",
+   "end": "2026-11-01",
+   "url": "https://yokanavi.com/events/274306",
+   "src": "よかなび（福岡市）"
+  },
+  {
    "id": "kaiyodai-umitakasai-20261101",
    "title": "第67回海鷹祭",
    "pref": "13",
@@ -2379,6 +2583,54 @@
    "src": "ZEROTOKYO"
   },
   {
+   "id": "canalcity-20261103-iruka55",
+   "title": "イルカ55周年コンサート ～あいのたね まこう！～",
+   "pref": "40",
+   "area": "福岡市博多区",
+   "venue": "キャナルシティ博多 クラフィティア劇場",
+   "cat": "ライブ",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "url": "https://yokanavi.com/events/274555",
+   "src": "よかなび（福岡市）"
+  },
+  {
+   "id": "hisaya-20261103-coffeehakuranbi",
+   "title": "珈琲博覧日2026",
+   "pref": "23",
+   "area": "名古屋市中区",
+   "venue": "久屋大通公園 ZONE1 シバフヒロバ・FabCafe Nagoya",
+   "cat": "フェス・祭り",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "url": "https://www.nagoya-info.jp/event/detail/697/",
+   "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）"
+  },
+  {
+   "id": "nagoya-toshoki-20261103-xmas",
+   "title": "海を渡ったクリスマス",
+   "pref": "23",
+   "area": "名古屋市東区",
+   "venue": "名古屋陶磁器会館 1Fギャラリー",
+   "cat": "展示会",
+   "start": "2026-11-03",
+   "end": "2026-12-25",
+   "url": "https://www.nagoya-info.jp/event/detail/1441/",
+   "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）"
+  },
+  {
+   "id": "osaka-20261103-hikarinokyoen",
+   "title": "大阪・光の饗宴2026",
+   "pref": "27",
+   "area": "大阪市",
+   "venue": "大阪市内各所",
+   "cat": "フェス・祭り",
+   "start": "2026-11-03",
+   "end": "2027-01-31",
+   "url": "https://www.city.osaka.lg.jp/keizaisenryaku/page/0000679721.html",
+   "src": "大阪市"
+  },
+  {
    "id": "yoyogi-20261103-parkfesta",
    "title": "公園フェスタ（代々木公園）",
    "pref": "13",
@@ -2403,6 +2655,30 @@
    "src": "ZEROTOKYO"
   },
   {
+   "id": "shikanoshima-20261107-yoimatsuri",
+   "title": "志賀島 潮騒ヨイ祭り",
+   "pref": "40",
+   "area": "福岡市東区",
+   "venue": "志賀島 市営渡船場横の広場ほか",
+   "cat": "フェス・祭り",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "url": "https://yokanavi.com/events/274405",
+   "src": "よかなび（福岡市）"
+  },
+  {
+   "id": "togokusan-20261107-fruitfair",
+   "title": "東谷山フルーツパーク 秋のフルーツフェア2026",
+   "pref": "23",
+   "area": "名古屋市守山区",
+   "venue": "東谷山フルーツパーク",
+   "cat": "公園・庭園",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "url": "https://www.nagoya-info.jp/event/detail/92/",
+   "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）"
+  },
+  {
    "id": "waseda-20261107-wasedasai",
    "title": "早稲田祭2026",
    "pref": "13",
@@ -2413,6 +2689,18 @@
    "end": "2026-11-08",
    "url": "https://wasedasai.net/",
    "src": "早稲田祭2026運営スタッフ"
+  },
+  {
+   "id": "laguna-20261108-marinefantasia",
+   "title": "マリンファンタジア イルミネーション「光と水のカーニバル」",
+   "pref": "23",
+   "area": "蒲郡市",
+   "venue": "ラグーナテンボス ラグナシア",
+   "cat": "商業施設",
+   "start": "2026-11-08",
+   "end": "2027-04-04",
+   "url": "https://www.nagoya-info.jp/event/detail/1101/",
+   "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）"
   }
  ]
 }
