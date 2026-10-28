@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-10-27T17:00:00+09:00",
+ "updated": "2026-10-28T17:00:00+09:00",
  "events": [
   {
    "id": "expo70-20260314-beforeafter",
@@ -891,18 +891,6 @@
    "src": "サンシャインシティ 公式"
   },
   {
-   "id": "bonsai-20261002-shiki10",
-   "title": "季節の展示 盆栽展〈四季〉 10月・爽秋の風",
-   "pref": "11",
-   "area": "さいたま市北区",
-   "venue": "さいたま市大宮盆栽美術館",
-   "cat": "展示会",
-   "start": "2026-10-02",
-   "end": "2026-10-28",
-   "url": "https://www.bonsai-art-museum.jp/ja/exhibition/exhibition-11599/",
-   "src": "さいたま市大宮盆栽美術館"
-  },
-  {
    "id": "legoland-20261002-halloween",
    "title": "レゴランド・ジャパン「ハロウィンパーティー」",
    "pref": "23",
@@ -1455,18 +1443,6 @@
    "src": "名古屋港水族館"
   },
   {
-   "id": "yokohama-takashimaya-20261014-hokkaido",
-   "title": "第67回 大北海道展",
-   "pref": "14",
-   "area": "横浜市",
-   "venue": "横浜髙島屋 8階 催会場",
-   "cat": "商業施設",
-   "start": "2026-10-14",
-   "end": "2026-10-27",
-   "url": "https://www.takashimaya.co.jp/store/special/hokkaido/",
-   "src": "髙島屋"
-  },
-  {
    "id": "shiodome-20261015-yoshida-shoya",
    "title": "吉田璋也のデザイン― 新作民藝運動がめざした未来",
    "pref": "13",
@@ -1597,18 +1573,6 @@
    "end": "2026-11-29",
    "url": "https://www.tokyo-park.or.jp/event_search/10_11_11_24.html",
    "src": "東京都公園協会"
-  },
-  {
-   "id": "matsuzakaya-20261021-fashion",
-   "title": "愛知ファクトリー×次世代ファッションデザイナーズWEEK",
-   "pref": "23",
-   "area": "名古屋市中区",
-   "venue": "松坂屋名古屋店 本館4階",
-   "cat": "商業施設",
-   "start": "2026-10-21",
-   "end": "2026-10-27",
-   "url": "https://www.nagoya-info.jp/event/detail/1416/",
-   "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）"
   },
   {
    "id": "seaparadise-20261022-gusokumushi",
@@ -1971,6 +1935,18 @@
    "src": "相模女子大学 公式サイト"
   },
   {
+   "id": "apitaminami-20261031-makerscamp",
+   "title": "みなみメーカーズキャンプ",
+   "pref": "23",
+   "area": "名古屋市南区",
+   "venue": "アピタ名古屋南店 北側駐車場",
+   "cat": "フェス・祭り",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "url": "https://www.nagoya-info.jp/event/detail/1424/",
+   "src": "名古屋コンシェルジュ（名古屋市公式観光サイト）"
+  },
+  {
    "id": "dendai-20261031-asahisai",
    "title": "第15回 旭祭",
    "pref": "13",
@@ -2173,6 +2149,42 @@
    "end": "2026-11-01",
    "url": "https://mejiro-toei-festival.com/",
    "src": "目白大学 桐榮祭実行委員会"
+  },
+  {
+   "id": "moomin-20261031-christmas",
+   "title": "ムーミン谷のクリスマス 2026",
+   "pref": "11",
+   "area": "飯能市",
+   "venue": "ムーミンバレーパーク",
+   "cat": "商業施設",
+   "start": "2026-10-31",
+   "end": "2026-12-25",
+   "url": "https://metsa-hanno.com/event/47204/",
+   "src": "メッツァ（ムーミンバレーパーク）"
+  },
+  {
+   "id": "moomin-20261031-hanabi-winter",
+   "title": "ムーミン谷の湖上花火大会 2026〜冬",
+   "pref": "11",
+   "area": "飯能市",
+   "venue": "ムーミンバレーパーク",
+   "cat": "商業施設",
+   "start": "2026-10-31",
+   "end": "2026-12-25",
+   "url": "https://metsa-hanno.com/event/48206/",
+   "src": "メッツァ（ムーミンバレーパーク）"
+  },
+  {
+   "id": "moomin-20261031-luminous",
+   "title": "ムーミン谷のルミナスナイトショー〜クリスマスってなんだろう？〜",
+   "pref": "11",
+   "area": "飯能市",
+   "venue": "ムーミンバレーパーク",
+   "cat": "商業施設",
+   "start": "2026-10-31",
+   "end": "2026-12-25",
+   "url": "https://metsa-hanno.com/event/48323/",
+   "src": "メッツァ（ムーミンバレーパーク）"
   },
   {
    "id": "musashi-20261031-shirakijisai",
@@ -2487,6 +2499,18 @@
    "src": "海鷹祭実行委員会"
   },
   {
+   "id": "nagoya-20261101-cinemaweek",
+   "title": "NAGOYA CINEMA Week 2026",
+   "pref": "23",
+   "area": "名古屋市中区",
+   "venue": "伏見ミリオン座ほか市内映画館",
+   "cat": "フェス・祭り",
+   "start": "2026-11-01",
+   "end": "2026-11-08",
+   "url": "https://www.nagoya-info.jp/event/detail/1445/",
+   "src": "名古屋コンシェルジュ（名古屋市公式観光サイト）"
+  },
+  {
    "id": "nichigeisai-20261101",
    "title": "日芸祭2026",
    "pref": "13",
@@ -2559,6 +2583,18 @@
    "src": "江戸川大学"
   },
   {
+   "id": "fit-20261102-tachibanasai",
+   "title": "第59回 立花祭",
+   "pref": "40",
+   "area": "福岡市東区",
+   "venue": "福岡工業大学",
+   "cat": "フェス・祭り",
+   "start": "2026-11-02",
+   "end": "2026-11-03",
+   "url": "https://www.fit.ac.jp/news/archives/5415",
+   "src": "福岡工業大学"
+  },
+  {
    "id": "fumonsai-20261102",
    "title": "楓門祭",
    "pref": "13",
@@ -2569,6 +2605,30 @@
    "end": "2026-11-03",
    "url": "https://www.kokushikan-fumonsai.jp/",
    "src": "楓門祭実行委員会 公式サイト"
+  },
+  {
+   "id": "tif-20261102-miraikodai",
+   "title": "未来古代楽団ライブ 祝祭あるいは断章8「氷る世界と燐の君」",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "東京国際フォーラム",
+   "cat": "ライブ",
+   "start": "2026-11-02",
+   "end": "2026-11-02",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261102_0507",
+   "src": "東京国際フォーラム"
+  },
+  {
+   "id": "tif-20261102-tokyonougyousai",
+   "title": "第55回東京都農業祭",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "東京国際フォーラム",
+   "cat": "フェス・祭り",
+   "start": "2026-11-02",
+   "end": "2026-11-03",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261102_0831",
+   "src": "東京国際フォーラム"
   },
   {
    "id": "zerotokyo-20261102-bresh",
@@ -2631,6 +2691,42 @@
    "src": "大阪市"
   },
   {
+   "id": "tif-20261103-koresawa",
+   "title": "コレサワ HALL TOUR 2026 THE PINK",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "東京国際フォーラム",
+   "cat": "ライブ",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261103_0217",
+   "src": "東京国際フォーラム"
+  },
+  {
+   "id": "tif-20261103-moumoon",
+   "title": "moumoon 20周年記念 FULLMOON LIVE SPECIAL 2026 〜中秋の名月〜",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "東京国際フォーラム",
+   "cat": "ライブ",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261103_0623",
+   "src": "東京国際フォーラム"
+  },
+  {
+   "id": "tokugawaen-20261103-akinosaiji",
+   "title": "徳川園 秋の催事",
+   "pref": "23",
+   "area": "名古屋市東区",
+   "venue": "徳川園",
+   "cat": "公園・庭園",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "url": "https://www.nagoya-info.jp/event/detail/695/",
+   "src": "名古屋コンシェルジュ（名古屋市公式観光サイト）"
+  },
+  {
    "id": "yoyogi-20261103-parkfesta",
    "title": "公園フェスタ（代々木公園）",
    "pref": "13",
@@ -2641,6 +2737,42 @@
    "end": "2026-11-03",
    "url": "https://www.tokyo-park.or.jp/park/yoyogi/news/2026/10_19.html",
    "src": "東京都公園協会（代々木公園）"
+  },
+  {
+   "id": "tif-20261105-hayashibe",
+   "title": "林部智史 CONCERT TOUR 2026・秋 This is Myself !!",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "東京国際フォーラム",
+   "cat": "ライブ",
+   "start": "2026-11-05",
+   "end": "2026-11-06",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261105_0915",
+   "src": "東京国際フォーラム"
+  },
+  {
+   "id": "tif-20261106-matsuyamachiharu",
+   "title": "デビュー50周年記念 松山千春コンサート・ツアー2026",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "東京国際フォーラム",
+   "cat": "ライブ",
+   "start": "2026-11-06",
+   "end": "2026-11-06",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261106_0908",
+   "src": "東京国際フォーラム"
+  },
+  {
+   "id": "tif-20261106-whiskyfes",
+   "title": "ウイスキーフェスティバル2026 in 東京",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "東京国際フォーラム",
+   "cat": "フェス・祭り",
+   "start": "2026-11-06",
+   "end": "2026-11-07",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261106_0902",
+   "src": "東京国際フォーラム"
   },
   {
    "id": "zerotokyo-20261106-cybertokyo",
@@ -2655,6 +2787,42 @@
    "src": "ZEROTOKYO"
   },
   {
+   "id": "meieki-20261107-taxifes",
+   "title": "名古屋タクシー協会75周年 みんなのタクシーまつり",
+   "pref": "23",
+   "area": "名古屋市中村区",
+   "venue": "Meieki Parklet",
+   "cat": "フェス・祭り",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "url": "https://www.nagoya-info.jp/event/detail/1446/",
+   "src": "名古屋コンシェルジュ（名古屋市公式観光サイト）"
+  },
+  {
+   "id": "moomin-20261107-refugee",
+   "title": "メッツァ・難民支援ウィークエンド 2026",
+   "pref": "11",
+   "area": "飯能市",
+   "venue": "ムーミンバレーパーク",
+   "cat": "商業施設",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "url": "https://metsa-hanno.com/event/48050/",
+   "src": "メッツァ（ムーミンバレーパーク）"
+  },
+  {
+   "id": "nfcc-20261107-aoisai",
+   "title": "2026 葵祭 –Radiant–",
+   "pref": "23",
+   "area": "名古屋市東区",
+   "venue": "名古屋文化短期大学",
+   "cat": "フェス・祭り",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "url": "https://www.nfcc-nagoya.com/news/2026-%e8%91%b5%e7%a5%ad-radiant-%e9%96%8b%e5%82%ac%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/",
+   "src": "名古屋文化短期大学"
+  },
+  {
    "id": "shikanoshima-20261107-yoimatsuri",
    "title": "志賀島 潮騒ヨイ祭り",
    "pref": "40",
@@ -2665,6 +2833,18 @@
    "end": "2026-11-08",
    "url": "https://yokanavi.com/events/274405",
    "src": "よかなび（福岡市）"
+  },
+  {
+   "id": "tif-20261107-oedokottouichi",
+   "title": "大江戸骨董市",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "東京国際フォーラム",
+   "cat": "フェス・祭り",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261107_1002",
+   "src": "東京国際フォーラム"
   },
   {
    "id": "togokusan-20261107-fruitfair",
@@ -2701,6 +2881,42 @@
    "end": "2027-04-04",
    "url": "https://www.nagoya-info.jp/event/detail/1101/",
    "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）"
+  },
+  {
+   "id": "tif-20261108-bestfleamarket",
+   "title": "ベストフリーマーケット",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "東京国際フォーラム",
+   "cat": "フェス・祭り",
+   "start": "2026-11-08",
+   "end": "2026-11-08",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261108_1027",
+   "src": "東京国際フォーラム"
+  },
+  {
+   "id": "kanayama-20261110-aichikoukogaku",
+   "title": "令和8年度考古学フェア あいちの考古学2026",
+   "pref": "23",
+   "area": "名古屋市中区",
+   "venue": "名古屋都市センター（金山南ビル11階）",
+   "cat": "展示会",
+   "start": "2026-11-10",
+   "end": "2026-11-29",
+   "url": "https://www.nagoya-info.jp/event/detail/1443/",
+   "src": "名古屋コンシェルジュ（名古屋市公式観光サイト）"
+  },
+  {
+   "id": "moomin-20261111-nyoronyoro",
+   "title": "超ニョロニョロの日＆超ニョロニョロフェスタ",
+   "pref": "11",
+   "area": "飯能市",
+   "venue": "ムーミンバレーパーク",
+   "cat": "商業施設",
+   "start": "2026-11-11",
+   "end": "2026-11-15",
+   "url": "https://metsa-hanno.com/event/47804/",
+   "src": "メッツァ（ムーミンバレーパーク）"
   }
  ]
 }
