@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-10-28T17:00:00+09:00",
+ "updated": "2026-10-29T17:00:00+09:00",
  "events": [
   {
    "id": "expo70-20260314-beforeafter",
@@ -1479,18 +1479,6 @@
    "src": "横浜ハンマーヘッド公式"
   },
   {
-   "id": "laforet-60percent-20261016",
-   "title": "60% POP UP STORE",
-   "pref": "13",
-   "area": "渋谷区",
-   "venue": "ラフォーレ原宿 2F CONTAINER",
-   "cat": "商業施設",
-   "start": "2026-10-16",
-   "end": "2026-10-29",
-   "url": "https://www.laforet.ne.jp/pop_up_shop/60percent_2610/",
-   "src": "ラフォーレ原宿 公式サイト"
-  },
-  {
    "id": "midtown-designlive-20261016",
    "title": "TOKYO MIDTOWN DESIGN LIVE 2026",
    "pref": "13",
@@ -1635,18 +1623,6 @@
    "src": "万博記念公園公式"
   },
   {
-   "id": "tif-20261028-kumiaimatsuri",
-   "title": "組合まつり in TOKYO ～技あり、食あり、Nipponの逸品～",
-   "pref": "13",
-   "area": "千代田区",
-   "venue": "東京国際フォーラム",
-   "cat": "フェス・祭り",
-   "start": "2026-10-28",
-   "end": "2026-10-29",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261028Fr-H202610037",
-   "src": "東京国際フォーラム"
-  },
-  {
    "id": "tif-20261028fr-h202610060",
    "title": "クリエイティブ・ウェルビーイング・トーキョー だれもが文化でつながる国際会議2026",
    "pref": "13",
@@ -1669,42 +1645,6 @@
    "end": "2026-11-03",
    "url": "https://yokanavi.com/events/274559",
    "src": "よかなび（福岡市）"
-  },
-  {
-   "id": "tif-20261029-oretachinotabi",
-   "title": "俺たちの旅スペシャルコンサート～まだまだ旅は終わらない～",
-   "pref": "13",
-   "area": "千代田区",
-   "venue": "東京国際フォーラム",
-   "cat": "ライブ",
-   "start": "2026-10-29",
-   "end": "2026-10-29",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261029Fr-H202610121",
-   "src": "東京国際フォーラム"
-  },
-  {
-   "id": "tif-20261029-personz",
-   "title": "PERSONZ RELORD TOUR \"DISCOVER JAPAN 47\"",
-   "pref": "13",
-   "area": "千代田区",
-   "venue": "東京国際フォーラム",
-   "cat": "ライブ",
-   "start": "2026-10-29",
-   "end": "2026-10-29",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261029Fr-H202610079",
-   "src": "東京国際フォーラム"
-  },
-  {
-   "id": "tokyodome-20261029-vmaj",
-   "title": "MTV VMAJ 2026",
-   "pref": "13",
-   "area": "文京区",
-   "venue": "東京ドーム",
-   "cat": "ライブ",
-   "start": "2026-10-29",
-   "end": "2026-10-29",
-   "url": "https://www.mtvjapan.com/event/vmaj/2026/",
-   "src": "MTV JAPAN（東京ドーム公式スケジュール掲載）"
   },
   {
    "id": "bonsai-20261030-shiki11",
@@ -1741,6 +1681,18 @@
    "end": "2027-01-11",
    "url": "https://yokanavi.com/events/274536",
    "src": "よかなび（福岡市）"
+  },
+  {
+   "id": "haikyu-challengers-ex-20261030",
+   "title": "古舘春一 ハイキュー!!展 挑戦者たち",
+   "pref": "13",
+   "area": "港区",
+   "venue": "森アーツセンターギャラリー",
+   "cat": "展示会",
+   "start": "2026-10-30",
+   "end": "2027-01-11",
+   "url": "https://haikyu-challengers-ex.com/",
+   "src": "ハイキュー!!展 公式"
   },
   {
    "id": "meiji-20261030-meidaisai",
@@ -2187,6 +2139,18 @@
    "src": "メッツァ（ムーミンバレーパーク）"
   },
   {
+   "id": "mori-art-marikomori-20261031",
+   "title": "森万里子：燦燦",
+   "pref": "13",
+   "area": "港区",
+   "venue": "森美術館",
+   "cat": "展示会",
+   "start": "2026-10-31",
+   "end": "2027-03-28",
+   "url": "https://www.mori.art.museum/jp/exhibitions/marikomori/index.html",
+   "src": "森美術館"
+  },
+  {
    "id": "musashi-20261031-shirakijisai",
    "title": "第74回 白雉祭",
    "pref": "13",
@@ -2463,6 +2427,18 @@
    "src": "ZEROTOKYO"
   },
   {
+   "id": "fukuoka-u-nanakumasai-2026",
+   "title": "第71回 七隈祭",
+   "pref": "40",
+   "area": "福岡市城南区",
+   "venue": "福岡大学 七隈キャンパス",
+   "cat": "フェス・祭り",
+   "start": "2026-11-01",
+   "end": "2026-11-03",
+   "url": "https://fukuokauni-sc.com/nanakumasai/",
+   "src": "福岡大学学友会 七隈祭"
+  },
+  {
    "id": "hosei-koganeisai-20261101",
    "title": "第74回法政大学小金井祭",
    "pref": "13",
@@ -2557,6 +2533,18 @@
    "end": "2026-11-01",
    "url": "https://www.teikyo-u.ac.jp/studentlife/festival",
    "src": "帝京大学"
+  },
+  {
+   "id": "tif-sunfair-20261101",
+   "title": "東京サンフェア",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "東京国際フォーラム",
+   "cat": "商業施設",
+   "start": "2026-11-01",
+   "end": "2026-11-01",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261101_0903",
+   "src": "東京国際フォーラム"
   },
   {
    "id": "tmu-20261101-miyakomatsuri",
@@ -2737,6 +2725,18 @@
    "end": "2026-11-03",
    "url": "https://www.tokyo-park.or.jp/park/yoyogi/news/2026/10_19.html",
    "src": "東京都公園協会（代々木公園）"
+  },
+  {
+   "id": "roppongihills-christmas-2026",
+   "title": "Roppongi Hills Christmas 2026",
+   "pref": "13",
+   "area": "港区",
+   "venue": "六本木ヒルズ",
+   "cat": "商業施設",
+   "start": "2026-11-05",
+   "end": "2026-12-25",
+   "url": "https://www.roppongihills.com/sp/christmashills/",
+   "src": "六本木ヒルズ"
   },
   {
    "id": "tif-20261105-hayashibe",
