@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-10-29T17:00:00+09:00",
+ "updated": "2026-10-30T16:53:00+09:00",
  "events": [
   {
    "id": "expo70-20260314-beforeafter",
@@ -783,18 +783,6 @@
    "src": "神奈川県観光協会"
   },
   {
-   "id": "aichi-ncsm-planetarium-oct-2026",
-   "title": "プラネタリウム 10月テーマ「アンドロメダ物語」",
-   "pref": "23",
-   "area": "名古屋市中区",
-   "venue": "名古屋市科学館",
-   "cat": "商業施設",
-   "start": "2026-10-01",
-   "end": "2026-10-30",
-   "url": "https://www.ncsm.city.nagoya.jp/visit/planetarium/themes/past/2026/10_1011030.html",
-   "src": "名古屋市科学館"
-  },
-  {
    "id": "andersen-20261001-cosmos",
    "title": "コスモスまつり",
    "pref": "12",
@@ -949,18 +937,6 @@
    "end": "2026-11-01",
    "url": "https://www.enosui.com/evententry.php?eid=02688",
    "src": "新江ノ島水族館"
-  },
-  {
-   "id": "expo70-20261003-cosmos",
-   "title": "コスモス・コキアフェスタ 2026",
-   "pref": "27",
-   "area": "吹田市",
-   "venue": "万博記念公園",
-   "cat": "公園・庭園",
-   "start": "2026-10-03",
-   "end": "2026-10-30",
-   "url": "https://www.expo70-park.jp/event/77306/",
-   "src": "万博記念公園公式"
   },
   {
    "id": "kariya-kakai-20261003",
@@ -1719,6 +1695,18 @@
    "src": "名城大学大学祭実行委員会"
   },
   {
+   "id": "mmesse-winter-sports-festa-2026",
+   "title": "冬スポ!!WINTER SPORTS FESTA season26",
+   "pref": "12",
+   "area": "千葉市美浜区",
+   "venue": "幕張メッセ",
+   "cat": "商業施設",
+   "start": "2026-10-30",
+   "end": "2026-11-01",
+   "url": "https://www.m-messe.co.jp/event/detail/8898",
+   "src": "幕張メッセ"
+  },
+  {
    "id": "nakasu-20261030-nakasumatsuri",
    "title": "第51回 中洲まつり",
    "pref": "40",
@@ -1767,102 +1755,6 @@
    "src": "東京国際フォーラム 公式イベント情報"
   },
   {
-   "id": "womb-20261030-reprise",
-   "title": "REPRISE",
-   "pref": "13",
-   "area": "渋谷区",
-   "venue": "WOMB",
-   "cat": "ライブ",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
-   "url": "https://www.womb.co.jp/ja/events/103026",
-   "src": "WOMB"
-  },
-  {
-   "id": "zepp-divercity-161169",
-   "title": "INORAN TOUR Determine 2026 GRAND FINAL \"Naked Again\"",
-   "pref": "13",
-   "area": "江東区",
-   "venue": "Zepp DiverCity(TOKYO)",
-   "cat": "ライブ",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
-   "url": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=161169",
-   "src": "Zepp公式スケジュール"
-  },
-  {
-   "id": "zepp-fukuoka-20261030-161023",
-   "title": "福岡爆音漫才選集",
-   "pref": "40",
-   "area": "福岡市中央区",
-   "venue": "Zepp Fukuoka",
-   "cat": "ライブ",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
-   "url": "https://www.zepp.co.jp/hall/fukuoka/schedule/single/?rid=161023",
-   "src": "Zepp Fukuoka 公式スケジュール"
-  },
-  {
-   "id": "zepp-haneda-159049",
-   "title": "女王蜂 全国ツアー2026「星」",
-   "pref": "13",
-   "area": "大田区",
-   "venue": "Zepp Haneda(TOKYO)",
-   "cat": "ライブ",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
-   "url": "https://www.zepp.co.jp/hall/haneda/schedule/single/?rid=159049",
-   "src": "Zepp公式スケジュール"
-  },
-  {
-   "id": "zepp-nagoya-158543",
-   "title": "THE YELLOW MONKEY TOUR 2026 THE COUNTDOWN～60分1本勝負～",
-   "pref": "23",
-   "area": "名古屋市",
-   "venue": "Zepp Nagoya",
-   "cat": "ライブ",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
-   "url": "https://www.zepp.co.jp/hall/nagoya/schedule/single/?rid=158543",
-   "src": "Zepp公式スケジュール"
-  },
-  {
-   "id": "zepp-osakabayside-20261030-157834",
-   "title": "ASIAN KUNG-FU GENERATION Tour 2026 \"Midage Fanclub\"",
-   "pref": "27",
-   "area": "大阪市此花区",
-   "venue": "Zepp Osaka Bayside",
-   "cat": "ライブ",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
-   "url": "https://www.zepp.co.jp/hall/osakabayside/schedule/single/?rid=157834",
-   "src": "Zepp Osaka Bayside 公式スケジュール"
-  },
-  {
-   "id": "zepp-yokohama-160164",
-   "title": "ACIDMAN ONEMAN LIVE \"This is ACIDMAN 2026\"",
-   "pref": "14",
-   "area": "横浜市",
-   "venue": "KT Zepp Yokohama",
-   "cat": "ライブ",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
-   "url": "https://www.zepp.co.jp/hall/yokohama/schedule/single/?rid=160164",
-   "src": "Zepp公式スケジュール"
-  },
-  {
-   "id": "zerotokyo-20261030-halloween-day1",
-   "title": "ZEROTOKYO HALLOWEEN DAY1「CRAZY PARTY NIGHT」",
-   "pref": "13",
-   "area": "新宿区",
-   "venue": "ZEROTOKYO",
-   "cat": "ライブ",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
-   "url": "https://zerotokyo.jp/event/zerotokyo-halloween-day1-1030/",
-   "src": "ZEROTOKYO"
-  },
-  {
    "id": "aibunsai-20261031-abu",
    "title": "第26回 愛文祭",
    "pref": "23",
@@ -1887,6 +1779,18 @@
    "src": "相模女子大学 公式サイト"
   },
   {
+   "id": "akarenga-furusato-fair-2026",
+   "title": "全国ふるさとフェア2026",
+   "pref": "14",
+   "area": "横浜市中区",
+   "venue": "横浜赤レンガ倉庫 イベント広場",
+   "cat": "フェス・祭り",
+   "start": "2026-10-31",
+   "end": "2026-11-03",
+   "url": "https://www.yokohama-akarenga.jp/event/dff348a5d784b4ae428ea5d4a05e09a475d14e9d/",
+   "src": "横浜赤レンガ倉庫"
+  },
+  {
    "id": "apitaminami-20261031-makerscamp",
    "title": "みなみメーカーズキャンプ",
    "pref": "23",
@@ -1897,6 +1801,18 @@
    "end": "2026-10-31",
    "url": "https://www.nagoya-info.jp/event/detail/1424/",
    "src": "名古屋コンシェルジュ（名古屋市公式観光サイト）"
+  },
+  {
+   "id": "chiba-tako-bonodori-fes-2026",
+   "title": "多古の星 盆踊りフェス",
+   "pref": "12",
+   "area": "多古町",
+   "venue": "多古の星キャンプ場",
+   "cat": "フェス・祭り",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "url": "https://maruchiba.jp/event/detail_16059.html",
+   "src": "ちば観光ナビ"
   },
   {
    "id": "dendai-20261031-asahisai",
@@ -2103,6 +2019,30 @@
    "src": "目白大学 桐榮祭実行委員会"
   },
   {
+   "id": "mmesse-ff14-fanfest-2026",
+   "title": "ファイナルファンタジーXIV ファンフェスティバル 2026 in 東京",
+   "pref": "12",
+   "area": "千葉市美浜区",
+   "venue": "幕張メッセ",
+   "cat": "展示会",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "url": "https://www.m-messe.co.jp/event/detail/8910",
+   "src": "幕張メッセ"
+  },
+  {
+   "id": "mmesse-night-hike-2026",
+   "title": "NIGHT HIKE 2026 in 幕張",
+   "pref": "12",
+   "area": "千葉市美浜区",
+   "venue": "幕張メッセ",
+   "cat": "ライブ",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "url": "https://www.m-messe.co.jp/event/detail/8920",
+   "src": "幕張メッセ"
+  },
+  {
    "id": "moomin-20261031-christmas",
    "title": "ムーミン谷のクリスマス 2026",
    "pref": "11",
@@ -2209,6 +2149,18 @@
    "end": "2026-11-01",
    "url": "https://www.tokyo-midtown.com/jp/event/8083/",
    "src": "東京ミッドタウン 公式サイト"
+  },
+  {
+   "id": "seisen-seisensai-2026",
+   "title": "第67回清泉祭",
+   "pref": "13",
+   "area": "品川区",
+   "venue": "清泉女子大学",
+   "cat": "フェス・祭り",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "url": "https://sites.google.com/sky.seisen-u.ac.jp/seisen-university-festival-67",
+   "src": "清泉祭実行委員会"
   },
   {
    "id": "shibaura-20261031-shibaurasai",
@@ -2427,6 +2379,18 @@
    "src": "ZEROTOKYO"
   },
   {
+   "id": "chiba-kururi-castle-fes-2026",
+   "title": "第46回 生きた水の里 久留里城まつり",
+   "pref": "12",
+   "area": "君津市",
+   "venue": "久留里駅前交流広場・久留里商店街・久留里城",
+   "cat": "フェス・祭り",
+   "start": "2026-11-01",
+   "end": "2026-11-01",
+   "url": "https://maruchiba.jp/event/detail_13126.html",
+   "src": "ちば観光ナビ"
+  },
+  {
    "id": "fukuoka-u-nanakumasai-2026",
    "title": "第71回 七隈祭",
    "pref": "40",
@@ -2643,6 +2607,18 @@
    "src": "よかなび（福岡市）"
   },
   {
+   "id": "chiba-ichikawa-shimin-matsuri-2026",
+   "title": "第51回 いちかわ市民まつり",
+   "pref": "12",
+   "area": "市川市",
+   "venue": "大洲防災公園",
+   "cat": "フェス・祭り",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "url": "https://maruchiba.jp/event/detail_13327.html",
+   "src": "ちば観光ナビ"
+  },
+  {
    "id": "hisaya-20261103-coffeehakuranbi",
    "title": "珈琲博覧日2026",
    "pref": "23",
@@ -2653,6 +2629,18 @@
    "end": "2026-11-03",
    "url": "https://www.nagoya-info.jp/event/detail/697/",
    "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）"
+  },
+  {
+   "id": "mmesse-strider-cup-umi-2026",
+   "title": "ストライダーカップ2026 うみのステージ",
+   "pref": "12",
+   "area": "千葉市美浜区",
+   "venue": "幕張メッセ",
+   "cat": "スポーツ",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "url": "https://www.m-messe.co.jp/event/detail/8915",
+   "src": "幕張メッセ"
   },
   {
    "id": "nagoya-toshoki-20261103-xmas",
@@ -2787,6 +2775,30 @@
    "src": "ZEROTOKYO"
   },
   {
+   "id": "akarenga-localgreen-fes-2026",
+   "title": "LOCALGREEN FESTIVAL'26",
+   "pref": "14",
+   "area": "横浜市中区",
+   "venue": "横浜赤レンガ倉庫 イベント広場・赤レンガパーク",
+   "cat": "フェス・祭り",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "url": "https://www.yokohama-akarenga.jp/event/52f3b9b4b45170e5f382ed7f8c6374a4b03aa8c1/",
+   "src": "横浜赤レンガ倉庫"
+  },
+  {
+   "id": "chiba-yachimata-jinja-taisai-2026",
+   "title": "八街神社大祭",
+   "pref": "12",
+   "area": "八街市",
+   "venue": "八街駅南口周辺",
+   "cat": "フェス・祭り",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "url": "https://maruchiba.jp/event/detail_13323.html",
+   "src": "ちば観光ナビ"
+  },
+  {
    "id": "meieki-20261107-taxifes",
    "title": "名古屋タクシー協会75周年 みんなのタクシーまつり",
    "pref": "23",
@@ -2797,6 +2809,30 @@
    "end": "2026-11-07",
    "url": "https://www.nagoya-info.jp/event/detail/1446/",
    "src": "名古屋コンシェルジュ（名古屋市公式観光サイト）"
+  },
+  {
+   "id": "mmesse-keisei-bus-fes-2026",
+   "title": "京成電鉄バスグループお客様感謝フェスティバル2026",
+   "pref": "12",
+   "area": "千葉市美浜区",
+   "venue": "幕張メッセ",
+   "cat": "フェス・祭り",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "url": "https://www.m-messe.co.jp/event/detail/8906",
+   "src": "幕張メッセ"
+  },
+  {
+   "id": "mmesse-kishidan-banpaku-2026",
+   "title": "サントリーオールフリー presents 氣志團万博2026 ～房総爆音リゾート～",
+   "pref": "12",
+   "area": "千葉市美浜区",
+   "venue": "幕張メッセ",
+   "cat": "フェス・祭り",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "url": "https://www.m-messe.co.jp/event/detail/8786",
+   "src": "幕張メッセ"
   },
   {
    "id": "moomin-20261107-refugee",
@@ -2869,6 +2905,18 @@
    "end": "2026-11-08",
    "url": "https://wasedasai.net/",
    "src": "早稲田祭2026運営スタッフ"
+  },
+  {
+   "id": "chiba-shibayama-haniwa-2026",
+   "title": "第41回 芝山はにわ祭",
+   "pref": "12",
+   "area": "芝山町",
+   "venue": "殿塚・姫塚古墳、芝山仁王尊、芝山公園芝生広場",
+   "cat": "フェス・祭り",
+   "start": "2026-11-08",
+   "end": "2026-11-08",
+   "url": "https://maruchiba.jp/event/detail_10873.html",
+   "src": "ちば観光ナビ"
   },
   {
    "id": "laguna-20261108-marinefantasia",
