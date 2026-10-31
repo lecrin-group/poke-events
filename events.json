@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-10-30T16:53:00+09:00",
+ "updated": "2026-10-31T16:51:00+09:00",
  "events": [
   {
    "id": "expo70-20260314-beforeafter",
@@ -1503,6 +1503,18 @@
    "src": "東京都公園協会"
   },
   {
+   "id": "kadcul-20261017-mushihen",
+   "title": "虫へんはみんなむし－蟲をめぐる博物誌",
+   "pref": "11",
+   "area": "所沢市",
+   "venue": "角川武蔵野ミュージアム 4F 荒俣ワンダー秘宝館",
+   "cat": "展示会",
+   "start": "2026-10-17",
+   "end": "2027-04-05",
+   "url": "https://kadcul.com/event/289",
+   "src": "角川武蔵野ミュージアム"
+  },
+  {
    "id": "nagoya-20261017-yattokame",
    "title": "やっとかめ文化祭DOORS",
    "pref": "23",
@@ -2403,6 +2415,18 @@
    "src": "福岡大学学友会 七隈祭"
   },
   {
+   "id": "gakusai-kjc-baika-20261101",
+   "title": "第60回 梅華祭",
+   "pref": "40",
+   "area": "飯塚市",
+   "venue": "近畿大学九州短期大学",
+   "cat": "フェス・祭り",
+   "start": "2026-11-01",
+   "end": "2026-11-01",
+   "url": "https://www.kjc.kindai.ac.jp/news/5048/",
+   "src": "近畿大学九州短期大学"
+  },
+  {
    "id": "hosei-koganeisai-20261101",
    "title": "第74回法政大学小金井祭",
    "pref": "13",
@@ -2799,6 +2823,42 @@
    "src": "ちば観光ナビ"
   },
   {
+   "id": "gakusai-showa-music-20261107",
+   "title": "第55回 昭和音大祭",
+   "pref": "14",
+   "area": "川崎市麻生区",
+   "venue": "昭和音楽大学 新百合ヶ丘キャンパス 南校舎",
+   "cat": "フェス・祭り",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "url": "https://www.tosei-showa-music.ac.jp/news/information/20261019_003982.html",
+   "src": "昭和音楽大学"
+  },
+  {
+   "id": "keyaki-20261107-dancebase",
+   "title": "SAITAMA DANCE BASE",
+   "pref": "11",
+   "area": "さいたま市中央区",
+   "venue": "さいたま新都心 けやきひろば",
+   "cat": "フェス・祭り",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "url": "https://www.saitama-arena.co.jp/schedule/saitama-dance-base/",
+   "src": "GMOアリーナさいたま"
+  },
+  {
+   "id": "keyaki-20261107-ifsnow",
+   "title": "GMO winter illumination in けやきひろば〜If Snow〜",
+   "pref": "11",
+   "area": "さいたま市中央区",
+   "venue": "さいたま新都心 けやきひろば",
+   "cat": "商業施設",
+   "start": "2026-11-07",
+   "end": "2027-01-24",
+   "url": "https://www.saitama-arena.co.jp/schedule/gmo-winter-illumination-in-%e3%81%91%e3%82%84%e3%81%8d%e3%81%b2%e3%82%8d%e3%81%b0%ef%bd%9eif-snow%ef%bd%9e/",
+   "src": "GMOアリーナさいたま"
+  },
+  {
    "id": "meieki-20261107-taxifes",
    "title": "名古屋タクシー協会75周年 みんなのタクシーまつり",
    "pref": "23",
@@ -2965,6 +3025,54 @@
    "end": "2026-11-15",
    "url": "https://metsa-hanno.com/event/47804/",
    "src": "メッツァ（ムーミンバレーパーク）"
+  },
+  {
+   "id": "gakusai-aikoku-nadeshiko-20261114",
+   "title": "第24回 撫子祭",
+   "pref": "12",
+   "area": "四街道市",
+   "venue": "愛国学園大学 四街道キャンパス",
+   "cat": "フェス・祭り",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "url": "https://aikoku-u.ac.jp/nadeshikofes",
+   "src": "愛国学園大学"
+  },
+  {
+   "id": "gakusai-dcu-20261114",
+   "title": "DCU祭 2026",
+   "pref": "14",
+   "area": "川崎市麻生区",
+   "venue": "田園調布学園大学",
+   "cat": "フェス・祭り",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "url": "https://www.dcu.ac.jp/campuslife/festival/index.html",
+   "src": "田園調布学園大学"
+  },
+  {
+   "id": "gakusai-twcu-vera-20261114",
+   "title": "第73回 VERA祭",
+   "pref": "13",
+   "area": "杉並区",
+   "venue": "東京女子大学 善福寺キャンパス",
+   "cat": "フェス・祭り",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "url": "https://www.twcu.ac.jp/main/campuslife/campus-festival.html",
+   "src": "東京女子大学"
+  },
+  {
+   "id": "keyaki-20261114-saitamarche",
+   "title": "2026さいたまるしぇ in さいたまクリテリウム",
+   "pref": "11",
+   "area": "さいたま市中央区",
+   "venue": "さいたま新都心 けやきひろば",
+   "cat": "フェス・祭り",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "url": "https://www.saitama-arena.co.jp/schedule/2026%e3%81%95%e3%81%84%e3%81%9f%e3%81%be%e3%82%8b%e3%81%97%e3%81%87-in-%e3%81%95%e3%81%84%e3%81%9f%e3%81%be%e3%82%af%e3%83%aa%e3%83%86%e3%83%aa%e3%82%a6%e3%83%a0/",
+   "src": "GMOアリーナさいたま"
   }
  ]
 }
