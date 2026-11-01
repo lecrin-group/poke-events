@@ -1,6 +1,6 @@
 # 引き継ぎ書：poke-events（イベントのデータ）
 
-最終更新：2026-10-25
+最終更新：2026-11-01
 
 > **引き継ぎ書は GitHub（lecrin-group/poke-events）の、このファイルだけ（10/25 ナギサ決定）**
 > - 正しいのは GitHub の main にあるこのファイル。手元のフォルダで読むときは、先に `git pull` して最新にしてから読む
@@ -13,9 +13,12 @@
 
 ## しくみ
 - 毎日 17:15（日本時間）に GitHub Actions（`.github/workflows/sync.yml` → `.github/sync.py`）が、ドライブの公開フォルダから最新のイベント一覧を取り込んで「daily sync」で commit する
+- 2026-11-01 から差分方式に対応（sync.py に `DELTA-SUPPORT-V1` の印）。毎日のタスクは数KBの差分 `events-add-YYYYMMDD.json`（中身 `{"schema":1,"updated":…,"add":[…],"remove":[id…]}`）だけを置く。sync.py は今の events.json を土台に、updated が新しい差分だけを日付順に足す（同じ差分を2回足さない）。全件版 `events-YYYYMMDD.json` も、今より updated が新しいときだけ非常用として使う
+- タスク側の pe_tools は、main の sync.py にこの印があるかで delta / FULL を決める。印を消すと毎日の全件貼り付け（トークン大）に戻るので消さない
 - 手で足すこともある（例：2026-10-24 東京湾大華火祭）。毎日ボットが push するので、push の前は必ず `git pull --rebase`
 
 ## これまで
+- 2026-11-01 差分方式（events-add）に対応。目的：毎日のタスクのトークンを約90％減らす（10/29 ナギサ決定）
 - 2026-10-25 この HANDOFF.md を作った（それまで引き継ぎ書はなかった。中身はリポジトリから）
 
 ## 課題
