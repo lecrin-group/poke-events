@@ -36,12 +36,12 @@ def clean(events):
         if not ok_event(e) or e["end"] < today or e["id"] in seen:
             continue
         seen.add(e["id"])
-        out.append({k: e.get(k, "") for k in ("id", "title", "pref", "area", "venue", "cat", "start", "end", "url", "src")})
+        out.append({**{k: e.get(k, "") for k in ("id", "title", "pref", "area", "venue", "cat", "start", "end", "url", "src")}, **({"en": str(e["en"])[:200]} if isinstance(e.get("en"), str) and e["en"].strip() else {})})
     out.sort(key=lambda e: (e["start"], e["id"]))
     return out
 
 def norm(e):
-    return {k: e.get(k, "") for k in ("id", "title", "pref", "area", "venue", "cat", "start", "end", "url", "src")}
+    return {**{k: e.get(k, "") for k in ("id", "title", "pref", "area", "venue", "cat", "start", "end", "url", "src")}, **({"en": str(e["en"])[:200]} if isinstance(e.get("en"), str) and e["en"].strip() else {})}
 
 with open("events.json", encoding="utf-8") as f:
     cur = json.load(f)

@@ -160,7 +160,8 @@ def load_add():
 
 def check_event(e):
     err = []
-    if set(e) != set(KEYS): err.append("keys")
+    if set(e) - {"en"} != set(KEYS): err.append("keys")
+    if "en" in e and (not isinstance(e["en"], str) or not e["en"].strip()): err.append("en")
     if not re.fullmatch(r"[A-Za-z0-9-]+", e.get("id", "")): err.append("id")
     if not re.fullmatch(r"\d\d", e.get("pref", "")): err.append("pref")
     if e.get("cat") not in CATS: err.append("cat")
@@ -184,7 +185,7 @@ def validated():
         if err and err != ["same-url?"]:
             print("NG", e.get("id"), err); continue
         if err: print("注意(同URLあり・中身を確認)", e.get("id"))
-        seen.add(e["id"]); ok.append({k: e[k] for k in KEYS})
+        seen.add(e["id"]); ok.append({**{k: e[k] for k in KEYS}, **({"en": e["en"]} if e.get("en") else {})})
     return ev, ok, rm
 
 def summary(evs):
@@ -204,7 +205,7 @@ def cmd_build():
 def cmd_full():
     ev, ok, rm = validated()
     alive = [e for e in ev if e["end"] >= str(TODAY) and e["id"] not in set(rm)] + ok
-    lines = ",\n".join(json.dumps({k: e.get(k, "") for k in KEYS}, ensure_ascii=False, separators=(",", ":")) for e in alive)
+    lines = ",\n".join(json.dumps({**{k: e.get(k, "") for k in KEYS}, **({"en": e["en"]} if e.get("en") else {})}, ensure_ascii=False, separators=(",", ":")) for e in alive)
     s = '{"schema":1,"updated":"%s","events":[\n%s\n]}' % (NOW.strftime("%Y-%m-%dT%H:%M:00+09:00"), lines)
     json.loads(s)
     p = f"{O}/events-{YMD}.json"; open(p, "w", encoding="utf-8").write(s)
