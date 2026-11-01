@@ -1683,6 +1683,18 @@
    "src": "ハイキュー!!展 公式"
   },
   {
+   "id": "ikebukuro-halloween-cosplay-2026",
+   "title": "池袋ハロウィンコスプレフェス2026",
+   "pref": "13",
+   "area": "豊島区",
+   "venue": "池袋エリア（サンシャインシティほか）",
+   "cat": "フェス・祭り",
+   "start": "2026-10-30",
+   "end": "2026-11-01",
+   "url": "https://ikebukurocosplay.jp/",
+   "src": "池袋ハロウィンコスプレフェス公式"
+  },
+  {
    "id": "meiji-20261030-meidaisai",
    "title": "第142回明大祭",
    "pref": "13",
@@ -1765,6 +1777,18 @@
    "end": "2026-10-31",
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261030_0914",
    "src": "東京国際フォーラム 公式イベント情報"
+  },
+  {
+   "id": "tokyo-ramen-festa-2026",
+   "title": "東京ラーメンフェスタ2026",
+   "pref": "13",
+   "area": "世田谷区",
+   "venue": "駒沢オリンピック公園 中央広場",
+   "cat": "フェス・祭り",
+   "start": "2026-10-30",
+   "end": "2026-11-03",
+   "url": "https://ra-fes.com/",
+   "src": "東京ラーメンフェスタ公式"
   },
   {
    "id": "aibunsai-20261031-abu",
