@@ -224,19 +224,6 @@
    "en": "Nishio City Iwase Bunko Library Exhibition: Western Learning"
   },
   {
-   "id": "aichinow-3685-hideyoshi",
-   "title": "名古屋市博物館 特別展「名古屋には秀吉がおるでよ！―秀吉と尾張の歴史―」",
-   "pref": "23",
-   "area": "名古屋市瑞穂区",
-   "venue": "名古屋市博物館",
-   "cat": "展示会",
-   "start": "2026-09-05",
-   "end": "2026-11-01",
-   "url": "https://aichinow.pref.aichi.jp/events/detail/3685/",
-   "src": "Aichi Now（愛知県公式観光サイト）",
-   "en": "Nagoya City Museum Special Exhibition: Toyotomi Hideyoshi"
-  },
-  {
    "id": "aichinow-4036-beachland-autumn",
    "title": "南知多ビーチランド 秋のイベント",
    "pref": "23",
@@ -313,19 +300,6 @@
    "url": "https://pref.spec.ed.jp/momas/2026momas02",
    "src": "埼玉県立近代美術館",
    "en": "MOMAS Collection (Museum of Modern Art, Saitama)"
-  },
-  {
-   "id": "nagoya-museum-20260905-lithuania",
-   "title": "特別展「リトアニア－バルトの森に響く歌－」",
-   "pref": "23",
-   "area": "名古屋市瑞穂区",
-   "venue": "名古屋市博物館",
-   "cat": "展示会",
-   "start": "2026-09-05",
-   "end": "2026-11-01",
-   "url": "https://www.nagoya-info.jp/event/detail/1354/",
-   "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）",
-   "en": "Special Exhibition: Lithuania - Songs of the Baltic Forest (Nagoya City Museum)"
   },
   {
    "id": "fam-20260908-yamauchi",
@@ -705,19 +679,6 @@
    "en": "Van Gogh's Drawbridge and the Impressionists (Nagoya City Art Museum)"
   },
   {
-   "id": "ofuna-20260923-pumpkin",
-   "title": "日比谷花壇大船フラワーセンター「かぼちゃのカーニバル2026」",
-   "pref": "14",
-   "area": "鎌倉市",
-   "venue": "日比谷花壇大船フラワーセンター",
-   "cat": "公園・庭園",
-   "start": "2026-09-23",
-   "end": "2026-11-01",
-   "url": "https://www.kanagawa-kankou.or.jp/event/7862",
-   "src": "神奈川県観光協会",
-   "en": "Pumpkin Carnival 2026 (Ofuna Flower Center)"
-  },
-  {
    "id": "minpaku-20260925-ainu",
    "title": "国立民族学博物館 特別展 アイヌ工芸品展",
    "pref": "27",
@@ -729,32 +690,6 @@
    "url": "https://www.expo70-park.jp/event/77215/",
    "src": "万博記念公園",
    "en": "Special Exhibition: Ainu Crafts (National Museum of Ethnology)"
-  },
-  {
-   "id": "kana-garden-20260926-halloween",
-   "title": "花菜ガーデン「畑のハロウィーンパーティー」",
-   "pref": "14",
-   "area": "平塚市",
-   "venue": "花菜ガーデン",
-   "cat": "公園・庭園",
-   "start": "2026-09-26",
-   "end": "2026-11-01",
-   "url": "https://www.kanagawa-kankou.or.jp/event/7262",
-   "src": "神奈川県観光協会",
-   "en": "Farm Halloween Party (Kana Garden)"
-  },
-  {
-   "id": "yomiuriland-20260926-halloween",
-   "title": "よみうりランド「よみラン ハロウィン！～Jump in Party 2026～」",
-   "pref": "13",
-   "area": "稲城市",
-   "venue": "よみうりランド",
-   "cat": "商業施設",
-   "start": "2026-09-26",
-   "end": "2026-11-01",
-   "url": "https://www.kanagawa-kankou.or.jp/event/7858",
-   "src": "神奈川県観光協会",
-   "en": "Yomiuriland Halloween: Jump in Party 2026"
   },
   {
    "id": "jindai-20261001-nazotoki",
@@ -859,19 +794,6 @@
    "url": "https://aichinow.pref.aichi.jp/events/detail/1730/",
    "src": "Aichi Now（愛知県公式観光サイト）",
    "en": "Denpark Harvest Festival"
-  },
-  {
-   "id": "enosui-20261003-geijutsunoaki",
-   "title": "芸術の秋、絵画をのぞく",
-   "pref": "14",
-   "area": "藤沢市",
-   "venue": "新江ノ島水族館",
-   "cat": "商業施設",
-   "start": "2026-10-03",
-   "end": "2026-11-01",
-   "url": "https://www.enosui.com/evententry.php?eid=02688",
-   "src": "新江ノ島水族館",
-   "en": "Art Autumn Exhibition (Enoshima Aquarium)"
   },
   {
    "id": "kariya-kakai-20261003",
@@ -1576,19 +1498,6 @@
    "en": "Seasonal Bonsai Exhibition: November (Omiya Bonsai Art Museum)"
   },
   {
-   "id": "chibadaisai-20261030",
-   "title": "第64回千葉大祭",
-   "pref": "12",
-   "area": "千葉市稲毛区",
-   "venue": "千葉大学 西千葉キャンパス",
-   "cat": "フェス・祭り",
-   "start": "2026-10-30",
-   "end": "2026-11-01",
-   "url": "https://chibafes.com/",
-   "src": "千葉大祭実行委員会 公式サイト",
-   "en": "64th Chiba University Festival"
-  },
-  {
    "id": "fukuokajo-20261030-teamlab",
    "title": "チームラボ 福岡城跡 光ノ祭 2026-2027",
    "pref": "40",
@@ -1615,71 +1524,6 @@
    "en": "Haikyu!! Exhibition: Challengers"
   },
   {
-   "id": "ikebukuro-halloween-cosplay-2026",
-   "title": "池袋ハロウィンコスプレフェス2026",
-   "pref": "13",
-   "area": "豊島区",
-   "venue": "池袋エリア（サンシャインシティほか）",
-   "cat": "フェス・祭り",
-   "start": "2026-10-30",
-   "end": "2026-11-01",
-   "url": "https://ikebukurocosplay.jp/",
-   "src": "池袋ハロウィンコスプレフェス公式",
-   "en": "Ikebukuro Halloween Cosplay Festival 2026"
-  },
-  {
-   "id": "meiji-20261030-meidaisai",
-   "title": "第142回明大祭",
-   "pref": "13",
-   "area": "杉並区",
-   "venue": "明治大学 和泉キャンパス",
-   "cat": "フェス・祭り",
-   "start": "2026-10-30",
-   "end": "2026-11-01",
-   "url": "https://meidaisai.jp/about",
-   "src": "第142回明大祭実行委員会",
-   "en": "142nd Meiji University Festival"
-  },
-  {
-   "id": "mmesse-winter-sports-festa-2026",
-   "title": "冬スポ!!WINTER SPORTS FESTA season26",
-   "pref": "12",
-   "area": "千葉市美浜区",
-   "venue": "幕張メッセ",
-   "cat": "商業施設",
-   "start": "2026-10-30",
-   "end": "2026-11-01",
-   "url": "https://www.m-messe.co.jp/event/detail/8898",
-   "src": "幕張メッセ",
-   "en": "WINTER SPORTS FESTA season26 (Makuhari Messe)"
-  },
-  {
-   "id": "nodai-20261030-shukakusai",
-   "title": "東京農業大学 収穫祭2026",
-   "pref": "13",
-   "area": "世田谷区",
-   "venue": "東京農業大学 世田谷キャンパス",
-   "cat": "フェス・祭り",
-   "start": "2026-10-30",
-   "end": "2026-11-01",
-   "url": "https://harvest-fes.com/",
-   "src": "東京農業大学 収穫祭実行委員会",
-   "en": "Tokyo University of Agriculture Harvest Festival 2026"
-  },
-  {
-   "id": "nua-geidaisai-20261030",
-   "title": "名古屋芸術大学 芸大祭2026「New Playing!」",
-   "pref": "23",
-   "area": "北名古屋市",
-   "venue": "名古屋芸術大学 西キャンパス",
-   "cat": "フェス・祭り",
-   "start": "2026-10-30",
-   "end": "2026-11-01",
-   "url": "https://www.nua26geidaisai.com/",
-   "src": "名古屋芸術大学 芸大祭実行委員会",
-   "en": "Nagoya University of Arts Festival 2026"
-  },
-  {
    "id": "tokyo-ramen-festa-2026",
    "title": "東京ラーメンフェスタ2026",
    "pref": "13",
@@ -1691,19 +1535,6 @@
    "url": "https://ra-fes.com/",
    "src": "東京ラーメンフェスタ公式",
    "en": "Tokyo Ramen Festa 2026"
-  },
-  {
-   "id": "aioisai-20261031",
-   "title": "第57回 相生祭",
-   "pref": "14",
-   "area": "相模原市南区",
-   "venue": "相模女子大学 相模大野キャンパス",
-   "cat": "フェス・祭り",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "url": "https://www.sagami-wu.ac.jp/campuslife/aioi-57/",
-   "src": "相模女子大学 公式サイト",
-   "en": "57th Aioi Festival (University Festival)"
   },
   {
    "id": "akarenga-furusato-fair-2026",
@@ -1719,19 +1550,6 @@
    "en": "National Hometown Fair 2026 (Yokohama Red Brick Warehouse)"
   },
   {
-   "id": "dendai-20261031-asahisai",
-   "title": "第15回 旭祭",
-   "pref": "13",
-   "area": "足立区",
-   "venue": "東京電機大学 東京千住キャンパス",
-   "cat": "フェス・祭り",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "url": "https://www.sg.dendai.ac.jp/s1j-asahisai/index.html",
-   "src": "東京電機大学 旭祭実行委員会",
-   "en": "15th Asahi Festival (Tokyo Denki University)"
-  },
-  {
    "id": "fujinagoya-20261031-fukunouragawa",
    "title": "企画展「服のウラガワ、お店します」",
    "pref": "23",
@@ -1743,19 +1561,6 @@
    "url": "https://www.nagoya-info.jp/event/detail/1440/",
    "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）",
    "en": "Behind the Clothes Exhibition (Nagoya)"
-  },
-  {
-   "id": "gakusen-20261031-gakusensai",
-   "title": "学泉祭2026",
-   "pref": "23",
-   "area": "岡崎市",
-   "venue": "愛知学泉大学 岡崎キャンパス",
-   "cat": "フェス・祭り",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "url": "https://www.gakusen.ac.jp/nyushi2/gakusai2026/",
-   "src": "愛知学泉大学",
-   "en": "Gakusen Festival 2026"
   },
   {
    "id": "hakata-20261031-sennenkouya",
@@ -1771,19 +1576,6 @@
    "en": "Hakata Old Town Light Up Walk 2026"
   },
   {
-   "id": "hirakatasai-20261031",
-   "title": "第77回 平潟祭",
-   "pref": "14",
-   "area": "横浜市金沢区",
-   "venue": "関東学院大学 金沢八景キャンパス",
-   "cat": "フェス・祭り",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "url": "https://www.hirakatasai.net/",
-   "src": "平潟祭 公式サイト（関東学院大学）",
-   "en": "77th Hirakata Festival (University Festival)"
-  },
-  {
    "id": "hisaya-20261031-taichung-yoichi",
    "title": "台湾・台中夜市2026",
    "pref": "23",
@@ -1795,32 +1587,6 @@
    "url": "https://www.nagoya-info.jp/event/detail/664/",
    "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）",
    "en": "Taiwan Taichung Night Market 2026 (Hisaya-odori Park, Nagoya)"
-  },
-  {
-   "id": "honokunisai-20261031-aichi-u",
-   "title": "第3回 穂国祭",
-   "pref": "23",
-   "area": "豊橋市",
-   "venue": "愛知大学 豊橋キャンパス",
-   "cat": "フェス・祭り",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "url": "https://taweb.aichi-u.ac.jp/honokuni/index.html",
-   "src": "愛知大学 穂国祭",
-   "en": "3rd Honokuni Festival (Aichi University)"
-  },
-  {
-   "id": "hoshigaoka-20261031-coffeemarket",
-   "title": "ホシガオカ COFFEE MARKET Oct.-Nov.",
-   "pref": "23",
-   "area": "名古屋市千種区",
-   "venue": "星が丘テラス 屋外エリア",
-   "cat": "商業施設",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "url": "https://www.nagoya-info.jp/event/detail/1427/",
-   "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）",
-   "en": "Hoshigaoka Coffee Market"
   },
   {
    "id": "jotenji-20261031-yoichi",
@@ -1836,32 +1602,6 @@
    "en": "Jotenji Temple Night Market (Fukuoka)"
   },
   {
-   "id": "kakuozan-20261031-akimatsuri",
-   "title": "覚王山秋祭2026",
-   "pref": "23",
-   "area": "名古屋市千種区",
-   "venue": "日泰寺参道",
-   "cat": "フェス・祭り",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "url": "https://www.nagoya-info.jp/event/detail/64/",
-   "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）",
-   "en": "Kakuozan Autumn Festival 2026 (Nagoya)"
-  },
-  {
-   "id": "kamatasai-20261031",
-   "title": "第59回 かまた祭",
-   "pref": "13",
-   "area": "大田区",
-   "venue": "日本工学院専門学校・東京工科大学 蒲田キャンパス",
-   "cat": "フェス・祭り",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "url": "https://kamatasai.jp/",
-   "src": "かまた祭実行委員会",
-   "en": "59th Kamata Festival (University Festival)"
-  },
-  {
    "id": "keyaki-20261031-ebikanifes",
    "title": "エビカニフェス 2026",
    "pref": "11",
@@ -1875,19 +1615,6 @@
    "en": "Shrimp and Crab Festival 2026 (Keyaki Hiroba, Saitama)"
   },
   {
-   "id": "koedo-20261031-senbasengen",
-   "title": "仙波浅間神社 社殿特別公開",
-   "pref": "11",
-   "area": "川越市",
-   "venue": "仙波浅間神社",
-   "cat": "フェス・祭り",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "url": "https://koedo.or.jp/event/%e4%bb%99%e6%b3%a2%e6%b5%85%e9%96%93%e7%a5%9e%e7%a4%be%e3%80%80%e7%a4%be%e6%ae%bf%e7%89%b9%e5%88%a5%e5%85%ac%e9%96%8b-3/",
-   "src": "小江戸川越観光協会",
-   "en": "Senba Sengen Shrine Special Opening (Kawagoe)"
-  },
-  {
    "id": "kushida-20261031-okushidafes",
    "title": "お櫛田フェス",
    "pref": "40",
@@ -1899,58 +1626,6 @@
    "url": "https://yokanavi.com/events/274560",
    "src": "よかなび（福岡市）",
    "en": "Okushida Festival (Kushida Shrine, Fukuoka)"
-  },
-  {
-   "id": "marinemesse-20261031-hachurui",
-   "title": "九州爬虫類フェス 2026 Autumn",
-   "pref": "40",
-   "area": "福岡市博多区",
-   "venue": "マリンメッセ福岡B館",
-   "cat": "展示会",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "url": "https://yokanavi.com/events/268229",
-   "src": "よかなび（福岡市）",
-   "en": "Kyushu Reptile Festival 2026 Autumn"
-  },
-  {
-   "id": "mejiro-20261031-toeisai",
-   "title": "桐榮祭2026",
-   "pref": "11",
-   "area": "さいたま市岩槻区",
-   "venue": "目白大学 さいたま岩槻キャンパス",
-   "cat": "フェス・祭り",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "url": "https://mejiro-toei-festival.com/",
-   "src": "目白大学 桐榮祭実行委員会",
-   "en": "Toei Festival 2026 (Mejiro University)"
-  },
-  {
-   "id": "mmesse-ff14-fanfest-2026",
-   "title": "ファイナルファンタジーXIV ファンフェスティバル 2026 in 東京",
-   "pref": "12",
-   "area": "千葉市美浜区",
-   "venue": "幕張メッセ",
-   "cat": "展示会",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "url": "https://www.m-messe.co.jp/event/detail/8910",
-   "src": "幕張メッセ",
-   "en": "FINAL FANTASY XIV Fan Festival 2026 in Tokyo"
-  },
-  {
-   "id": "mmesse-night-hike-2026",
-   "title": "NIGHT HIKE 2026 in 幕張",
-   "pref": "12",
-   "area": "千葉市美浜区",
-   "venue": "幕張メッセ",
-   "cat": "ライブ",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "url": "https://www.m-messe.co.jp/event/detail/8920",
-   "src": "幕張メッセ",
-   "en": "NIGHT HIKE 2026 in Makuhari"
   },
   {
    "id": "moomin-20261031-christmas",
@@ -2005,19 +1680,6 @@
    "en": "Mariko Mori Exhibition (Mori Art Museum)"
   },
   {
-   "id": "musashi-20261031-shirakijisai",
-   "title": "第74回 白雉祭",
-   "pref": "13",
-   "area": "練馬区",
-   "venue": "武蔵大学 江古田キャンパス",
-   "cat": "フェス・祭り",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "url": "https://shirakijisai.com/",
-   "src": "武蔵大学 白雉祭実行委員会",
-   "en": "74th Hakuchi Festival (Musashi University)"
-  },
-  {
    "id": "nagoya-20261031-bunkanomichi",
    "title": "歩こう！文化のみち2026",
    "pref": "23",
@@ -2044,136 +1706,6 @@
    "en": "Kamen Rider Agito 25th Anniversary Exhibition (Nagoya PARCO)"
   },
   {
-   "id": "rissho-20261031-kikkasai",
-   "title": "第61回 橘花祭",
-   "pref": "13",
-   "area": "品川区",
-   "venue": "立正大学 品川キャンパス",
-   "cat": "フェス・祭り",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "url": "https://kikkasai.rissho.jp/",
-   "src": "立正大学 橘花祭実行委員会",
-   "en": "61st Kikka Festival (Rissho University)"
-  },
-  {
-   "id": "roppongi-artnight-20261031",
-   "title": "六本木アートナイト2026",
-   "pref": "13",
-   "area": "港区",
-   "venue": "六本木エリア（東京ミッドタウンほか）",
-   "cat": "フェス・祭り",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "url": "https://www.tokyo-midtown.com/jp/event/8083/",
-   "src": "東京ミッドタウン 公式サイト",
-   "en": "Roppongi Art Night 2026"
-  },
-  {
-   "id": "seisen-seisensai-2026",
-   "title": "第67回清泉祭",
-   "pref": "13",
-   "area": "品川区",
-   "venue": "清泉女子大学",
-   "cat": "フェス・祭り",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "url": "https://sites.google.com/sky.seisen-u.ac.jp/seisen-university-festival-67",
-   "src": "清泉祭実行委員会",
-   "en": "67th Seisen Festival (Seisen University)"
-  },
-  {
-   "id": "shibaura-20261031-shibaurasai",
-   "title": "第54回 芝浦祭",
-   "pref": "13",
-   "area": "江東区",
-   "venue": "芝浦工業大学 豊洲キャンパス",
-   "cat": "フェス・祭り",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "url": "https://shibaurasai.jp/",
-   "src": "芝浦祭実行委員会",
-   "en": "54th Shibaura Festival (Shibaura Institute of Technology)"
-  },
-  {
-   "id": "shoryosai-20261031",
-   "title": "松稜祭",
-   "pref": "14",
-   "area": "藤沢市",
-   "venue": "湘南工科大学",
-   "cat": "フェス・祭り",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "url": "https://www.shonan-it.ac.jp/shoryosai/",
-   "src": "湘南工科大学 公式サイト",
-   "en": "Shoryo Festival (University Festival)"
-  },
-  {
-   "id": "torikai-20261031-torifes",
-   "title": "トリフェス2026 ～鳥飼八幡宮のグルメな秋まつり～",
-   "pref": "40",
-   "area": "福岡市中央区",
-   "venue": "鳥飼八幡宮",
-   "cat": "フェス・祭り",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "url": "https://yokanavi.com/events/255753",
-   "src": "よかなび（福岡市）",
-   "en": "Tori Fes 2026: Gourmet Autumn Festival at Torikai Hachimangu (Fukuoka)"
-  },
-  {
-   "id": "toyo-20261031-akabanedaisai",
-   "title": "第10回 赤羽台祭",
-   "pref": "13",
-   "area": "北区",
-   "venue": "東洋大学 赤羽台キャンパス",
-   "cat": "フェス・祭り",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "url": "https://akabanedai-fes.com/",
-   "src": "東洋大学赤羽台祭実行委員会",
-   "en": "10th Akabanedai Festival (Toyo University)"
-  },
-  {
-   "id": "toyo-20261031-hakusansai",
-   "title": "第62回 白山祭",
-   "pref": "13",
-   "area": "文京区",
-   "venue": "東洋大学 白山キャンパス",
-   "cat": "フェス・祭り",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "url": "https://www.hakusansai.com/",
-   "src": "東洋大学 白山祭実行委員会",
-   "en": "62nd Hakusan Festival (Toyo University)"
-  },
-  {
-   "id": "tyg-20261031-phoenixsai",
-   "title": "第34回 東洋学園大学フェニックス祭",
-   "pref": "13",
-   "area": "文京区",
-   "venue": "東洋学園大学 本郷キャンパス",
-   "cat": "フェス・祭り",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "url": "https://www.tyg.jp/campuslife/school_festival.html",
-   "src": "東洋学園大学",
-   "en": "34th Phoenix Festival (Toyo Gakuen University)"
-  },
-  {
-   "id": "chiba-kururi-castle-fes-2026",
-   "title": "第46回 生きた水の里 久留里城まつり",
-   "pref": "12",
-   "area": "君津市",
-   "venue": "久留里駅前交流広場・久留里商店街・久留里城",
-   "cat": "フェス・祭り",
-   "start": "2026-11-01",
-   "end": "2026-11-01",
-   "url": "https://maruchiba.jp/event/detail_13126.html",
-   "src": "ちば観光ナビ",
-   "en": "46th Kururi Castle Festival"
-  },
-  {
    "id": "fukuoka-u-nanakumasai-2026",
    "title": "第71回 七隈祭",
    "pref": "40",
@@ -2187,19 +1719,6 @@
    "en": "71st Nanakuma Festival (Fukuoka University)"
   },
   {
-   "id": "gakusai-kjc-baika-20261101",
-   "title": "第60回 梅華祭",
-   "pref": "40",
-   "area": "飯塚市",
-   "venue": "近畿大学九州短期大学",
-   "cat": "フェス・祭り",
-   "start": "2026-11-01",
-   "end": "2026-11-01",
-   "url": "https://www.kjc.kindai.ac.jp/news/5048/",
-   "src": "近畿大学九州短期大学",
-   "en": "60th Baika Festival (University Festival)"
-  },
-  {
    "id": "hosei-koganeisai-20261101",
    "title": "第74回法政大学小金井祭",
    "pref": "13",
@@ -2211,19 +1730,6 @@
    "url": "https://koganeisai.hosei-u.com/",
    "src": "法政大学小金井祭実行委員会",
    "en": "74th Hosei University Koganei Festival"
-  },
-  {
-   "id": "islandcity-20261101-fukumarche",
-   "title": "福マルシェ＠アイランドシティ",
-   "pref": "40",
-   "area": "福岡市東区",
-   "venue": "照葉積水ハウスアリーナ東側会場",
-   "cat": "フェス・祭り",
-   "start": "2026-11-01",
-   "end": "2026-11-01",
-   "url": "https://yokanavi.com/events/274306",
-   "src": "よかなび（福岡市）",
-   "en": "Fuku Marche at Island City (Fukuoka)"
   },
   {
    "id": "kaiyodai-umitakasai-20261101",
@@ -2289,32 +1795,6 @@
    "url": "https://tamabi-artfes.com/",
    "src": "多摩美術大学芸術祭 実行委員会",
    "en": "Tama Art University Art Festival 2026"
-  },
-  {
-   "id": "teikyo-20261101-teiousai",
-   "title": "第15回 帝桜祭",
-   "pref": "13",
-   "area": "板橋区",
-   "venue": "帝京大学 板橋キャンパス",
-   "cat": "フェス・祭り",
-   "start": "2026-11-01",
-   "end": "2026-11-01",
-   "url": "https://www.teikyo-u.ac.jp/studentlife/festival",
-   "src": "帝京大学",
-   "en": "15th Teio Festival (Teikyo University)"
-  },
-  {
-   "id": "tif-sunfair-20261101",
-   "title": "東京サンフェア",
-   "pref": "13",
-   "area": "千代田区",
-   "venue": "東京国際フォーラム",
-   "cat": "商業施設",
-   "start": "2026-11-01",
-   "end": "2026-11-01",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261101_0903",
-   "src": "東京国際フォーラム",
-   "en": "Tokyo Sun Fair (Tokyo International Forum)"
   },
   {
    "id": "tmu-20261101-miyakomatsuri",
