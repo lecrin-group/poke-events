@@ -219,6 +219,15 @@ VENUES = [
  ("葛西臨海公園", "https://www.tokyo-park.or.jp/park/kasairinkai/"),
  ("木場公園", "https://www.tokyo-park.or.jp/park/kiba/"),
  ("サンシャインシティ", "https://www.sunshinecity.jp/event/"),
+ ("東京ドームシティ", "https://www.tokyo-dome.co.jp/event/"),
+ ("幕張メッセ", "https://www.m-messe.co.jp/event/"),
+ ("東京スカイツリー", "https://www.tokyo-skytree.jp/event/"),
+ ("東京ソラマチ", "https://www.tokyo-solamachi.jp/event/"),
+ ("六本木ヒルズ", "https://www.roppongihills.com/events/"),
+ ("東京ミッドタウン", "https://www.tokyo-midtown.com/jp/event/"),
+ ("恵比寿ガーデンプレイス", "https://gardenplace.jp/event/"),
+ ("渋谷ストリーム", "https://shibuyastream.jp/event/"),
+ ("よみうりランド", "https://www.yomiuriland.com/event/"),
  ("国営昭和記念公園", "https://www.showakinen-koen.jp/event/"),
  ("横浜赤レンガ倉庫", "https://www.yokohama-akarenga.jp/event/"),
  ("みなとみらい21", "https://www.minatomirai21.com/event/"),
@@ -248,12 +257,12 @@ def cmd_venues():
             try: md = (int(m.group(1)), int(m.group(2)))
             except ValueError: continue
             if md not in wd or m.start() - last < 90: continue
-            sn = t[max(0, m.start() - 45): m.start() + 55].strip()
+            sn = t[max(0, m.start() - 40): m.start() + 50].strip()
             if any(k in sn for k in known): continue
             key = sn[:30]
             if key in seen: continue
             seen.add(key); got.append(sn); last = m.start()
-            if len(got) >= 5: break
+            if len(got) >= 4: break
         return name, u, len(t), got
     with cf.ThreadPoolExecutor(8) as ex:
         for name, u, n, got in ex.map(one, VENUES):
@@ -272,7 +281,8 @@ def cmd_due():
         if b.get("k") and b["k"] in titles: continue
         if f"大型済：{b['n']}" in done: continue
         n += 1
-        print(f"{b['n']} | pref {b['p']} | 例年{','.join(map(str, b['m']))}月 | {b.get('url') or '公式を検索'}")
+        hint = " | → pref 00・area「オンライン」・cat 商業施設・venue はサイト名" if "オンライン" in b["n"] else ""
+        print(f"{b['n']} | pref {b['p']} | 例年{','.join(map(str, b['m']))}月 | {b.get('url') or '公式を検索'}{hint}")
     print(f"due {n}件（今月・来月で未登録）")
 
 def cmd_verify(fid):
