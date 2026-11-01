@@ -265,10 +265,12 @@ def cmd_due():
     except Exception as ex: print("big-events.json 取得失敗:", ex); return
     ev = events(); ms = {TODAY.month, (TODAY.replace(day=1) + datetime.timedelta(days=32)).month}
     titles = " ".join(e["title"] + " " + e["url"] for e in ev)
+    done = judged_text()   # ログに「大型済：名前」と書いたものは1週間飛ばす（ログは8日で消える）
     n = 0
     for b in big:
         if not ms & set(b.get("m", [])): continue
         if b.get("k") and b["k"] in titles: continue
+        if f"大型済：{b['n']}" in done: continue
         n += 1
         print(f"{b['n']} | pref {b['p']} | 例年{','.join(map(str, b['m']))}月 | {b.get('url') or '公式を検索'}")
     print(f"due {n}件（今月・来月で未登録）")
