@@ -262,10 +262,20 @@ def cmd_venues():
             key = sn[:30]
             if key in seen: continue
             seen.add(key); got.append(sn); last = m.start()
-            if len(got) >= 4: break
+            if len(got) >= 3: break
         return name, u, len(t), got
+    vs = list(VENUES)
+    sp = f"{W}/spaces.csv"   # ドライブの「イベントスペース台帳（1都3県）」を CSV で落としたもの（状態=チェック中・読める だけ使う）
+    if os.path.exists(sp):
+        import csv
+        have = {u for _, u in vs}
+        for row in csv.DictReader(open(sp, encoding="utf-8-sig")):
+            u = (row.get("イベント一覧の公式URL") or "").strip()
+            if row.get("状態") == "チェック中" and row.get("機械で読めるか") == "読める" and u.startswith("https://") and u not in have:
+                vs.append((row.get("スペース名", "?"), u)); have.add(u)
+    print(f"会場 {len(vs)} か所（台帳から {len(vs) - len(VENUES)}）")
     with cf.ThreadPoolExecutor(8) as ex:
-        for name, u, n, got in ex.map(one, VENUES):
+        for name, u, n, got in ex.map(one, vs):
             print(f"## {name} {u} ({'取得不可' if n < 200 else str(len(got)) + '件'})")
             for g in got: print("  -", g)
 
