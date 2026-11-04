@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-03T16:53:00+09:00",
+ "updated": "2026-11-04T16:54:00+09:00",
  "events": [
   {
    "id": "expo70-20260314-beforeafter",
@@ -1095,6 +1095,19 @@
    "en": "Special Exhibition: Literati Painters Buncho and Kazan (Kanagawa)"
   },
   {
+   "id": "saitama-aquarium-20261010-goldfish",
+   "title": "特別企画展「Gold Fish Science ～金魚から科学する～」",
+   "pref": "11",
+   "area": "羽生市",
+   "venue": "さいたま水族館（羽生水郷公園）",
+   "cat": "商業施設",
+   "start": "2026-10-10",
+   "end": "2027-01-11",
+   "url": "https://www.pref.saitama.lg.jp/a1105/library-info/20261010suizokukan.html",
+   "src": "埼玉県",
+   "en": "Gold Fish Science Special Exhibition (Saitama Aquarium)"
+  },
+  {
    "id": "silk-20261010-housan",
    "title": "シルク博物館「めざせ豊蚕 ―おかいこさまの道具展―」",
    "pref": "14",
@@ -1225,19 +1238,6 @@
    "en": "Yokohama Hammerhead 7th Anniversary Days"
   },
   {
-   "id": "midtown-designlive-20261016",
-   "title": "TOKYO MIDTOWN DESIGN LIVE 2026",
-   "pref": "13",
-   "area": "港区",
-   "venue": "東京ミッドタウン",
-   "cat": "商業施設",
-   "start": "2026-10-16",
-   "end": "2026-11-04",
-   "url": "https://www.tokyo-midtown.com/jp/event/designlive/",
-   "src": "東京ミッドタウン 公式サイト",
-   "en": "TOKYO MIDTOWN DESIGN LIVE 2026"
-  },
-  {
    "id": "asahiiseki-yayoi-20261017",
    "title": "あいち朝日遺跡ミュージアム企画展「弥生の顔と身体表現」",
    "pref": "23",
@@ -1366,19 +1366,6 @@
    "url": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw12721",
    "src": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw12721",
    "en": "THE MOVEUM YOKOHAMA: Monet and Ukiyo-e"
-  },
-  {
-   "id": "tiff-2026-39th",
-   "title": "第39回東京国際映画祭",
-   "pref": "13",
-   "area": "千代田区",
-   "venue": "日比谷・有楽町・丸の内・銀座地区",
-   "cat": "フェス・祭り",
-   "start": "2026-10-26",
-   "end": "2026-11-04",
-   "url": "https://2026.tiff-jp.net/ja/",
-   "src": "https://2026.tiff-jp.net/ja/",
-   "en": "39th Tokyo International Film Festival"
   },
   {
    "id": "ginza6-mori-seika-20261028",
@@ -1910,6 +1897,19 @@
    "en": "GMO Winter Illumination at Keyaki Hiroba: If Snow"
   },
   {
+   "id": "kitasato-fes-2026",
+   "title": "第64回北里大学北里祭2026",
+   "pref": "14",
+   "area": "相模原市南区",
+   "venue": "北里大学 相模原キャンパス",
+   "cat": "フェス・祭り",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "url": "https://www.kitasato-u.ac.jp/jp/news/20261027-04.html",
+   "src": "北里大学",
+   "en": "64th Kitasato Festival 2026 (Kitasato University Sagamihara Campus)"
+  },
+  {
    "id": "meieki-20261107-taxifes",
    "title": "名古屋タクシー協会75周年 みんなのタクシーまつり",
    "pref": "23",
@@ -2026,6 +2026,19 @@
    "en": "61st Jiyugaoka Sanno Festival (Sanno University Jiyugaoka Campus)"
   },
   {
+   "id": "sanno-mizukisai-48",
+   "title": "第48回瑞木祭",
+   "pref": "14",
+   "area": "伊勢原市",
+   "venue": "産業能率大学 湘南キャンパス",
+   "cat": "フェス・祭り",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "url": "https://www.sanno.ac.jp/27200.html",
+   "src": "産業能率大学",
+   "en": "48th Mizuki Festival (SANNO University Shonan Campus)"
+  },
+  {
    "id": "shikanoshima-20261107-yoimatsuri",
    "title": "志賀島 潮騒ヨイ祭り",
    "pref": "40",
@@ -2037,6 +2050,19 @@
    "url": "https://yokanavi.com/events/274405",
    "src": "よかなび（福岡市）",
    "en": "Shikanoshima Shiosai Evening Festival (Fukuoka)"
+  },
+  {
+   "id": "soniccity-20261107-nipponphil158",
+   "title": "第158回さいたま定期演奏会 日本フィルハーモニー交響楽団",
+   "pref": "11",
+   "area": "さいたま市大宮区",
+   "venue": "ソニックシティ 大ホール",
+   "cat": "ライブ",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "url": "https://www.sonic-city.or.jp/event/",
+   "src": "ソニックシティ",
+   "en": "158th Saitama Subscription Concert, Japan Philharmonic Orchestra (Sonic City)"
   },
   {
    "id": "theatretram-hatenai-20261107",
@@ -2089,6 +2115,19 @@
    "url": "https://www.toho-fes-narashino.net/",
    "src": "https://www.toho-fes-narashino.net/",
    "en": "65th Toho Festival (Toho University Narashino Campus)"
+  },
+  {
+   "id": "wako-ikosai-2026",
+   "title": "2026年度和光大学祭「異煌祭」",
+   "pref": "13",
+   "area": "町田市",
+   "venue": "和光大学 本キャンパス",
+   "cat": "フェス・祭り",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "url": "https://www.wako.ac.jp/campuslife/memorial-event/school-festival.html",
+   "src": "和光大学",
+   "en": "Wako University Festival 2026 Ikosai (Wako University)"
   },
   {
    "id": "waseda-20261107-wasedasai",
@@ -2649,6 +2688,19 @@
    "en": "Tama Festival (Kokushikan University Tama Campus)"
   },
   {
+   "id": "saitama-aigofes-20261114",
+   "title": "彩の国さいたま動物愛護フェスティバル2026",
+   "pref": "11",
+   "area": "熊谷市",
+   "venue": "埼玉県動物指導センター",
+   "cat": "フェス・祭り",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "url": "https://www.pref.saitama.lg.jp/b0716/library-info/20261114.html",
+   "src": "埼玉県",
+   "en": "Sainokuni Saitama Animal Welfare Festival 2026 (Saitama Animal Care Center)"
+  },
+  {
    "id": "shirotori-20261114-kanpukai",
    "title": "白鳥庭園 観楓会",
    "pref": "23",
@@ -2774,6 +2826,32 @@
    "en": "Poke Peace Meets Sunshine City Twinkle Star Idol"
   },
   {
+   "id": "kasukabe-shiten-20261117",
+   "title": "第20回記念春日部市美術展覧会",
+   "pref": "11",
+   "area": "春日部市",
+   "venue": "ふれあいキューブ 多目的ホール",
+   "cat": "展示会",
+   "start": "2026-11-17",
+   "end": "2026-11-22",
+   "url": "https://www.pref.saitama.lg.jp/f2215/library-info/2026_bunka_5.html",
+   "src": "埼玉県",
+   "en": "20th Kasukabe City Art Exhibition (Fureai Cube)"
+  },
+  {
+   "id": "keyaki-20261118-fleamarket",
+   "title": "フリーマーケットinさいたま新都心けやきひろば",
+   "pref": "11",
+   "area": "さいたま市中央区",
+   "venue": "さいたま新都心 けやきひろば",
+   "cat": "フェス・祭り",
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "url": "https://www.saitama-arena.co.jp/schedule/2026/11/",
+   "src": "GMOアリーナさいたま",
+   "en": "Flea Market at Saitama Shintoshin Keyaki Hiroba"
+  },
+  {
    "id": "akarenga-xmas-market-2026",
    "title": "Christmas Market in 横浜赤レンガ倉庫",
    "pref": "14",
@@ -2785,6 +2863,19 @@
    "url": "https://www.yokohama-akarenga.jp/event/",
    "src": "https://www.yokohama-akarenga.jp/event/",
    "en": "Christmas Market in Yokohama Red Brick Warehouse 2026"
+  },
+  {
+   "id": "sakado-geibunsai-20261120",
+   "title": "第23回坂戸市芸術文化祭",
+   "pref": "11",
+   "area": "坂戸市",
+   "venue": "坂戸市文化会館",
+   "cat": "フェス・祭り",
+   "start": "2026-11-20",
+   "end": "2026-11-22",
+   "url": "https://www.pref.saitama.lg.jp/f2215/library-info/2026_bunka_13.html",
+   "src": "埼玉県",
+   "en": "23rd Sakado City Arts and Culture Festival (Sakado Cultural Hall)"
   },
   {
    "id": "tokyo-xmas-market-shintoyosu-2026",
@@ -2826,6 +2917,58 @@
    "en": "Detective Conan 30th Anniversary Art Fireworks 2026 (Yamashita Pier)"
   },
   {
+   "id": "saitama-waza1gp-20261123",
+   "title": "技ー１グランプリ～埼玉“高技専”まつり～",
+   "pref": "11",
+   "area": "伊奈町",
+   "venue": "埼玉県民活動総合センター",
+   "cat": "フェス・祭り",
+   "start": "2026-11-23",
+   "end": "2026-11-23",
+   "url": "https://www.pref.saitama.lg.jp/a0811/library-info/2026waza-1.html",
+   "src": "埼玉県",
+   "en": "Waza-1 Grand Prix Saitama Vocational Schools Festival (Saitama Prefectural Citizens Activity Center)"
+  },
+  {
+   "id": "keyaki-20261127-fleamarket",
+   "title": "フリーマーケットinさいたま新都心けやきひろば",
+   "pref": "11",
+   "area": "さいたま市中央区",
+   "venue": "さいたま新都心 けやきひろば",
+   "cat": "フェス・祭り",
+   "start": "2026-11-27",
+   "end": "2026-11-27",
+   "url": "https://www.saitama-arena.co.jp/schedule/2026/11/",
+   "src": "GMOアリーナさいたま",
+   "en": "Flea Market at Saitama Shintoshin Keyaki Hiroba"
+  },
+  {
+   "id": "keyaki-20261128-lovejazztime",
+   "title": "LOVE JAZZ TIME 2026",
+   "pref": "11",
+   "area": "さいたま市中央区",
+   "venue": "さいたま新都心 けやきひろば",
+   "cat": "フェス・祭り",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "url": "https://www.saitama-arena.co.jp/schedule/2026/11/",
+   "src": "GMOアリーナさいたま",
+   "en": "LOVE JAZZ TIME 2026 (Keyaki Hiroba, Saitama Shintoshin)"
+  },
+  {
+   "id": "chichibu-yomatsuri-2026",
+   "title": "秩父夜祭（宵宮・本祭）",
+   "pref": "11",
+   "area": "秩父市",
+   "venue": "秩父神社・秩父市街",
+   "cat": "フェス・祭り",
+   "start": "2026-12-02",
+   "end": "2026-12-03",
+   "url": "https://www.chichibuji.gr.jp/yomatsuri/",
+   "src": "秩父観光協会",
+   "en": "Chichibu Night Festival 2026 (Chichibu Shrine)"
+  },
+  {
    "id": "tokyo-xmas-market-shibakoen-2026",
    "title": "東京クリスマスマーケット2026 in 芝公園",
    "pref": "13",
@@ -2837,6 +2980,19 @@
    "url": "https://tokyochristmas.net/",
    "src": "https://tokyochristmas.net/",
    "en": "Tokyo Christmas Market 2026 in Shiba Park"
+  },
+  {
+   "id": "soniccity-20261218-daiku",
+   "title": "日本フィル・ソニックシティ「第九」演奏会2026",
+   "pref": "11",
+   "area": "さいたま市大宮区",
+   "venue": "ソニックシティ 大ホール",
+   "cat": "ライブ",
+   "start": "2026-12-18",
+   "end": "2026-12-18",
+   "url": "https://www.sonic-city.or.jp/event/",
+   "src": "ソニックシティ",
+   "en": "Japan Philharmonic x Sonic City Beethoven 9th Concert 2026"
   }
  ]
 }
