@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-06T16:54:00+09:00",
+ "updated": "2026-11-07T16:55:00+09:00",
  "events": [
   {
    "id": "expo70-20260314-beforeafter",
@@ -1381,6 +1381,19 @@
    "en": "Seika Mori Ceramics Exhibition Puku Puku Patisserie (GINZA SIX)"
   },
   {
+   "id": "showakinen-yorusanpo-2026",
+   "title": "秋の夜散歩2026",
+   "pref": "13",
+   "area": "立川市",
+   "venue": "国営昭和記念公園",
+   "cat": "公園・庭園",
+   "start": "2026-10-29",
+   "end": "2026-11-29",
+   "url": "https://www.showakinen-koen.jp/autumn-night-walk/",
+   "src": "https://www.showakinen-koen.jp/autumn-night-walk/",
+   "en": "Autumn Night Walk 2026 (Showa Kinen Park)"
+  },
+  {
    "id": "yomiuriland-jewellumination-2026",
    "title": "ジュエルミネーション 2026-2027",
    "pref": "13",
@@ -1641,6 +1654,19 @@
    "en": "Roppongi Hills Christmas 2026"
   },
   {
+   "id": "skytree-dreamxmas-2026",
+   "title": "TOKYO SKYTREE Dream Christmas 2026",
+   "pref": "13",
+   "area": "墨田区",
+   "venue": "東京スカイツリー",
+   "cat": "商業施設",
+   "start": "2026-11-05",
+   "end": "2026-12-25",
+   "url": "https://www.tokyo-skytree.jp/event/",
+   "src": "https://www.tokyo-skytree.jp/event/",
+   "en": "TOKYO SKYTREE Dream Christmas 2026"
+  },
+  {
    "id": "akarenga-flower-miffy-popup-2026",
    "title": "Flower Miffy Pop-Up Marche",
    "pref": "14",
@@ -1717,6 +1743,19 @@
    "url": "https://www.tokyo-dome.co.jp/dome/event/schedule.html",
    "src": "https://www.tokyo-dome.co.jp/dome/event/schedule.html",
    "en": "Stray Kids World Tour RUN IT JAPAN (Tokyo Dome)"
+  },
+  {
+   "id": "yomiuriland-jujutsu-2026",
+   "title": "TVアニメ『呪術廻戦』「死滅回游」×よみうりランド・HANA・BIYORI",
+   "pref": "13",
+   "area": "稲城市",
+   "venue": "よみうりランド",
+   "cat": "商業施設",
+   "start": "2026-11-06",
+   "end": "2026-12-13",
+   "url": "https://www.yomiuriland.com/event/",
+   "src": "https://www.yomiuriland.com/event/",
+   "en": "Jujutsu Kaisen Culling Game x Yomiuriland and HANA BIYORI"
   },
   {
    "id": "agf-2026-sunshine",
@@ -1975,6 +2014,19 @@
    "en": "Nagoya Taxi Festival"
   },
   {
+   "id": "mm21-happa-shishu-2026",
+   "title": "ゆきえ＠葉っぱ刺繍展",
+   "pref": "14",
+   "area": "横浜市西区",
+   "venue": "クロス・パティオ（みなとみらい）",
+   "cat": "展示会",
+   "start": "2026-11-07",
+   "end": "2026-11-23",
+   "url": "https://www.minatomirai21.com/event/",
+   "src": "https://www.minatomirai21.com/event/",
+   "en": "Yukie Leaf Embroidery Exhibition (Cross Patio, Minato Mirai)"
+  },
+  {
    "id": "mmesse-keisei-bus-fes-2026",
    "title": "京成電鉄バスグループお客様感謝フェスティバル2026",
    "pref": "12",
@@ -2039,6 +2091,19 @@
    "en": "21st Nakahara Children's Future Festa (Grand Tree Musashikosugi)"
   },
   {
+   "id": "naritasan-kikka-2026",
+   "title": "第143回 成田山菊花大会",
+   "pref": "12",
+   "area": "成田市",
+   "venue": "成田山新勝寺 境内",
+   "cat": "フェス・祭り",
+   "start": "2026-11-07",
+   "end": "2026-11-15",
+   "url": "https://www.naritasan.or.jp/",
+   "src": "https://www.naritasan.or.jp/",
+   "en": "143rd Naritasan Chrysanthemum Show (Naritasan Shinshoji Temple)"
+  },
+  {
    "id": "nfcc-20261107-aoisai",
    "title": "2026 葵祭 –Radiant–",
    "pref": "23",
@@ -2050,6 +2115,19 @@
    "url": "https://www.nfcc-nagoya.com/news/2026-%e8%91%b5%e7%a5%ad-radiant-%e9%96%8b%e5%82%ac%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/",
    "src": "名古屋文化短期大学",
    "en": "Aoi Festival 2026 Radiant (University Festival)"
+  },
+  {
+   "id": "otori-asakusa-20261107",
+   "title": "酉の市 一の酉（浅草 鷲神社）",
+   "pref": "13",
+   "area": "台東区",
+   "venue": "鷲神社（浅草）",
+   "cat": "フェス・祭り",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "url": "https://otorisama.or.jp/kotoshi.html",
+   "src": "https://otorisama.or.jp/kotoshi.html",
+   "en": "Tori-no-Ichi Fair, First Day of the Rooster (Otori Shrine, Asakusa)"
   },
   {
    "id": "rhs-reiaisai-2026",
@@ -2744,6 +2822,19 @@
    "en": "Katsushika Trio Cobalt Express Tour 2026 (Tokyo International Forum)"
   },
   {
+   "id": "zepp-161191",
+   "title": "しるこ Fan Meeting Tour 2026 しるこの部屋〜みんなでしるこの部屋〜",
+   "pref": "13",
+   "area": "江東区",
+   "venue": "Zepp DiverCity(TOKYO)",
+   "cat": "ライブ",
+   "start": "2026-11-13",
+   "end": "2026-11-13",
+   "url": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=161191",
+   "src": "https://www.zepp.co.jp/hall/divercity/schedule/",
+   "en": "siruko Fan Meeting Tour 2026 (Zepp DiverCity Tokyo)"
+  },
+  {
    "id": "zepp-fukuoka-20261113-jamscollection",
    "title": "JamsCollection Zepp Tour -in FUKUOKA-",
    "pref": "40",
@@ -3139,6 +3230,19 @@
    "en": "Nakayama Autumn Antique Market (Nakayama Hokekyoji Temple)"
   },
   {
+   "id": "saitama-criterium-2026",
+   "title": "2026 ツール・ド・フランス さいたまクリテリウム",
+   "pref": "11",
+   "area": "さいたま市中央区",
+   "venue": "さいたま新都心駅周辺 特設コース",
+   "cat": "スポーツ",
+   "start": "2026-11-15",
+   "end": "2026-11-15",
+   "url": "https://www.saitama-criterium.jp/",
+   "src": "https://www.saitama-criterium.jp/",
+   "en": "2026 Tour de France Saitama Criterium (Saitama Shintoshin)"
+  },
+  {
    "id": "tif-20261115-sagradafamilia",
    "title": "サグラダ・ファミリア シンフォニックコンサート",
    "pref": "13",
@@ -3333,6 +3437,32 @@
    "en": "Gaigosai Festival (Tokyo University of Foreign Studies)"
   },
   {
+   "id": "otori-asakusa-20261119",
+   "title": "酉の市 二の酉（浅草 鷲神社）",
+   "pref": "13",
+   "area": "台東区",
+   "venue": "鷲神社（浅草）",
+   "cat": "フェス・祭り",
+   "start": "2026-11-19",
+   "end": "2026-11-19",
+   "url": "https://otorisama.or.jp/kotoshi.html",
+   "src": "https://otorisama.or.jp/kotoshi.html",
+   "en": "Tori-no-Ichi Fair, Second Day of the Rooster (Otori Shrine, Asakusa)"
+  },
+  {
+   "id": "shibuyastream-ryusei140-2026",
+   "title": "龍生派140周年記念展「いけばな古今東西」",
+   "pref": "13",
+   "area": "渋谷区",
+   "venue": "渋谷ストリーム ホール",
+   "cat": "展示会",
+   "start": "2026-11-19",
+   "end": "2026-11-23",
+   "url": "https://shibuyastream.jp/event/",
+   "src": "https://shibuyastream.jp/event/",
+   "en": "Ryusei School 140th Anniversary Ikebana Exhibition (Shibuya Stream Hall)"
+  },
+  {
    "id": "tif-20261119-neoyataimura-beaujolais",
    "title": "ネオ屋台村 ボジョレーナイト",
    "pref": "13",
@@ -3409,6 +3539,19 @@
    "url": "https://tokyochristmas.net/",
    "src": "https://tokyochristmas.net/",
    "en": "Tokyo Christmas Market 2026 in Shin-Toyosu"
+  },
+  {
+   "id": "zepp-163664",
+   "title": "RESISTANCE SURVIVAL",
+   "pref": "27",
+   "area": "大阪市此花区",
+   "venue": "Zepp Osaka Bayside",
+   "cat": "ライブ",
+   "start": "2026-11-20",
+   "end": "2026-11-20",
+   "url": "https://www.zepp.co.jp/hall/osakabayside/schedule/single/?rid=163664",
+   "src": "https://www.zepp.co.jp/hall/osakabayside/schedule/",
+   "en": "RESISTANCE SURVIVAL (Zepp Osaka Bayside)"
   },
   {
    "id": "zepp-fukuoka-20261120-unframed",
@@ -3502,6 +3645,19 @@
    "en": "Center Plaza 4th Anniversary (Yebisu Garden Place)"
   },
   {
+   "id": "nzu-geisai-2026",
+   "title": "名古屋造形大学 芸術祭2026",
+   "pref": "23",
+   "area": "名古屋市北区",
+   "venue": "名古屋造形大学 名城公園キャンパス",
+   "cat": "フェス・祭り",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "url": "https://www.nzu.ac.jp/news/nzugeisai2026/",
+   "src": "https://www.nzu.ac.jp/news/nzugeisai2026/",
+   "en": "Nagoya Zokei University Art Festival 2026 (Meijo Park Campus)"
+  },
+  {
    "id": "tif-20261121-bttf-concert",
    "title": "「バック・トゥ・ザ・フューチャー」 in コンサート",
    "pref": "13",
@@ -3526,6 +3682,84 @@
    "url": "https://www.minatomirai21.com/event/",
    "src": "https://www.minatomirai21.com/event/",
    "en": "acosta! Cosplay Event (Yokohama World Porters)"
+  },
+  {
+   "id": "yomiuriland-kamenrider55-2026",
+   "title": "仮面ライダー生誕55周年記念 ゴーゴー・レッツゴー！仮面ライダー展",
+   "pref": "13",
+   "area": "稲城市",
+   "venue": "よみうりランド",
+   "cat": "商業施設",
+   "start": "2026-11-21",
+   "end": "2027-01-11",
+   "url": "https://www.yomiuriland.com/event/",
+   "src": "https://www.yomiuriland.com/event/",
+   "en": "Kamen Rider 55th Anniversary Go Go Let's Go! Kamen Rider Exhibition (Yomiuriland)"
+  },
+  {
+   "id": "yomiuriland-okome-fes-2026",
+   "title": "「お米のよろこび再発見」フェス",
+   "pref": "13",
+   "area": "稲城市",
+   "venue": "よみうりランド",
+   "cat": "フェス・祭り",
+   "start": "2026-11-21",
+   "end": "2026-11-23",
+   "url": "https://www.yomiuriland.com/event/",
+   "src": "https://www.yomiuriland.com/event/",
+   "en": "Rediscover the Joy of Rice Festival (Yomiuriland)"
+  },
+  {
+   "id": "yomiuriland-xmas-2026",
+   "title": "よみランXmas！2026",
+   "pref": "13",
+   "area": "稲城市",
+   "venue": "よみうりランド",
+   "cat": "商業施設",
+   "start": "2026-11-21",
+   "end": "2026-12-25",
+   "url": "https://www.yomiuriland.com/event/",
+   "src": "https://www.yomiuriland.com/event/",
+   "en": "Yomiuriland Christmas 2026"
+  },
+  {
+   "id": "zepp-157611",
+   "title": "神はサイコロを振らない Zepp Tour 2026 \"View From The Soyuz\"",
+   "pref": "40",
+   "area": "福岡市中央区",
+   "venue": "Zepp Fukuoka",
+   "cat": "ライブ",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "url": "https://www.zepp.co.jp/hall/fukuoka/schedule/single/?rid=157611",
+   "src": "https://www.zepp.co.jp/hall/fukuoka/schedule/",
+   "en": "Kami wa Saikoro wo Furanai Zepp Tour 2026 View From The Soyuz (Zepp Fukuoka)"
+  },
+  {
+   "id": "zepp-161096",
+   "title": "RESISTANCE",
+   "pref": "27",
+   "area": "大阪市此花区",
+   "venue": "Zepp Osaka Bayside",
+   "cat": "ライブ",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "url": "https://www.zepp.co.jp/hall/osakabayside/schedule/single/?rid=161096",
+   "src": "https://www.zepp.co.jp/hall/osakabayside/schedule/",
+   "en": "RESISTANCE (Zepp Osaka Bayside)"
+  },
+  {
+   "id": "zepp-166533",
+   "title": "ナナコロビヤオキ 東名阪Zepp Tour -天下一舞闘会- 桶狭間の戦い",
+   "pref": "23",
+   "area": "名古屋市中村区",
+   "venue": "Zepp Nagoya",
+   "cat": "ライブ",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "url": "https://www.zepp.co.jp/hall/nagoya/schedule/single/?rid=166533",
+   "src": "https://www.zepp.co.jp/hall/nagoya/schedule/",
+   "en": "Nanakorobiyaoki Tokyo-Nagoya-Osaka Zepp Tour (Zepp Nagoya)"
   },
   {
    "id": "ariake-20261122-hearts2hearts",
@@ -3565,6 +3799,19 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/",
    "src": "東京国際フォーラム",
    "en": "Rokudenashi Oneman Live 2026 (Tokyo International Forum)"
+  },
+  {
+   "id": "yachiyo-wanwan-marche-2026",
+   "title": "やちよワンワンふれあいマルシェ",
+   "pref": "12",
+   "area": "八千代市",
+   "venue": "千葉県立八千代広域公園 芝生の広場",
+   "cat": "フェス・祭り",
+   "start": "2026-11-22",
+   "end": "2026-11-22",
+   "url": "https://ycp.or.jp/pickup/koikikoen_e/39707/",
+   "src": "https://ycp.or.jp/",
+   "en": "Yachiyo Wan Wan Dog Marche (Yachiyo Koiki Park)"
   },
   {
    "id": "chiba-matsudo-nogyomatsuri-2026",
@@ -3632,6 +3879,19 @@
    "en": "LOVE JAZZ TIME 2026 (Keyaki Hiroba, Saitama Shintoshin)"
   },
   {
+   "id": "skytree-sanrio-hokusai-2026",
+   "title": "雲の上の浮世絵～サンリオキャラクターズとめぐる北斎展～in TOKYO SKYTREE",
+   "pref": "13",
+   "area": "墨田区",
+   "venue": "東京スカイツリー",
+   "cat": "展示会",
+   "start": "2026-12-01",
+   "end": "2027-03-02",
+   "url": "https://www.tokyo-skytree.jp/event/special/sanrio/hokusai/",
+   "src": "https://www.tokyo-skytree.jp/event/",
+   "en": "Ukiyo-e Above the Clouds: Hokusai Exhibition with Sanrio Characters in TOKYO SKYTREE"
+  },
+  {
    "id": "chichibu-yomatsuri-2026",
    "title": "秩父夜祭（宵宮・本祭）",
    "pref": "11",
@@ -3656,6 +3916,19 @@
    "url": "https://tokyochristmas.net/",
    "src": "https://tokyochristmas.net/",
    "en": "Tokyo Christmas Market 2026 in Shiba Park"
+  },
+  {
+   "id": "aonodokutsu-shibuya-2026",
+   "title": "青の洞窟 SHIBUYA 2026",
+   "pref": "13",
+   "area": "渋谷区",
+   "venue": "代々木公園ケヤキ並木 ほか",
+   "cat": "商業施設",
+   "start": "2026-12-11",
+   "end": "2026-12-27",
+   "url": "https://shibuya-aonodokutsu.jp/",
+   "src": "https://shibuya-aonodokutsu.jp/",
+   "en": "Blue Cave SHIBUYA 2026 Illumination (Yoyogi Park Keyaki Namiki)"
   },
   {
    "id": "soniccity-20261218-daiku",
