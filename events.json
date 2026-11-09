@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-08T16:54:00+09:00",
+ "updated": "2026-11-09T16:56:00+09:00",
  "events": [
   {
    "id": "expo70-20260314-beforeafter",
@@ -79,19 +79,6 @@
    "url": "https://fujiko-museum.com/",
    "src": "川崎市 藤子・F・不二雄ミュージアム",
    "en": "Fujiko F. Fujio Museum 15th Anniversary Doraemon Exhibition"
-  },
-  {
-   "id": "railwaymuseum-20260711-koukoku",
-   "title": "鉄道博物館 収蔵資料展 いろいろ、とりどり。鉄道広告 ～あの日、あの場所、あの広告～",
-   "pref": "11",
-   "area": "さいたま市大宮区",
-   "venue": "鉄道博物館",
-   "cat": "商業施設",
-   "start": "2026-07-11",
-   "end": "2026-11-09",
-   "url": "https://www.railway-museum.jp/event/exhibition.html",
-   "src": "鉄道博物館",
-   "en": "The Railway Museum: Railway Advertising Collection Exhibition"
   },
   {
    "id": "ohori-sekai-20260801",
@@ -300,19 +287,6 @@
    "url": "https://aichinow.pref.aichi.jp/events/detail/2387/",
    "src": "Aichi Now（愛知県公式観光サイト）",
    "en": "Toyota Automobile Museum Exhibition: Japan's Motorization"
-  },
-  {
-   "id": "manten-ikebukuro-20260911-moonlight",
-   "title": "Autumn Moonlight Fair -月あかりに包まれて-",
-   "pref": "13",
-   "area": "豊島区",
-   "venue": "プラネタリウム満天（サンシャインシティ）",
-   "cat": "商業施設",
-   "start": "2026-09-11",
-   "end": "2026-11-09",
-   "url": "https://sunshinecity.jp/shop/shop_news/entry-39036.html",
-   "src": "サンシャインシティ 公式",
-   "en": "Autumn Moonlight Fair (Planetarium Manten, Sunshine City Ikebukuro)"
   },
   {
    "id": "aichinow-3143-meijimura-nazotoki",
@@ -1186,6 +1160,19 @@
    "en": "Washi Paper Light Exhibition (Mazak Art Plaza)"
   },
   {
+   "id": "tdc-aooni-matsuri-2026",
+   "title": "青鬼×東京ドームシティ アトラクションズ ～青鬼祭～",
+   "pref": "13",
+   "area": "文京区",
+   "venue": "東京ドームシティ アトラクションズ",
+   "cat": "商業施設",
+   "start": "2026-10-23",
+   "end": "2026-11-23",
+   "url": "https://www.tokyo-dome.co.jp/event/",
+   "src": "https://www.tokyo-dome.co.jp/event/",
+   "en": "Ao Oni Festival x Tokyo Dome City Attractions"
+  },
+  {
    "id": "yokoyama-20261023-noritake",
    "title": "横山美術館所蔵品「優美なるオールドノリタケ×ノリタケ」",
    "pref": "23",
@@ -1431,6 +1418,32 @@
    "url": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw1951",
    "src": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw1951",
    "en": "2027 Shunsetsu Toka Illumination (Yokohama Chinatown)"
+  },
+  {
+   "id": "greensprings-illumi-2026",
+   "title": "GREEN SPRINGS ILLUMINATION 2026 たちかわイルミネーション",
+   "pref": "13",
+   "area": "立川市",
+   "venue": "GREEN SPRINGS",
+   "cat": "商業施設",
+   "start": "2026-11-01",
+   "end": "2027-02-14",
+   "url": "https://greensprings.jp/event/",
+   "src": "https://greensprings.jp/event/",
+   "en": "GREEN SPRINGS ILLUMINATION 2026 Tachikawa Illumination"
+  },
+  {
+   "id": "kawagoe-kikumatsuri-2026",
+   "title": "小江戸川越菊まつり",
+   "pref": "11",
+   "area": "川越市",
+   "venue": "川越市内",
+   "cat": "フェス・祭り",
+   "start": "2026-11-01",
+   "end": "2026-11-23",
+   "url": "https://koedo.or.jp/event/%e5%b0%8f%e6%b1%9f%e6%88%b8%e5%b7%9d%e8%b6%8a%e8%8f%8a%e3%81%be%e3%81%a4%e3%82%8a-4/",
+   "src": "https://koedo.or.jp/event/%e5%b0%8f%e6%b1%9f%e6%88%b8%e5%b7%9d%e8%b6%8a%e8%8f%8a%e3%81%be%e3%81%a4%e3%82%8a-4/",
+   "en": "Koedo Kawagoe Chrysanthemum Festival (Kawagoe)"
   },
   {
    "id": "yushima-kikumatsuri-2026",
@@ -1820,6 +1833,19 @@
    "url": "https://www.marunouchi.com/",
    "src": "https://www.marunouchi.com/",
    "en": "Marunouchi Street Park 2026 Winter (Marunouchi Naka-dori)"
+  },
+  {
+   "id": "shibuyastream-magichourpark-2026",
+   "title": "「デュワーズ12年ハイボール缶」発売記念イベント Magic Hour Park",
+   "pref": "13",
+   "area": "渋谷区",
+   "venue": "渋谷ストリーム前 稲荷橋広場",
+   "cat": "商業施設",
+   "start": "2026-11-12",
+   "end": "2026-11-14",
+   "url": "https://shibuyastream.jp/event/",
+   "src": "https://shibuyastream.jp/event/",
+   "en": "Dewar's 12 Highball Launch Event Magic Hour Park (Shibuya Stream)"
   },
   {
    "id": "tokyodome-20261112-asia-pro-baseball",
@@ -2309,6 +2335,32 @@
    "en": "Hideaki Tokunaga 40th Anniversary Concert Tour 2026 COVERS & BEST (Tokyo International Forum)"
   },
   {
+   "id": "toda-kodomo-ecofesta-2026",
+   "title": "とだこどもエコフェスタ2026",
+   "pref": "11",
+   "area": "戸田市",
+   "venue": "あいパル（戸田市）",
+   "cat": "フェス・祭り",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "url": "https://www.city.toda.saitama.jp/soshiki/212/kankyo-todakankyofair.html",
+   "src": "https://www.city.toda.saitama.jp/soshiki/212/kankyo-todakankyofair.html",
+   "en": "Toda Kids Eco Festa 2026 (Aipal, Toda)"
+  },
+  {
+   "id": "tonogayato-yukizuri-2026",
+   "title": "伝統技能見学会～雪吊り実演～",
+   "pref": "13",
+   "area": "国分寺市",
+   "venue": "都立殿ヶ谷戸庭園",
+   "cat": "公園・庭園",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "url": "https://www.tokyo-park.or.jp/park/tonogayato/news/2026/park_info_47.html",
+   "src": "https://www.tokyo-park.or.jp/park/tonogayato/news/2026/park_info_47.html",
+   "en": "Yukizuri Snow Rope Demonstration (Tonogayato Garden)"
+  },
+  {
    "id": "yomiuriland-20261114-gunma-marche",
    "title": "たのしさあつまる！わくわく群マルシェ in よみうりランド",
    "pref": "13",
@@ -2320,6 +2372,19 @@
    "url": "https://www.yomiuriland.com/event/gunma2026/",
    "src": "https://www.yomiuriland.com/event/",
    "en": "Waku Waku Gunma Marche in Yomiuriland"
+  },
+  {
+   "id": "ywp-kodomoennichi-202611",
+   "title": "子ども縁日（横浜ワールドポーターズ）",
+   "pref": "14",
+   "area": "横浜市中区",
+   "venue": "横浜ワールドポーターズ 屋上ルーフトップワールド",
+   "cat": "フェス・祭り",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "url": "https://www.yim.co.jp/news/detail/5174?t=event_news",
+   "src": "https://www.yim.co.jp/news/detail/5174?t=event_news",
+   "en": "Kids Ennichi Fair (Yokohama World Porters)"
   },
   {
    "id": "zepp-156000",
@@ -2539,6 +2604,19 @@
    "en": "20th Kasukabe City Art Exhibition (Fureai Cube)"
   },
   {
+   "id": "tokyodome-20261117-tohji",
+   "title": "Tohji Last Live Tokyo MALL",
+   "pref": "13",
+   "area": "文京区",
+   "venue": "東京ドーム",
+   "cat": "ライブ",
+   "start": "2026-11-17",
+   "end": "2026-11-17",
+   "url": "https://www.tokyo-dome.co.jp/dome/event/schedule.html",
+   "src": "https://www.tokyo-dome.co.jp/dome/event/schedule.html",
+   "en": "Tohji Last Live Tokyo MALL (Tokyo Dome)"
+  },
+  {
    "id": "ariake-20261118-highlow-sengoku",
    "title": "HiGH&LOW THE 戦国 LOVE&HATE",
    "pref": "13",
@@ -2615,6 +2693,32 @@
    "url": "https://gaigosai.com/",
    "src": "外語祭実行委員会",
    "en": "Gaigosai Festival (Tokyo University of Foreign Studies)"
+  },
+  {
+   "id": "kitte-whitekitte-2026",
+   "title": "WHITE KITTE（KITTE丸の内のクリスマス）",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "KITTE丸の内",
+   "cat": "商業施設",
+   "start": "2026-11-19",
+   "end": "2026-12-25",
+   "url": "https://marunouchi.jp-kitte.jp/",
+   "src": "https://marunouchi.jp-kitte.jp/",
+   "en": "WHITE KITTE Christmas (KITTE Marunouchi)"
+  },
+  {
+   "id": "kiyose-higashikurume-machibar-2026",
+   "title": "清瀬市×東久留米市 地域連携街バル",
+   "pref": "13",
+   "area": "清瀬市",
+   "venue": "清瀬市・東久留米市内の参加店舗",
+   "cat": "フェス・祭り",
+   "start": "2026-11-19",
+   "end": "2026-11-21",
+   "url": "https://www.city.kiyose.lg.jp/sigotosangyou/1016892.html",
+   "src": "https://www.city.kiyose.lg.jp/sigotosangyou/1016892.html",
+   "en": "Kiyose x Higashikurume Machi Bar (Kiyose and Higashikurume)"
   },
   {
    "id": "otori-asakusa-20261119",
@@ -2760,6 +2864,19 @@
    "en": "Tokyo Christmas Market 2026 in Shin-Toyosu"
   },
   {
+   "id": "tokyodome-20261120-fujiikaze-piano",
+   "title": "藤井風 ピアノリサイタル",
+   "pref": "13",
+   "area": "文京区",
+   "venue": "東京ドーム",
+   "cat": "ライブ",
+   "start": "2026-11-20",
+   "end": "2026-11-21",
+   "url": "https://www.tokyo-dome.co.jp/dome/event/schedule.html",
+   "src": "https://www.tokyo-dome.co.jp/dome/event/schedule.html",
+   "en": "Fujii Kaze Piano Recital (Tokyo Dome)"
+  },
+  {
    "id": "zepp-163664",
    "title": "RESISTANCE SURVIVAL",
    "pref": "27",
@@ -2771,6 +2888,19 @@
    "url": "https://www.zepp.co.jp/hall/osakabayside/schedule/single/?rid=163664",
    "src": "https://www.zepp.co.jp/hall/osakabayside/schedule/",
    "en": "RESISTANCE SURVIVAL (Zepp Osaka Bayside)"
+  },
+  {
+   "id": "zepp-divercity-20261120-ion",
+   "title": "iON! / iMiN! / AdamLilith / MEGAFON ほか",
+   "pref": "13",
+   "area": "江東区",
+   "venue": "Zepp DiverCity(TOKYO)",
+   "cat": "ライブ",
+   "start": "2026-11-20",
+   "end": "2026-11-20",
+   "url": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=169068",
+   "src": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=169068",
+   "en": "iON! / iMiN! / AdamLilith / MEGAFON and more (Zepp DiverCity Tokyo)"
   },
   {
    "id": "zepp-fukuoka-20261120-unframed",
@@ -2864,6 +2994,19 @@
    "en": "Center Plaza 4th Anniversary (Yebisu Garden Place)"
   },
   {
+   "id": "itabashi-artmuseum-corraini-2026",
+   "title": "コッライーニの本づくり アートで 自由で ワクワクで",
+   "pref": "13",
+   "area": "板橋区",
+   "venue": "板橋区立美術館",
+   "cat": "展示会",
+   "start": "2026-11-21",
+   "end": "2027-01-11",
+   "url": "https://www.city.itabashi.tokyo.jp/artmuseum/4000016/4002027/4002033.html",
+   "src": "https://www.city.itabashi.tokyo.jp/artmuseum/4000016/4002027/4002033.html",
+   "en": "Corraini Bookmaking Exhibition (Itabashi Art Museum)"
+  },
+  {
    "id": "mikanshimokita-20261121-mexico",
    "title": "LA FERIA下北メキシコ祭り",
    "pref": "13",
@@ -2916,6 +3059,19 @@
    "en": "Nagoya Zokei University Art Festival 2026 (Meijo Park Campus)"
   },
   {
+   "id": "sacas-bousaifes-2026",
+   "title": "赤坂サカス 防災フェス",
+   "pref": "13",
+   "area": "港区",
+   "venue": "赤坂サカス広場",
+   "cat": "フェス・祭り",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "url": "https://www.tbs.co.jp/sacas/",
+   "src": "https://www.tbs.co.jp/sacas/",
+   "en": "Disaster Preparedness Festival (Akasaka Sacas)"
+  },
+  {
    "id": "tif-20261121-bttf-concert",
    "title": "「バック・トゥ・ザ・フューチャー」 in コンサート",
    "pref": "13",
@@ -2927,6 +3083,19 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/",
    "src": "東京国際フォーラム",
    "en": "Back to the Future in Concert (Tokyo International Forum)"
+  },
+  {
+   "id": "tonogayato-palmbonsai-2026",
+   "title": "秋の手のひら盆栽展",
+   "pref": "13",
+   "area": "国分寺市",
+   "venue": "都立殿ヶ谷戸庭園",
+   "cat": "公園・庭園",
+   "start": "2026-11-21",
+   "end": "2026-11-23",
+   "url": "https://www.tokyo-park.or.jp/park/tonogayato/news/2026/11_21_23_nov_21-23_autumn_palm-sized_bon.html",
+   "src": "https://www.tokyo-park.or.jp/park/tonogayato/news/2026/11_21_23_nov_21-23_autumn_palm-sized_bon.html",
+   "en": "Autumn Palm-Sized Bonsai Exhibition (Tonogayato Garden)"
   },
   {
    "id": "yim-20261121-acosta",
@@ -3020,6 +3189,19 @@
    "en": "Nanakorobiyaoki Tokyo-Nagoya-Osaka Zepp Tour (Zepp Nagoya)"
   },
   {
+   "id": "zepp-divercity-20261121-trust",
+   "title": "TRUST RECORDS presents（May Forth / KUZIRA / ENTH ほか）",
+   "pref": "13",
+   "area": "江東区",
+   "venue": "Zepp DiverCity(TOKYO)",
+   "cat": "ライブ",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "url": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=159056",
+   "src": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=159056",
+   "en": "TRUST RECORDS presents (Zepp DiverCity Tokyo)"
+  },
+  {
    "id": "ariake-20261122-hearts2hearts",
    "title": "Hearts2Hearts JAPAN 1st Fan Event “READY！S2U”",
    "pref": "13",
@@ -3083,6 +3265,19 @@
    "url": "https://ycp.or.jp/pickup/koikikoen_e/39707/",
    "src": "https://ycp.or.jp/",
    "en": "Yachiyo Wan Wan Dog Marche (Yachiyo Koiki Park)"
+  },
+  {
+   "id": "zepp-divercity-20261122-arustake",
+   "title": "アルステイク 単独公演 \"リロード\"",
+   "pref": "13",
+   "area": "江東区",
+   "venue": "Zepp DiverCity(TOKYO)",
+   "cat": "ライブ",
+   "start": "2026-11-22",
+   "end": "2026-11-22",
+   "url": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=159484",
+   "src": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=159484",
+   "en": "Arustake Solo Live \"Reload\" (Zepp DiverCity Tokyo)"
   },
   {
    "id": "zepp-fukuoka-20261122-neguse",
@@ -3215,6 +3410,19 @@
    "en": "Rikugien Garden Autumn Leaves Night Illumination"
   },
   {
+   "id": "hanga-onchi-2026",
+   "title": "ミニ企画展 恩地孝四郎と創作版画の作家たち",
+   "pref": "13",
+   "area": "町田市",
+   "venue": "町田市立国際版画美術館",
+   "cat": "展示会",
+   "start": "2026-11-27",
+   "end": "2027-02-23",
+   "url": "https://hanga-museum.jp/exhibition/schedule/2026-638",
+   "src": "https://hanga-museum.jp/exhibition/schedule/2026-638",
+   "en": "Onchi Koshiro and Sosaku Hanga Artists (Machida City Museum of Graphic Arts)"
+  },
+  {
    "id": "keyaki-20261127-fleamarket",
    "title": "フリーマーケットinさいたま新都心けやきひろば",
    "pref": "11",
@@ -3228,6 +3436,32 @@
    "en": "Flea Market at Saitama Shintoshin Keyaki Hiroba"
   },
   {
+   "id": "chuo-harumi-matsuri-2026",
+   "title": "第3回 中央区晴海まつり",
+   "pref": "13",
+   "area": "中央区",
+   "venue": "晴海地域交流センター「はるみらい」・晴海ふ頭公園",
+   "cat": "フェス・祭り",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "url": "https://www.city.chuo.lg.jp/a0013/bunkakankou/kankoujouhou/event/harumimaturi.html",
+   "src": "https://www.city.chuo.lg.jp/a0013/bunkakankou/kankoujouhou/event/harumimaturi.html",
+   "en": "3rd Chuo City Harumi Festival (Harumirai and Harumi Futo Park)"
+  },
+  {
+   "id": "edohaku-okyo-2026",
+   "title": "江戸東京博物館リニューアル記念特別展「円山応挙 リアルの先へ 空間革命」",
+   "pref": "13",
+   "area": "墨田区",
+   "venue": "江戸東京博物館",
+   "cat": "展示会",
+   "start": "2026-11-28",
+   "end": "2027-01-24",
+   "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/okyo/",
+   "src": "https://www.edo-tokyo-museum.or.jp/s-exhibition/okyo/",
+   "en": "Maruyama Okyo Special Exhibition (Edo-Tokyo Museum)"
+  },
+  {
    "id": "keyaki-20261128-lovejazztime",
    "title": "LOVE JAZZ TIME 2026",
    "pref": "11",
@@ -3239,6 +3473,19 @@
    "url": "https://www.saitama-arena.co.jp/schedule/2026/11/",
    "src": "GMOアリーナさいたま",
    "en": "LOVE JAZZ TIME 2026 (Keyaki Hiroba, Saitama Shintoshin)"
+  },
+  {
+   "id": "koami-doburoku-2026",
+   "title": "小網神社 新嘗祭（どぶろくまつり）",
+   "pref": "13",
+   "area": "中央区",
+   "venue": "小網神社",
+   "cat": "フェス・祭り",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "url": "https://www.koamijinja.or.jp/event/",
+   "src": "https://www.koamijinja.or.jp/event/",
+   "en": "Niinamesai Doburoku Festival (Koami Shrine)"
   },
   {
    "id": "momijihachimangu-20261128-matsuri",
