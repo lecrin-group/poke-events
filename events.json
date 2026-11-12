@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-11T03:47:00+09:00",
+ "updated": "2026-11-12T16:54:00+09:00",
  "events": [
   {
    "id": "expo70-20260314-beforeafter",
@@ -1459,19 +1459,6 @@
    "en": "48th Bunkyo Chrysanthemum Festival (Yushima Tenmangu Shrine)"
   },
   {
-   "id": "toranomon-bar-hopping-20261102",
-   "title": "Toranomon Hills Bar Hopping ～飲んで食べて美食巡り～",
-   "pref": "13",
-   "area": "港区",
-   "venue": "虎ノ門ヒルズ",
-   "cat": "商業施設",
-   "start": "2026-11-02",
-   "end": "2026-11-12",
-   "url": "https://www.toranomonhills.com/events/",
-   "src": "https://www.toranomonhills.com/events/",
-   "en": "Toranomon Hills Bar Hopping"
-  },
-  {
    "id": "nagoya-toshoki-20261103-xmas",
    "title": "海を渡ったクリスマス",
    "pref": "23",
@@ -2258,6 +2245,19 @@
    "en": "Art Marche in KASAI Seaside Park (Kasai Rinkai Park)"
   },
   {
+   "id": "kawagoe-sangyofesta-2026",
+   "title": "令和8年度かわごえ産業フェスタ",
+   "pref": "11",
+   "area": "川越市",
+   "venue": "ウェスタ川越",
+   "cat": "フェス・祭り",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "url": "https://www.westa-kawagoe.jp/event/",
+   "src": "ウェスタ川越",
+   "en": "Kawagoe Industry Festa 2026 (Westa Kawagoe)"
+  },
+  {
    "id": "keyaki-20261114-saitamarche",
    "title": "2026さいたまるしぇ in さいたまクリテリウム",
    "pref": "11",
@@ -2372,6 +2372,19 @@
    "end": "2026-11-23",
    "url": "https://www.nagoya-info.jp/event/detail/219/",
    "src": "名古屋コンシェルジュ"
+  },
+  {
+   "id": "showakinen-kenpakuten-2026",
+   "title": "巻柏展",
+   "pref": "13",
+   "area": "立川市",
+   "venue": "国営昭和記念公園",
+   "cat": "公園・庭園",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "url": "https://www.showakinen-koen.jp/event/",
+   "src": "国営昭和記念公園",
+   "en": "Iwahiba (Selaginella) Exhibition (Showa Kinen Park)"
   },
   {
    "id": "skipcity-20261114-thomas",
@@ -2564,6 +2577,19 @@
    "url": "https://maruchiba.jp/event/detail_10901.html",
    "src": "https://maruchiba.jp/event/detail_10901.html",
    "en": "Nakayama Autumn Antique Market (Nakayama Hokekyoji Temple)"
+  },
+  {
+   "id": "chuo-hesoten-2026",
+   "title": "第23回 中央区産業文化展（へそ展）",
+   "pref": "13",
+   "area": "中央区",
+   "venue": "日本橋プラザ",
+   "cat": "展示会",
+   "start": "2026-11-15",
+   "end": "2026-11-17",
+   "url": "https://www.chuo-kanko.or.jp/blogs/event/202610261555",
+   "src": "中央区観光協会",
+   "en": "23rd Chuo City Industry and Culture Exhibition - Heso-ten (Nihonbashi Plaza)"
   },
   {
    "id": "saitama-criterium-2026",
@@ -2836,6 +2862,19 @@
    "url": "https://shibuyastream.jp/event/",
    "src": "https://shibuyastream.jp/event/",
    "en": "Ryusei School 140th Anniversary Ikebana Exhibition (Shibuya Stream Hall)"
+  },
+  {
+   "id": "tif-20261119-hoshikage",
+   "title": "ミュージカル『星影の人』－沖田総司・まぼろしの青春－",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "東京国際フォーラム",
+   "cat": "ライブ",
+   "start": "2026-11-19",
+   "end": "2026-11-22",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/",
+   "src": "東京国際フォーラム",
+   "en": "Musical Hoshikage no Hito - Okita Soji (Tokyo International Forum)"
   },
   {
    "id": "tif-20261119-neoyataimura-beaujolais",
@@ -3111,6 +3150,32 @@
    "en": "LA FERIA Shimokita Mexico Festival (Mikan Shimokita)"
   },
   {
+   "id": "mop-kisarazu-kaijicurry-2026",
+   "title": "木更津「海自」フーカデンビーフカレーセレクション",
+   "pref": "12",
+   "area": "木更津市",
+   "venue": "三井アウトレットパーク 木更津",
+   "cat": "商業施設",
+   "start": "2026-11-21",
+   "end": "2026-11-23",
+   "url": "https://mitsui-shopping-park.com/mop/kisarazu/event/",
+   "src": "三井アウトレットパーク 木更津",
+   "en": "Kisarazu JMSDF Fukaden Beef Curry Selection (Mitsui Outlet Park Kisarazu)"
+  },
+  {
+   "id": "musashino-akaboshitei-open-2026",
+   "title": "旧赤星鉄馬邸・濱家住宅西洋館 期間限定一般公開",
+   "pref": "13",
+   "area": "武蔵野市",
+   "venue": "旧赤星鉄馬邸・濱家住宅西洋館（吉祥寺）",
+   "cat": "展示会",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "url": "https://www.city.musashino.lg.jp/shiseijoho/shisaku_keikaku/kyoikubu_shisaku_keikaku/akaboshi_tei/1055104.html",
+   "src": "武蔵野市",
+   "en": "Former Akaboshi Tetsuma Residence and Hamaya Western House Special Opening (Kichijoji)"
+  },
+  {
    "id": "nagoya-nogyo-20261121-matsuri",
    "title": "農業センターまつり",
    "pref": "23",
@@ -3163,6 +3228,19 @@
    "en": "Disaster Preparedness Festival (Akasaka Sacas)"
   },
   {
+   "id": "sakuramate-marche-20261121",
+   "title": "さくらめいとマルシェ",
+   "pref": "11",
+   "area": "熊谷市",
+   "venue": "熊谷文化創造館さくらめいと",
+   "cat": "フェス・祭り",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "url": "https://www.sakuramate.jp/",
+   "src": "熊谷文化創造館さくらめいと",
+   "en": "Sakuramate Marche (Kumagaya Cultural Center Sakuramate)"
+  },
+  {
    "id": "tif-20261121-bttf-concert",
    "title": "「バック・トゥ・ザ・フューチャー」 in コンサート",
    "pref": "13",
@@ -3174,6 +3252,19 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/",
    "src": "東京国際フォーラム",
    "en": "Back to the Future in Concert (Tokyo International Forum)"
+  },
+  {
+   "id": "tokyo-shukakusai-2026",
+   "title": "TOKYO周穫祭2026～おいしい！たのしい！東京周遊フェス～",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "東京国際フォーラム",
+   "cat": "フェス・祭り",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "url": "https://www.metro.tokyo.lg.jp/ja/information/press/2026/10/2026102710",
+   "src": "東京都",
+   "en": "TOKYO Shukakusai 2026 - Tokyo Harvest Festival (Tokyo International Forum)"
   },
   {
    "id": "tonogayato-aki-tokutouseki-2026",
@@ -3540,6 +3631,19 @@
    "en": "Choutokkyu BULLET TRAIN 1st DOME LIVE Signal (Tokyo Dome)"
   },
   {
+   "id": "midtown-christmas-2026",
+   "title": "MIDTOWN CHRISTMAS 2026",
+   "pref": "13",
+   "area": "港区",
+   "venue": "東京ミッドタウン",
+   "cat": "商業施設",
+   "start": "2026-11-26",
+   "end": "2026-12-25",
+   "url": "https://www.tokyo-midtown.com/jp/event/",
+   "src": "東京ミッドタウン",
+   "en": "MIDTOWN CHRISTMAS 2026 (Tokyo Midtown)"
+  },
+  {
    "id": "hanga-onchi-2026",
    "title": "ミニ企画展 恩地孝四郎と創作版画の作家たち",
    "pref": "13",
@@ -3631,6 +3735,19 @@
    "en": "Momiji Festival (Momiji Hachimangu Shrine)"
   },
   {
+   "id": "tokyodome-20261128-hypergame",
+   "title": "配信者ハイパーゲーム大会 FINAL",
+   "pref": "13",
+   "area": "文京区",
+   "venue": "東京ドーム",
+   "cat": "ライブ",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "url": "https://www.tokyo-dome.co.jp/dome/event/schedule.html",
+   "src": "東京ドーム",
+   "en": "Streamer Hyper Game Tournament FINAL (Tokyo Dome)"
+  },
+  {
    "id": "ebina-megumicho-fes-2026",
    "title": "えびな めぐみ町 フェスティバル 2026",
    "pref": "14",
@@ -3696,6 +3813,19 @@
    "en": "Blue Cave SHIBUYA 2026 Illumination (Yoyogi Park Keyaki Namiki)"
   },
   {
+   "id": "setagaya-boroichi-202612",
+   "title": "世田谷のボロ市（12月）",
+   "pref": "13",
+   "area": "世田谷区",
+   "venue": "ボロ市通り（世田谷区世田谷1丁目）",
+   "cat": "フェス・祭り",
+   "start": "2026-12-15",
+   "end": "2026-12-16",
+   "url": "https://www.city.setagaya.lg.jp/02072/10108.html",
+   "src": "世田谷区",
+   "en": "Setagaya Boro-ichi Flea Market - December (Boro-ichi Street)"
+  },
+  {
    "id": "soniccity-20261218-daiku",
    "title": "日本フィル・ソニックシティ「第九」演奏会2026",
    "pref": "11",
@@ -3707,6 +3837,19 @@
    "url": "https://www.sonic-city.or.jp/event/",
    "src": "ソニックシティ",
    "en": "Japan Philharmonic x Sonic City Beethoven 9th Concert 2026"
+  },
+  {
+   "id": "jumpfesta-2027",
+   "title": "ジャンプフェスタ2027",
+   "pref": "12",
+   "area": "千葉市美浜区",
+   "venue": "幕張メッセ",
+   "cat": "展示会",
+   "start": "2026-12-19",
+   "end": "2026-12-20",
+   "url": "https://www.jumpfesta.com/",
+   "src": "ジャンプフェスタ2027公式",
+   "en": "JUMP FESTA 2027 (Makuhari Messe)"
   }
  ]
 }
