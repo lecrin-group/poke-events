@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-12T16:54:00+09:00",
+ "updated": "2026-11-13T16:55:00+09:00",
  "events": [
   {
    "id": "expo70-20260314-beforeafter",
@@ -354,19 +354,6 @@
    "en": "Grape Afternoon Tea (Oiso Prince Hotel)"
   },
   {
-   "id": "aichinow-3543-tokugawa",
-   "title": "徳川美術館 特別公開「新指定・重要文化財 菊白露蒔絵婚礼調度」",
-   "pref": "23",
-   "area": "名古屋市東区",
-   "venue": "徳川美術館",
-   "cat": "展示会",
-   "start": "2026-09-15",
-   "end": "2026-11-13",
-   "url": "https://aichinow.pref.aichi.jp/events/detail/3543/",
-   "src": "Aichi Now（愛知県公式観光サイト）",
-   "en": "Tokugawa Art Museum Special Display: Newly Designated Important Cultural Property"
-  },
-  {
    "id": "gatehotel-yokohama-20260916-at",
    "title": "ザ・ゲートホテル横浜 by HULIC「平日限定 ぶどうのアフタヌーンティー ～Taste of Autumn～」",
    "pref": "14",
@@ -534,19 +521,6 @@
    "url": "https://aichinow.pref.aichi.jp/events/detail/3579/",
    "src": "Aichi Now（愛知県公式観光サイト）",
    "en": "Golden Shachi Special Exhibition (Nagoya Castle Nishinomaru Treasure Hall)"
-  },
-  {
-   "id": "seaparadise-20261001-akipara",
-   "title": "横浜・八景島シーパラダイス 秋パラ！",
-   "pref": "14",
-   "area": "横浜市金沢区",
-   "venue": "横浜・八景島シーパラダイス",
-   "cat": "商業施設",
-   "start": "2026-10-01",
-   "end": "2026-11-13",
-   "url": "https://www.seaparadise.co.jp/event/akipara2026autumn/index.html",
-   "src": "横浜・八景島シーパラダイス",
-   "en": "Yokohama Hakkeijima Sea Paradise Autumn Festival"
   },
   {
    "id": "sumida-aquarium-20261001-chinanago",
@@ -1485,6 +1459,19 @@
    "en": "Osaka Festival of Lights 2026"
   },
   {
+   "id": "yokohama-motomachi-illumi-2026",
+   "title": "横浜元町イルミネーション2026",
+   "pref": "14",
+   "area": "横浜市中区",
+   "venue": "元町ショッピングストリート",
+   "cat": "商業施設",
+   "start": "2026-11-04",
+   "end": "2026-12-25",
+   "url": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw10185",
+   "src": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw10185",
+   "en": "Yokohama Motomachi Illumination 2026 (Motomachi Shopping Street)"
+  },
+  {
    "id": "roppongihills-christmas-2026",
    "title": "Roppongi Hills Christmas 2026",
    "pref": "13",
@@ -1522,6 +1509,19 @@
    "url": "https://www.yokohama-akarenga.jp/",
    "src": "https://www.yokohama-akarenga.jp/",
    "en": "Flower Miffy Pop-Up Marche (Yokohama Red Brick Warehouse)"
+  },
+  {
+   "id": "asobuild-ryugagotoku-2026",
+   "title": "ASOBUILD『龍が如く』冠婚贈祭展 -極-",
+   "pref": "14",
+   "area": "横浜市西区",
+   "venue": "ASOBUILD YOKOHAMA COAST",
+   "cat": "展示会",
+   "start": "2026-11-06",
+   "end": "2026-11-29",
+   "url": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw13498",
+   "src": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw13498",
+   "en": "Ryu ga Gotoku Exhibition -Kiwami- (ASOBUILD Yokohama)"
   },
   {
    "id": "hibiya-midtown-biteki-2026",
@@ -1664,6 +1664,19 @@
    "url": "https://www.omekanko.gr.jp/event/",
    "src": "https://www.omekanko.gr.jp/event/",
    "en": "Autumn Light-up and Night Opening 2026 (Yoshikawa Eiji Memorial Museum)"
+  },
+  {
+   "id": "abiko-shirakaba-2026",
+   "title": "白樺芸術祭ABIKO 2026",
+   "pref": "12",
+   "area": "我孫子市",
+   "venue": "アビシルベ・けやきプラザ・旧武者小路実篤邸跡",
+   "cat": "フェス・祭り",
+   "start": "2026-11-08",
+   "end": "2026-11-22",
+   "url": "https://maruchiba.jp/event/detail_15091.html",
+   "src": "https://maruchiba.jp/event/detail_15091.html",
+   "en": "Shirakaba Art Festival ABIKO 2026"
   },
   {
    "id": "laguna-20261108-marinefantasia",
@@ -1860,6 +1873,19 @@
    "en": "Hakata-ori Coordinate Exhibition (Hakata Traditional Craft Center)"
   },
   {
+   "id": "mm-christmas-market-2026",
+   "title": "みなとみらいクリスマスマーケット2026",
+   "pref": "14",
+   "area": "横浜市西区",
+   "venue": "グランモール公園「美術の広場」周辺",
+   "cat": "フェス・祭り",
+   "start": "2026-11-13",
+   "end": "2026-12-25",
+   "url": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw12753",
+   "src": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw12753",
+   "en": "Minato Mirai Christmas Market 2026 (Grand Mall Park)"
+  },
+  {
    "id": "mmesse-kagu-bazaar-2026-11",
    "title": "家具メッセバザールin幕張メッセ",
    "pref": "12",
@@ -1911,32 +1937,6 @@
    "en": "The Little Prince 80th Anniversary Exhibition (Tokyo City View)"
   },
   {
-   "id": "tif-20261113-gospellers",
-   "title": "ゴスペラーズ坂ツアー2026 “UNIVER5OUL”",
-   "pref": "13",
-   "area": "千代田区",
-   "venue": "東京国際フォーラム",
-   "cat": "ライブ",
-   "start": "2026-11-13",
-   "end": "2026-11-13",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/",
-   "src": "東京国際フォーラム",
-   "en": "The Gospellers Saka Tour 2026 UNIVER5OUL (Tokyo International Forum)"
-  },
-  {
-   "id": "tif-20261113-katsushikatrio",
-   "title": "かつしかトリオ COBALT EXPRESS TOUR 2026",
-   "pref": "13",
-   "area": "千代田区",
-   "venue": "東京国際フォーラム",
-   "cat": "ライブ",
-   "start": "2026-11-13",
-   "end": "2026-11-13",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/",
-   "src": "東京国際フォーラム",
-   "en": "Katsushika Trio Cobalt Express Tour 2026 (Tokyo International Forum)"
-  },
-  {
    "id": "tokyocityi-20261113-hiroshima",
    "title": "広島広域都市圏フェア",
    "pref": "13",
@@ -1950,43 +1950,17 @@
    "en": "Hiroshima Metropolitan Area Fair (KITTE Marunouchi Tokyo City i)"
   },
   {
-   "id": "zepp-161191",
-   "title": "しるこ Fan Meeting Tour 2026 しるこの部屋〜みんなでしるこの部屋〜",
-   "pref": "13",
-   "area": "江東区",
-   "venue": "Zepp DiverCity(TOKYO)",
-   "cat": "ライブ",
+   "id": "yokohama-mirait-2026",
+   "title": "ヨコハマミライト2026～みらいを照らす、光のまち～",
+   "pref": "14",
+   "area": "横浜市西区",
+   "venue": "横浜駅東口～グランモール公園（みなとみらい）",
+   "cat": "商業施設",
    "start": "2026-11-13",
-   "end": "2026-11-13",
-   "url": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=161191",
-   "src": "https://www.zepp.co.jp/hall/divercity/schedule/",
-   "en": "siruko Fan Meeting Tour 2026 (Zepp DiverCity Tokyo)"
-  },
-  {
-   "id": "zepp-fukuoka-20261113-jamscollection",
-   "title": "JamsCollection Zepp Tour -in FUKUOKA-",
-   "pref": "40",
-   "area": "福岡市中央区",
-   "venue": "Zepp Fukuoka",
-   "cat": "ライブ",
-   "start": "2026-11-13",
-   "end": "2026-11-13",
-   "url": "https://www.zepp.co.jp/hall/fukuoka/schedule/single/?rid=160852",
-   "src": "https://www.zepp.co.jp/hall/fukuoka/schedule/single/?rid=160852",
-   "en": "JamsCollection Zepp Tour in FUKUOKA (Zepp Fukuoka)"
-  },
-  {
-   "id": "zepp-osaka-20261113-chotoki",
-   "title": "超ときめき♡宣伝部 超♡わかりみ～てぃんぐ!! Vol.3",
-   "pref": "27",
-   "area": "大阪市此花区",
-   "venue": "Zepp Osaka Bayside",
-   "cat": "ライブ",
-   "start": "2026-11-13",
-   "end": "2026-11-13",
-   "url": "https://www.zepp.co.jp/hall/osakabayside/schedule/single/?rid=166582",
-   "src": "https://www.zepp.co.jp/hall/osakabayside/schedule/single/?rid=166582",
-   "en": "Cho Tokimeki Sendenbu Cho Wakarimi Meeting Vol.3 (Zepp Osaka Bayside)"
+   "end": "2027-03-31",
+   "url": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw7323",
+   "src": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw7323",
+   "en": "Yokohama Mirait 2026 Illumination (Minato Mirai)"
   },
   {
    "id": "akagijinja-20261114-marche",
@@ -2039,6 +2013,19 @@
    "url": "https://ariake-arena.tokyo/event/",
    "src": "https://ariake-arena.tokyo/event/",
    "en": "SLS TOKYO 2026 (Ariake Arena)"
+  },
+  {
+   "id": "bungo-yokohama-koutansai-2026",
+   "title": "アニメ「文豪ストレイドッグス」ヨコハマ降誕祭2026",
+   "pref": "14",
+   "area": "横浜市中区",
+   "venue": "みなとみらい線沿線ほか",
+   "cat": "商業施設",
+   "start": "2026-11-14",
+   "end": "2026-12-25",
+   "url": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw13491",
+   "src": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw13491",
+   "en": "Bungo Stray Dogs Yokohama Christmas Festival 2026"
   },
   {
    "id": "designfesta-vol64-20261114",
@@ -2170,6 +2157,19 @@
    "en": "73rd VERA Festival (Tokyo Woman's Christian University)"
   },
   {
+   "id": "ginzasix-hinoya-2026",
+   "title": "日乃谷啓 個展「波のかみ よろずの言葉 なれりける」",
+   "pref": "13",
+   "area": "中央区",
+   "venue": "GINZA SIX",
+   "cat": "展示会",
+   "start": "2026-11-14",
+   "end": "2026-12-11",
+   "url": "https://ginza6.tokyo/",
+   "src": "https://ginza6.tokyo/",
+   "en": "Kei Hinoya Solo Exhibition (GINZA SIX)"
+  },
+  {
    "id": "greensprings-grown-marche-20261114",
    "title": "GREEN GROWN MARCHE",
    "pref": "13",
@@ -2230,6 +2230,19 @@
    "end": "2027-02-28",
    "url": "https://www.nagoya-info.jp/event/detail/547/",
    "src": "名古屋コンシェルジュ"
+  },
+  {
+   "id": "hotchpotch-yokohama-2026",
+   "title": "ホッチポッチ横浜",
+   "pref": "14",
+   "area": "横浜市中区",
+   "venue": "象の鼻パーク",
+   "cat": "フェス・祭り",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "url": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw11709",
+   "src": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw11709",
+   "en": "Hotchpotch Yokohama Music Festival (Zou-no-hana Park)"
   },
   {
    "id": "kasai-artmarche-202611",
@@ -2362,6 +2375,19 @@
    "en": "Sainokuni Saitama Animal Welfare Festival 2026 (Saitama Animal Care Center)"
   },
   {
+   "id": "seaparadise-christmas-2026",
+   "title": "横浜・八景島シーパラダイス「Seaparadise Christmas」",
+   "pref": "14",
+   "area": "横浜市金沢区",
+   "venue": "横浜・八景島シーパラダイス",
+   "cat": "商業施設",
+   "start": "2026-11-14",
+   "end": "2026-12-25",
+   "url": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw12760",
+   "src": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw12760",
+   "en": "Seaparadise Christmas (Yokohama Hakkeijima Sea Paradise)"
+  },
+  {
    "id": "shirotori-20261114-kanpukai",
    "title": "白鳥庭園 観楓会",
    "pref": "23",
@@ -2465,6 +2491,32 @@
    "en": "VCM VINTAGE MARKET Vol.9 (Pacifico Yokohama)"
   },
   {
+   "id": "yachiyo-tatara-2026",
+   "title": "第10回 黒沢池のたたら祭",
+   "pref": "12",
+   "area": "八千代市",
+   "venue": "フルルガーデン八千代",
+   "cat": "フェス・祭り",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "url": "https://maruchiba.jp/event/detail_11374.html",
+   "src": "https://maruchiba.jp/event/detail_11374.html",
+   "en": "10th Kurosawaike Tatara Festival (Fururu Garden Yachiyo)"
+  },
+  {
+   "id": "yokohama-arena-20261114-aiko",
+   "title": "aiko Live Tour「Love Like Pop vol.26」",
+   "pref": "14",
+   "area": "横浜市港北区",
+   "venue": "横浜アリーナ",
+   "cat": "ライブ",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "url": "https://www.yokohama-arena.co.jp/event/",
+   "src": "https://www.yokohama-arena.co.jp/event/",
+   "en": "aiko Live Tour \"Love Like Pop vol.26\" (Yokohama Arena)"
+  },
+  {
    "id": "yomiuriland-20261114-gunma-marche",
    "title": "たのしさあつまる！わくわく群マルシェ in よみうりランド",
    "pref": "13",
@@ -2538,6 +2590,32 @@
    "url": "https://www.zepp.co.jp/hall/nagoya/schedule/single/?rid=163924",
    "src": "https://www.zepp.co.jp/hall/nagoya/schedule/single/?rid=163924",
    "en": "Aichi Bakuon Manzai Senshu (Zepp Nagoya)"
+  },
+  {
+   "id": "zepp-yokohama-20261114-musicsplash",
+   "title": "Music Splash!!（ヤングスキニー/サバシスター/クレイジーウォウウォ‼/バチカン市国に愛されたい）",
+   "pref": "14",
+   "area": "横浜市西区",
+   "venue": "KT Zepp Yokohama",
+   "cat": "ライブ",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "url": "https://www.zepp.co.jp/hall/yokohama/schedule/single/?rid=158987",
+   "src": "https://www.zepp.co.jp/hall/yokohama/schedule/single/?rid=158987",
+   "en": "Music Splash!! (KT Zepp Yokohama)"
+  },
+  {
+   "id": "babakaboku-akimatsuri-2026",
+   "title": "馬場花木園 秋まつり",
+   "pref": "14",
+   "area": "横浜市鶴見区",
+   "venue": "馬場花木園",
+   "cat": "公園・庭園",
+   "start": "2026-11-15",
+   "end": "2026-11-15",
+   "url": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw13461",
+   "src": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw13461",
+   "en": "Baba Kabokuen Autumn Festival (Baba Kabokuen Garden)"
   },
   {
    "id": "chiba-gyotoku-matsuri-2026",
@@ -2616,6 +2694,19 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/",
    "src": "東京国際フォーラム",
    "en": "Sagrada Familia Symphonic Concert (Tokyo International Forum)"
+  },
+  {
+   "id": "yokohama-ichiba-matsuri-2026",
+   "title": "横浜市場まつり2026",
+   "pref": "14",
+   "area": "横浜市神奈川区",
+   "venue": "横浜市中央卸売市場本場 水産棟",
+   "cat": "フェス・祭り",
+   "start": "2026-11-15",
+   "end": "2026-11-15",
+   "url": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw11794",
+   "src": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw11794",
+   "en": "Yokohama Market Festival 2026 (Yokohama Central Wholesale Market)"
   },
   {
    "id": "zepp-159475",
@@ -2732,6 +2823,19 @@
    "url": "https://www.tokyo-dome.co.jp/dome/event/schedule.html",
    "src": "https://www.tokyo-dome.co.jp/dome/event/schedule.html",
    "en": "Tohji Last Live Tokyo MALL (Tokyo Dome)"
+  },
+  {
+   "id": "zounohana-niimi-thatsdope-2026",
+   "title": "new era! NiIMi “That’s dope”",
+   "pref": "14",
+   "area": "横浜市中区",
+   "venue": "象の鼻テラス",
+   "cat": "展示会",
+   "start": "2026-11-17",
+   "end": "2026-11-25",
+   "url": "https://zounohana.com/",
+   "src": "https://zounohana.com/",
+   "en": "new era! NiIMi \"That's dope\" (Zou-no-hana Terrace)"
   },
   {
    "id": "ariake-20261118-highlow-sengoku",
@@ -2929,6 +3033,19 @@
    "en": "Christmas Market in Yokohama Red Brick Warehouse 2026"
   },
   {
+   "id": "ballpark-xmas-kannai-2026",
+   "title": "BALLPARK Xmas YOKOHAMA KANNAI 2026",
+   "pref": "14",
+   "area": "横浜市中区",
+   "venue": "横浜公園",
+   "cat": "フェス・祭り",
+   "start": "2026-11-20",
+   "end": "2026-12-25",
+   "url": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw12761",
+   "src": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw12761",
+   "en": "BALLPARK Xmas YOKOHAMA KANNAI 2026 (Yokohama Park)"
+  },
+  {
    "id": "fukuoka-classic-20261120",
    "title": "福岡クラシック音楽祭 2026",
    "pref": "40",
@@ -2955,14 +3072,14 @@
    "en": "WE LOVE COFFEE vol.7 (Grand Tree Musashikosugi)"
   },
   {
-   "id": "kyoceradome-20261120-mama",
-   "title": "2026 MAMA AWARDS Presented by Visa",
+   "id": "kyoceradome-mama-2026-2days",
+   "title": "2026 MAMA AWARDS Presented by Visa（京セラドーム大阪 2日間）",
    "pref": "27",
    "area": "大阪市西区",
    "venue": "京セラドーム大阪",
    "cat": "ライブ",
    "start": "2026-11-20",
-   "end": "2026-11-20",
+   "end": "2026-11-21",
    "url": "https://www.kyoceradome-osaka.jp/events/",
    "src": "https://www.kyoceradome-osaka.jp/events/",
    "en": "2026 MAMA AWARDS Presented by Visa (Kyocera Dome Osaka)"
@@ -3135,6 +3252,19 @@
    "url": "https://www.city.itabashi.tokyo.jp/artmuseum/4000016/4002027/4002033.html",
    "src": "https://www.city.itabashi.tokyo.jp/artmuseum/4000016/4002027/4002033.html",
    "en": "Corraini Bookmaking Exhibition (Itabashi Art Museum)"
+  },
+  {
+   "id": "kanagawajuku-fes-2026aki",
+   "title": "神奈川宿フェス 2026秋",
+   "pref": "14",
+   "area": "横浜市神奈川区",
+   "venue": "神奈川宿周辺の寺社（笠䅣稲荷神社・良泉寺ほか）",
+   "cat": "フェス・祭り",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "url": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw11940",
+   "src": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw11940",
+   "en": "Kanagawa-juku Fes 2026 Autumn"
   },
   {
    "id": "mikanshimokita-20261121-mexico",
@@ -3436,6 +3566,19 @@
    "en": "Abaspo Saitama in Saitama-Shintoshin (Keyaki Hiroba)"
   },
   {
+   "id": "shimokita-marifes-2026",
+   "title": "Marriage For All Festival（マリフェス）",
+   "pref": "13",
+   "area": "世田谷区",
+   "venue": "下北線路街 空き地",
+   "cat": "フェス・祭り",
+   "start": "2026-11-22",
+   "end": "2026-11-22",
+   "url": "https://senrogai.com/",
+   "src": "https://senrogai.com/",
+   "en": "Marriage For All Festival (Shimokita Senrogai Akichi)"
+  },
+  {
    "id": "tif-20261122-rokudenashi",
    "title": "ロクデナシ Oneman Live 2026",
    "pref": "13",
@@ -3447,6 +3590,19 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/",
    "src": "東京国際フォーラム",
    "en": "Rokudenashi Oneman Live 2026 (Tokyo International Forum)"
+  },
+  {
+   "id": "yabashira-momiji-2026",
+   "title": "第26回 紅葉まつり（八柱霊園）",
+   "pref": "12",
+   "area": "松戸市",
+   "venue": "八柱霊園正門前広場・ふれあい広場",
+   "cat": "フェス・祭り",
+   "start": "2026-11-22",
+   "end": "2026-11-22",
+   "url": "https://maruchiba.jp/event/detail_16111.html",
+   "src": "https://maruchiba.jp/event/detail_16111.html",
+   "en": "26th Autumn Leaves Festival (Yabashira Cemetery)"
   },
   {
    "id": "yachiyo-wanwan-marche-2026",
@@ -3579,6 +3735,19 @@
    "en": "Talvipuutarha Winter Garden (Spiral, Aoyama)"
   },
   {
+   "id": "tako-ikiikifesta-2026",
+   "title": "いきいきフェスタTAKO2026",
+   "pref": "12",
+   "area": "香取郡多古町",
+   "venue": "多古町コミュニティセンター",
+   "cat": "フェス・祭り",
+   "start": "2026-11-23",
+   "end": "2026-11-23",
+   "url": "https://maruchiba.jp/event/detail_13293.html",
+   "src": "https://maruchiba.jp/event/detail_13293.html",
+   "en": "Ikiiki Festa TAKO 2026 (Tako Community Center)"
+  },
+  {
    "id": "tif-20261123-chronoreverse",
    "title": "Chrono Reverse One Man Live BREAKØUT",
    "pref": "13",
@@ -3644,6 +3813,19 @@
    "en": "MIDTOWN CHRISTMAS 2026 (Tokyo Midtown)"
   },
   {
+   "id": "greensprings-toukiichi-2026",
+   "title": "空と大地の工藝マルシェ たちかわ陶器市",
+   "pref": "13",
+   "area": "立川市",
+   "venue": "GREEN SPRINGS",
+   "cat": "フェス・祭り",
+   "start": "2026-11-27",
+   "end": "2026-11-29",
+   "url": "https://greensprings.jp/event/",
+   "src": "https://greensprings.jp/event/",
+   "en": "Tachikawa Pottery Market (GREEN SPRINGS)"
+  },
+  {
    "id": "hanga-onchi-2026",
    "title": "ミニ企画展 恩地孝四郎と創作版画の作家たち",
    "pref": "13",
@@ -3668,6 +3850,97 @@
    "url": "https://www.saitama-arena.co.jp/schedule/2026/11/",
    "src": "GMOアリーナさいたま",
    "en": "Flea Market at Saitama Shintoshin Keyaki Hiroba"
+  },
+  {
+   "id": "kyoceradome-20261127-bigbang",
+   "title": "BIGBANG 2026-2027 WORLD TOUR IN JAPAN",
+   "pref": "27",
+   "area": "大阪市西区",
+   "venue": "京セラドーム大阪",
+   "cat": "ライブ",
+   "start": "2026-11-27",
+   "end": "2026-11-29",
+   "url": "https://www.kyoceradome-osaka.jp/events/",
+   "src": "https://www.kyoceradome-osaka.jp/events/",
+   "en": "BIGBANG 2026-2027 WORLD TOUR IN JAPAN (Kyocera Dome Osaka)"
+  },
+  {
+   "id": "toranomon-tmarket-night-2026",
+   "title": "T-MARKET NIGHT ～3rd Anniversary Party～",
+   "pref": "13",
+   "area": "港区",
+   "venue": "虎ノ門ヒルズ",
+   "cat": "フェス・祭り",
+   "start": "2026-11-27",
+   "end": "2026-11-28",
+   "url": "https://www.toranomonhills.com/events/",
+   "src": "https://www.toranomonhills.com/events/",
+   "en": "T-MARKET NIGHT 3rd Anniversary Party (Toranomon Hills)"
+  },
+  {
+   "id": "zepp-divercity-20261127-wavetoearth",
+   "title": "wave to earth - the pieces tour",
+   "pref": "13",
+   "area": "江東区",
+   "venue": "Zepp DiverCity(TOKYO)",
+   "cat": "ライブ",
+   "start": "2026-11-27",
+   "end": "2026-11-27",
+   "url": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=159823",
+   "src": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=159823",
+   "en": "wave to earth - the pieces tour (Zepp DiverCity Tokyo)"
+  },
+  {
+   "id": "zepp-fukuoka-20261127-atarashii",
+   "title": "新しい学校のリーダーズ「From AG! with Love 〜ライブハウスより愛を込めて〜」",
+   "pref": "40",
+   "area": "福岡市中央区",
+   "venue": "Zepp Fukuoka",
+   "cat": "ライブ",
+   "start": "2026-11-27",
+   "end": "2026-11-27",
+   "url": "https://www.zepp.co.jp/hall/fukuoka/schedule/single/?rid=162411",
+   "src": "https://www.zepp.co.jp/hall/fukuoka/schedule/single/?rid=162411",
+   "en": "ATARASHII GAKKO! From AG! with Love (Zepp Fukuoka)"
+  },
+  {
+   "id": "zepp-nagoya-20261127-negse",
+   "title": "ねぐせ。秋冬ワンマンツアー2026「君を強く抱きしめたいんだ！」",
+   "pref": "23",
+   "area": "名古屋市中村区",
+   "venue": "Zepp Nagoya",
+   "cat": "ライブ",
+   "start": "2026-11-27",
+   "end": "2026-11-27",
+   "url": "https://www.zepp.co.jp/hall/nagoya/schedule/single/?rid=157022",
+   "src": "https://www.zepp.co.jp/hall/nagoya/schedule/single/?rid=157022",
+   "en": "Neguse. Autumn/Winter One-Man Tour 2026 (Zepp Nagoya)"
+  },
+  {
+   "id": "zepp-yokohama-20261127-watwing",
+   "title": "WATWING Zepp Live Tour「love」",
+   "pref": "14",
+   "area": "横浜市西区",
+   "venue": "KT Zepp Yokohama",
+   "cat": "ライブ",
+   "start": "2026-11-27",
+   "end": "2026-11-27",
+   "url": "https://www.zepp.co.jp/hall/yokohama/schedule/single/?rid=156913",
+   "src": "https://www.zepp.co.jp/hall/yokohama/schedule/single/?rid=156913",
+   "en": "WATWING Zepp Live Tour \"love\" (KT Zepp Yokohama)"
+  },
+  {
+   "id": "ajiki-torinoichi-2026",
+   "title": "安食の酉の市",
+   "pref": "12",
+   "area": "印旛郡栄町",
+   "venue": "大鷲神社",
+   "cat": "フェス・祭り",
+   "start": "2026-11-28",
+   "end": "2026-12-01",
+   "url": "https://maruchiba.jp/event/detail_15052.html",
+   "src": "https://maruchiba.jp/event/detail_15052.html",
+   "en": "Ajiki Tori-no-Ichi Fair (Otori Shrine)"
   },
   {
    "id": "chuo-harumi-matsuri-2026",
@@ -3735,6 +4008,19 @@
    "en": "Momiji Festival (Momiji Hachimangu Shrine)"
   },
   {
+   "id": "shimokita-butaongakusai-2026",
+   "title": "チャラン・ポ・ランタンpresents 秋のブタ音楽祭2026～空き地deランタンサーカス～",
+   "pref": "13",
+   "area": "世田谷区",
+   "venue": "下北線路街 空き地",
+   "cat": "フェス・祭り",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "url": "https://senrogai.com/",
+   "src": "https://senrogai.com/",
+   "en": "Charan-Po-Rantan presents Autumn Buta Music Festival 2026 (Shimokita Senrogai Akichi)"
+  },
+  {
    "id": "tokyodome-20261128-hypergame",
    "title": "配信者ハイパーゲーム大会 FINAL",
    "pref": "13",
@@ -3746,6 +4032,19 @@
    "url": "https://www.tokyo-dome.co.jp/dome/event/schedule.html",
    "src": "東京ドーム",
    "en": "Streamer Hyper Game Tournament FINAL (Tokyo Dome)"
+  },
+  {
+   "id": "comiccity-tokyo-153",
+   "title": "COMIC CITY 東京 153",
+   "pref": "13",
+   "area": "江東区",
+   "venue": "東京ビッグサイト",
+   "cat": "展示会",
+   "start": "2026-11-29",
+   "end": "2026-11-29",
+   "url": "https://www.akaboo.jp/event/",
+   "src": "https://www.akaboo.jp/event/",
+   "en": "COMIC CITY Tokyo 153 (Tokyo Big Sight)"
   },
   {
    "id": "ebina-megumicho-fes-2026",
@@ -3800,6 +4099,32 @@
    "en": "Tokyo Christmas Market 2026 in Shiba Park"
   },
   {
+   "id": "yorunoyo-2026",
+   "title": "ヨルノヨ2026",
+   "pref": "14",
+   "area": "横浜市中区",
+   "venue": "横浜都心臨海部（大さん橋・山下公園ほか）",
+   "cat": "商業施設",
+   "start": "2026-12-04",
+   "end": "2026-12-30",
+   "url": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw9092",
+   "src": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw9092",
+   "en": "YORUNOYO 2026 Illumination (Yokohama Waterfront)"
+  },
+  {
+   "id": "omiya-hikawa-tokaichi-2026",
+   "title": "大湯祭 十日市（武蔵一宮氷川神社）",
+   "pref": "11",
+   "area": "さいたま市大宮区",
+   "venue": "武蔵一宮氷川神社",
+   "cat": "フェス・祭り",
+   "start": "2026-12-10",
+   "end": "2026-12-10",
+   "url": "https://www.city.saitama.lg.jp/omiya/001/002/20230401/20230408/p131157.html",
+   "src": "https://www.city.saitama.lg.jp/omiya/001/002/20230401/20230408/p131157.html",
+   "en": "Daitosai Tokaichi Fair (Musashi Ichinomiya Hikawa Shrine)"
+  },
+  {
    "id": "aonodokutsu-shibuya-2026",
    "title": "青の洞窟 SHIBUYA 2026",
    "pref": "13",
@@ -3850,6 +4175,19 @@
    "url": "https://www.jumpfesta.com/",
    "src": "ジャンプフェスタ2027公式",
    "en": "JUMP FESTA 2027 (Makuhari Messe)"
+  },
+  {
+   "id": "comiket-c109-2026",
+   "title": "コミックマーケット109",
+   "pref": "13",
+   "area": "江東区",
+   "venue": "東京ビッグサイト",
+   "cat": "展示会",
+   "start": "2026-12-29",
+   "end": "2026-12-31",
+   "url": "https://www.comiket.co.jp/",
+   "src": "https://www.comiket.co.jp/",
+   "en": "Comic Market 109 (Tokyo Big Sight)"
   }
  ]
 }
