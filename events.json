@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-15T16:55:00+09:00",
+ "updated": "2026-11-16T16:52:00+09:00",
  "events": [
   {
    "id": "expo70-20260314-beforeafter",
@@ -341,19 +341,6 @@
    "en": "Grape Afternoon Tea (Oiso Prince Hotel)"
   },
   {
-   "id": "gatehotel-yokohama-20260916-at",
-   "title": "ザ・ゲートホテル横浜 by HULIC「平日限定 ぶどうのアフタヌーンティー ～Taste of Autumn～」",
-   "pref": "14",
-   "area": "横浜市中区",
-   "venue": "ザ・ゲートホテル横浜 by HULIC",
-   "cat": "商業施設",
-   "start": "2026-09-16",
-   "end": "2026-11-16",
-   "url": "https://www.kanagawa-kankou.or.jp/event/7848",
-   "src": "神奈川県観光協会",
-   "en": "Weekday Grape Afternoon Tea (The Gate Hotel Yokohama)"
-  },
-  {
    "id": "aichinow-3379-tofu-museum",
    "title": "春日井市道風記念館 企画展「書の魅力～書の鑑賞への誘い～」",
    "pref": "23",
@@ -495,19 +482,6 @@
    "url": "https://aichinow.pref.aichi.jp/events/detail/3579/",
    "src": "Aichi Now（愛知県公式観光サイト）",
    "en": "Golden Shachi Special Exhibition (Nagoya Castle Nishinomaru Treasure Hall)"
-  },
-  {
-   "id": "sumida-aquarium-20261001-chinanago",
-   "title": "※チンアナゴではありま展",
-   "pref": "13",
-   "area": "墨田区",
-   "venue": "すみだ水族館",
-   "cat": "商業施設",
-   "start": "2026-10-01",
-   "end": "2026-11-16",
-   "url": "https://www.sumida-aquarium.com/news/4q4iptlvr3/",
-   "src": "すみだ水族館公式",
-   "en": "Not Garden Eels Exhibition (Sumida Aquarium)"
   },
   {
    "id": "aham-wyeth-20261003",
@@ -963,6 +937,19 @@
    "url": "https://www.tokyo-park.or.jp/event_search/10_11_11_24.html",
    "src": "東京都公園協会",
    "en": "Former Iwasaki House Garden Autumn Event"
+  },
+  {
+   "id": "decks-godzilla-odaiba-2026",
+   "title": "デックス東京ビーチ30周年記念 映画『ゴジラ-0.0』コラボイベント「ゴジラ襲来―お台場合同作戦」",
+   "pref": "13",
+   "area": "港区",
+   "venue": "デックス東京ビーチ",
+   "cat": "商業施設",
+   "start": "2026-10-23",
+   "end": "2026-11-30",
+   "url": "https://www.odaiba-decks.com/event/detail/114",
+   "src": "https://www.odaiba-decks.com/event/detail/114",
+   "en": "Godzilla Invasion - Odaiba Joint Operation (DECKS Tokyo Beach)"
   },
   {
    "id": "mazak-20261023-washi",
@@ -1869,19 +1856,6 @@
    "en": "23rd Chuo City Industry and Culture Exhibition - Heso-ten (Nihonbashi Plaza)"
   },
   {
-   "id": "edogawa-kisetsu-concert-20261116",
-   "title": "季節のお便りコンサート 秋／星・夜",
-   "pref": "13",
-   "area": "江戸川区",
-   "venue": "鹿骨区民館 ホール",
-   "cat": "ライブ",
-   "start": "2026-11-16",
-   "end": "2026-11-16",
-   "url": "https://edogawa-bunkacenter.jp/",
-   "src": "https://edogawa-bunkacenter.jp/",
-   "en": "Seasonal Letter Concert Autumn: Stars and Night (Shishibone Community Hall)"
-  },
-  {
    "id": "sunshine-pokepeace-twinkle-20261116",
    "title": "ポケピース Meets サンシャインシティ「Twinkle Star Idol」",
    "pref": "13",
@@ -1906,6 +1880,19 @@
    "url": "https://www.pref.saitama.lg.jp/f2215/library-info/2026_bunka_5.html",
    "src": "埼玉県",
    "en": "20th Kasukabe City Art Exhibition (Fureai Cube)"
+  },
+  {
+   "id": "showakinen-akigeshiki-photo-2026",
+   "title": "瀬戸豊彦写真展「昭和記念公園秋景色」",
+   "pref": "13",
+   "area": "立川市",
+   "venue": "国営昭和記念公園 花木園 展示棟",
+   "cat": "公園・庭園",
+   "start": "2026-11-17",
+   "end": "2026-11-30",
+   "url": "https://www.showakinen-koen.jp/event/43085/",
+   "src": "https://www.showakinen-koen.jp/event/43085/",
+   "en": "Toyohiko Seto Photo Exhibition: Autumn Scenery of Showa Kinen Park"
   },
   {
    "id": "tokyodome-20261117-tohji",
@@ -1984,6 +1971,19 @@
    "url": "https://yokanavi.com/events/271896",
    "src": "https://yokanavi.com/events",
    "en": "WINTER LIGHT FANTASY ILLUMINATION (Mizuho PayPay Dome Fukuoka)"
+  },
+  {
+   "id": "showakinen-ebisukou-2026",
+   "title": "年中行事「えびす講」＠こもれびの里",
+   "pref": "13",
+   "area": "立川市",
+   "venue": "国営昭和記念公園 こもれびの里",
+   "cat": "公園・庭園",
+   "start": "2026-11-18",
+   "end": "2026-11-20",
+   "url": "https://www.showakinen-koen.jp/event/75312/",
+   "src": "https://www.showakinen-koen.jp/event/75312/",
+   "en": "Ebisu-ko Traditional Event at Komorebi no Sato (Showa Kinen Park)"
   },
   {
    "id": "chiba-kashiwa-torinoichi-20261119",
@@ -2181,6 +2181,19 @@
    "en": "Fukuoka Classical Music Festival 2026 (Tenjin & Yakuin)"
   },
   {
+   "id": "gakusai-keio-mitasai-2026",
+   "title": "第68回三田祭",
+   "pref": "13",
+   "area": "港区",
+   "venue": "慶應義塾大学 三田キャンパス",
+   "cat": "フェス・祭り",
+   "start": "2026-11-20",
+   "end": "2026-11-23",
+   "url": "https://mitasai.com/",
+   "src": "https://mitasai.com/",
+   "en": "68th Mita Festival (Keio University Mita Campus)"
+  },
+  {
    "id": "grandtree-20261120-welovecoffee7",
    "title": "WE LOVE COFFEE vol.7",
    "pref": "14",
@@ -2218,6 +2231,19 @@
    "url": "https://www.pref.saitama.lg.jp/f2215/library-info/2026_bunka_13.html",
    "src": "埼玉県",
    "en": "23rd Sakado City Arts and Culture Festival (Sakado Cultural Hall)"
+  },
+  {
+   "id": "showakinen-satono-shukakusai-2026",
+   "title": "里の収穫祭＠こもれびの里",
+   "pref": "13",
+   "area": "立川市",
+   "venue": "国営昭和記念公園 こもれびの里",
+   "cat": "公園・庭園",
+   "start": "2026-11-20",
+   "end": "2026-11-23",
+   "url": "https://www.showakinen-koen.jp/event/73361/",
+   "src": "https://www.showakinen-koen.jp/event/73361/",
+   "en": "Satono Harvest Festival at Komorebi no Sato (Showa Kinen Park)"
   },
   {
    "id": "tokyo-xmas-market-shintoyosu-2026",
@@ -2413,6 +2439,32 @@
    "url": "https://farmersmarkets.jp/",
    "src": "https://farmersmarkets.jp/",
    "en": "Natural Wine Love Vol.07 (Farmers Market @UNU)"
+  },
+  {
+   "id": "gakusai-hitotsubashi-ikkyosai-2026",
+   "title": "第57回一橋祭",
+   "pref": "13",
+   "area": "国立市",
+   "venue": "一橋大学 国立キャンパス",
+   "cat": "フェス・祭り",
+   "start": "2026-11-21",
+   "end": "2026-11-23",
+   "url": "https://ikkyosai.com/",
+   "src": "https://ikkyosai.com/",
+   "en": "57th Ikkyo Festival (Hitotsubashi University Kunitachi Campus)"
+  },
+  {
+   "id": "gakusai-utokyo-komabasai-2026",
+   "title": "第77回駒場祭",
+   "pref": "13",
+   "area": "目黒区",
+   "venue": "東京大学 駒場キャンパス",
+   "cat": "フェス・祭り",
+   "start": "2026-11-21",
+   "end": "2026-11-23",
+   "url": "https://www.komabasai.net/",
+   "src": "https://www.komabasai.net/",
+   "en": "77th Komaba Festival (University of Tokyo Komaba Campus)"
   },
   {
    "id": "itabashi-artmuseum-corraini-2026",
@@ -2766,6 +2818,19 @@
    "en": "TRUST RECORDS presents (Zepp DiverCity Tokyo)"
   },
   {
+   "id": "zepp-yokohama-20261121-lvcharm",
+   "title": "Lv.♡Charm ただいま♡KT Zepp Yokohama 〜CONTINUE ▶ NEXT STAGE〜",
+   "pref": "14",
+   "area": "横浜市西区",
+   "venue": "KT Zepp Yokohama",
+   "cat": "ライブ",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "url": "https://www.zepp.co.jp/hall/yokohama/schedule/single/?rid=161381",
+   "src": "https://www.zepp.co.jp/hall/yokohama/schedule/single/?rid=161381",
+   "en": "Lv.Charm Live at KT Zepp Yokohama - CONTINUE NEXT STAGE"
+  },
+  {
    "id": "ariake-20261122-hearts2hearts",
    "title": "Hearts2Hearts JAPAN 1st Fan Event “READY！S2U”",
    "pref": "13",
@@ -3065,6 +3130,19 @@
    "en": "Chrono Reverse One Man Live BREAKOUT (Tokyo International Forum)"
   },
   {
+   "id": "tif-20261123-oedo-kottoichi",
+   "title": "大江戸骨董市",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "東京国際フォーラム",
+   "cat": "フェス・祭り",
+   "start": "2026-11-23",
+   "end": "2026-11-23",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/",
+   "src": "https://www.t-i-forum.co.jp/visitors/event/",
+   "en": "Oedo Antique Market (Tokyo International Forum)"
+  },
+  {
    "id": "tokyodome-giants-fanfesta-2026",
    "title": "ジャイアンツ・ファンフェスタ 2026 Presented by Fanatics",
    "pref": "13",
@@ -3076,6 +3154,19 @@
    "url": "https://www.tokyo-dome.co.jp/dome/event/schedule.html",
    "src": "https://www.tokyo-dome.co.jp/dome/event/schedule.html",
    "en": "Giants Fan Festa 2026 Presented by Fanatics (Tokyo Dome)"
+  },
+  {
+   "id": "hikarie-yumegiwatone-cos-2026",
+   "title": "yumegiwatone「c.o.s.」リリース記念展",
+   "pref": "13",
+   "area": "渋谷区",
+   "venue": "渋谷ヒカリエ Creative Lounge MOV aiiima2",
+   "cat": "展示会",
+   "start": "2026-11-25",
+   "end": "2026-11-30",
+   "url": "https://www.hikarie.jp/event/detail/?cd=000989",
+   "src": "https://www.hikarie.jp/event/detail/?cd=000989",
+   "en": "yumegiwatone \"c.o.s.\" Release Exhibition (Shibuya Hikarie)"
   },
   {
    "id": "rikugien-20261125-night",
@@ -3180,6 +3271,32 @@
    "url": "https://www.kyoceradome-osaka.jp/events/",
    "src": "https://www.kyoceradome-osaka.jp/events/",
    "en": "BIGBANG 2026-2027 WORLD TOUR IN JAPAN (Kyocera Dome Osaka)"
+  },
+  {
+   "id": "tif-20261127-shibata-satoko",
+   "title": "柴田聡子のひとりぼっち'26",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "東京国際フォーラム",
+   "cat": "ライブ",
+   "start": "2026-11-27",
+   "end": "2026-11-27",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/",
+   "src": "https://www.t-i-forum.co.jp/visitors/event/",
+   "en": "Satoko Shibata Hitoribocchi '26 (Tokyo International Forum)"
+  },
+  {
+   "id": "tif-20261127-tetsuko-concert",
+   "title": "放送50周年記念 第20回「徹子の部屋」コンサート",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "東京国際フォーラム",
+   "cat": "ライブ",
+   "start": "2026-11-27",
+   "end": "2026-11-27",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/",
+   "src": "https://www.t-i-forum.co.jp/visitors/event/",
+   "en": "20th Tetsuko no Heya Concert - 50th Anniversary (Tokyo International Forum)"
   },
   {
    "id": "toranomon-tmarket-night-2026",
@@ -3364,6 +3481,19 @@
    "en": "Charan-Po-Rantan presents Autumn Buta Music Festival 2026 (Shimokita Senrogai Akichi)"
   },
   {
+   "id": "tif-20261128-yakushimaru",
+   "title": "薬師丸ひろ子 Concert Tour 2026 〜明日が来る〜",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "東京国際フォーラム",
+   "cat": "ライブ",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/",
+   "src": "https://www.t-i-forum.co.jp/visitors/event/",
+   "en": "Hiroko Yakushimaru Concert Tour 2026 (Tokyo International Forum)"
+  },
+  {
    "id": "tokyodome-20261128-hypergame",
    "title": "配信者ハイパーゲーム大会 FINAL",
    "pref": "13",
@@ -3481,6 +3611,19 @@
    "en": "Ebina Megumicho Festival 2026 (Ebina Cultural Center)"
   },
   {
+   "id": "tif-20261129-noa-dance-impact",
+   "title": "NOA DANCE IMPACT 2026",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "東京国際フォーラム",
+   "cat": "ライブ",
+   "start": "2026-11-29",
+   "end": "2026-11-29",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/",
+   "src": "https://www.t-i-forum.co.jp/visitors/event/",
+   "en": "NOA DANCE IMPACT 2026 (Tokyo International Forum)"
+  },
+  {
    "id": "togoshiginza-xmasstamp-2026",
    "title": "戸越銀座 クリスマススタンプ祭り",
    "pref": "13",
@@ -3557,6 +3700,19 @@
    "url": "https://www.zepp.co.jp/hall/yokohama/schedule/single/?rid=165003",
    "src": "https://www.zepp.co.jp/hall/yokohama/schedule/",
    "en": "Neoromance Festa Harukanaru Toki no Naka de 3: Hiraizumi no Yume (KT Zepp Yokohama)"
+  },
+  {
+   "id": "tif-20261130-funaki-kazuo",
+   "title": "舟木一夫コンサート2026 ツアーファイナル",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "東京国際フォーラム",
+   "cat": "ライブ",
+   "start": "2026-11-30",
+   "end": "2026-11-30",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/",
+   "src": "https://www.t-i-forum.co.jp/visitors/event/",
+   "en": "Kazuo Funaki Concert 2026 Tour Final (Tokyo International Forum)"
   },
   {
    "id": "skytree-sanrio-hokusai-2026",
