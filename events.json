@@ -1653,18 +1653,6 @@
    "en": "Marunouchi Street Park 2026 Winter (Marunouchi Naka-dori)"
   },
   {
-   "id": "aichi-20261113-animationff",
-   "title": "あいち・なごやインターナショナル・アニメーション・フィルム・フェスティバル2026",
-   "pref": "23",
-   "area": "名古屋市中村区",
-   "venue": "ミッドランドスクエアシネマ2・ウインクあいち ほか",
-   "cat": "フェス・祭り",
-   "start": "2026-11-13",
-   "end": "2026-11-18",
-   "url": "https://www.nagoya-info.jp/event/detail/1395/",
-   "src": "名古屋コンシェルジュ"
-  },
-  {
    "id": "mm-christmas-market-2026",
    "title": "みなとみらいクリスマスマーケット2026",
    "pref": "14",
@@ -1830,19 +1818,6 @@
    "src": "名古屋コンシェルジュ"
   },
   {
-   "id": "chiba-nakayama-kottoichi-2026",
-   "title": "なかやま 秋の骨董市",
-   "pref": "12",
-   "area": "市川市",
-   "venue": "中山法華経寺 祖師堂前",
-   "cat": "フェス・祭り",
-   "start": "2026-11-15",
-   "end": "2026-11-18",
-   "url": "https://maruchiba.jp/event/detail_10901.html",
-   "src": "https://maruchiba.jp/event/detail_10901.html",
-   "en": "Nakayama Autumn Antique Market (Nakayama Hokekyoji Temple)"
-  },
-  {
    "id": "sunshine-pokepeace-twinkle-20261116",
    "title": "ポケピース Meets サンシャインシティ「Twinkle Star Idol」",
    "pref": "13",
@@ -1906,32 +1881,6 @@
    "url": "https://ariake-arena.tokyo/event/",
    "src": "有明アリーナ",
    "en": "HiGH&LOW THE SENGOKU LOVE&HATE (Ariake Arena)"
-  },
-  {
-   "id": "ebisugp-20261118-hakushihasegawa",
-   "title": "Hakushi Hasegawa Tour(Japan) 2026 素直な気持ちツアー",
-   "pref": "13",
-   "area": "渋谷区",
-   "venue": "ザ・ガーデンホール（恵比寿ガーデンプレイス）",
-   "cat": "ライブ",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "url": "https://gardenplace.jp/event/",
-   "src": "恵比寿ガーデンプレイス",
-   "en": "Hakushi Hasegawa Tour (Japan) 2026 (The Garden Hall, Ebisu)"
-  },
-  {
-   "id": "keyaki-20261118-fleamarket",
-   "title": "フリーマーケットinさいたま新都心けやきひろば",
-   "pref": "11",
-   "area": "さいたま市中央区",
-   "venue": "さいたま新都心 けやきひろば",
-   "cat": "フェス・祭り",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "url": "https://www.saitama-arena.co.jp/schedule/2026/11/",
-   "src": "GMOアリーナさいたま",
-   "en": "Flea Market at Saitama Shintoshin Keyaki Hiroba"
   },
   {
    "id": "paypaydome-winterlight-2026",
