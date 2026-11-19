@@ -1030,19 +1030,6 @@
    "en": "Seika Mori Ceramics Exhibition Puku Puku Patisserie (GINZA SIX)"
   },
   {
-   "id": "kawasakidaishi-kikka-2026",
-   "title": "第63回 川崎大師菊花展",
-   "pref": "14",
-   "area": "川崎市川崎区",
-   "venue": "川崎大師（平間寺）",
-   "cat": "展示会",
-   "start": "2026-10-29",
-   "end": "2026-11-19",
-   "url": "https://www.kawasakidaishi.com/",
-   "src": "https://www.kawasakidaishi.com/",
-   "en": "63rd Kawasaki Daishi Chrysanthemum Exhibition (Kawasaki Daishi Heikenji)"
-  },
-  {
    "id": "showakinen-yorusanpo-2026",
    "title": "秋の夜散歩2026",
    "pref": "13",
@@ -1870,19 +1857,6 @@
    "en": "new era! NiIMi \"That's dope\" (Zou-no-hana Terrace)"
   },
   {
-   "id": "ariake-20261118-highlow-sengoku",
-   "title": "HiGH&LOW THE 戦国 LOVE&HATE",
-   "pref": "13",
-   "area": "江東区",
-   "venue": "有明アリーナ",
-   "cat": "ライブ",
-   "start": "2026-11-18",
-   "end": "2026-11-19",
-   "url": "https://ariake-arena.tokyo/event/",
-   "src": "有明アリーナ",
-   "en": "HiGH&LOW THE SENGOKU LOVE&HATE (Ariake Arena)"
-  },
-  {
    "id": "paypaydome-winterlight-2026",
    "title": "WINTER LIGHT FANTASY ILLUMINATION（みずほPayPayドーム・BOSS E・ZO FUKUOKA）",
    "pref": "40",
@@ -1907,32 +1881,6 @@
    "url": "https://www.showakinen-koen.jp/event/75312/",
    "src": "https://www.showakinen-koen.jp/event/75312/",
    "en": "Ebisu-ko Traditional Event at Komorebi no Sato (Showa Kinen Park)"
-  },
-  {
-   "id": "chiba-kashiwa-torinoichi-20261119",
-   "title": "酉の市（大鳥神社・二の酉）",
-   "pref": "12",
-   "area": "柏市",
-   "venue": "旭町香取神社内 大鳥神社",
-   "cat": "フェス・祭り",
-   "start": "2026-11-19",
-   "end": "2026-11-19",
-   "url": "https://maruchiba.jp/event/detail_15028.html",
-   "src": "https://maruchiba.jp/event/detail_15028.html",
-   "en": "Tori-no-Ichi Fair, Second Day (Otori Shrine, Kashiwa)"
-  },
-  {
-   "id": "ebisugp-20261119-yungkai",
-   "title": "yung kai - stay with the ocean, i’ll find you: Asia 2026",
-   "pref": "13",
-   "area": "渋谷区",
-   "venue": "ザ・ガーデンホール（恵比寿ガーデンプレイス）",
-   "cat": "ライブ",
-   "start": "2026-11-19",
-   "end": "2026-11-19",
-   "url": "https://gardenplace.jp/event/",
-   "src": "恵比寿ガーデンプレイス",
-   "en": "yung kai stay with the ocean, i'll find you: Asia 2026 (The Garden Hall, Ebisu)"
   },
   {
    "id": "gakusai-tufs-gaigosai-2026",
@@ -1987,19 +1935,6 @@
    "en": "Kiyose x Higashikurume Machi Bar (Kiyose and Higashikurume)"
   },
   {
-   "id": "otori-asakusa-20261119",
-   "title": "酉の市 二の酉（浅草 鷲神社）",
-   "pref": "13",
-   "area": "台東区",
-   "venue": "鷲神社（浅草）",
-   "cat": "フェス・祭り",
-   "start": "2026-11-19",
-   "end": "2026-11-19",
-   "url": "https://otorisama.or.jp/kotoshi.html",
-   "src": "https://otorisama.or.jp/kotoshi.html",
-   "en": "Tori-no-Ichi Fair, Second Day of the Rooster (Otori Shrine, Asakusa)"
-  },
-  {
    "id": "shibuyastream-ryusei140-2026",
    "title": "龍生派140周年記念展「いけばな古今東西」",
    "pref": "13",
@@ -2024,19 +1959,6 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/",
    "src": "東京国際フォーラム",
    "en": "Musical Hoshikage no Hito - Okita Soji (Tokyo International Forum)"
-  },
-  {
-   "id": "tif-20261119-neoyataimura-beaujolais",
-   "title": "ネオ屋台村 ボジョレーナイト",
-   "pref": "13",
-   "area": "千代田区",
-   "venue": "東京国際フォーラム",
-   "cat": "フェス・祭り",
-   "start": "2026-11-19",
-   "end": "2026-11-19",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/",
-   "src": "東京国際フォーラム",
-   "en": "Neo Yataimura Beaujolais Night (Tokyo International Forum)"
   },
   {
    "id": "tif-20261119-sadamasashi",
