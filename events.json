@@ -1017,19 +1017,6 @@
    "en": "THE MOVEUM YOKOHAMA: Monet and Ukiyo-e"
   },
   {
-   "id": "ginza6-mori-seika-20261028",
-   "title": "森聖華 作陶展「ぷくぷくパティスリー」",
-   "pref": "13",
-   "area": "中央区",
-   "venue": "GINZA SIX",
-   "cat": "展示会",
-   "start": "2026-10-28",
-   "end": "2026-11-20",
-   "url": "https://ginza6.tokyo/",
-   "src": "https://ginza6.tokyo/",
-   "en": "Seika Mori Ceramics Exhibition Puku Puku Patisserie (GINZA SIX)"
-  },
-  {
    "id": "showakinen-yorusanpo-2026",
    "title": "秋の夜散歩2026",
    "pref": "13",
@@ -1870,19 +1857,6 @@
    "en": "WINTER LIGHT FANTASY ILLUMINATION (Mizuho PayPay Dome Fukuoka)"
   },
   {
-   "id": "showakinen-ebisukou-2026",
-   "title": "年中行事「えびす講」＠こもれびの里",
-   "pref": "13",
-   "area": "立川市",
-   "venue": "国営昭和記念公園 こもれびの里",
-   "cat": "公園・庭園",
-   "start": "2026-11-18",
-   "end": "2026-11-20",
-   "url": "https://www.showakinen-koen.jp/event/75312/",
-   "src": "https://www.showakinen-koen.jp/event/75312/",
-   "en": "Ebisu-ko Traditional Event at Komorebi no Sato (Showa Kinen Park)"
-  },
-  {
    "id": "gakusai-tufs-gaigosai-2026",
    "title": "外語祭",
    "pref": "13",
@@ -1959,19 +1933,6 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/",
    "src": "東京国際フォーラム",
    "en": "Musical Hoshikage no Hito - Okita Soji (Tokyo International Forum)"
-  },
-  {
-   "id": "tif-20261119-sadamasashi",
-   "title": "さだまさしコンサートツアー2026 神さまの言うとおり",
-   "pref": "13",
-   "area": "千代田区",
-   "venue": "東京国際フォーラム",
-   "cat": "ライブ",
-   "start": "2026-11-19",
-   "end": "2026-11-20",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/",
-   "src": "東京国際フォーラム",
-   "en": "Masashi Sada Concert Tour 2026 Kamisama no Iutoori (Tokyo International Forum)"
   },
   {
    "id": "tokyocityi-20261119-yanagawa",
@@ -2115,84 +2076,6 @@
    "url": "https://www.tokyo-dome.co.jp/dome/event/schedule.html",
    "src": "https://www.tokyo-dome.co.jp/dome/event/schedule.html",
    "en": "Fujii Kaze Piano Recital (Tokyo Dome)"
-  },
-  {
-   "id": "zepp-158828",
-   "title": "電気グルーヴ “菩薩アー”",
-   "pref": "13",
-   "area": "大田区",
-   "venue": "Zepp Haneda(TOKYO)",
-   "cat": "ライブ",
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "url": "https://www.zepp.co.jp/hall/haneda/schedule/single/?rid=158828",
-   "src": "https://www.zepp.co.jp/hall/haneda/schedule/single/?rid=158828",
-   "en": "Denki Groove Bosatour (Zepp Haneda)"
-  },
-  {
-   "id": "zepp-163664",
-   "title": "RESISTANCE SURVIVAL",
-   "pref": "27",
-   "area": "大阪市此花区",
-   "venue": "Zepp Osaka Bayside",
-   "cat": "ライブ",
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "url": "https://www.zepp.co.jp/hall/osakabayside/schedule/single/?rid=163664",
-   "src": "https://www.zepp.co.jp/hall/osakabayside/schedule/",
-   "en": "RESISTANCE SURVIVAL (Zepp Osaka Bayside)"
-  },
-  {
-   "id": "zepp-divercity-20261120-ion",
-   "title": "iON! / iMiN! / AdamLilith / MEGAFON ほか",
-   "pref": "13",
-   "area": "江東区",
-   "venue": "Zepp DiverCity(TOKYO)",
-   "cat": "ライブ",
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "url": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=169068",
-   "src": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=169068",
-   "en": "iON! / iMiN! / AdamLilith / MEGAFON and more (Zepp DiverCity Tokyo)"
-  },
-  {
-   "id": "zepp-fukuoka-20261120-unframed",
-   "title": "UNFRAMED 30th Anniversary Live Series（10-FEET / MAN WITH A MISSION）",
-   "pref": "40",
-   "area": "福岡市中央区",
-   "venue": "Zepp Fukuoka",
-   "cat": "ライブ",
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "url": "https://www.zepp.co.jp/hall/fukuoka/schedule/single/?rid=162904",
-   "src": "https://www.zepp.co.jp/hall/fukuoka/schedule/single/?rid=162904",
-   "en": "TOWER RECORDS UNFRAMED 30th Anniversary Live Series (Zepp Fukuoka)"
-  },
-  {
-   "id": "zepp-nagoya-20261120-atarashii",
-   "title": "新しい学校のリーダーズ From AG! with Love ～ライブハウスより愛を込めて～",
-   "pref": "23",
-   "area": "名古屋市中村区",
-   "venue": "Zepp Nagoya",
-   "cat": "ライブ",
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "url": "https://www.zepp.co.jp/hall/nagoya/schedule/single/?rid=160143",
-   "src": "https://www.zepp.co.jp/hall/nagoya/schedule/single/?rid=160143",
-   "en": "ATARASHII GAKKO! From AG! with Love (Zepp Nagoya)"
-  },
-  {
-   "id": "zepp-yokohama-20261120-annwilson",
-   "title": "AN EVENING WITH ANN WILSON & TRIPSITTER",
-   "pref": "14",
-   "area": "横浜市西区",
-   "venue": "KT Zepp Yokohama",
-   "cat": "ライブ",
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "url": "https://www.zepp.co.jp/hall/yokohama/schedule/single/?rid=160349",
-   "src": "https://www.zepp.co.jp/hall/yokohama/schedule/single/?rid=160349",
-   "en": "AN EVENING WITH ANN WILSON & TRIPSITTER (KT Zepp Yokohama)"
   },
   {
    "id": "ariake-garden-asoberu-aquarium-20261121",
