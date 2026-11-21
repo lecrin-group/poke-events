@@ -1896,19 +1896,6 @@
    "en": "WHITE KITTE Christmas (KITTE Marunouchi)"
   },
   {
-   "id": "kiyose-higashikurume-machibar-2026",
-   "title": "清瀬市×東久留米市 地域連携街バル",
-   "pref": "13",
-   "area": "清瀬市",
-   "venue": "清瀬市・東久留米市内の参加店舗",
-   "cat": "フェス・祭り",
-   "start": "2026-11-19",
-   "end": "2026-11-21",
-   "url": "https://www.city.kiyose.lg.jp/sigotosangyou/1016892.html",
-   "src": "https://www.city.kiyose.lg.jp/sigotosangyou/1016892.html",
-   "en": "Kiyose x Higashikurume Machi Bar (Kiyose and Higashikurume)"
-  },
-  {
    "id": "shibuyastream-ryusei140-2026",
    "title": "龍生派140周年記念展「いけばな古今東西」",
    "pref": "13",
@@ -1933,19 +1920,6 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/",
    "src": "東京国際フォーラム",
    "en": "Musical Hoshikage no Hito - Okita Soji (Tokyo International Forum)"
-  },
-  {
-   "id": "tokyocityi-20261119-yanagawa",
-   "title": "柳川フェアin東京丸の内",
-   "pref": "13",
-   "area": "千代田区",
-   "venue": "KITTE丸の内 東京シティアイ",
-   "cat": "商業施設",
-   "start": "2026-11-19",
-   "end": "2026-11-21",
-   "url": "https://marunouchi.jp-kitte.jp/",
-   "src": "https://marunouchi.jp-kitte.jp/",
-   "en": "Yanagawa Fair in Tokyo Marunouchi (KITTE Marunouchi Tokyo City i)"
   },
   {
    "id": "akarenga-xmas-market-2026",
@@ -2013,19 +1987,6 @@
    "en": "WE LOVE COFFEE vol.7 (Grand Tree Musashikosugi)"
   },
   {
-   "id": "kyoceradome-mama-2026-2days",
-   "title": "2026 MAMA AWARDS Presented by Visa（京セラドーム大阪 2日間）",
-   "pref": "27",
-   "area": "大阪市西区",
-   "venue": "京セラドーム大阪",
-   "cat": "ライブ",
-   "start": "2026-11-20",
-   "end": "2026-11-21",
-   "url": "https://www.kyoceradome-osaka.jp/events/",
-   "src": "https://www.kyoceradome-osaka.jp/events/",
-   "en": "2026 MAMA AWARDS Presented by Visa (Kyocera Dome Osaka)"
-  },
-  {
    "id": "sakado-geibunsai-20261120",
    "title": "第23回坂戸市芸術文化祭",
    "pref": "11",
@@ -2065,19 +2026,6 @@
    "en": "Tokyo Christmas Market 2026 in Shin-Toyosu"
   },
   {
-   "id": "tokyodome-20261120-fujiikaze-piano",
-   "title": "藤井風 ピアノリサイタル",
-   "pref": "13",
-   "area": "文京区",
-   "venue": "東京ドーム",
-   "cat": "ライブ",
-   "start": "2026-11-20",
-   "end": "2026-11-21",
-   "url": "https://www.tokyo-dome.co.jp/dome/event/schedule.html",
-   "src": "https://www.tokyo-dome.co.jp/dome/event/schedule.html",
-   "en": "Fujii Kaze Piano Recital (Tokyo Dome)"
-  },
-  {
    "id": "ariake-garden-asoberu-aquarium-20261121",
    "title": "あそべ～る水族館",
    "pref": "13",
@@ -2104,19 +2052,6 @@
    "en": "23rd Kuroshio Yosakoi Festival (Choshi)"
   },
   {
-   "id": "conan-geijutsu-hanabi-yokohama-2026",
-   "title": "TVアニメ放送30周年記念「名探偵コナン」芸術花火2026",
-   "pref": "14",
-   "area": "横浜市中区",
-   "venue": "山下ふ頭",
-   "cat": "フェス・祭り",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "url": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw13364",
-   "src": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw13364",
-   "en": "Detective Conan 30th Anniversary Art Fireworks 2026 (Yamashita Pier)"
-  },
-  {
    "id": "ebisugp-centerplaza-4th-2026",
    "title": "センタープラザ 4th ANNIVERSARY",
    "pref": "13",
@@ -2141,19 +2076,6 @@
    "url": "https://www.expo70-park.jp/event/78407/",
    "src": "https://www.expo70-park.jp/events/during-events/",
    "en": "12th Ramen EXPO 2026 (Expo '70 Commemorative Park)"
-  },
-  {
-   "id": "expo70-yozora-art-2026",
-   "title": "第5回 万博夜空がアートになる日 2026",
-   "pref": "27",
-   "area": "吹田市",
-   "venue": "万博記念公園 東の広場",
-   "cat": "公園・庭園",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "url": "https://www.expo70-park.jp/event/77580/",
-   "src": "https://www.expo70-park.jp/events/during-events/",
-   "en": "5th Banpaku Yozora ga Art ni Naru Hi 2026 (Expo '70 Commemorative Park)"
   },
   {
    "id": "farmers-naturalwinelove-07",
@@ -2208,19 +2130,6 @@
    "en": "Corraini Bookmaking Exhibition (Itabashi Art Museum)"
   },
   {
-   "id": "kanagawajuku-fes-2026aki",
-   "title": "神奈川宿フェス 2026秋",
-   "pref": "14",
-   "area": "横浜市神奈川区",
-   "venue": "神奈川宿周辺の寺社（笠䅣稲荷神社・良泉寺ほか）",
-   "cat": "フェス・祭り",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "url": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw11940",
-   "src": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw11940",
-   "en": "Kanagawa-juku Fes 2026 Autumn"
-  },
-  {
    "id": "mikanshimokita-20261121-mexico",
    "title": "LA FERIA下北メキシコ祭り",
    "pref": "13",
@@ -2258,19 +2167,6 @@
    "url": "https://www.city.musashino.lg.jp/shiseijoho/shisaku_keikaku/kyoikubu_shisaku_keikaku/akaboshi_tei/1055104.html",
    "src": "武蔵野市",
    "en": "Former Akaboshi Tetsuma Residence and Hamaya Western House Special Opening (Kichijoji)"
-  },
-  {
-   "id": "muse-20261121-staier",
-   "title": "アンドレアス・シュタイアー［チェンバロ］J.S.バッハ：ゴルトベルク変奏曲",
-   "pref": "11",
-   "area": "所沢市",
-   "venue": "所沢市民文化センター ミューズ",
-   "cat": "ライブ",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "url": "https://www.muse-tokorozawa.or.jp/event/",
-   "src": "https://www.muse-tokorozawa.or.jp/event/",
-   "en": "Andreas Staier Harpsichord: Bach Goldberg Variations (Tokorozawa Muse)"
   },
   {
    "id": "nagoya-nogyo-20261121-matsuri",
@@ -2336,58 +2232,6 @@
    "url": "https://www.tbs.co.jp/sacas/",
    "src": "https://www.tbs.co.jp/sacas/",
    "en": "Disaster Preparedness Festival (Akasaka Sacas)"
-  },
-  {
-   "id": "sakuramate-marche-20261121",
-   "title": "さくらめいとマルシェ",
-   "pref": "11",
-   "area": "熊谷市",
-   "venue": "熊谷文化創造館さくらめいと",
-   "cat": "フェス・祭り",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "url": "https://www.sakuramate.jp/",
-   "src": "熊谷文化創造館さくらめいと",
-   "en": "Sakuramate Marche (Kumagaya Cultural Center Sakuramate)"
-  },
-  {
-   "id": "shinagawa-daishogyo-2026",
-   "title": "大商業まつり2026",
-   "pref": "13",
-   "area": "品川区",
-   "venue": "しながわ中央公園",
-   "cat": "フェス・祭り",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "url": "https://shinagawa-kanko.or.jp/event/dsmatsuri2026/",
-   "src": "https://shinagawa-kanko.or.jp/event/dsmatsuri2026/",
-   "en": "Daishogyo Festival 2026 (Shinagawa Chuo Park)"
-  },
-  {
-   "id": "sumida-soranone-2026",
-   "title": "第13回 ソラのねマルシェ SUMIDA“ととのう”PARK",
-   "pref": "13",
-   "area": "墨田区",
-   "venue": "墨田区立錦糸公園ふれあい広場",
-   "cat": "フェス・祭り",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "url": "https://visit-sumida.jp/event/soranone2026/",
-   "src": "https://visit-sumida.jp/event/soranone2026/",
-   "en": "13th Soranone Marche SUMIDA Totonou Park (Kinshi Park)"
-  },
-  {
-   "id": "tif-20261121-bttf-concert",
-   "title": "「バック・トゥ・ザ・フューチャー」 in コンサート",
-   "pref": "13",
-   "area": "千代田区",
-   "venue": "東京国際フォーラム",
-   "cat": "ライブ",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/",
-   "src": "東京国際フォーラム",
-   "en": "Back to the Future in Concert (Tokyo International Forum)"
   },
   {
    "id": "tokyo-shukakusai-2026",
@@ -2479,84 +2323,6 @@
    "url": "https://www.yomiuriland.com/event/",
    "src": "https://www.yomiuriland.com/event/",
    "en": "Yomiuriland Christmas 2026"
-  },
-  {
-   "id": "zepp-157611",
-   "title": "神はサイコロを振らない Zepp Tour 2026 \"View From The Soyuz\"",
-   "pref": "40",
-   "area": "福岡市中央区",
-   "venue": "Zepp Fukuoka",
-   "cat": "ライブ",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "url": "https://www.zepp.co.jp/hall/fukuoka/schedule/single/?rid=157611",
-   "src": "https://www.zepp.co.jp/hall/fukuoka/schedule/",
-   "en": "Kami wa Saikoro wo Furanai Zepp Tour 2026 View From The Soyuz (Zepp Fukuoka)"
-  },
-  {
-   "id": "zepp-158829",
-   "title": "電気グルーヴ “菩薩アー”",
-   "pref": "13",
-   "area": "大田区",
-   "venue": "Zepp Haneda(TOKYO)",
-   "cat": "ライブ",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "url": "https://www.zepp.co.jp/hall/haneda/schedule/single/?rid=158829",
-   "src": "https://www.zepp.co.jp/hall/haneda/schedule/single/?rid=158829",
-   "en": "Denki Groove Bosatour (Zepp Haneda)"
-  },
-  {
-   "id": "zepp-161096",
-   "title": "RESISTANCE",
-   "pref": "27",
-   "area": "大阪市此花区",
-   "venue": "Zepp Osaka Bayside",
-   "cat": "ライブ",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "url": "https://www.zepp.co.jp/hall/osakabayside/schedule/single/?rid=161096",
-   "src": "https://www.zepp.co.jp/hall/osakabayside/schedule/",
-   "en": "RESISTANCE (Zepp Osaka Bayside)"
-  },
-  {
-   "id": "zepp-166533",
-   "title": "ナナコロビヤオキ 東名阪Zepp Tour -天下一舞闘会- 桶狭間の戦い",
-   "pref": "23",
-   "area": "名古屋市中村区",
-   "venue": "Zepp Nagoya",
-   "cat": "ライブ",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "url": "https://www.zepp.co.jp/hall/nagoya/schedule/single/?rid=166533",
-   "src": "https://www.zepp.co.jp/hall/nagoya/schedule/",
-   "en": "Nanakorobiyaoki Tokyo-Nagoya-Osaka Zepp Tour (Zepp Nagoya)"
-  },
-  {
-   "id": "zepp-divercity-20261121-trust",
-   "title": "TRUST RECORDS presents（May Forth / KUZIRA / ENTH ほか）",
-   "pref": "13",
-   "area": "江東区",
-   "venue": "Zepp DiverCity(TOKYO)",
-   "cat": "ライブ",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "url": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=159056",
-   "src": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=159056",
-   "en": "TRUST RECORDS presents (Zepp DiverCity Tokyo)"
-  },
-  {
-   "id": "zepp-yokohama-20261121-lvcharm",
-   "title": "Lv.♡Charm ただいま♡KT Zepp Yokohama 〜CONTINUE ▶ NEXT STAGE〜",
-   "pref": "14",
-   "area": "横浜市西区",
-   "venue": "KT Zepp Yokohama",
-   "cat": "ライブ",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "url": "https://www.zepp.co.jp/hall/yokohama/schedule/single/?rid=161381",
-   "src": "https://www.zepp.co.jp/hall/yokohama/schedule/single/?rid=161381",
-   "en": "Lv.Charm Live at KT Zepp Yokohama - CONTINUE NEXT STAGE"
   },
   {
    "id": "ariake-20261122-hearts2hearts",
