@@ -29,19 +29,6 @@
    "en": "SCMaglev and Railway Park: Tokaido Shinkansen Maintenance Vehicles Exhibition"
   },
   {
-   "id": "kadcul-20260425-galaxy999",
-   "title": "企画展 銀河鉄道999 THE GALAXY EXPERIENCE あの旅は、まだ続いている。",
-   "pref": "11",
-   "area": "所沢市",
-   "venue": "角川武蔵野ミュージアム",
-   "cat": "展示会",
-   "start": "2026-04-25",
-   "end": "2026-11-23",
-   "url": "https://kadcul.com/event/260",
-   "src": "角川武蔵野ミュージアム公式",
-   "en": "Galaxy Express 999: The Galaxy Experience Exhibition"
-  },
-  {
    "id": "miyanaga-20260613-iki",
    "title": "秦野市立宮永岳彦記念美術館 展覧会「宮永岳彦 粋 意気 息」",
    "pref": "14",
@@ -92,19 +79,6 @@
    "url": "https://yokanavi.com/events/274534",
    "src": "よかなび（福岡市）",
    "en": "SEKAI Immersive Night Art (Ohori Park, Fukuoka)"
-  },
-  {
-   "id": "yokohamamuseum-20260801-marie",
-   "title": "マリー・アントワネット・スタイル",
-   "pref": "14",
-   "area": "横浜市西区",
-   "venue": "横浜美術館",
-   "cat": "展示会",
-   "start": "2026-08-01",
-   "end": "2026-11-23",
-   "url": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw12991",
-   "src": "横浜市観光情報公式サイト",
-   "en": "Marie Antoinette Style Exhibition (Yokohama Museum of Art)"
   },
   {
    "id": "gorapark-20260901-autumn-at",
@@ -170,19 +144,6 @@
    "url": "https://aichinow.pref.aichi.jp/events/detail/4036/",
    "src": "Aichi Now（愛知県公式観光サイト）",
    "en": "Minamichita Beachland Autumn Events (Aquarium)"
-  },
-  {
-   "id": "dollmuseum-20260905-40th",
-   "title": "横浜人形の家 開館40周年記念展「横浜人形の家 建築と記憶」",
-   "pref": "14",
-   "area": "横浜市中区",
-   "venue": "横浜人形の家 2階 多目的室",
-   "cat": "展示会",
-   "start": "2026-09-05",
-   "end": "2026-11-23",
-   "url": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw13372",
-   "src": "横浜市観光情報",
-   "en": "Yokohama Doll Museum 40th Anniversary Exhibition"
   },
   {
    "id": "hamagin-20260905-conan-planetarium",
@@ -328,32 +289,6 @@
    "en": "InterContinental Yokohama Grand Afternoon Tea"
   },
   {
-   "id": "oiso-prince-grape-at-20260914",
-   "title": "大磯プリンスホテル「ぶどう尽くしのアフタヌーンティー」",
-   "pref": "14",
-   "area": "大磯町",
-   "venue": "大磯プリンスホテル",
-   "cat": "商業施設",
-   "start": "2026-09-14",
-   "end": "2026-11-23",
-   "url": "https://www.kanagawa-kankou.or.jp/event/7017",
-   "src": "神奈川県観光協会",
-   "en": "Grape Afternoon Tea (Oiso Prince Hotel)"
-  },
-  {
-   "id": "aichinow-3379-tofu-museum",
-   "title": "春日井市道風記念館 企画展「書の魅力～書の鑑賞への誘い～」",
-   "pref": "23",
-   "area": "春日井市",
-   "venue": "春日井市道風記念館",
-   "cat": "展示会",
-   "start": "2026-09-18",
-   "end": "2026-11-23",
-   "url": "https://aichinow.pref.aichi.jp/events/detail/3379/",
-   "src": "Aichi Now（愛知県公式観光サイト）",
-   "en": "Kasugai Michikaze Memorial Museum: The Charm of Calligraphy"
-  },
-  {
    "id": "kadcul-20260918-essaymanga",
    "title": "企画展 わたしをすくう エッセイマンガの処方箋展",
    "pref": "11",
@@ -365,19 +300,6 @@
    "url": "https://kadcul.com/event/276",
    "src": "角川武蔵野ミュージアム公式",
    "en": "Essay Manga Exhibition (Kadokawa Culture Museum)"
-  },
-  {
-   "id": "aichi-nagoyajo-akimatsuri-2026",
-   "title": "名古屋城秋まつり",
-   "pref": "23",
-   "area": "名古屋市中区",
-   "venue": "名古屋城",
-   "cat": "フェス・祭り",
-   "start": "2026-09-19",
-   "end": "2026-11-23",
-   "url": "https://www.nagoya-info.jp/event/detail/65/",
-   "src": "名古屋コンシェルジュ",
-   "en": "Nagoya Castle Autumn Festival"
   },
   {
    "id": "aichinow-3793-hashimotomio",
@@ -393,19 +315,6 @@
    "en": "Hashimoto Mio Wood Sculpture Exhibition: Journey with Animals"
   },
   {
-   "id": "aichinow-3909-horikawa-cruise",
-   "title": "なごや堀川クルーズ",
-   "pref": "23",
-   "area": "名古屋市",
-   "venue": "納屋橋・名古屋城前（朝日橋）・五条橋",
-   "cat": "商業施設",
-   "start": "2026-09-19",
-   "end": "2026-11-23",
-   "url": "https://aichinow.pref.aichi.jp/events/detail/3909/",
-   "src": "Aichi Now（愛知県公式観光サイト）",
-   "en": "Nagoya Horikawa River Cruise"
-  },
-  {
    "id": "faam-20260919-asia",
    "title": "特別展「アジア美術の歩き方 南アジア特別編 対立の先へ―光の水脈をめぐる旅」",
    "pref": "40",
@@ -417,19 +326,6 @@
    "url": "https://yokanavi.com/events/274542",
    "src": "よかなび（福岡市）",
    "en": "Special Exhibition: South Asian Art (Fukuoka Asian Art Museum)"
-  },
-  {
-   "id": "hiratsuka-museum-20260919-kudo",
-   "title": "平塚市美術館「生誕110年 工藤甲人展 北の大地といのちの詩」",
-   "pref": "14",
-   "area": "平塚市",
-   "venue": "平塚市美術館",
-   "cat": "展示会",
-   "start": "2026-09-19",
-   "end": "2026-11-23",
-   "url": "https://www.kanagawa-kankou.or.jp/event/7300",
-   "src": "神奈川県観光協会",
-   "en": "Kudo Kojin 110th Anniversary Exhibition (Hiratsuka Museum of Art)"
   },
   {
    "id": "nagoya-art-20260919-gogh",
@@ -549,19 +445,6 @@
    "en": "Marimekko Exhibition (Tokyo Metropolitan Teien Art Museum)"
   },
   {
-   "id": "telepia-20261003-sakamotodays",
-   "title": "SAKAMOTO DAYS展",
-   "pref": "23",
-   "area": "名古屋市東区",
-   "venue": "テレピアホール",
-   "cat": "展示会",
-   "start": "2026-10-03",
-   "end": "2026-11-23",
-   "url": "https://www.nagoya-info.jp/event/detail/1417/",
-   "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）",
-   "en": "SAKAMOTO DAYS Exhibition"
-  },
-  {
    "id": "menard-gakatomodel-20261006",
    "title": "メナード美術館 所蔵企画展「画家とモデル」",
    "pref": "23",
@@ -640,19 +523,6 @@
    "en": "Chiba 900th Anniversary Special Exhibition (Chiba City Folk Museum)"
   },
   {
-   "id": "chigasaki-creativeweek-20261010",
-   "title": "CHIGASAKI CREATIVE WEEK 2026",
-   "pref": "14",
-   "area": "茅ヶ崎市",
-   "venue": "茅ヶ崎市内各所",
-   "cat": "フェス・祭り",
-   "start": "2026-10-10",
-   "end": "2026-11-23",
-   "url": "https://creativeweek.net/",
-   "src": "CHIGASAKI CREATIVE WEEK 公式",
-   "en": "CHIGASAKI CREATIVE WEEK 2026"
-  },
-  {
    "id": "expo70-20261010-donguri",
    "title": "万博の森 どんぐりフェス",
    "pref": "27",
@@ -677,19 +547,6 @@
    "url": "https://1999-kioku.jp/fukuoka/",
    "src": "1999展 公式",
    "en": "1999 Exhibition: Memories of a Day That Never Was (Fukuoka)"
-  },
-  {
-   "id": "higashiyama-20261010-akimatsuri",
-   "title": "東山動植物園秋まつり",
-   "pref": "23",
-   "area": "名古屋市千種区",
-   "venue": "名古屋市東山動植物園",
-   "cat": "公園・庭園",
-   "start": "2026-10-10",
-   "end": "2026-11-23",
-   "url": "https://www.nagoya-info.jp/event/detail/66/",
-   "src": "名古屋コンシェルジュ",
-   "en": "Higashiyama Zoo and Botanical Gardens Autumn Festival"
   },
   {
    "id": "momas-20261010-uchima",
@@ -731,32 +588,6 @@
    "en": "NHK Sunday Museum 50th Anniversary Exhibition (Nakanoshima Museum of Art, Osaka)"
   },
   {
-   "id": "osakajo-20261010-sengokukyoudai",
-   "title": "大阪城天守閣 特別展「戦国のきょうだい」",
-   "pref": "27",
-   "area": "大阪市中央区",
-   "venue": "大阪城天守閣 3・4階展示室",
-   "cat": "展示会",
-   "start": "2026-10-10",
-   "end": "2026-11-23",
-   "url": "https://osaka-castle.jp/event/osaka-castle-tenji",
-   "src": "大阪城天守閣",
-   "en": "Osaka Castle Special Exhibition: Siblings of the Warring States"
-  },
-  {
-   "id": "rekimin-20261010-bunjinga",
-   "title": "特別展「文人画家の寄り道－文晁、崋山と同好の士－」",
-   "pref": "11",
-   "area": "さいたま市大宮区",
-   "venue": "埼玉県立歴史と民俗の博物館",
-   "cat": "展示会",
-   "start": "2026-10-10",
-   "end": "2026-11-23",
-   "url": "https://saitama-rekimin.spec.ed.jp/bunjinga",
-   "src": "埼玉県立歴史と民俗の博物館",
-   "en": "Special Exhibition: Literati Painters Buncho and Kazan (Kanagawa)"
-  },
-  {
    "id": "saitama-aquarium-20261010-goldfish",
    "title": "特別企画展「Gold Fish Science ～金魚から科学する～」",
    "pref": "11",
@@ -768,19 +599,6 @@
    "url": "https://www.pref.saitama.lg.jp/a1105/library-info/20261010suizokukan.html",
    "src": "埼玉県",
    "en": "Gold Fish Science Special Exhibition (Saitama Aquarium)"
-  },
-  {
-   "id": "silk-20261010-housan",
-   "title": "シルク博物館「めざせ豊蚕 ―おかいこさまの道具展―」",
-   "pref": "14",
-   "area": "横浜市中区",
-   "venue": "シルク博物館",
-   "cat": "展示会",
-   "start": "2026-10-10",
-   "end": "2026-11-23",
-   "url": "https://www.kanagawa-kankou.or.jp/event/7391",
-   "src": "神奈川県観光協会",
-   "en": "Silk Museum: Sericulture Tools Exhibition (Yokohama)"
   },
   {
    "id": "tahara-kazan-20261010",
@@ -965,19 +783,6 @@
    "en": "Washi Paper Light Exhibition (Mazak Art Plaza)"
   },
   {
-   "id": "tdc-aooni-matsuri-2026",
-   "title": "青鬼×東京ドームシティ アトラクションズ ～青鬼祭～",
-   "pref": "13",
-   "area": "文京区",
-   "venue": "東京ドームシティ アトラクションズ",
-   "cat": "商業施設",
-   "start": "2026-10-23",
-   "end": "2026-11-23",
-   "url": "https://www.tokyo-dome.co.jp/event/",
-   "src": "https://www.tokyo-dome.co.jp/event/",
-   "en": "Ao Oni Festival x Tokyo Dome City Attractions"
-  },
-  {
    "id": "yokoyama-20261023-noritake",
    "title": "横山美術館所蔵品「優美なるオールドノリタケ×ノリタケ」",
    "pref": "23",
@@ -989,19 +794,6 @@
    "url": "https://www.nagoya-info.jp/event/detail/1432/",
    "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）",
    "en": "Old Noritake x Noritake (Yokoyama Art Museum)"
-  },
-  {
-   "id": "expo70-rosefesta-20261024",
-   "title": "秋のローズフェスタ",
-   "pref": "27",
-   "area": "吹田市",
-   "venue": "万博記念公園",
-   "cat": "公園・庭園",
-   "start": "2026-10-24",
-   "end": "2026-11-23",
-   "url": "https://www.expo70-park.jp/event/77499/",
-   "src": "万博記念公園公式",
-   "en": "Autumn Rose Festa (Expo '70 Commemorative Park)"
   },
   {
    "id": "moveum-monet-ukiyoe-2026",
@@ -1134,19 +926,6 @@
    "en": "Mariko Mori Exhibition (Mori Art Museum)"
   },
   {
-   "id": "nagoya-20261031-bunkanomichi",
-   "title": "歩こう！文化のみち2026",
-   "pref": "23",
-   "area": "名古屋市東区",
-   "venue": "名古屋城から徳川園に至る「文化のみち」一帯",
-   "cat": "フェス・祭り",
-   "start": "2026-10-31",
-   "end": "2026-11-23",
-   "url": "https://www.nagoya-info.jp/event/detail/1442/",
-   "src": "名古屋コンシェルジュ（名古屋観光コンベンションビューロー）",
-   "en": "Cultural Path Walk 2026 (Nagoya)"
-  },
-  {
    "id": "parco-nagoya-20261031-agito",
    "title": "「仮面ライダーアギト」25周年記念 真アギト展",
    "pref": "23",
@@ -1210,32 +989,6 @@
    "url": "https://greensprings.jp/event/",
    "src": "https://greensprings.jp/event/",
    "en": "GREEN SPRINGS ILLUMINATION 2026 Tachikawa Illumination"
-  },
-  {
-   "id": "kawagoe-kikumatsuri-2026",
-   "title": "小江戸川越菊まつり",
-   "pref": "11",
-   "area": "川越市",
-   "venue": "川越市内",
-   "cat": "フェス・祭り",
-   "start": "2026-11-01",
-   "end": "2026-11-23",
-   "url": "https://koedo.or.jp/event/%e5%b0%8f%e6%b1%9f%e6%88%b8%e5%b7%9d%e8%b6%8a%e8%8f%8a%e3%81%be%e3%81%a4%e3%82%8a-4/",
-   "src": "https://koedo.or.jp/event/%e5%b0%8f%e6%b1%9f%e6%88%b8%e5%b7%9d%e8%b6%8a%e8%8f%8a%e3%81%be%e3%81%a4%e3%82%8a-4/",
-   "en": "Koedo Kawagoe Chrysanthemum Festival (Kawagoe)"
-  },
-  {
-   "id": "yushima-kikumatsuri-2026",
-   "title": "第48回 文京菊まつり",
-   "pref": "13",
-   "area": "文京区",
-   "venue": "湯島天満宮",
-   "cat": "フェス・祭り",
-   "start": "2026-11-01",
-   "end": "2026-11-23",
-   "url": "https://www.yushimatenjin.or.jp/",
-   "src": "https://www.yushimatenjin.or.jp/",
-   "en": "48th Bunkyo Chrysanthemum Festival (Yushima Tenmangu Shrine)"
   },
   {
    "id": "nagoya-toshoki-20261103-xmas",
@@ -1419,19 +1172,6 @@
    "en": "GMO Winter Illumination at Keyaki Hiroba: If Snow"
   },
   {
-   "id": "mm21-happa-shishu-2026",
-   "title": "ゆきえ＠葉っぱ刺繍展",
-   "pref": "14",
-   "area": "横浜市西区",
-   "venue": "クロス・パティオ（みなとみらい）",
-   "cat": "展示会",
-   "start": "2026-11-07",
-   "end": "2026-11-23",
-   "url": "https://www.minatomirai21.com/event/",
-   "src": "https://www.minatomirai21.com/event/",
-   "en": "Yukie Leaf Embroidery Exhibition (Cross Patio, Minato Mirai)"
-  },
-  {
    "id": "theatretram-hatenai-20261107",
    "title": "シス・カンパニー公演『果てない ～甦る母篇～』",
    "pref": "13",
@@ -1443,19 +1183,6 @@
    "url": "https://setagaya-pt.jp/",
    "src": "https://setagaya-pt.jp/",
    "en": "Siscompany Play Hatenai (Theatre Tram)"
-  },
-  {
-   "id": "yoshikawa-eiji-lightup-2026",
-   "title": "青梅市吉川英治記念館 秋のライトアップと夜間開館2026",
-   "pref": "13",
-   "area": "青梅市",
-   "venue": "青梅市吉川英治記念館",
-   "cat": "展示会",
-   "start": "2026-11-07",
-   "end": "2026-11-23",
-   "url": "https://www.omekanko.gr.jp/event/",
-   "src": "https://www.omekanko.gr.jp/event/",
-   "en": "Autumn Light-up and Night Opening 2026 (Yoshikawa Eiji Memorial Museum)"
   },
   {
    "id": "laguna-20261108-marinefantasia",
@@ -1767,18 +1494,6 @@
    "en": "Seaparadise Christmas (Yokohama Hakkeijima Sea Paradise)"
   },
   {
-   "id": "shirotori-20261114-kanpukai",
-   "title": "白鳥庭園 観楓会",
-   "pref": "23",
-   "area": "名古屋市熱田区",
-   "venue": "白鳥庭園",
-   "cat": "公園・庭園",
-   "start": "2026-11-14",
-   "end": "2026-11-23",
-   "url": "https://www.nagoya-info.jp/event/detail/219/",
-   "src": "名古屋コンシェルジュ"
-  },
-  {
    "id": "sunshine-pokepeace-twinkle-20261116",
    "title": "ポケピース Meets サンシャインシティ「Twinkle Star Idol」",
    "pref": "13",
@@ -1831,19 +1546,6 @@
    "en": "WINTER LIGHT FANTASY ILLUMINATION (Mizuho PayPay Dome Fukuoka)"
   },
   {
-   "id": "gakusai-tufs-gaigosai-2026",
-   "title": "外語祭",
-   "pref": "13",
-   "area": "府中市",
-   "venue": "東京外国語大学 府中キャンパス",
-   "cat": "フェス・祭り",
-   "start": "2026-11-19",
-   "end": "2026-11-23",
-   "url": "https://gaigosai.com/",
-   "src": "外語祭実行委員会",
-   "en": "Gaigosai Festival (Tokyo University of Foreign Studies)"
-  },
-  {
    "id": "jindai-konomi-2026",
    "title": "木の実草の実展",
    "pref": "13",
@@ -1868,19 +1570,6 @@
    "url": "https://marunouchi.jp-kitte.jp/",
    "src": "https://marunouchi.jp-kitte.jp/",
    "en": "WHITE KITTE Christmas (KITTE Marunouchi)"
-  },
-  {
-   "id": "shibuyastream-ryusei140-2026",
-   "title": "龍生派140周年記念展「いけばな古今東西」",
-   "pref": "13",
-   "area": "渋谷区",
-   "venue": "渋谷ストリーム ホール",
-   "cat": "展示会",
-   "start": "2026-11-19",
-   "end": "2026-11-23",
-   "url": "https://shibuyastream.jp/event/",
-   "src": "https://shibuyastream.jp/event/",
-   "en": "Ryusei School 140th Anniversary Ikebana Exhibition (Shibuya Stream Hall)"
   },
   {
    "id": "akarenga-xmas-market-2026",
@@ -1922,45 +1611,6 @@
    "en": "Fukuoka Classical Music Festival 2026 (Tenjin & Yakuin)"
   },
   {
-   "id": "gakusai-keio-mitasai-2026",
-   "title": "第68回三田祭",
-   "pref": "13",
-   "area": "港区",
-   "venue": "慶應義塾大学 三田キャンパス",
-   "cat": "フェス・祭り",
-   "start": "2026-11-20",
-   "end": "2026-11-23",
-   "url": "https://mitasai.com/",
-   "src": "https://mitasai.com/",
-   "en": "68th Mita Festival (Keio University Mita Campus)"
-  },
-  {
-   "id": "grandtree-20261120-welovecoffee7",
-   "title": "WE LOVE COFFEE vol.7",
-   "pref": "14",
-   "area": "川崎市中原区",
-   "venue": "グランツリー武蔵小杉",
-   "cat": "商業施設",
-   "start": "2026-11-20",
-   "end": "2026-11-23",
-   "url": "https://grand-tree.jp/event/",
-   "src": "https://grand-tree.jp/event/",
-   "en": "WE LOVE COFFEE vol.7 (Grand Tree Musashikosugi)"
-  },
-  {
-   "id": "showakinen-satono-shukakusai-2026",
-   "title": "里の収穫祭＠こもれびの里",
-   "pref": "13",
-   "area": "立川市",
-   "venue": "国営昭和記念公園 こもれびの里",
-   "cat": "公園・庭園",
-   "start": "2026-11-20",
-   "end": "2026-11-23",
-   "url": "https://www.showakinen-koen.jp/event/73361/",
-   "src": "https://www.showakinen-koen.jp/event/73361/",
-   "en": "Satono Harvest Festival at Komorebi no Sato (Showa Kinen Park)"
-  },
-  {
    "id": "tokyo-xmas-market-shintoyosu-2026",
    "title": "東京クリスマスマーケット2026 in 新豊洲",
    "pref": "13",
@@ -1972,19 +1622,6 @@
    "url": "https://tokyochristmas.net/",
    "src": "https://tokyochristmas.net/",
    "en": "Tokyo Christmas Market 2026 in Shin-Toyosu"
-  },
-  {
-   "id": "ariake-garden-asoberu-aquarium-20261121",
-   "title": "あそべ～る水族館",
-   "pref": "13",
-   "area": "江東区",
-   "venue": "有明ガーデン",
-   "cat": "商業施設",
-   "start": "2026-11-21",
-   "end": "2026-11-23",
-   "url": "https://www.shopping-sumitomo-rd.com/ariake/event/",
-   "src": "https://www.shopping-sumitomo-rd.com/ariake/event/",
-   "en": "Asoberu Aquarium (Ariake Garden)"
   },
   {
    "id": "expo70-ramenexpo-2026",
@@ -2000,45 +1637,6 @@
    "en": "12th Ramen EXPO 2026 (Expo '70 Commemorative Park)"
   },
   {
-   "id": "farmers-naturalwinelove-07",
-   "title": "Natural Wine Love Vol.07（Farmers Market @UNU）",
-   "pref": "13",
-   "area": "渋谷区",
-   "venue": "国連大学前広場",
-   "cat": "フェス・祭り",
-   "start": "2026-11-21",
-   "end": "2026-11-23",
-   "url": "https://farmersmarkets.jp/",
-   "src": "https://farmersmarkets.jp/",
-   "en": "Natural Wine Love Vol.07 (Farmers Market @UNU)"
-  },
-  {
-   "id": "gakusai-hitotsubashi-ikkyosai-2026",
-   "title": "第57回一橋祭",
-   "pref": "13",
-   "area": "国立市",
-   "venue": "一橋大学 国立キャンパス",
-   "cat": "フェス・祭り",
-   "start": "2026-11-21",
-   "end": "2026-11-23",
-   "url": "https://ikkyosai.com/",
-   "src": "https://ikkyosai.com/",
-   "en": "57th Ikkyo Festival (Hitotsubashi University Kunitachi Campus)"
-  },
-  {
-   "id": "gakusai-utokyo-komabasai-2026",
-   "title": "第77回駒場祭",
-   "pref": "13",
-   "area": "目黒区",
-   "venue": "東京大学 駒場キャンパス",
-   "cat": "フェス・祭り",
-   "start": "2026-11-21",
-   "end": "2026-11-23",
-   "url": "https://www.komabasai.net/",
-   "src": "https://www.komabasai.net/",
-   "en": "77th Komaba Festival (University of Tokyo Komaba Campus)"
-  },
-  {
    "id": "itabashi-artmuseum-corraini-2026",
    "title": "コッライーニの本づくり アートで 自由で ワクワクで",
    "pref": "13",
@@ -2052,84 +1650,6 @@
    "en": "Corraini Bookmaking Exhibition (Itabashi Art Museum)"
   },
   {
-   "id": "mikanshimokita-20261121-mexico",
-   "title": "LA FERIA下北メキシコ祭り",
-   "pref": "13",
-   "area": "世田谷区",
-   "venue": "ミカン下北",
-   "cat": "フェス・祭り",
-   "start": "2026-11-21",
-   "end": "2026-11-23",
-   "url": "https://mikanshimokita.jp/katsudo/detail/?cd=000093",
-   "src": "https://mikanshimokita.jp/",
-   "en": "LA FERIA Shimokita Mexico Festival (Mikan Shimokita)"
-  },
-  {
-   "id": "mop-kisarazu-kaijicurry-2026",
-   "title": "木更津「海自」フーカデンビーフカレーセレクション",
-   "pref": "12",
-   "area": "木更津市",
-   "venue": "三井アウトレットパーク 木更津",
-   "cat": "商業施設",
-   "start": "2026-11-21",
-   "end": "2026-11-23",
-   "url": "https://mitsui-shopping-park.com/mop/kisarazu/event/",
-   "src": "三井アウトレットパーク 木更津",
-   "en": "Kisarazu JMSDF Fukaden Beef Curry Selection (Mitsui Outlet Park Kisarazu)"
-  },
-  {
-   "id": "nagoya-nogyo-20261121-matsuri",
-   "title": "農業センターまつり",
-   "pref": "23",
-   "area": "名古屋市天白区",
-   "venue": "名古屋市農業センター",
-   "cat": "フェス・祭り",
-   "start": "2026-11-21",
-   "end": "2026-11-23",
-   "url": "https://www.nagoya-info.jp/event/detail/79/",
-   "src": "https://www.nagoya-info.jp/event",
-   "en": "Nagoya Agricultural Center Festival"
-  },
-  {
-   "id": "nakamurakoen-20261121-momiji",
-   "title": "第2回紅葉まつりin中村公園",
-   "pref": "23",
-   "area": "名古屋市中村区",
-   "venue": "中村公園",
-   "cat": "フェス・祭り",
-   "start": "2026-11-21",
-   "end": "2026-11-23",
-   "url": "https://www.nagoya-info.jp/event/detail/1270/",
-   "src": "https://www.nagoya-info.jp/event",
-   "en": "2nd Autumn Leaves Festival in Nakamura Park"
-  },
-  {
-   "id": "tonogayato-aki-tokutouseki-2026",
-   "title": "別荘庭園「秋」の特等席（殿ヶ谷戸庭園）",
-   "pref": "13",
-   "area": "国分寺市",
-   "venue": "殿ヶ谷戸庭園",
-   "cat": "公園・庭園",
-   "start": "2026-11-21",
-   "end": "2026-11-23",
-   "url": "https://www.tokyo-park.or.jp/park/tonogayato/",
-   "src": "https://www.tokyo-park.or.jp/park/tonogayato/",
-   "en": "Villa Garden's Best Seats in Fall (Tonogayato Garden)"
-  },
-  {
-   "id": "tonogayato-palmbonsai-2026",
-   "title": "秋の手のひら盆栽展",
-   "pref": "13",
-   "area": "国分寺市",
-   "venue": "都立殿ヶ谷戸庭園",
-   "cat": "公園・庭園",
-   "start": "2026-11-21",
-   "end": "2026-11-23",
-   "url": "https://www.tokyo-park.or.jp/park/tonogayato/news/2026/11_21_23_nov_21-23_autumn_palm-sized_bon.html",
-   "src": "https://www.tokyo-park.or.jp/park/tonogayato/news/2026/11_21_23_nov_21-23_autumn_palm-sized_bon.html",
-   "en": "Autumn Palm-Sized Bonsai Exhibition (Tonogayato Garden)"
-  },
-  {
    "id": "yomiuriland-kamenrider55-2026",
    "title": "仮面ライダー生誕55周年記念 ゴーゴー・レッツゴー！仮面ライダー展",
    "pref": "13",
@@ -2141,19 +1661,6 @@
    "url": "https://www.yomiuriland.com/event/",
    "src": "https://www.yomiuriland.com/event/",
    "en": "Kamen Rider 55th Anniversary Go Go Let's Go! Kamen Rider Exhibition (Yomiuriland)"
-  },
-  {
-   "id": "yomiuriland-okome-fes-2026",
-   "title": "「お米のよろこび再発見」フェス",
-   "pref": "13",
-   "area": "稲城市",
-   "venue": "よみうりランド",
-   "cat": "フェス・祭り",
-   "start": "2026-11-21",
-   "end": "2026-11-23",
-   "url": "https://www.yomiuriland.com/event/",
-   "src": "https://www.yomiuriland.com/event/",
-   "en": "Rediscover the Joy of Rice Festival (Yomiuriland)"
   },
   {
    "id": "yomiuriland-xmas-2026",
@@ -2195,19 +1702,6 @@
    "en": "Projection Mapping \"I'm Banpaku, We are Banpaku\" (Expo '70 Commemorative Park)"
   },
   {
-   "id": "keyaki-20261122-abasupo",
-   "title": "アバスポさいたま in さいたま新都心",
-   "pref": "11",
-   "area": "さいたま市中央区",
-   "venue": "さいたま新都心 けやきひろば",
-   "cat": "フェス・祭り",
-   "start": "2026-11-22",
-   "end": "2026-11-23",
-   "url": "https://www.saitama-arena.co.jp/event/",
-   "src": "https://www.saitama-arena.co.jp/event/",
-   "en": "Abaspo Saitama in Saitama-Shintoshin (Keyaki Hiroba)"
-  },
-  {
    "id": "saf-20261122-machigai",
    "title": "吉田鋼太郎 演出・上演台本『間違いの喜劇』",
    "pref": "11",
@@ -2221,45 +1715,6 @@
    "en": "The Comedy of Errors directed by Kotaro Yoshida (Saitama Arts Theater)"
   },
   {
-   "id": "chiba-matsudo-nogyomatsuri-2026",
-   "title": "第17回 まつど大農業まつり",
-   "pref": "12",
-   "area": "松戸市",
-   "venue": "21世紀の森と広場",
-   "cat": "フェス・祭り",
-   "start": "2026-11-23",
-   "end": "2026-11-23",
-   "url": "https://maruchiba.jp/event/detail_16128.html",
-   "src": "https://maruchiba.jp/event/detail_16128.html",
-   "en": "17th Matsudo Agriculture Festival (21st Century Forest and Park)"
-  },
-  {
-   "id": "muse-20261123-drbb",
-   "title": "デンマークラジオ・ビッグバンド",
-   "pref": "11",
-   "area": "所沢市",
-   "venue": "所沢市民文化センター ミューズ",
-   "cat": "ライブ",
-   "start": "2026-11-23",
-   "end": "2026-11-23",
-   "url": "https://www.muse-tokorozawa.or.jp/event/",
-   "src": "https://www.muse-tokorozawa.or.jp/event/",
-   "en": "Danish Radio Big Band (Tokorozawa Muse)"
-  },
-  {
-   "id": "saitama-waza1gp-20261123",
-   "title": "技ー１グランプリ～埼玉“高技専”まつり～",
-   "pref": "11",
-   "area": "伊奈町",
-   "venue": "埼玉県民活動総合センター",
-   "cat": "フェス・祭り",
-   "start": "2026-11-23",
-   "end": "2026-11-23",
-   "url": "https://www.pref.saitama.lg.jp/a0811/library-info/2026waza-1.html",
-   "src": "埼玉県",
-   "en": "Waza-1 Grand Prix Saitama Vocational Schools Festival (Saitama Prefectural Citizens Activity Center)"
-  },
-  {
    "id": "spiral-20261123-wintergarden",
    "title": "Talvipuutarha ウィンターガーデン",
    "pref": "13",
@@ -2271,58 +1726,6 @@
    "url": "https://www.spiral.co.jp/",
    "src": "https://www.spiral.co.jp/",
    "en": "Talvipuutarha Winter Garden (Spiral, Aoyama)"
-  },
-  {
-   "id": "tako-ikiikifesta-2026",
-   "title": "いきいきフェスタTAKO2026",
-   "pref": "12",
-   "area": "香取郡多古町",
-   "venue": "多古町コミュニティセンター",
-   "cat": "フェス・祭り",
-   "start": "2026-11-23",
-   "end": "2026-11-23",
-   "url": "https://maruchiba.jp/event/detail_13293.html",
-   "src": "https://maruchiba.jp/event/detail_13293.html",
-   "en": "Ikiiki Festa TAKO 2026 (Tako Community Center)"
-  },
-  {
-   "id": "tif-20261123-chronoreverse",
-   "title": "Chrono Reverse One Man Live BREAKØUT",
-   "pref": "13",
-   "area": "千代田区",
-   "venue": "東京国際フォーラム",
-   "cat": "ライブ",
-   "start": "2026-11-23",
-   "end": "2026-11-23",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/",
-   "src": "東京国際フォーラム",
-   "en": "Chrono Reverse One Man Live BREAKOUT (Tokyo International Forum)"
-  },
-  {
-   "id": "tif-20261123-oedo-kottoichi",
-   "title": "大江戸骨董市",
-   "pref": "13",
-   "area": "千代田区",
-   "venue": "東京国際フォーラム",
-   "cat": "フェス・祭り",
-   "start": "2026-11-23",
-   "end": "2026-11-23",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/",
-   "src": "https://www.t-i-forum.co.jp/visitors/event/",
-   "en": "Oedo Antique Market (Tokyo International Forum)"
-  },
-  {
-   "id": "tokyodome-giants-fanfesta-2026",
-   "title": "ジャイアンツ・ファンフェスタ 2026 Presented by Fanatics",
-   "pref": "13",
-   "area": "文京区",
-   "venue": "東京ドーム",
-   "cat": "スポーツ",
-   "start": "2026-11-23",
-   "end": "2026-11-23",
-   "url": "https://www.tokyo-dome.co.jp/dome/event/schedule.html",
-   "src": "https://www.tokyo-dome.co.jp/dome/event/schedule.html",
-   "en": "Giants Fan Festa 2026 Presented by Fanatics (Tokyo Dome)"
   },
   {
    "id": "hikarie-yumegiwatone-cos-2026",
