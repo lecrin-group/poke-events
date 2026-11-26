@@ -68,6 +68,14 @@ def cmd_prep():
     for name, fid in sorted(f for f in files if f[0].startswith("log-")):
         open(f"{W}/{name}", "w", encoding="utf-8").write(curl(f"https://drive.google.com/uc?export=download&id={fid}"))
         got.append(name)
+    # 2026-11-26 から：カード・ログは GitHub の deltas/ にも置く。新しいほうを使う
+    try:
+        for f in json.loads(curl("https://api.github.com/repos/lecrin-group/poke-events/contents/deltas")):
+            n = f.get("name", "")
+            if re.match(r"(card|log)-\d{8}.*\.md$", n):
+                open(f"{W}/{n}", "w", encoding="utf-8").write(curl(f["download_url"])); got.append("gh:" + n)
+    except Exception as ex:
+        print("deltas/ 取得失敗:", ex)
     ended = sum(1 for e in ev if e["end"] < str(TODAY))
     from collections import Counter
     print(f"today={TODAY} window={TODAY}..{WEND} weekday={'月火水木金土日'[TODAY.weekday()]}")
