@@ -85,9 +85,18 @@ try:
             print("full skipped:", d, ex)
 
     by_id = {e["id"]: norm(e) for e in base_events if isinstance(e, dict) and isinstance(e.get("id"), str)}
+    # 2026-11-26 追加：毎日のタスクが GitHub の deltas/ に直接置いた差分も読む（ドライブのコネクターが無くても動くように）
+    import glob
+    for path in glob.glob("deltas/events-add-*.json"):
+        m = re.search(r"(\d{8})", path)
+        if m:
+            adds.append((m.group(1), "file:" + path))
     for d, fid in sorted(adds):
         try:
-            data = json.loads(get("https://drive.google.com/uc?export=download&id=" + fid).decode("utf-8"))
+            if fid.startswith("file:"):
+                data = json.load(open(fid[5:], encoding="utf-8"))
+            else:
+                data = json.loads(get("https://drive.google.com/uc?export=download&id=" + fid).decode("utf-8"))
             up = str(data.get("updated", ""))
             if data.get("schema") != 1 or not isinstance(data.get("add"), list) or up <= base_updated:
                 print("add skipped:", d, up or "(no updated)")

@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: "15 8 * * *"
   workflow_dispatch:
+  push:
+    # 毎日のタスクが deltas/ に差分を置いたら、すぐ取り込む
+    branches: [main]
+    paths: ["deltas/**"]
 permissions:
   contents: write
 jobs:
@@ -16,4 +20,4 @@ jobs:
           git config user.name "poke-events-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add events.json
-          git diff --cached --quiet || (git commit -m "daily sync $(date -u +%F)" && git push)
+          git diff --cached --quiet || (git commit -m "daily sync $(date -u +%F)" && (git push || (git pull --rebase && git push)))
