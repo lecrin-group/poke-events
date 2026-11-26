@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: "20 19 28-31 * *"
   workflow_dispatch:
+  push:   # ジャンルや取り方を変えたら、すぐ作り直す（2026-11-27）
+    branches: [main]
+    paths: ["tools/spot_genres.py", "tools/build_spots.py", "tools/bad_sites.txt"]
 permissions:
   contents: write
 jobs:
@@ -15,7 +18,7 @@ jobs:
       - name: 日本時間で1日のときだけ動かす（UTC では前の月の最後の日）
         id: last
         run: |
-          if [ "$(TZ=Asia/Tokyo date +%d)" = "01" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then echo "go=1" >> "$GITHUB_OUTPUT"; fi
+          if [ "$(TZ=Asia/Tokyo date +%d)" = "01" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "${{ github.event_name }}" = "push" ]; then echo "go=1" >> "$GITHUB_OUTPUT"; fi
       - uses: actions/checkout@v4
         if: steps.last.outputs.go == '1'
       - if: steps.last.outputs.go == '1'

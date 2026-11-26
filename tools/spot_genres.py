@@ -9,7 +9,7 @@ import re
 
 HEAD = '[out:json][timeout:300];area["ISO3166-1"="JP"]->.jp;('
 NOTE = '[~"^(website|contact:website|wikidata)$"~"."]'   # 公式サイトか Wikidata がある
-Q = lambda body: HEAD + body + ');out tags center bb;'   # bb：公園の広さを見るため
+Q = lambda body: HEAD + body + ');out tags bb;'   # bb：公園の広さを見るため（中心は build_spots.py が外枠から出す）
 QUERIES = [
     Q('nwr[tourism~"^(aquarium|theme_park|zoo|museum|gallery)$"](area.jp);'
       'nwr[amenity~"^(cinema|theatre|planetarium|music_venue|nightclub|exhibition_centre|karaoke_box|hookah_lounge|biergarten|food_court|marketplace)$"][name](area.jp);'),

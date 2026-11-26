@@ -20,12 +20,13 @@ from spot_genres import QUERIES, GROUPS, R as GENRE_RULES, classify
 def fetch():
     els = []
     for q in QUERIES:
-        for u in MIRRORS * 2:
+        for u in MIRRORS * 3:
             r = subprocess.run(["curl", "-sS", "-m", "420", u, "--data-urlencode", "data=" + q], capture_output=True)
             try:
                 els += json.loads(r.stdout)["elements"]; break
             except Exception:
                 print("取れなかった:", u, r.stderr.decode()[:120], flush=True)
+                time.sleep(30)   # 混んでいるときは少し待つ
         else:
             sys.exit("Overpass から取れなかった（今のデータはそのまま）")
     return els
@@ -174,8 +175,9 @@ def main():
         # 外枠の四角で約 5ha 未満は外す。点だけの公園は Wikidata があるものだけ残す
         if g[1] == "大きな公園" and ((ha is not None and ha < 5) or (ha is None and not t.get("wikidata"))):
             continue
-        la = e.get("lat") or (e.get("center") or {}).get("lat")
-        lo = e.get("lon") or (e.get("center") or {}).get("lon")
+        bd = e.get("bounds") or {}
+        la = e.get("lat") or (e.get("center") or {}).get("lat") or (bd and (bd["minlat"] + bd["maxlat"]) / 2)
+        lo = e.get("lon") or (e.get("center") or {}).get("lon") or (bd and (bd["minlon"] + bd["maxlon"]) / 2)
         if la is None:
             continue
         p = nearest(pts, la, lo)
