@@ -13,26 +13,9 @@ JST = datetime.timezone(datetime.timedelta(hours=9))
 MIRRORS = ["https://maps.mail.ru/osm/tools/overpass/api/interpreter",
            "https://overpass-api.de/api/interpreter",
            "https://overpass.kumi.systems/api/interpreter"]
-# 1回で全部取るとタイムアウトしやすいので、3つに分けて取る
-HEAD = '[out:json][timeout:300];area["ISO3166-1"="JP"]->.jp;('
-QUERIES = [HEAD + 'nwr[tourism~"^(aquarium|theme_park|zoo|museum|gallery)$"](area.jp););out center tags;',
-           HEAD + 'nwr[amenity~"^(cinema|theatre|planetarium|music_venue)$"](area.jp);nwr[leisure~"^(water_park|stadium|bowling_alley)$"](area.jp););out center tags;',
-           HEAD + 'nwr[leisure=garden][name](area.jp);nwr[man_made=tower][name](area.jp););out center tags;']
-
-# ジャンル（サイトに出す名前）。上から順に当てはめる
-GENRES = [
-    ("theme_park", "テーマパーク・遊園地", lambda t: t.get("tourism") == "theme_park"),
-    ("zoo",        "動物園",             lambda t: t.get("tourism") == "zoo"),
-    ("aquarium",   "水族館",             lambda t: t.get("tourism") == "aquarium"),
-    ("planetarium","プラネタリウム",      lambda t: t.get("amenity") == "planetarium"),
-    ("museum",     "博物館・美術館",      lambda t: t.get("tourism") in ("museum", "gallery")),
-    ("tower",      "展望台・タワー",      lambda t: t.get("man_made") == "tower"),
-    ("cinema",     "映画館",             lambda t: t.get("amenity") == "cinema"),
-    ("theatre",    "劇場・ライブハウス",  lambda t: t.get("amenity") in ("theatre", "music_venue")),
-    ("stadium",    "スタジアム",          lambda t: t.get("leisure") == "stadium"),
-    ("leisure",    "プール・レジャー",    lambda t: t.get("leisure") in ("water_park", "bowling_alley")),
-    ("garden",     "庭園",               lambda t: t.get("leisure") == "garden"),
-]
+# ジャンルと取り方は spot_genres.py（2026-11-26 ナギサの ○△× に合わせて約100ジャンル・16大分類）
+sys.path.insert(0, HERE)
+from spot_genres import QUERIES, GROUPS, R as GENRE_RULES, classify
 
 def fetch():
     els = []
@@ -165,15 +148,15 @@ def main():
     rows = []
     for e in els:
         t = e.get("tags", {})
-        g = next((g for g in GENRES if g[2](t)), None)
-        if not g or not keep(t, g[0]):
+        g = classify(t)
+        if not g:
             continue
         la = e.get("lat") or (e.get("center") or {}).get("lat")
         lo = e.get("lon") or (e.get("center") or {}).get("lon")
         if la is None:
             continue
         p = nearest(pts, la, lo)
-        s = {"id": f"{e['type'][0]}{e['id']}", "name": t["name"], "cat": g[1],
+        s = {"id": f"{e['type'][0]}{e['id']}", "name": t["name"], "grp": g[0], "cat": g[1],
              "pref": p[2], "area": p[3], "lat": round(la, 5), "lon": round(lo, 5)}
         en = t.get("name:en")
         if en and en != t["name"]:
@@ -204,7 +187,10 @@ def main():
     for s in out:
         by.setdefault(s["pref"], []).append(s)
     index = {"schema": 1, "updated": now, "source": "© OpenStreetMap contributors (ODbL 1.0)",
-             "genres": [g[1] for g in GENRES], "prefs": {}}
+             "groups": {gr: [c for g2, c, _ in GENRE_RULES if g2 == gr and c not in []] for gr in GROUPS}, "prefs": {}}
+    for gr in index["groups"]:
+        index["groups"][gr] = list(dict.fromkeys(index["groups"][gr]))
+    index["genres"] = [c for gr in GROUPS for c in index["groups"][gr]]
     for pref in sorted(by):
         lst = sorted(by[pref], key=lambda s: (s["area"], s["cat"], s["name"]))
         with open(os.path.join(OUT, f"{pref}.json"), "w", encoding="utf-8") as f:
