@@ -34,12 +34,21 @@ def is_blocked(bl, key, page, img):
     if key.lower() in bl:
         return True
     for u in (page, img):
-        host = urllib.parse.urlparse(u or "").hostname or ""
+        try:
+            host = urllib.parse.urlparse(u or "").hostname or ""
+        except ValueError:
+            host = ""
         if any(host == b or host.endswith("." + b) for b in bl):
             return True
     return False
 
 def og_image(page):
+    try:
+        return _og_image(page)
+    except Exception:
+        return None
+
+def _og_image(page):
     try:
         req = urllib.request.Request(page, headers={"User-Agent": UA, "Accept-Language": "ja"})
         with urllib.request.urlopen(req, timeout=15) as r:
