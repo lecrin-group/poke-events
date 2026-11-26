@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-26T16:15:00+09:00",
+ "updated": "2026-11-26T16:57:00+09:00",
  "events": [
   {
    "id": "expo70-20260314-beforeafter",
@@ -1780,6 +1780,32 @@
    "en": "MIDTOWN CHRISTMAS 2026 (Tokyo Midtown)"
   },
   {
+   "id": "tif-20261126-arte-exonemo",
+   "title": "ARTE TOKYO／エキソニモ《Kiss, or Dual Monitors 2026》",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "東京国際フォーラム",
+   "cat": "展示会",
+   "start": "2026-11-26",
+   "end": "2026-12-03",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261126_1030",
+   "src": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261126_1030",
+   "en": "ARTE TOKYO: exonemo \"Kiss, or Dual Monitors 2026\" (Tokyo International Forum)"
+  },
+  {
+   "id": "tif-20261126-toray-wonder",
+   "title": "東レ100周年企画展 WONDER!?展",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "東京国際フォーラム ホールE",
+   "cat": "展示会",
+   "start": "2026-11-26",
+   "end": "2026-11-29",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261126_1116",
+   "src": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261126_1116",
+   "en": "Toray 100th Anniversary Exhibition WONDER!? (Tokyo International Forum)"
+  },
+  {
    "id": "greensprings-toukiichi-2026",
    "title": "空と大地の工藝マルシェ たちかわ陶器市",
    "pref": "13",
@@ -2092,6 +2118,19 @@
    "en": "Streamer Hyper Game Tournament FINAL (Tokyo Dome)"
   },
   {
+   "id": "yokoari-20261128-larc",
+   "title": "L'Arc-en-Ciel 35th L'Anniversary TOUR",
+   "pref": "14",
+   "area": "横浜市港北区",
+   "venue": "横浜アリーナ",
+   "cat": "ライブ",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "url": "https://www.yokohama-arena.co.jp/event/detail/larc-en-ciel-35th-lanniversary-tour",
+   "src": "https://www.yokohama-arena.co.jp/event/detail/larc-en-ciel-35th-lanniversary-tour",
+   "en": "L'Arc-en-Ciel 35th L'Anniversary TOUR (Yokohama Arena)"
+  },
+  {
    "id": "zepp-153008",
    "title": "宇都宮隆 LIVE UTSU BAR TOUR 2026「それゆけ歌酔曲!!」",
    "pref": "13",
@@ -2313,6 +2352,19 @@
    "en": "Ukiyo-e Above the Clouds: Hokusai Exhibition with Sanrio Characters in TOKYO SKYTREE"
   },
   {
+   "id": "tif-20261201-moonriders",
+   "title": "moonriders LIVE 2026",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "東京国際フォーラム ホールC",
+   "cat": "ライブ",
+   "start": "2026-12-01",
+   "end": "2026-12-01",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261201_0825",
+   "src": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261201_0825",
+   "en": "moonriders LIVE 2026 (Tokyo International Forum)"
+  },
+  {
    "id": "chichibu-yomatsuri-2026",
    "title": "秩父夜祭（宵宮・本祭）",
    "pref": "11",
@@ -2326,6 +2378,45 @@
    "en": "Chichibu Night Festival 2026 (Chichibu Shrine)"
   },
   {
+   "id": "tif-20261202-minami-kosetsu",
+   "title": "南こうせつコンサートツアー2026〜君と僕のうた〜",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "東京国際フォーラム ホールC",
+   "cat": "ライブ",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261202_0901",
+   "src": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261202_0901",
+   "en": "Kosetsu Minami Concert Tour 2026 (Tokyo International Forum)"
+  },
+  {
+   "id": "tif-20261202-mori-yukinojo",
+   "title": "森雪之丞50thAnniversary Musical Concert『物語を歌う言葉たち』",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "東京国際フォーラム ホールA",
+   "cat": "ライブ",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261202_0817",
+   "src": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261202_0817",
+   "en": "Yukinojo Mori 50th Anniversary Musical Concert (Tokyo International Forum)"
+  },
+  {
+   "id": "tif-20261203-indigolaend",
+   "title": "indigo la End ONEMAN TOUR 2026「紫にて」",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "東京国際フォーラム ホールA",
+   "cat": "ライブ",
+   "start": "2026-12-03",
+   "end": "2026-12-03",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261203_0202",
+   "src": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261203_0202",
+   "en": "indigo la End ONEMAN TOUR 2026 (Tokyo International Forum)"
+  },
+  {
    "id": "mmesse-kagubazaar-2026",
    "title": "家具メッセバザールin幕張メッセ",
    "pref": "12",
@@ -2337,6 +2428,19 @@
    "url": "https://www.m-messe.co.jp/event/",
    "src": "幕張メッセ",
    "en": "Furniture Messe Bazaar in Makuhari Messe"
+  },
+  {
+   "id": "tif-20261204-crossover-japan",
+   "title": "CROSSOVER JAPAN 2026",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "東京国際フォーラム ホールA",
+   "cat": "ライブ",
+   "start": "2026-12-04",
+   "end": "2026-12-04",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261204_1126",
+   "src": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261204_1126",
+   "en": "CROSSOVER JAPAN 2026 (Tokyo International Forum)"
   },
   {
    "id": "tokyo-xmas-market-shibakoen-2026",
@@ -2365,6 +2469,58 @@
    "en": "YORUNOYO 2026 Illumination (Yokohama Waterfront)"
   },
   {
+   "id": "zepp-divercity-20261204-laughinghick",
+   "title": "Laughing Hick ONEMAN TOUR 2026 “DIAMOND LILY”",
+   "pref": "13",
+   "area": "江東区",
+   "venue": "Zepp DiverCity(TOKYO)",
+   "cat": "ライブ",
+   "start": "2026-12-04",
+   "end": "2026-12-04",
+   "url": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=160146",
+   "src": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=160146",
+   "en": "Laughing Hick ONEMAN TOUR 2026 \"DIAMOND LILY\" (Zepp DiverCity Tokyo)"
+  },
+  {
+   "id": "zepp-haneda-20261204-neguse",
+   "title": "ねぐせ。ワンマンツアー2026「君を強く抱きしめたいんだ！」",
+   "pref": "13",
+   "area": "大田区",
+   "venue": "Zepp Haneda(TOKYO)",
+   "cat": "ライブ",
+   "start": "2026-12-04",
+   "end": "2026-12-05",
+   "url": "https://www.zepp.co.jp/hall/haneda/schedule/single/?rid=156987",
+   "src": "https://www.zepp.co.jp/hall/haneda/schedule/single/?rid=156987",
+   "en": "Neguse. One-man Tour 2026 (Zepp Haneda Tokyo)"
+  },
+  {
+   "id": "zepp-osakabayside-20261204-evanescence",
+   "title": "Evanescence ヘッドラインツアー",
+   "pref": "27",
+   "area": "大阪市此花区",
+   "venue": "Zepp Osaka Bayside",
+   "cat": "ライブ",
+   "start": "2026-12-04",
+   "end": "2026-12-04",
+   "url": "https://www.zepp.co.jp/hall/osakabayside/schedule/single/?rid=162761",
+   "src": "https://www.zepp.co.jp/hall/osakabayside/schedule/single/?rid=162761",
+   "en": "Evanescence Headline Tour (Zepp Osaka Bayside)"
+  },
+  {
+   "id": "zepp-yokohama-20261204-babyheroine",
+   "title": "BABY HEROINE PARTY",
+   "pref": "14",
+   "area": "横浜市西区",
+   "venue": "KT Zepp Yokohama",
+   "cat": "ライブ",
+   "start": "2026-12-04",
+   "end": "2026-12-04",
+   "url": "https://www.zepp.co.jp/hall/yokohama/schedule/single/?rid=167300",
+   "src": "https://www.zepp.co.jp/hall/yokohama/schedule/single/?rid=167300",
+   "en": "BABY HEROINE PARTY (KT Zepp Yokohama)"
+  },
+  {
    "id": "kiba-bousaifesta-2026",
    "title": "木場公園防災フェスタ2026",
    "pref": "13",
@@ -2376,6 +2532,19 @@
    "url": "https://www.tokyo-park.or.jp/park/kiba/",
    "src": "東京都公園協会",
    "en": "Kiba Park Disaster Preparedness Festa 2026"
+  },
+  {
+   "id": "midtown-icerink-2026",
+   "title": "RALPH LAUREN MIDTOWN ICE RINK",
+   "pref": "13",
+   "area": "港区",
+   "venue": "東京ミッドタウン",
+   "cat": "商業施設",
+   "start": "2026-12-05",
+   "end": "2027-02-23",
+   "url": "https://www.tokyo-midtown.com/jp/event/8188/",
+   "src": "https://www.tokyo-midtown.com/jp/event/8188/",
+   "en": "RALPH LAUREN MIDTOWN ICE RINK (Tokyo Midtown)"
   },
   {
    "id": "nakano-animangafes-2026",
@@ -2391,6 +2560,58 @@
    "en": "Nakano x Suginami x Toshima Anime & Manga Festival 2026 (Nakano ZERO)"
   },
   {
+   "id": "tif-20261205-human-rights-festa",
+   "title": "ヒューマンライツ・フェスタ東京2026",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "東京国際フォーラム",
+   "cat": "フェス・祭り",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261205_0924",
+   "src": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261205_0924",
+   "en": "Human Rights Festa Tokyo 2026 (Tokyo International Forum)"
+  },
+  {
+   "id": "zepp-divercity-20261205-idlms",
+   "title": "I Don't Like Mondays. FRIDAY MOOD JAPAN TOUR 2026",
+   "pref": "13",
+   "area": "江東区",
+   "venue": "Zepp DiverCity(TOKYO)",
+   "cat": "ライブ",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "url": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=160314",
+   "src": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=160314",
+   "en": "I Don't Like Mondays. FRIDAY MOOD JAPAN TOUR 2026 (Zepp DiverCity Tokyo)"
+  },
+  {
+   "id": "zepp-fukuoka-20261205-subaru",
+   "title": "渋谷すばる 30th Anniversary Asia Tour 2026",
+   "pref": "40",
+   "area": "福岡市中央区",
+   "venue": "Zepp Fukuoka",
+   "cat": "ライブ",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "url": "https://www.zepp.co.jp/hall/fukuoka/schedule/single/?rid=166064",
+   "src": "https://www.zepp.co.jp/hall/fukuoka/schedule/single/?rid=166064",
+   "en": "Subaru Shibutani 30th Anniversary Asia Tour 2026 (Zepp Fukuoka)"
+  },
+  {
+   "id": "zepp-osakabayside-20261205-shimasaka",
+   "title": "あほの坂田。、志麻 10th anniversary バースデーイベント",
+   "pref": "27",
+   "area": "大阪市此花区",
+   "venue": "Zepp Osaka Bayside",
+   "cat": "ライブ",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "url": "https://www.zepp.co.jp/hall/osakabayside/schedule/single/?rid=160660",
+   "src": "https://www.zepp.co.jp/hall/osakabayside/schedule/single/?rid=160660",
+   "en": "Aho no Sakata & Shima 10th Anniversary Birthday Event (Zepp Osaka Bayside)"
+  },
+  {
    "id": "koganei-bousaifesta-2026",
    "title": "小金井公園 防災フェスタ2026",
    "pref": "13",
@@ -2404,6 +2625,110 @@
    "en": "Koganei Park Disaster Prevention Festa 2026"
   },
   {
+   "id": "tif-20261206-hiromi-kumagai",
+   "title": "～Duo 20th Anniversary～ 上原ひろみ × 熊谷和徳 JAPAN TOUR 2026",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "東京国際フォーラム ホールA",
+   "cat": "ライブ",
+   "start": "2026-12-06",
+   "end": "2026-12-06",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261206_0611",
+   "src": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261206_0611",
+   "en": "Hiromi Uehara x Kazunori Kumagai Duo 20th Anniversary JAPAN TOUR 2026 (Tokyo International Forum)"
+  },
+  {
+   "id": "zepp-divercity-20261206-matsuri",
+   "title": "MATSURI 2nd コンサートツアー",
+   "pref": "13",
+   "area": "江東区",
+   "venue": "Zepp DiverCity(TOKYO)",
+   "cat": "ライブ",
+   "start": "2026-12-06",
+   "end": "2026-12-06",
+   "url": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=160315",
+   "src": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=160315",
+   "en": "MATSURI 2nd Concert Tour (Zepp DiverCity Tokyo)"
+  },
+  {
+   "id": "zepp-haneda-20261206-kamisai",
+   "title": "神はサイコロを振らない Zepp Tour 2026 \"View From The Soyuz\"",
+   "pref": "13",
+   "area": "大田区",
+   "venue": "Zepp Haneda(TOKYO)",
+   "cat": "ライブ",
+   "start": "2026-12-06",
+   "end": "2026-12-06",
+   "url": "https://www.zepp.co.jp/hall/haneda/schedule/single/?rid=157613",
+   "src": "https://www.zepp.co.jp/hall/haneda/schedule/single/?rid=157613",
+   "en": "Kami wa Saikoro wo Furanai Zepp Tour 2026 \"View From The Soyuz\" (Zepp Haneda Tokyo)"
+  },
+  {
+   "id": "zepp-nagoya-20261206-mukai",
+   "title": "向井慧（パンサー） #むかいの集い方 vol.6",
+   "pref": "23",
+   "area": "名古屋市中村区",
+   "venue": "Zepp Nagoya",
+   "cat": "ライブ",
+   "start": "2026-12-06",
+   "end": "2026-12-06",
+   "url": "https://www.zepp.co.jp/hall/nagoya/schedule/single/?rid=165585",
+   "src": "https://www.zepp.co.jp/hall/nagoya/schedule/single/?rid=165585",
+   "en": "Satoshi Mukai (Panther) Mukai no Tsudoikata vol.6 (Zepp Nagoya)"
+  },
+  {
+   "id": "zepp-osakabayside-20261206-yellowbucks",
+   "title": "¥ellow Bucks Zepp Tour 2026",
+   "pref": "27",
+   "area": "大阪市此花区",
+   "venue": "Zepp Osaka Bayside",
+   "cat": "ライブ",
+   "start": "2026-12-06",
+   "end": "2026-12-06",
+   "url": "https://www.zepp.co.jp/hall/osakabayside/schedule/single/?rid=160099",
+   "src": "https://www.zepp.co.jp/hall/osakabayside/schedule/single/?rid=160099",
+   "en": "¥ellow Bucks Zepp Tour 2026 (Zepp Osaka Bayside)"
+  },
+  {
+   "id": "tif-20261207-akuyaku-kaigishitsu",
+   "title": "さらば！悪役会議室",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "東京国際フォーラム ホールA",
+   "cat": "ライブ",
+   "start": "2026-12-07",
+   "end": "2026-12-07",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261207_1109",
+   "src": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261207_1109",
+   "en": "Saraba! Akuyaku Kaigishitsu (TBS Radio live event) (Tokyo International Forum)"
+  },
+  {
+   "id": "tif-20261208-exile-takahiro",
+   "title": "EXILE TAKAHIRO BIRTHDAY & CHRISTMAS LIVE 2026 \"Knit\"",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "東京国際フォーラム ホールA",
+   "cat": "ライブ",
+   "start": "2026-12-08",
+   "end": "2026-12-08",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261208_0928",
+   "src": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261208_0928",
+   "en": "EXILE TAKAHIRO BIRTHDAY & CHRISTMAS LIVE 2026 \"Knit\" (Tokyo International Forum)"
+  },
+  {
+   "id": "tif-20261209-upia",
+   "title": "U&pia 4th ワンマンライブ -Garden of Eden-",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "東京国際フォーラム ホールA",
+   "cat": "ライブ",
+   "start": "2026-12-09",
+   "end": "2026-12-09",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261209_0501",
+   "src": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261209_0501",
+   "en": "U&pia 4th One-man Live -Garden of Eden- (Tokyo International Forum)"
+  },
+  {
    "id": "omiya-hikawa-tokaichi-2026",
    "title": "大湯祭 十日市（武蔵一宮氷川神社）",
    "pref": "11",
@@ -2415,6 +2740,19 @@
    "url": "https://www.city.saitama.lg.jp/omiya/001/002/20230401/20230408/p131157.html",
    "src": "https://www.city.saitama.lg.jp/omiya/001/002/20230401/20230408/p131157.html",
    "en": "Daitosai Tokaichi Fair (Musashi Ichinomiya Hikawa Shrine)"
+  },
+  {
+   "id": "tif-20261210-fkj",
+   "title": "FKJ: Tyber Tour",
+   "pref": "13",
+   "area": "千代田区",
+   "venue": "東京国際フォーラム ホールA",
+   "cat": "ライブ",
+   "start": "2026-12-10",
+   "end": "2026-12-10",
+   "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261210_0825",
+   "src": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261210_0825",
+   "en": "FKJ: Tyber Tour (Tokyo International Forum)"
   },
   {
    "id": "aonodokutsu-shibuya-2026",
