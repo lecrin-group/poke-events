@@ -85,10 +85,16 @@ def collect(items, cache, bl):
         for page, img in zip(todo, ex.map(og_image, todo)):
             if img is not None:
                 cache[page] = [img, str(TODAY)]
+    # サイト共通の画像（ロゴなど）は使わない：同じ画像が2つ以上のちがうページで使われていたら外す
+    from collections import Counter
+    uses = Counter()
+    for page, (img, _) in cache.items():
+        if img:
+            uses[img] += 1
     out = {}
     for key, page in items:
         img = (cache.get(page) or [""])[0]
-        if img and not is_blocked(bl, key, page, img):
+        if img and uses[img] < 2 and not is_blocked(bl, key, page, img):
             out[key] = img
     return out
 
