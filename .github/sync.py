@@ -4,6 +4,8 @@
 import json, re, sys, urllib.request, datetime
 
 FOLDER_ID = "1r-9U6KJ-wXfflYix1Y9wBmT6aCtIEx6O"
+# 2026-11-26 追加：AI共有専用アカウントが上のフォルダに書けなくなったので、そのアカウントが持つ公開フォルダも読む
+FOLDER_IDS = [FOLDER_ID, "19nSqiZLFFJaSY9y37MvSh3AXsGAZa4YP"]
 CATS = {"フェス・祭り", "展示会", "公園・庭園", "商業施設", "ライブ", "スポーツ"}
 JST = datetime.timezone(datetime.timedelta(hours=9))
 today = datetime.datetime.now(JST).strftime("%Y-%m-%d")
@@ -55,7 +57,12 @@ base_updated = str(cur.get("updated", ""))
 base_events = cur.get("events", [])
 changed = False
 try:
-    html = get("https://drive.google.com/embeddedfolderview?id=" + FOLDER_ID).decode("utf-8", "replace")
+    html = ""
+    for fid_ in FOLDER_IDS:
+        try:
+            html += get("https://drive.google.com/embeddedfolderview?id=" + fid_).decode("utf-8", "replace")
+        except Exception as ex:
+            print("folder fetch failed:", fid_, ex)
     fulls, adds = [], []
     for chunk in html.split('id="entry-')[1:]:   # 1ファイル＝1かたまりに分けてから見る（別のファイルと取り違えないため）
         m_id = re.match(r"([A-Za-z0-9_-]+)", chunk)

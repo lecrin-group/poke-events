@@ -13,6 +13,8 @@
 import sys, os, re, json, datetime, glob, subprocess, concurrent.futures as cf
 
 FOLDER = "1r-9U6KJ-wXfflYix1Y9wBmT6aCtIEx6O"
+# 2026-11-26 から差分・カード・ログはこちらに置く（AI共有専用アカウントの公開フォルダ）。読むのは両方
+FOLDER2 = "19nSqiZLFFJaSY9y37MvSh3AXsGAZa4YP"
 RAW = "https://raw.githubusercontent.com/lecrin-group/poke-events/main/events.json"
 BIG = "https://raw.githubusercontent.com/lecrin-group/poke-events/main/big-events.json"
 SYNC = "https://raw.githubusercontent.com/lecrin-group/poke-events/main/.github/sync.py"
@@ -39,7 +41,7 @@ def events():
     return json.load(open(f"{W}/events.json", encoding="utf-8"))["events"]
 
 def drive_list():
-    h = curl(f"https://drive.google.com/embeddedfolderview?id={FOLDER}")
+    h = curl(f"https://drive.google.com/embeddedfolderview?id={FOLDER}") + curl(f"https://drive.google.com/embeddedfolderview?id={FOLDER2}")
     out = []
     for c in h.split('id="entry-')[1:]:
         i = re.match(r"([A-Za-z0-9_-]+)", c); t = re.search(r'flip-entry-title">([^<]+)', c)
