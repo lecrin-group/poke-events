@@ -1,0 +1,8 @@
+# 公式サイトのドメインが切れて、別の業者（オンラインカジノなど）に取られたもの（1行に1つ）
+# build_spots.py はここに載ったドメインを公式URLにしない。add_images.py は画像も取らない
+# 2026-11-27 ナギサが赤坂サカスで気づいた
+sacas.net
+yokomizoyashiki.net
+akioota-navi.jp
+abcity-tokyo.com
+jinbagata.life

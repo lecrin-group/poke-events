@@ -1,2 +1,7 @@
 # 画像を出さないもの（1行に1つ。イベント・スポットの id か、ドメイン例 example.com）
 # 権利者の方から「外して」と連絡があったら、ここに足して push する。images.yml がすぐ動いて画像が消える
+sacas.net
+yokomizoyashiki.net
+akioota-navi.jp
+abcity-tokyo.com
+jinbagata.life

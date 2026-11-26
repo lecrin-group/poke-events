@@ -42,6 +42,17 @@ def is_blocked(bl, key, page, img):
             return True
     return False
 
+GAMBLING = re.compile(r"[\u0e00-\u0e7f]{6}|casino|カジノ|ufabet|baccarat|バカラ|togel|gacor|slot ?online|オンラインスロット|pg ?slot|เว็บตรง|judi|bet ?online|sportsbook|オンカジ", re.I)
+
+def img_ok(u):
+    """画像が本当に表示できるか（404・リンク切れ・HTML が返るものは外す）"""
+    try:
+        req = urllib.request.Request(u, headers={"User-Agent": UA, "Range": "bytes=0-2047"})
+        with urllib.request.urlopen(req, timeout=15) as r:
+            return r.status in (200, 206) and (r.headers.get("Content-Type") or "").lower().startswith("image/") and not GAMBLING.search(r.geturl())
+    except Exception:
+        return False
+
 def og_image(page):
     try:
         return _og_image(page)
@@ -59,6 +70,9 @@ def _og_image(page):
     except Exception:
         return None   # 取れなかった（次の回にもう一度）
     head = html.split("</head>")[0]
+    # ドメインが切れてカジノ業者などに取られたページは使わない（2026-11-27 赤坂サカスで発覚）
+    if GAMBLING.search(head[:20000]):
+        return ""
     for prop in ("og:image:secure_url", "og:image", "twitter:image", "twitter:image:src"):
         for m in re.finditer(r"<meta\b[^>]*>", head, re.I):
             tag = m.group(0)
@@ -85,10 +99,19 @@ def collect(items, cache, bl):
         for page, img in zip(todo, ex.map(og_image, todo)):
             if img is not None:
                 cache[page] = [img, str(TODAY)]
+    # 画像が本当に表示できるかを確かめる（まだ確かめていないものだけ。サイトは「写真あり」を上に並べるので、リンク切れが上に来ないように）
+    check = sorted({cache[p][0] for _, p in items if p in cache and cache[p][0] and len(cache[p]) < 3})
+    print(f"画像を確かめる {len(check)}", flush=True)
+    with cf.ThreadPoolExecutor(16) as ex:
+        okmap = dict(zip(check, ex.map(img_ok, check)))
+    for page, c in cache.items():
+        if c[0] in okmap:
+            cache[page] = [c[0] if okmap[c[0]] else "", c[1], 1]
     # サイト共通の画像（ロゴなど）は使わない：同じ画像が2つ以上のちがうページで使われていたら外す
     from collections import Counter
     uses = Counter()
-    for page, (img, _) in cache.items():
+    for page, c in cache.items():
+        img = c[0]
         if img:
             uses[img] += 1
     out = {}

@@ -111,9 +111,19 @@ def wikidata_urls(rows):
     n = 0
     for s in need:
         u = got.get(s["wd"])
-        if u and official({"website": u}):
+        if u and official({"website": u}) and "url" not in s:
             s["url"] = official({"website": u}); n += 1
     print(f"公式サイト：Wikidata から {n} 件足した")
+
+def bad_sites():
+    # ドメインが切れて別の業者（オンラインカジノなど）に取られた公式サイト。ここに載せたドメインは公式URLにしない
+    p = os.path.join(HERE, "bad_sites.txt")
+    if not os.path.exists(p):
+        return set()
+    return {l.split("#")[0].strip().lower() for l in open(p, encoding="utf-8") if l.split("#")[0].strip()}
+BAD = bad_sites()
+# 公式サイトの差しかえ（OSM の URL が古いとき）。id → URL
+FIX_URL = {"n5471047452": "https://www.tbs.co.jp/sacas/"}   # 赤坂サカス（sacas.net は他人に取られた）
 
 def official(t):
     u = t.get("website") or t.get("contact:website") or t.get("url") or ""
@@ -121,6 +131,9 @@ def official(t):
     if u and not re.match(r"^https?://", u):
         u = "https://" + u
     # SNS やまとめは公式サイト扱いしない
+    host = (urllib.parse.urlparse(u).hostname or "").lower() if u else ""
+    if host and any(host == b or host.endswith("." + b) for b in BAD):
+        return ""
     if re.search(r"facebook\.com|twitter\.com|x\.com/|instagram\.com|tabelog|jalan\.net|walkerplus|wikipedia", u):
         return ""
     return u
@@ -151,6 +164,16 @@ def main():
         g = classify(t)
         if not g:
             continue
+        ha = None
+        b = e.get("bounds")
+        if b:
+            h = (b["maxlat"] - b["minlat"]) * 111000
+            w = (b["maxlon"] - b["minlon"]) * 111000 * math.cos(math.radians(b["minlat"]))
+            ha = round(h * w / 10000, 1)
+        # 公園は大きいものだけ（2026-11-27 ナギサ：駒沢公園みたいな大きい公園が小さい公園に埋もれる）
+        # 外枠の四角で約 5ha 未満は外す。点だけの公園は Wikidata があるものだけ残す
+        if g[1] == "大きな公園" and ((ha is not None and ha < 5) or (ha is None and not t.get("wikidata"))):
+            continue
         la = e.get("lat") or (e.get("center") or {}).get("lat")
         lo = e.get("lon") or (e.get("center") or {}).get("lon")
         if la is None:
@@ -168,6 +191,10 @@ def main():
             s["hours"] = t["opening_hours"]
         if t.get("wikidata"):
             s["wd"] = t["wikidata"]
+        if ha is not None and g[1] in ("大きな公園", "ショッピングセンター（中規模）"):
+            s["ha"] = ha   # 広さの目安（並び順に使う）
+        if s["id"] in FIX_URL:
+            s["url"] = FIX_URL[s["id"]]
         rows.append(s)
     geocode(rows)
     if os.environ.get("SKIP_WIKIDATA"):   # Wikidata が混んでいて1分1回に絞られているときは飛ばす（月1回の自動更新で足す）

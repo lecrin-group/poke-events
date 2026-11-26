@@ -9,7 +9,7 @@ import re
 
 HEAD = '[out:json][timeout:300];area["ISO3166-1"="JP"]->.jp;('
 NOTE = '[~"^(website|contact:website|wikidata)$"~"."]'   # 公式サイトか Wikidata がある
-Q = lambda body: HEAD + body + ');out center tags;'
+Q = lambda body: HEAD + body + ');out tags center bb;'   # bb：公園の広さを見るため
 QUERIES = [
     Q('nwr[tourism~"^(aquarium|theme_park|zoo|museum|gallery)$"](area.jp);'
       'nwr[amenity~"^(cinema|theatre|planetarium|music_venue|nightclub|exhibition_centre|karaoke_box|hookah_lounge|biergarten|food_court|marketplace)$"][name](area.jp);'),
@@ -21,6 +21,9 @@ QUERIES = [
     Q('nwr[amenity=place_of_worship][religion~"^(shinto|buddhist|christian)$"][name]' + NOTE + '(area.jp);'
       'nwr[leisure=park][name]' + NOTE + '(area.jp);nwr[natural=peak][name][wikidata](area.jp);'),
     Q('nwr[amenity=cafe][name][!brand]' + NOTE + '(area.jp);nwr[amenity=cafe][name~"猫|ねこ|ネコ|フクロウ|ふくろう|うさぎ|ハリネズミ|アニマル|メイド|コンセプト|ボードゲーム|蔦屋"](area.jp);'
+      'nwr[amenity=public_bath][name](area.jp);'
+      'nwr[landuse=retail][name~"ショッピングセンター|ショッピングプラザ|ショッピングモール|ショッピングタウン|SC$|モール|プラザ|タウン|ガーデン|テラス"](area.jp);'
+      'nwr[building=retail][name~"ショッピングセンター|ショッピングプラザ|ショッピングモール|ショッピングタウン|SC$"](area.jp);'
       'nwr[amenity=bar][name][!brand]' + NOTE + '(area.jp);nwr[amenity=bar][name~"ダーツ|ビリヤード|シーシャ|ポーカー|ジャズ|スポーツバー"](area.jp);'),
     Q('nwr[shop~"^(mall|department_store)$"][name](area.jp);nwr[shop~"^(confectionery|pastry)$"][name][!brand]' + NOTE + '(area.jp);'
       'nwr[shop~"^(anime|games|model)$"][name](area.jp);nwr[shop=gift][name~"物産|土産|みやげ"](area.jp);'
@@ -29,7 +32,7 @@ QUERIES = [
       'nwr[leisure=sports_centre][name]' + NOTE + '(area.jp);nwr[leisure=golf_course][name](area.jp);nwr[landuse=winter_sports][name](area.jp);'
       'nwr[leisure=pitch][sport~"^(baseball|soccer)$"][name][wikidata](area.jp);nwr[amenity=bbq][name](area.jp);nwr[highway=services][name](area.jp);'
       'nwr[aerialway~"^(cable_car|gondola)$"][name](area.jp);nwr[railway=funicular][name](area.jp);nwr[amenity=internet_cafe][name~"ダーツ|カラオケ|ビリヤード|快活|自遊空間"](area.jp);'),
-    Q('nwr[name~"商店街|横丁|道の駅|中華街|屋形船|水上バス|遊覧船|足湯|いちご狩り|ぶどう狩り|果物狩り|観光農園|着物レンタル|レンタル着物|寄席|演芸場|能楽堂|コスプレ|バッティングセンター|ラウンドワン|脱出ゲーム|謎解き|牧場|工場見学|大仏|観音"](area.jp);'),
+    Q('nwr[name~"商店街|横丁|道の駅|中華街|屋形船|水上バス|遊覧船|足湯|いちご狩り|ぶどう狩り|果物狩り|観光農園|着物レンタル|レンタル着物|浴衣レンタル|きものレンタル|人力車|忍者|NINJA|Ninja|侍|サムライ|SAMURAI|Samurai|茶道体験|書道体験|和菓子作り|和菓子づくり|寿司体験|寿司教室|料理体験|相撲|SUMO|Sumo|ちゃんこ|公道カート|ストリートカート|ストリート カート|STREET KART|Street Kart|カート体験|寄席|演芸場|能楽堂|コスプレ|バッティングセンター|ラウンドワン|脱出ゲーム|謎解き|牧場|工場見学|大仏|観音"](area.jp);'),
 ]
 
 def nm(t):
@@ -49,7 +52,14 @@ R = [
     ("乗る・移動を楽しむ", "遊覧船・水上バス", lambda t: has(r"水上バス|遊覧船", nm(t))),
     ("温泉・リラックス", "足湯", lambda t: has(r"足湯", nm(t)) or t.get("bath:type") == "foot"),
     ("体験・つくる", "果物狩り・観光農園", lambda t: has(r"いちご狩り|ぶどう狩り|果物狩り|観光農園", nm(t))),
-    ("体験・つくる", "着物レンタル", lambda t: has(r"着物レンタル|レンタル着物", nm(t))),
+    # ---- 体験・インバウンド（2026-11-27 ナギサ決定で新設。OSM には少ないので、あとで公式サイトを確かめたリストでも足す）
+    ("体験・インバウンド", "着物・浴衣レンタル", lambda t: has(r"着物レンタル|レンタル着物|浴衣レンタル|きものレンタル", nm(t))),
+    ("体験・インバウンド", "人力車", lambda t: has(r"人力車", nm(t)) and not t.get("tourism") == "museum"),
+    ("体験・インバウンド", "相撲を見ながら食べる", lambda t: has(r"相撲|SUMO|Sumo", nm(t)) and (t.get("amenity") in ("restaurant", "bar", "pub", "theatre") or has(r"ショー|SHOW|Show|レストラン|ちゃんこ", nm(t)))),
+    ("体験・インバウンド", "忍者・侍体験", lambda t: has(r"忍者|NINJA|Ninja|侍|サムライ|SAMURAI|Samurai", nm(t)) and has(r"体験|道場|DOJO|Dojo|ショー|SHOW|Show|レストラン|ミュージアム|MUSEUM|Museum|EXPERIENCE|Experience|屋敷", nm(t)) and t.get("highway") != "services"),
+    ("体験・インバウンド", "茶道・書道・和菓子体験", lambda t: has(r"茶道体験|書道体験|和菓子作り|和菓子づくり", nm(t))),
+    ("体験・インバウンド", "寿司・料理体験", lambda t: has(r"寿司体験|寿司教室|料理体験", nm(t))),
+    ("体験・インバウンド", "公道カート", lambda t: has(r"公道カート|ストリートカート|ストリート カート|STREET KART|Street Kart|カート体験", nm(t))),
     ("観る・聴く", "寄席・演芸場", lambda t: has(r"寄席|演芸場", nm(t))),
     ("観る・聴く", "能楽堂", lambda t: has(r"能楽堂", nm(t))),
     ("ポップカルチャー", "コスプレスタジオ", lambda t: has(r"コスプレ", nm(t))),
@@ -105,8 +115,10 @@ R = [
     ("神社・お寺", "お寺", lambda t: t.get("amenity") == "place_of_worship" and t.get("religion") == "buddhist"),
     ("神社・お寺", "教会・聖堂", lambda t: t.get("amenity") == "place_of_worship" and t.get("religion") == "christian" and (t.get("wikidata") or t.get("tourism"))),
     # ---- 温泉・リラックス
-    ("温泉・リラックス", "温泉・スーパー銭湯", lambda t: t.get("natural") == "hot_spring" or (t.get("amenity") == "public_bath" and (t.get("bath:type") == "onsen" or t.get("website") or has(r"温泉|スパ|の湯|天然", nm(t))))),
-    ("温泉・リラックス", "スパ・サウナ", lambda t: t.get("leisure") in ("spa", "sauna")),
+    ("温泉・リラックス", "温泉", lambda t: t.get("natural") == "hot_spring" or (t.get("amenity") == "public_bath" and t.get("bath:type") == "onsen" and not has(r"スーパー銭湯|健康ランド|日帰り|の湯$|湯処|SPA|スパ", nm(t)) and has(r"温泉", nm(t)) and (t.get("tourism") or t.get("wikidata")))),
+    ("温泉・リラックス", "スーパー銭湯・日帰り温泉", lambda t: t.get("amenity") == "public_bath" and (t.get("bath:type") == "onsen" or t.get("website") or t.get("wikidata") or has(r"温泉|スーパー銭湯|健康ランド|日帰り|湯処|天然温泉|SPA|スパ", nm(t)))),
+    ("温泉・リラックス", "スパ・岩盤浴", lambda t: t.get("leisure") == "spa" and not has(r"サウナ|SAUNA|Sauna", nm(t))),
+    ("温泉・リラックス", "サウナ", lambda t: t.get("leisure") in ("sauna", "spa")),
     # ---- カフェ・食べる
     ("カフェ・食べる", "コンセプトカフェ・メイドカフェ", lambda t: t.get("amenity") == "cafe" and has(r"メイド|コンセプト", nm(t))),
     ("ゲーム・アミューズメント", "ボードゲームカフェ", lambda t: has(r"ボードゲーム", nm(t))),
@@ -157,6 +169,7 @@ R = [
     # ---- 買う・街歩き
     ("買う・街歩き", "アウトレット", lambda t: t.get("shop") == "mall" and has(r"アウトレット|OUTLET|Outlet", nm(t))),
     ("買う・街歩き", "ショッピングモール", lambda t: t.get("shop") == "mall"),
+    ("買う・街歩き", "ショッピングセンター（中規模）", lambda t: t.get("landuse") == "retail" or t.get("building") == "retail"),
     ("買う・街歩き", "百貨店", lambda t: t.get("shop") == "department_store"),
     ("ポップカルチャー", "アニメ・ホビーショップ", lambda t: t.get("shop") in ("anime", "games", "model")),
     ("買う・街歩き", "お土産・物産館", lambda t: t.get("shop") == "gift"),
@@ -166,7 +179,7 @@ R = [
 # 画面に並べる順（大分類）
 GROUPS = ["遊園地・テーマパーク", "生きもの", "見る・学ぶ", "展望・景色", "公園・自然", "神社・お寺",
           "温泉・リラックス", "カフェ・食べる", "夜・大人の遊び", "ゲーム・アミューズメント", "スポーツ・体を動かす",
-          "観る・聴く", "買う・街歩き", "体験・つくる", "ポップカルチャー", "乗る・移動を楽しむ"]
+          "観る・聴く", "買う・街歩き", "体験・インバウンド", "体験・つくる", "ポップカルチャー", "乗る・移動を楽しむ"]
 for g, c, _ in R:
     assert g in GROUPS, g
 

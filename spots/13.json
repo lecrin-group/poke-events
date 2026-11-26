@@ -5264,7 +5264,7 @@
 {"id":"n14110794001","name":"レインボーブリッジ遊歩道 芝浦側","grp":"展望・景色","cat":"観光名所","pref":"13","area":"港区","lat":35.63786,"lon":139.75903,"url":"https://www.kouwan.metro.tokyo.lg.jp/kanko/road/rainbowbridge","hours":"Mo-Su 09:00-21:00"},
 {"id":"w568436245","name":"六本木ヒルズ","grp":"展望・景色","cat":"観光名所","pref":"13","area":"港区","lat":35.66022,"lon":139.73005,"en":"Roppongi Hills","url":"https://www.roppongihills.com/","wd":"Q1071084"},
 {"id":"n5439020592","name":"汐留SIO-SITE","grp":"展望・景色","cat":"観光名所","pref":"13","area":"港区","lat":35.66462,"lon":139.76049,"en":"Shiodome Sio-Site","wd":"Q1185910"},
-{"id":"n5471047452","name":"赤坂サカス","grp":"展望・景色","cat":"観光名所","pref":"13","area":"港区","lat":35.67234,"lon":139.73559,"en":"akasaka Sacas","url":"https://sacas.net/","wd":"Q864638"},
+{"id":"n5471047452","name":"赤坂サカス","grp":"展望・景色","cat":"観光名所","pref":"13","area":"港区","lat":35.67234,"lon":139.73559,"en":"akasaka Sacas","url":"https://www.tbs.co.jp/sacas/","wd":"Q864638"},
 {"id":"w610391551","name":"雲鷹丸","grp":"展望・景色","cat":"観光名所","pref":"13","area":"港区","lat":35.62517,"lon":139.74922,"en":"Unyō Maru","wd":"Q1599020"},
 {"id":"n14119219718","name":"足湯テラス","grp":"温泉・リラックス","cat":"足湯","pref":"13","area":"港区","lat":35.63971,"lon":139.74188},
 {"id":"w905018176","name":"水上バス　お台場～日の出桟橋","grp":"乗る・移動を楽しむ","cat":"遊覧船・水上バス","pref":"13","area":"港区","lat":35.64007,"lon":139.76736},

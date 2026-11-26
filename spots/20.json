@@ -131,7 +131,7 @@
 {"id":"w1211263229","name":"下諏訪ローイングパーク 足湯","grp":"温泉・リラックス","cat":"足湯","pref":"20","area":"下諏訪町","lat":36.06317,"lon":138.08074},
 {"id":"n11070395203","name":"KUWABARA CAMP（四徳温泉キャンプ場）","grp":"公園・自然","cat":"キャンプ・グランピング","pref":"20","area":"中川村","lat":35.62351,"lon":137.99047,"en":"Kuwabara Shitoku Onsen Campground","url":"http://shitoku.net/kuwabaracamp/"},
 {"id":"n11070465738","name":"四徳温泉キャンプ場","grp":"公園・自然","cat":"キャンプ・グランピング","pref":"20","area":"中川村","lat":35.65328,"lon":138.00553,"en":"Shitoku Onsen Campground","url":"https://shitoku.net/%e6%b3%8a%e3%81%be%e3%82%8b/%e5%85%b1%e6%9c%89%e6%96%bd%e8%a8%ad/"},
-{"id":"w944953472","name":"陣馬形山キャンプ場","grp":"公園・自然","cat":"キャンプ・グランピング","pref":"20","area":"中川村","lat":35.67289,"lon":137.98309,"en":"Jinbagatayama Campground","url":"https://jinbagata.life/camp/"},
+{"id":"w944953472","name":"陣馬形山キャンプ場","grp":"公園・自然","cat":"キャンプ・グランピング","pref":"20","area":"中川村","lat":35.67289,"lon":137.98309,"en":"Jinbagatayama Campground"},
 {"id":"n1309807499","name":"中川村文化会館","grp":"見る・学ぶ","cat":"博物館・記念館","pref":"20","area":"中川村","lat":35.63188,"lon":137.93412},
 {"id":"w592002171","name":"天の中川河川公園","grp":"公園・自然","cat":"大きな公園","pref":"20","area":"中川村","lat":35.62859,"lon":137.92894,"en":"Ama-no-Nakagawa Kasen Park","url":"https://www.vill.nakagawa.nagano.jp/site/koryu/1131.html"},
 {"id":"n2702675835","name":"陣馬形山","grp":"公園・自然","cat":"山","pref":"20","area":"中川村","lat":35.67409,"lon":137.98342,"wd":"Q50360532"},
