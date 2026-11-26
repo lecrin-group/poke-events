@@ -170,7 +170,10 @@ def main():
             s["wd"] = t["wikidata"]
         rows.append(s)
     geocode(rows)
-    wikidata_urls(rows)
+    if os.environ.get("SKIP_WIKIDATA"):   # Wikidata が混んでいて1分1回に絞られているときは飛ばす（月1回の自動更新で足す）
+        print("Wikidata は飛ばした")
+    else:
+        wikidata_urls(rows)
     # 同じ名前で 400m 以内は1つにまとめる（点と建物の両方が登録されていることがある）
     rows.sort(key=lambda s: (0 if "url" in s else 1, s["id"]))
     seen, out = {}, []
