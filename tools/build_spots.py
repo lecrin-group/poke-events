@@ -3,7 +3,7 @@
 # 出力: spots/<県コード>.json（その県のスポット）と spots/index.json（県ごとの件数・ジャンル）
 # データの出典: © OpenStreetMap contributors（ODbL 1.0）。spots/ は ODbL で公開する（spots/LICENSE.md）
 # 月1回くらい回せば、閉店（OSM から消えたもの）と新規開店（OSM に増えたもの）が入れかわる
-import sys, os, re, json, math, datetime, subprocess, urllib.request, urllib.parse
+import sys, os, re, json, math, time, datetime, subprocess, urllib.request, urllib.parse
 import concurrent.futures as cf
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -116,12 +116,15 @@ def wikidata_urls(rows):
     for i in range(0, len(need), 200):
         ids = " ".join("wd:" + s["wd"] for s in need[i:i + 200] if re.match(r"^Q\d+$", s["wd"]))
         q = "SELECT ?i ?w WHERE { VALUES ?i {%s} ?i wdt:P856 ?w }" % ids
-        try:
-            r = json.loads(get("https://query.wikidata.org/sparql?" + urllib.parse.urlencode({"query": q}), 60))
-            for b in r["results"]["bindings"]:
-                got.setdefault(b["i"]["value"].rsplit("/", 1)[1], b["w"]["value"])
-        except Exception as e:
-            print("Wikidata 失敗:", e)
+        for t in range(3):   # 混んでいると 1分に1回まで（429）になるので、待ってやり直す
+            try:
+                r = json.loads(get("https://query.wikidata.org/sparql?" + urllib.parse.urlencode({"query": q}), 60))
+                for b in r["results"]["bindings"]:
+                    got.setdefault(b["i"]["value"].rsplit("/", 1)[1], b["w"]["value"])
+                break
+            except Exception as e:
+                print("Wikidata 失敗（待ってやり直す）:", e, flush=True)
+                time.sleep(65)
     n = 0
     for s in need:
         u = got.get(s["wd"])
