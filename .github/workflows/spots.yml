@@ -1,0 +1,30 @@
+name: spots-monthly
+# 毎月1日 4:20（日本時間）に、全国の常設スポット（spots/）を OpenStreetMap から作り直す
+# 閉店（OSM から消えたもの）は消え、新規開店（OSM に増えたもの）は入る
+on:
+  schedule:
+    - cron: "20 19 28-31 * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  spots:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: 日本時間で1日のときだけ動かす（UTC では前の月の最後の日）
+        id: last
+        run: |
+          if [ "$(TZ=Asia/Tokyo date +%d)" = "01" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then echo "go=1" >> "$GITHUB_OUTPUT"; fi
+      - uses: actions/checkout@v4
+        if: steps.last.outputs.go == '1'
+      - if: steps.last.outputs.go == '1'
+        run: python3 tools/build_spots.py
+      - if: steps.last.outputs.go == '1'
+        run: |
+          git config user.name "poke-events-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add spots tools/spots_geocache.json
+          git diff --cached --quiet && exit 0
+          git commit -m "monthly spots $(TZ=Asia/Tokyo date +%F)"
+          for i in 1 2 3; do git pull --rebase && git push && break; sleep 10; done
