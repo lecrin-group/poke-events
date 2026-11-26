@@ -163,10 +163,12 @@ R = [
     # ---- 観光名所（どれにも当たらない tourism=attraction）
     ("展望・景色", "観光名所", lambda t: t.get("tourism") == "attraction" and (t.get("wikidata") or t.get("website"))),
 ]
-GROUPS = []
+# 画面に並べる順（大分類）
+GROUPS = ["遊園地・テーマパーク", "生きもの", "見る・学ぶ", "展望・景色", "公園・自然", "神社・お寺",
+          "温泉・リラックス", "カフェ・食べる", "夜・大人の遊び", "ゲーム・アミューズメント", "スポーツ・体を動かす",
+          "観る・聴く", "買う・街歩き", "体験・つくる", "ポップカルチャー", "乗る・移動を楽しむ"]
 for g, c, _ in R:
-    if g not in GROUPS:
-        GROUPS.append(g)
+    assert g in GROUPS, g
 
 def classify(t):
     if not t.get("name"):
