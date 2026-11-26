@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-16T16:52:00+09:00",
+ "updated": "2026-11-26T16:15:00+09:00",
  "events": [
   {
    "id": "expo70-20260314-beforeafter",
@@ -1366,6 +1366,19 @@
    "src": "名古屋コンシェルジュ"
   },
   {
+   "id": "skybldg-christmas-2026",
+   "title": "UMEDA SKY BUILDING Christmas 2026",
+   "pref": "27",
+   "area": "大阪市北区",
+   "venue": "梅田スカイビル",
+   "cat": "商業施設",
+   "start": "2026-11-13",
+   "end": "2026-12-25",
+   "url": "https://www.skybldg.co.jp/",
+   "src": "梅田スカイビル",
+   "en": "UMEDA SKY BUILDING Christmas 2026"
+  },
+  {
    "id": "tcv-hoshinooujisama-20261113",
    "title": "フランス刊行80周年記念「星の王子さま 大切なものを探しに空の旅へ」",
    "pref": "13",
@@ -1936,6 +1949,19 @@
    "en": "Art Rink in Yokohama Red Brick Warehouse \"Ice Coming Together\""
   },
   {
+   "id": "ariake-20261128-glay",
+   "title": "GLAY ARENA TOUR 2026-2027 “EXOFIRE”",
+   "pref": "13",
+   "area": "江東区",
+   "venue": "有明アリーナ",
+   "cat": "ライブ",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "url": "https://ariake-arena.tokyo/event/",
+   "src": "有明アリーナ",
+   "en": "GLAY ARENA TOUR 2026-2027 \"EXOFIRE\""
+  },
+  {
    "id": "chuo-harumi-matsuri-2026",
    "title": "第3回 中央区晴海まつり",
    "pref": "13",
@@ -1947,6 +1973,19 @@
    "url": "https://www.city.chuo.lg.jp/a0013/bunkakankou/kankoujouhou/event/harumimaturi.html",
    "src": "https://www.city.chuo.lg.jp/a0013/bunkakankou/kankoujouhou/event/harumimaturi.html",
    "en": "3rd Chuo City Harumi Festival (Harumirai and Harumi Futo Park)"
+  },
+  {
+   "id": "ebisugp-gospel-2026",
+   "title": "恵比寿ゴスペル祭 2026",
+   "pref": "13",
+   "area": "渋谷区",
+   "venue": "恵比寿ガーデンプレイス センター広場",
+   "cat": "フェス・祭り",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "url": "https://gardenplace.jp/event/",
+   "src": "恵比寿ガーデンプレイス",
+   "en": "Yebisu Gospel Festival 2026"
   },
   {
    "id": "edohaku-okyo-2026",
@@ -2287,6 +2326,19 @@
    "en": "Chichibu Night Festival 2026 (Chichibu Shrine)"
   },
   {
+   "id": "mmesse-kagubazaar-2026",
+   "title": "家具メッセバザールin幕張メッセ",
+   "pref": "12",
+   "area": "千葉市美浜区",
+   "venue": "幕張メッセ",
+   "cat": "商業施設",
+   "start": "2026-12-04",
+   "end": "2026-12-06",
+   "url": "https://www.m-messe.co.jp/event/",
+   "src": "幕張メッセ",
+   "en": "Furniture Messe Bazaar in Makuhari Messe"
+  },
+  {
    "id": "tokyo-xmas-market-shibakoen-2026",
    "title": "東京クリスマスマーケット2026 in 芝公園",
    "pref": "13",
@@ -2311,6 +2363,19 @@
    "url": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw9092",
    "src": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw9092",
    "en": "YORUNOYO 2026 Illumination (Yokohama Waterfront)"
+  },
+  {
+   "id": "kiba-bousaifesta-2026",
+   "title": "木場公園防災フェスタ2026",
+   "pref": "13",
+   "area": "江東区",
+   "venue": "都立木場公園",
+   "cat": "公園・庭園",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "url": "https://www.tokyo-park.or.jp/park/kiba/",
+   "src": "東京都公園協会",
+   "en": "Kiba Park Disaster Preparedness Festa 2026"
   },
   {
    "id": "nakano-animangafes-2026",
@@ -2376,6 +2441,32 @@
    "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o070080/prs_51258.html",
    "src": "https://www.pref.osaka.lg.jp/hodo/fumin/o070080/prs_51258.html",
    "en": "Christmas Commons (Nakanoshima Park)"
+  },
+  {
+   "id": "tokyocomiccon-2026",
+   "title": "東京コミコン2026",
+   "pref": "12",
+   "area": "千葉市美浜区",
+   "venue": "幕張メッセ",
+   "cat": "展示会",
+   "start": "2026-12-11",
+   "end": "2026-12-13",
+   "url": "https://tokyocomiccon.jp/",
+   "src": "東京コミコン",
+   "en": "Tokyo Comic Con 2026"
+  },
+  {
+   "id": "akarenga-pandorobou-2026",
+   "title": "パンどろぼう展",
+   "pref": "14",
+   "area": "横浜市中区",
+   "venue": "横浜赤レンガ倉庫 1号館",
+   "cat": "展示会",
+   "start": "2026-12-12",
+   "end": "2027-01-11",
+   "url": "https://www.yokohama-akarenga.jp/event/",
+   "src": "横浜赤レンガ倉庫",
+   "en": "Pan Dorobo Exhibition"
   },
   {
    "id": "setagaya-boroichi-202612",
