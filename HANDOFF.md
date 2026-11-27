@@ -1,6 +1,6 @@
 # 引き継ぎ書：poke-events（イベントのデータ）
 
-最終更新：2026-11-26
+最終更新：2026-11-27
 
 > **引き継ぎ書は GitHub（lecrin-group/poke-events）の、このファイルだけ（10/25 ナギサ決定）**
 > - 正しいのは GitHub の main にあるこのファイル。手元のフォルダで読むときは、先に `git pull` して最新にしてから読む
@@ -22,6 +22,7 @@
 - 台帳の方針（2026-11-01 ナギサ決定）：まずは大胆に足し算（1都3県を一気に埋める）、そのあとは日々コツコツ引き算（閉館・イベント告知なし・読めない場所を「やめた」にする）。2026-11-02 に週1回のメンテ（スケジュールタスク「イベントスペース台帳の週1メンテ」毎週月曜13:41・引き算：公式を探す→埋めるか「やめた」、要確認→直すか「やめた」、重複整理。新規は原則足さない）に切り替え済み
 
 ## これまで
+- 2026-11-27 毎日のタスクのドライブからの移しかえ済み：ドライブにあった手順カード card-20261115・archive-sources-20261029・log-1030〜1126 を deltas/ に移した。tools/pe_tools.py の prep は GitHub の deltas/ だけ（clone があれば clone、なければ raw）から読む。drive_list・FOLDER・FOLDER2・verify は削除。ドライブの台帳CSV（spaces.csv）も読まなくなった
 - 2026-11-27 スポットの直し（ナギサ依頼）：①赤坂サカスなど5件の公式ドメインがオンカジ業者に取られていて画像がカジノになっていた → `tools/bad_sites.txt` と noimage.txt に追加、URL を外した（赤坂サカスは TBS の公式に差しかえ・build_spots.py の FIX_URL）。add_images.py はカジノっぽいページの画像を取らない ②画像のリンク切れ（約8%）が「写真あり」で上に並んでいた → add_images.py が画像を実際に取って確かめてから記録 ③温泉・リラックスを「温泉／スーパー銭湯・日帰り温泉／スパ・岩盤浴／サウナ」に分け、今まで取っていなかった amenity=public_bath を取る（町の銭湯は前の決定どおり入れない） ④「大きな公園」は外枠で約5ha未満を外す（駒沢・代々木が小さい公園に埋もれていた）。広さを ha に入れる ⑤中規模のショッピングセンター（landuse/building=retail で名前に SC 等）を「ショッピングセンター（中規模）」で足す ⑥大分類「体験・インバウンド」を新設（着物・浴衣レンタル／人力車／相撲を見ながら食べる／忍者・侍体験／茶道・書道・和菓子体験／寿司・料理体験／公道カート）。OSM には少ないので、公式サイトを確かめたリストで足すのが次の課題。歌舞伎町系はナギサに確認中
 - 2026-11-26 毎日のタスクの置き場所を GitHub の deltas/ に変えた（スケジュールタスクに Google ドライブのコネクターを付けられなかったため）。タスクは add_repo で poke-events をつないで deltas/events-add-YYYYMMDD.json・log・card を push → sync.yml が push を合図にすぐ取り込む。sync.py はドライブの2つのフォルダと deltas/ の全部を読む（updated が新しいものだけ足す）。pe_tools prep は deltas/ のカード・ログも読む
 - 2026-11-26 全国の常設スポット spots/ を足した（ナギサ決定：サイトを「スポット」と「イベント」に分ける）。tools/build_spots.py が OpenStreetMap（Overpass。maps.mail.ru の鏡がつながりやすい）から全国の博物館・美術館・動物園・水族館・テーマパーク・映画館・劇場・スタジアム・プール・庭園・展望台などを取り、市区町村は国土地理院の逆ジオコーダ（結果は tools/spots_geocache.json にためる）、公式サイトは OSM か Wikidata（CC0）。出力は spots/<県コード>.json と spots/index.json。OSM 由来なので spots/ だけ ODbL（spots/LICENSE.md・README）。サイトには「© OpenStreetMap contributors」を必ず出す。毎月1日 4:20 に .github/workflows/spots.yml が作り直す（閉店・新規開店はこれで入れかわる）

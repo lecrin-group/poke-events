@@ -1,6 +1,6 @@
 # pe_tools.py v2 — イベント毎日更新タスク用の道具箱（出力は短く。長い本文は会話に出さない）
 # 使い方: python3 pe_tools.py <コマンド> [引数]
-#   prep            今日の日付・窓・raw events.json・ドライブのカード/ログ/過去ログを work/ に取得し、要約だけ表示
+#   prep            今日の日付・窓・raw events.json・GitHub deltas/ のカード/ログ/過去ログを work/ に取得し、要約だけ表示
 #   ragnet          学園祭まとめ28ページを取得→14日窓で絞る→既存/判定済みを除いた候補だけ表示
 #   zepp            Zepp6館の金土日祝（窓内）で未登録の公演を JSON 行で表示
 #   check URL ...   公式ページを取得し、日付・一般公開キーワードの前後だけ表示（1URL最大5か所）
@@ -9,12 +9,11 @@
 #   full            （非常用）raw＋add.jsonl を合体して out/events-YYYYMMDD.json を1イベント1行で作る
 #   venues          大型会場・大きな公園の公式ページを取り、今日〜21日先の日付の前後だけ表示（未登録っぽいものだけ）
 #   due             毎年恒例の大型台帳（GitHub の big-events.json）から、今月・来月で未登録のものを表示
-#   verify FILEID   ドライブに置いたファイルをダウンロードして out/ のものと一致するか確認
 import sys, os, re, json, datetime, glob, subprocess, concurrent.futures as cf
 
-FOLDER = "1r-9U6KJ-wXfflYix1Y9wBmT6aCtIEx6O"
-# 2026-11-26 から差分・カード・ログはこちらに置く（AI共有専用アカウントの公開フォルダ）。読むのは両方
-FOLDER2 = "19nSqiZLFFJaSY9y37MvSh3AXsGAZa4YP"
+# 2026-11-27 から：カード・ログは GitHub の deltas/ だけから読む（ドライブは使わない）
+DELTAS_RAW = "https://raw.githubusercontent.com/lecrin-group/poke-events/main/deltas/"
+DELTAS_API = "https://api.github.com/repos/lecrin-group/poke-events/contents/deltas"
 RAW = "https://raw.githubusercontent.com/lecrin-group/poke-events/main/events.json"
 BIG = "https://raw.githubusercontent.com/lecrin-group/poke-events/main/big-events.json"
 SYNC = "https://raw.githubusercontent.com/lecrin-group/poke-events/main/.github/sync.py"
@@ -40,13 +39,19 @@ def text(html):
 def events():
     return json.load(open(f"{W}/events.json", encoding="utf-8"))["events"]
 
-def drive_list():
-    h = curl(f"https://drive.google.com/embeddedfolderview?id={FOLDER}") + curl(f"https://drive.google.com/embeddedfolderview?id={FOLDER2}")
-    out = []
-    for c in h.split('id="entry-')[1:]:
-        i = re.match(r"([A-Za-z0-9_-]+)", c); t = re.search(r'flip-entry-title">([^<]+)', c)
-        if i and t: out.append((t.group(1).strip(), i.group(1)))
-    return out
+def clone_deltas():
+    # clone の deltas/ を探す（環境変数 PE_REPO → よくある置き場）。なければ None
+    for d in [os.environ.get("PE_REPO", ""), "poke-events", "../poke-events", "/home/user/poke-events", os.path.expanduser("~/poke-events")]:
+        if d and os.path.isfile(os.path.join(d, "deltas", "README.md")) and os.path.isfile(os.path.join(d, "events.json")):
+            return os.path.join(d, "deltas")
+    return None
+
+def deltas_names():
+    d = clone_deltas()
+    if d: return d, sorted(os.listdir(d))
+    try: return None, sorted(f.get("name", "") for f in json.loads(curl(DELTAS_API)))
+    except Exception as ex:
+        print("deltas/ 一覧の取得失敗:", ex); return None, []
 
 def judged_text():
     s = ""
@@ -58,30 +63,22 @@ def cmd_prep():
     open(f"{W}/events.json", "w", encoding="utf-8").write(curl(RAW))
     ev = events()
     delta = "DELTA-SUPPORT-V1" in curl(SYNC)
-    files = drive_list()
-    got = []
+    d, names = deltas_names()
+    pick = []
     for kind in ("card-", "archive-sources-"):
-        c = sorted([f for f in files if f[0].startswith(kind)])
-        if c:
-            open(f"{W}/{c[-1][0]}", "w", encoding="utf-8").write(curl(f"https://drive.google.com/uc?export=download&id={c[-1][1]}"))
-            got.append(c[-1][0])
-    for name, fid in sorted(f for f in files if f[0].startswith("log-")):
-        open(f"{W}/{name}", "w", encoding="utf-8").write(curl(f"https://drive.google.com/uc?export=download&id={fid}"))
-        got.append(name)
-    # 2026-11-26 から：カード・ログは GitHub の deltas/ にも置く。新しいほうを使う
-    try:
-        for f in json.loads(curl("https://api.github.com/repos/lecrin-group/poke-events/contents/deltas")):
-            n = f.get("name", "")
-            if re.match(r"(card|log)-\d{8}.*\.md$", n):
-                open(f"{W}/{n}", "w", encoding="utf-8").write(curl(f["download_url"])); got.append("gh:" + n)
-    except Exception as ex:
-        print("deltas/ 取得失敗:", ex)
+        c = [n for n in names if n.startswith(kind) and n.endswith(".md")]
+        if c: pick.append(c[-1])
+    pick += [n for n in names if re.match(r"log-\d{8}.*\.md$", n)]
+    got = []
+    for n in pick:
+        body = open(os.path.join(d, n), encoding="utf-8").read() if d else curl(DELTAS_RAW + n)
+        open(f"{W}/{n}", "w", encoding="utf-8").write(body); got.append(n)
     ended = sum(1 for e in ev if e["end"] < str(TODAY))
     from collections import Counter
     print(f"today={TODAY} window={TODAY}..{WEND} weekday={'月火水木金土日'[TODAY.weekday()]}")
     print(f"events={len(ev)} ended={ended} pref={dict(Counter(e['pref'] for e in ev))}")
     print(f"mode={'delta' if delta else 'FULL（Actions未対応）'}")
-    print("drive files:", ", ".join(f"{n}={i}" for n, i in files))
+    print("deltas from:", d or "raw.githubusercontent.com")
     print("downloaded:", ", ".join(got))
 
 RG = ["tokyo/7","tokyo/8","tokyo/9","tokyo/10","tokyo/11","tokyo/12","tokyo/13","tokyo/14","tokyo/15","tokyo/16",
@@ -306,19 +303,9 @@ def cmd_due():
         print(f"{b['n']} | pref {b['p']} | 例年{','.join(map(str, b['m']))}月 | {b.get('url') or '公式を検索'}{hint}")
     print(f"due {n}件（今月・来月で未登録）")
 
-def cmd_verify(fid):
-    got = curl(f"https://drive.google.com/uc?export=download&id={fid}")
-    for p in sorted(glob.glob(f"{O}/*.json")):
-        mine = open(p, encoding="utf-8").read()
-        try:
-            if json.loads(got) == json.loads(mine): print("一致:", p); return
-        except Exception as ex:
-            print("JSONエラー:", ex); return
-    print("不一致（out/ のどれとも違う）")
-
 if __name__ == "__main__":
     c = sys.argv[1] if len(sys.argv) > 1 else ""
     a = sys.argv[2:]
     {"prep": cmd_prep, "ragnet": cmd_ragnet, "zepp": cmd_zepp, "build": cmd_build, "full": cmd_full, "venues": cmd_venues, "due": cmd_due}.get(c, lambda: None)() if c in ("prep", "ragnet", "zepp", "build", "full", "venues", "due") else \
         {"check": cmd_check, "dup": cmd_dup}.get(c, lambda x: None)(a) if c in ("check", "dup") else \
-        cmd_verify(a[0]) if c == "verify" else print(open(__file__, encoding="utf-8").read().split("import sys")[0])
+        print(open(__file__, encoding="utf-8").read().split("import sys")[0])
