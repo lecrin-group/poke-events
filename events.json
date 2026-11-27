@@ -1858,19 +1858,6 @@
    "en": "Onchi Koshiro and Sosaku Hanga Artists (Machida City Museum of Graphic Arts)"
   },
   {
-   "id": "keyaki-20261127-fleamarket",
-   "title": "フリーマーケットinさいたま新都心けやきひろば",
-   "pref": "11",
-   "area": "さいたま市中央区",
-   "venue": "さいたま新都心 けやきひろば",
-   "cat": "フェス・祭り",
-   "start": "2026-11-27",
-   "end": "2026-11-27",
-   "url": "https://www.saitama-arena.co.jp/schedule/2026/11/",
-   "src": "GMOアリーナさいたま",
-   "en": "Flea Market at Saitama Shintoshin Keyaki Hiroba"
-  },
-  {
    "id": "kyoceradome-20261127-bigbang",
    "title": "BIGBANG 2026-2027 WORLD TOUR IN JAPAN",
    "pref": "27",
@@ -1884,32 +1871,6 @@
    "en": "BIGBANG 2026-2027 WORLD TOUR IN JAPAN (Kyocera Dome Osaka)"
   },
   {
-   "id": "tif-20261127-shibata-satoko",
-   "title": "柴田聡子のひとりぼっち'26",
-   "pref": "13",
-   "area": "千代田区",
-   "venue": "東京国際フォーラム",
-   "cat": "ライブ",
-   "start": "2026-11-27",
-   "end": "2026-11-27",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/",
-   "src": "https://www.t-i-forum.co.jp/visitors/event/",
-   "en": "Satoko Shibata Hitoribocchi '26 (Tokyo International Forum)"
-  },
-  {
-   "id": "tif-20261127-tetsuko-concert",
-   "title": "放送50周年記念 第20回「徹子の部屋」コンサート",
-   "pref": "13",
-   "area": "千代田区",
-   "venue": "東京国際フォーラム",
-   "cat": "ライブ",
-   "start": "2026-11-27",
-   "end": "2026-11-27",
-   "url": "https://www.t-i-forum.co.jp/visitors/event/",
-   "src": "https://www.t-i-forum.co.jp/visitors/event/",
-   "en": "20th Tetsuko no Heya Concert - 50th Anniversary (Tokyo International Forum)"
-  },
-  {
    "id": "toranomon-tmarket-night-2026",
    "title": "T-MARKET NIGHT ～3rd Anniversary Party～",
    "pref": "13",
@@ -1921,58 +1882,6 @@
    "url": "https://www.toranomonhills.com/events/",
    "src": "https://www.toranomonhills.com/events/",
    "en": "T-MARKET NIGHT 3rd Anniversary Party (Toranomon Hills)"
-  },
-  {
-   "id": "zepp-divercity-20261127-wavetoearth",
-   "title": "wave to earth - the pieces tour",
-   "pref": "13",
-   "area": "江東区",
-   "venue": "Zepp DiverCity(TOKYO)",
-   "cat": "ライブ",
-   "start": "2026-11-27",
-   "end": "2026-11-27",
-   "url": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=159823",
-   "src": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=159823",
-   "en": "wave to earth - the pieces tour (Zepp DiverCity Tokyo)"
-  },
-  {
-   "id": "zepp-fukuoka-20261127-atarashii",
-   "title": "新しい学校のリーダーズ「From AG! with Love 〜ライブハウスより愛を込めて〜」",
-   "pref": "40",
-   "area": "福岡市中央区",
-   "venue": "Zepp Fukuoka",
-   "cat": "ライブ",
-   "start": "2026-11-27",
-   "end": "2026-11-27",
-   "url": "https://www.zepp.co.jp/hall/fukuoka/schedule/single/?rid=162411",
-   "src": "https://www.zepp.co.jp/hall/fukuoka/schedule/single/?rid=162411",
-   "en": "ATARASHII GAKKO! From AG! with Love (Zepp Fukuoka)"
-  },
-  {
-   "id": "zepp-nagoya-20261127-negse",
-   "title": "ねぐせ。秋冬ワンマンツアー2026「君を強く抱きしめたいんだ！」",
-   "pref": "23",
-   "area": "名古屋市中村区",
-   "venue": "Zepp Nagoya",
-   "cat": "ライブ",
-   "start": "2026-11-27",
-   "end": "2026-11-27",
-   "url": "https://www.zepp.co.jp/hall/nagoya/schedule/single/?rid=157022",
-   "src": "https://www.zepp.co.jp/hall/nagoya/schedule/single/?rid=157022",
-   "en": "Neguse. Autumn/Winter One-Man Tour 2026 (Zepp Nagoya)"
-  },
-  {
-   "id": "zepp-yokohama-20261127-watwing",
-   "title": "WATWING Zepp Live Tour「love」",
-   "pref": "14",
-   "area": "横浜市西区",
-   "venue": "KT Zepp Yokohama",
-   "cat": "ライブ",
-   "start": "2026-11-27",
-   "end": "2026-11-27",
-   "url": "https://www.zepp.co.jp/hall/yokohama/schedule/single/?rid=156913",
-   "src": "https://www.zepp.co.jp/hall/yokohama/schedule/single/?rid=156913",
-   "en": "WATWING Zepp Live Tour \"love\" (KT Zepp Yokohama)"
   },
   {
    "id": "ajiki-torinoichi-2026",
