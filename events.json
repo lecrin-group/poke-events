@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-26T16:57:00+09:00",
+ "updated": "2026-11-27T14:25:00+09:00",
  "events": [
   {
    "id": "expo70-20260314-beforeafter",
@@ -1713,6 +1713,19 @@
    "url": "https://www.spiral.co.jp/",
    "src": "https://www.spiral.co.jp/",
    "en": "Talvipuutarha Winter Garden (Spiral, Aoyama)"
+  },
+  {
+   "id": "toyosuna-20261124-chiikawa-xmas",
+   "title": "ちいかわクリスマスマーケット",
+   "pref": "12",
+   "area": "千葉市美浜区",
+   "venue": "豊砂公園（イオンモール幕張新都心前）",
+   "cat": "フェス・祭り",
+   "start": "2026-11-24",
+   "end": "2026-12-25",
+   "url": "https://contents-abema.com/chiikawa-christmas-market/",
+   "src": "ちいかわクリスマスマーケット公式（日時指定チケット制・11:00〜21:00）",
+   "en": "Chiikawa Christmas Market (Toyosuna Park, Makuhari)"
   },
   {
    "id": "hikarie-yumegiwatone-cos-2026",
