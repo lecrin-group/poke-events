@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-27T14:25:00+09:00",
+ "updated": "2026-11-27T15:46:00+09:00",
  "events": [
   {
    "id": "expo70-20260314-beforeafter",
@@ -978,6 +978,19 @@
    "en": "GREEN SPRINGS ILLUMINATION 2026 Tachikawa Illumination"
   },
   {
+   "id": "osanbashi-photogenic-illumi-2026",
+   "title": "横浜港フォトジェニックイルミネーション2026",
+   "pref": "14",
+   "area": "横浜市中区",
+   "venue": "横浜港大さん橋国際客船ターミナル 屋上",
+   "cat": "公園・庭園",
+   "start": "2026-11-01",
+   "end": "2027-02-28",
+   "url": "https://osanbashi.jp/xo_event/xo_event-19961",
+   "src": "https://osanbashi.jp/xo_event/xo_event-19961",
+   "en": "Yokohama Port Photogenic Illumination 2026"
+  },
+  {
    "id": "nagoya-toshoki-20261103-xmas",
    "title": "海を渡ったクリスマス",
    "pref": "23",
@@ -1002,6 +1015,19 @@
    "url": "https://www.city.osaka.lg.jp/keizaisenryaku/page/0000679721.html",
    "src": "大阪市",
    "en": "Osaka Festival of Lights 2026"
+  },
+  {
+   "id": "yeg-xmas-display-2026",
+   "title": "横浜イングリッシュガーデン「クリスマス・ディスプレイ」",
+   "pref": "14",
+   "area": "横浜市西区",
+   "venue": "横浜イングリッシュガーデン",
+   "cat": "公園・庭園",
+   "start": "2026-11-03",
+   "end": "2026-12-25",
+   "url": "https://y-eg.jp/information/4067/",
+   "src": "https://y-eg.jp/information/4067/",
+   "en": "Yokohama English Garden Christmas Display"
   },
   {
    "id": "yokohama-motomachi-illumi-2026",
@@ -1518,6 +1544,19 @@
    "url": "https://www.showakinen-koen.jp/event/43085/",
    "src": "https://www.showakinen-koen.jp/event/43085/",
    "en": "Toyohiko Seto Photo Exhibition: Autumn Scenery of Showa Kinen Park"
+  },
+  {
+   "id": "bayquarter-sapphire-xmas-2026",
+   "title": "横浜ベイクォーター「20th Anniversary Sapphire Blue Christmas」",
+   "pref": "14",
+   "area": "横浜市神奈川区",
+   "venue": "横浜ベイクォーター 3Fベイパーク",
+   "cat": "商業施設",
+   "start": "2026-11-18",
+   "end": "2026-12-25",
+   "url": "https://www.yokohama-bayquarter.com/event/detail/151",
+   "src": "https://www.yokohama-bayquarter.com/event/detail/151",
+   "en": "Yokohama Bay Quarter 20th Anniversary Sapphire Blue Christmas"
   },
   {
    "id": "paypaydome-winterlight-2026",
@@ -2352,6 +2391,19 @@
    "en": "moonriders LIVE 2026 (Tokyo International Forum)"
   },
   {
+   "id": "yamate-seiyoukan-sekaino-xmas-2026",
+   "title": "横浜山手西洋館「世界のクリスマス2026」",
+   "pref": "14",
+   "area": "横浜市中区",
+   "venue": "横浜山手西洋館（外交官の家・ブラフ18番館ほか7館）",
+   "cat": "展示会",
+   "start": "2026-12-01",
+   "end": "2026-12-25",
+   "url": "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/details/sekainokurisumasu2026.php",
+   "src": "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/details/sekainokurisumasu2026.php",
+   "en": "Christmas Around the World 2026 at Yamate Western Houses"
+  },
+  {
    "id": "chichibu-yomatsuri-2026",
    "title": "秩父夜祭（宵宮・本祭）",
    "pref": "11",
@@ -2508,6 +2560,19 @@
    "en": "BABY HEROINE PARTY (KT Zepp Yokohama)"
   },
   {
+   "id": "americayama-remarche-20261205",
+   "title": "アメリカ山公園「Re+Marché（リ・プラス・マルシェ）」",
+   "pref": "14",
+   "area": "横浜市中区",
+   "venue": "アメリカ山公園 屋上展望園地",
+   "cat": "公園・庭園",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "url": "https://www.seibu-la.co.jp/mt_america/event/202611191743487091.html",
+   "src": "https://www.seibu-la.co.jp/mt_america/event/202611191743487091.html",
+   "en": "Re+Marche at America-yama Park"
+  },
+  {
    "id": "kiba-bousaifesta-2026",
    "title": "木場公園防災フェスタ2026",
    "pref": "13",
@@ -2519,6 +2584,19 @@
    "url": "https://www.tokyo-park.or.jp/park/kiba/",
    "src": "東京都公園協会",
    "en": "Kiba Park Disaster Preparedness Festa 2026"
+  },
+  {
+   "id": "kyonan-suisen-matsuri-2026",
+   "title": "水仙まつり（鋸南町）",
+   "pref": "12",
+   "area": "安房郡鋸南町",
+   "venue": "江月水仙ロード・をくづれ水仙郷",
+   "cat": "公園・庭園",
+   "start": "2026-12-05",
+   "end": "2027-01-31",
+   "url": "https://maruchiba.jp/event/detail_11486.html",
+   "src": "https://maruchiba.jp/event/detail_11486.html",
+   "en": "Kyonan Narcissus Festival"
   },
   {
    "id": "midtown-icerink-2026",
@@ -2558,6 +2636,19 @@
    "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261205_0924",
    "src": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20261205_0924",
    "en": "Human Rights Festa Tokyo 2026 (Tokyo International Forum)"
+  },
+  {
+   "id": "winter-wonder-park-yokohama-2026",
+   "title": "Winter Wonder Park Yokohama 2026-27",
+   "pref": "14",
+   "area": "横浜市中区",
+   "venue": "山下公園（おまつり広場近辺）",
+   "cat": "公園・庭園",
+   "start": "2026-12-05",
+   "end": "2027-02-28",
+   "url": "https://winterwonderpark.yokohama/",
+   "src": "https://winterwonderpark.yokohama/",
+   "en": "Winter Wonder Park Yokohama 2026-27 (Skating at Yamashita Park)"
   },
   {
    "id": "zepp-divercity-20261205-idlms",
@@ -2625,6 +2716,19 @@
    "en": "Hiromi Uehara x Kazunori Kumagai Duo 20th Anniversary JAPAN TOUR 2026 (Tokyo International Forum)"
   },
   {
+   "id": "yamakura-sake-matsuri-2026",
+   "title": "山倉の鮭祭り",
+   "pref": "12",
+   "area": "香取市",
+   "venue": "山倉大神",
+   "cat": "フェス・祭り",
+   "start": "2026-12-06",
+   "end": "2026-12-06",
+   "url": "https://www.city.katori.lg.jp/sightseeing/gyoji/fuyu/y_sake.html",
+   "src": "https://maruchiba.jp/event/detail_10822.html",
+   "en": "Yamakura Salmon Festival"
+  },
+  {
    "id": "zepp-divercity-20261206-matsuri",
    "title": "MATSURI 2nd コンサートツアー",
    "pref": "13",
@@ -2675,6 +2779,19 @@
    "url": "https://www.zepp.co.jp/hall/osakabayside/schedule/single/?rid=160099",
    "src": "https://www.zepp.co.jp/hall/osakabayside/schedule/single/?rid=160099",
    "en": "¥ellow Bucks Zepp Tour 2026 (Zepp Osaka Bayside)"
+  },
+  {
+   "id": "katori-dangosai-2026",
+   "title": "団碁祭（香取神宮）",
+   "pref": "12",
+   "area": "香取市",
+   "venue": "香取神宮",
+   "cat": "フェス・祭り",
+   "start": "2026-12-07",
+   "end": "2026-12-07",
+   "url": "https://maruchiba.jp/event/detail_11475.html",
+   "src": "https://maruchiba.jp/event/detail_11475.html",
+   "en": "Dangosai Festival at Katori Jingu Shrine"
   },
   {
    "id": "tif-20261207-akuyaku-kaigishitsu",
@@ -2794,6 +2911,45 @@
    "en": "Pan Dorobo Exhibition"
   },
   {
+   "id": "matsudo-xmas-loop-market-2026",
+   "title": "Matsudo Xmas LOOP MARKET",
+   "pref": "12",
+   "area": "松戸市",
+   "venue": "松戸駅西口デッキ",
+   "cat": "フェス・祭り",
+   "start": "2026-12-12",
+   "end": "2026-12-13",
+   "url": "https://maruchiba.jp/event/detail_16132.html",
+   "src": "https://maruchiba.jp/event/detail_16132.html",
+   "en": "Matsudo Xmas LOOP MARKET"
+  },
+  {
+   "id": "mmesse-handmadefesta-2026",
+   "title": "マクハリハンドメイドフェスタ2026 supported by 千葉デザイナー学院",
+   "pref": "12",
+   "area": "千葉市美浜区",
+   "venue": "幕張メッセ",
+   "cat": "展示会",
+   "start": "2026-12-12",
+   "end": "2026-12-13",
+   "url": "https://www.m-messe.co.jp/event/detail/8911",
+   "src": "https://www.m-messe.co.jp/event/detail/8911",
+   "en": "Makuhari Handmade Festa 2026"
+  },
+  {
+   "id": "mmesse-compassfes-10th-2026",
+   "title": "#コンパスフェス 10th ANNIVERSARY",
+   "pref": "12",
+   "area": "千葉市美浜区",
+   "venue": "幕張メッセ",
+   "cat": "ライブ",
+   "start": "2026-12-13",
+   "end": "2026-12-13",
+   "url": "https://www.m-messe.co.jp/event/detail/8959",
+   "src": "https://www.m-messe.co.jp/event/detail/8959",
+   "en": "#COMPASS Fes 10th Anniversary"
+  },
+  {
    "id": "setagaya-boroichi-202612",
    "title": "世田谷のボロ市（12月）",
    "pref": "13",
@@ -2833,6 +2989,19 @@
    "en": "JUMP FESTA 2027 (Makuhari Messe)"
   },
   {
+   "id": "shiroexpo-2026",
+   "title": "お城EXPO 2026",
+   "pref": "14",
+   "area": "横浜市西区",
+   "venue": "パシフィコ横浜 ノース",
+   "cat": "展示会",
+   "start": "2026-12-19",
+   "end": "2026-12-20",
+   "url": "https://www.shiroexpo.jp/",
+   "src": "https://www.shiroexpo.jp/",
+   "en": "Oshiro EXPO 2026 (Japanese Castle Expo)"
+  },
+  {
    "id": "comiket-c109-2026",
    "title": "コミックマーケット109",
    "pref": "13",
@@ -2844,6 +3013,19 @@
    "url": "https://www.comiket.co.jp/",
    "src": "https://www.comiket.co.jp/",
    "en": "Comic Market 109 (Tokyo Big Sight)"
+  },
+  {
+   "id": "akarenga-nabegoya-2027",
+   "title": "酒処 鍋小屋 2027 supported by ダイショー",
+   "pref": "14",
+   "area": "横浜市中区",
+   "venue": "横浜赤レンガ倉庫 イベント広場",
+   "cat": "フェス・祭り",
+   "start": "2027-01-16",
+   "end": "2027-01-31",
+   "url": "https://www.yokohama-akarenga.jp/event/nabe-goya/",
+   "src": "https://www.yokohama-akarenga.jp/event/nabe-goya/",
+   "en": "Sakedokoro Nabe-goya 2027 (Hot Pot Festival) at Yokohama Red Brick Warehouse"
   }
  ]
 }
