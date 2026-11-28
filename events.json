@@ -1871,19 +1871,6 @@
    "en": "BIGBANG 2026-2027 WORLD TOUR IN JAPAN (Kyocera Dome Osaka)"
   },
   {
-   "id": "toranomon-tmarket-night-2026",
-   "title": "T-MARKET NIGHT ～3rd Anniversary Party～",
-   "pref": "13",
-   "area": "港区",
-   "venue": "虎ノ門ヒルズ",
-   "cat": "フェス・祭り",
-   "start": "2026-11-27",
-   "end": "2026-11-28",
-   "url": "https://www.toranomonhills.com/events/",
-   "src": "https://www.toranomonhills.com/events/",
-   "en": "T-MARKET NIGHT 3rd Anniversary Party (Toranomon Hills)"
-  },
-  {
    "id": "ajiki-torinoichi-2026",
    "title": "安食の酉の市",
    "pref": "12",
@@ -1923,19 +1910,6 @@
    "en": "GLAY ARENA TOUR 2026-2027 \"EXOFIRE\""
   },
   {
-   "id": "chuo-harumi-matsuri-2026",
-   "title": "第3回 中央区晴海まつり",
-   "pref": "13",
-   "area": "中央区",
-   "venue": "晴海地域交流センター「はるみらい」・晴海ふ頭公園",
-   "cat": "フェス・祭り",
-   "start": "2026-11-28",
-   "end": "2026-11-28",
-   "url": "https://www.city.chuo.lg.jp/a0013/bunkakankou/kankoujouhou/event/harumimaturi.html",
-   "src": "https://www.city.chuo.lg.jp/a0013/bunkakankou/kankoujouhou/event/harumimaturi.html",
-   "en": "3rd Chuo City Harumi Festival (Harumirai and Harumi Futo Park)"
-  },
-  {
    "id": "ebisugp-gospel-2026",
    "title": "恵比寿ゴスペル祭 2026",
    "pref": "13",
@@ -1973,32 +1947,6 @@
    "url": "https://www.expo70-park.jp/event/77988/",
    "src": "https://www.expo70-park.jp/events/during-events/",
    "en": "Banpaku Railway Festival 2026 with Tourism EXPO (Expo '70 Commemorative Park)"
-  },
-  {
-   "id": "keyaki-20261128-lovejazztime",
-   "title": "LOVE JAZZ TIME 2026",
-   "pref": "11",
-   "area": "さいたま市中央区",
-   "venue": "さいたま新都心 けやきひろば",
-   "cat": "フェス・祭り",
-   "start": "2026-11-28",
-   "end": "2026-11-28",
-   "url": "https://www.saitama-arena.co.jp/schedule/2026/11/",
-   "src": "GMOアリーナさいたま",
-   "en": "LOVE JAZZ TIME 2026 (Keyaki Hiroba, Saitama Shintoshin)"
-  },
-  {
-   "id": "koami-doburoku-2026",
-   "title": "小網神社 新嘗祭（どぶろくまつり）",
-   "pref": "13",
-   "area": "中央区",
-   "venue": "小網神社",
-   "cat": "フェス・祭り",
-   "start": "2026-11-28",
-   "end": "2026-11-28",
-   "url": "https://www.koamijinja.or.jp/event/",
-   "src": "https://www.koamijinja.or.jp/event/",
-   "en": "Niinamesai Doburoku Festival (Koami Shrine)"
   },
   {
    "id": "momijihachimangu-20261128-matsuri",
@@ -2064,84 +2012,6 @@
    "url": "https://www.yokohama-arena.co.jp/event/detail/larc-en-ciel-35th-lanniversary-tour",
    "src": "https://www.yokohama-arena.co.jp/event/detail/larc-en-ciel-35th-lanniversary-tour",
    "en": "L'Arc-en-Ciel 35th L'Anniversary TOUR (Yokohama Arena)"
-  },
-  {
-   "id": "zepp-153008",
-   "title": "宇都宮隆 LIVE UTSU BAR TOUR 2026「それゆけ歌酔曲!!」",
-   "pref": "13",
-   "area": "江東区",
-   "venue": "Zepp DiverCity(TOKYO)",
-   "cat": "ライブ",
-   "start": "2026-11-28",
-   "end": "2026-11-28",
-   "url": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=153008",
-   "src": "https://www.zepp.co.jp/hall/divercity/schedule/single/?rid=153008",
-   "en": "Takashi Utsunomiya LIVE UTSU BAR TOUR 2026 (Zepp DiverCity Tokyo)"
-  },
-  {
-   "id": "zepp-156914",
-   "title": "WATWING Zepp Live Tour「love」",
-   "pref": "14",
-   "area": "横浜市西区",
-   "venue": "KT Zepp Yokohama",
-   "cat": "ライブ",
-   "start": "2026-11-28",
-   "end": "2026-11-28",
-   "url": "https://www.zepp.co.jp/hall/yokohama/schedule/single/?rid=156914",
-   "src": "https://www.zepp.co.jp/hall/yokohama/schedule/single/?rid=156914",
-   "en": "WATWING Zepp Live Tour love (KT Zepp Yokohama)"
-  },
-  {
-   "id": "zepp-157023",
-   "title": "ねぐせ。秋冬ワンマンツアー2026「君を強く抱きしめたいんだ！」",
-   "pref": "23",
-   "area": "名古屋市中村区",
-   "venue": "Zepp Nagoya",
-   "cat": "ライブ",
-   "start": "2026-11-28",
-   "end": "2026-11-28",
-   "url": "https://www.zepp.co.jp/hall/nagoya/schedule/single/?rid=157023",
-   "src": "https://www.zepp.co.jp/hall/nagoya/schedule/single/?rid=157023",
-   "en": "Neguse. Autumn-Winter One-Man Tour 2026 (Zepp Nagoya)"
-  },
-  {
-   "id": "zepp-157275",
-   "title": "丸山純奈 ライブ",
-   "pref": "13",
-   "area": "大田区",
-   "venue": "Zepp Haneda(TOKYO)",
-   "cat": "ライブ",
-   "start": "2026-11-28",
-   "end": "2026-11-28",
-   "url": "https://www.zepp.co.jp/hall/haneda/schedule/single/?rid=157275",
-   "src": "https://www.zepp.co.jp/hall/haneda/schedule/single/?rid=157275",
-   "en": "Sumina Maruyama Live (Zepp Haneda)"
-  },
-  {
-   "id": "zepp-158969",
-   "title": "jo0ji one-man tour 2026「いかり」",
-   "pref": "40",
-   "area": "福岡市中央区",
-   "venue": "Zepp Fukuoka",
-   "cat": "ライブ",
-   "start": "2026-11-28",
-   "end": "2026-11-28",
-   "url": "https://www.zepp.co.jp/hall/fukuoka/schedule/single/?rid=158969",
-   "src": "https://www.zepp.co.jp/hall/fukuoka/schedule/single/?rid=158969",
-   "en": "jo0ji one-man tour 2026 Ikari (Zepp Fukuoka)"
-  },
-  {
-   "id": "zepp-159271",
-   "title": "ナナコロビヤオキ 東名阪Zepp Tour -天下一舞闘会- 桶狭間の戦い",
-   "pref": "27",
-   "area": "大阪市此花区",
-   "venue": "Zepp Osaka Bayside",
-   "cat": "ライブ",
-   "start": "2026-11-28",
-   "end": "2026-11-28",
-   "url": "https://www.zepp.co.jp/hall/osakabayside/schedule/single/?rid=159271",
-   "src": "https://www.zepp.co.jp/hall/osakabayside/schedule/single/?rid=159271",
-   "en": "Nanakorobiyaoki Tomeihan Zepp Tour (Zepp Osaka Bayside)"
   },
   {
    "id": "comiccity-tokyo-153",
