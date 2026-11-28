@@ -119,18 +119,20 @@ def cmd_zepp():
     ev = events(); have = {e["url"] for e in ev}
     for h, (pref, area, venue) in halls.items():
         base = f"https://www.zepp.co.jp/hall/{h}/schedule/"
-        page = curl(base)
-        for blk in page.split("schedule/single/?rid=")[1:]:
-            rid = re.match(r"(\d+)", blk)
-            t = text(blk[:3000])
-            dm = re.search(r"(20\d\d)[ ./]+(\d{1,2})\.(\d{1,2})", t)
-            if not (rid and dm): continue
-            d = datetime.date(int(dm[1]), int(dm[2]), int(dm[3]))
-            if not (TODAY <= d <= WEND) or d.weekday() < 4: continue
-            if re.search(r"中止|延期|FAN ?CLUB|ファンクラブ", t): continue
-            url = f"{base}single/?rid={rid.group(1)}"
-            if url in have: continue
-            print(json.dumps({"date": str(d), "pref": pref, "area": area, "venue": venue, "url": url, "text": t[:160]}, ensure_ascii=False))
+        pages = [base] + ([f"{base}?_y={WEND.year}&_m={WEND.month}"] if WEND.month != TODAY.month else [])
+        for page in map(curl, pages):
+            # 1公演＝ <a href=…single/?rid=N> 日付 曜日 出演・公演名 … READ MORE（次の公演の <a> まで）
+            ms = list(re.finditer(r"schedule/single/\?rid=(\d+)", page))
+            for i, m in enumerate(ms):
+                t = text(page[m.end(): ms[i+1].start() if i+1 < len(ms) else m.end()+3000])
+                dm = re.search(r"(20\d\d)\s*(\d{1,2})\.(\d{1,2})\s*(?:SUN|MON|TUE|WED|THU|FRI|SAT)", t)
+                if not dm: continue
+                d = datetime.date(int(dm[1]), int(dm[2]), int(dm[3]))
+                if not (TODAY <= d <= WEND) or d.weekday() < 4: continue
+                if re.search(r"中止|延期|FAN ?CLUB|ファンクラブ", t): continue
+                url = f"{base}single/?rid={m[1]}"
+                if url in have: continue
+                print(json.dumps({"date": str(d), "pref": pref, "area": area, "venue": venue, "url": url, "text": t[dm.end():dm.end()+160]}, ensure_ascii=False))
 
 KW = r"どなたでも|一般の方|一般公開|予約不要|入場無料|事前登録不要|申し込み不要|地域の|来場者|ご来場|入場制限|20\d\d年|令和\d+年|\d{1,2}月\d{1,2}日|\d{1,2}/\d{1,2}"
 
